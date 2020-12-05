@@ -4,9 +4,6 @@
 		"plus" : "atk",
 		"minus" : "spa"
 	},
-	"bashful" : {
-		"name" : "Bashful"
-	},
 	"bold" : {
 		"name" : "Bold",
 		"plus" : "def",
@@ -27,16 +24,10 @@
 		"plus" : "spd",
 		"minus" : "spa"
 	},
-	"docile" : {
-		"name" : "Docile"
-	},
 	"gentle" : {
 		"name" : "Gentle",
 		"plus" : "spd",
 		"minus" : "def"
-	},
-	"hardy" : {
-		"name" : "Hardy"
 	},
 	"hasty" : {
 		"name" : "Hasty",
@@ -87,9 +78,6 @@
 		"name" : "Quiet",
 		"plus" : "spa",
 		"minus" : "spe"
-	},
-	"quirky" : {
-		"name" : "Quirky"
 	},
 	"rash" : {
 		"name" : "Rash",

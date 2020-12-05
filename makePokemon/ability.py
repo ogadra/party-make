@@ -1,0 +1,1 @@
+# abilities can be confirm in pokedex.json

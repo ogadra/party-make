@@ -1,105 +1,105 @@
 {
 	"adamant" : {
 		"name" : "Adamant",
-		"plus" : "atk",
-		"minus" : "spa"
+		"plus" : "Atk",
+		"minus" : "SpA"
 	},
 	"bold" : {
 		"name" : "Bold",
-		"plus" : "def",
-		"minus" : "atk"
+		"plus" : "Def",
+		"minus" : "Atk"
 	},
 	"brave" : {
 		"name" : "Brave",
-		"plus" : "atk",
-		"minus" : "spe"
+		"plus" : "Atk",
+		"minus" : "Spe"
 	},
 	"calm" : {
 		"name" : "Calm",
-		"plus" : "spd",
-		"minus" : "atk"
+		"plus" : "SpD",
+		"minus" : "Atk"
 	},
 	"careful" : {
 		"name" : "Careful",
-		"plus" : "spd",
-		"minus" : "spa"
+		"plus" : "SpD",
+		"minus" : "SpA"
 	},
 	"gentle" : {
 		"name" : "Gentle",
-		"plus" : "spd",
-		"minus" : "def"
+		"plus" : "SpD",
+		"minus" : "Def"
 	},
 	"hasty" : {
 		"name" : "Hasty",
-		"plus" : "spe",
-		"minus" : "def"
+		"plus" : "Spe",
+		"minus" : "Def"
 	},
 	"impish" : {
 		"name" : "Impish",
-		"plus" : "def",
-		"minus" : "spa"
+		"plus" : "Def",
+		"minus" : "SpA"
 	},
 	"jolly" : {
 		"name" : "Jolly",
-		"plus" : "spe",
-		"minus" : "spa"
+		"plus" : "Spe",
+		"minus" : "SpA"
 	},
 	"lax" : {
 		"name" : "Lax",
-		"plus" : "def",
-		"minus" : "spd"
+		"plus" : "Def",
+		"minus" : "SpD"
 	},
 	"lonely" : {
 		"name" : "Lonely",
-		"plus" : "atk",
-		"minus" : "def"
+		"plus" : "Atk",
+		"minus" : "Def"
 	},
 	"mild" : {
 		"name" : "Mild",
-		"plus" : "spa",
-		"minus" : "def"
+		"plus" : "SpA",
+		"minus" : "Def"
 	},
 	"modest" : {
 		"name" : "Modest",
-		"plus" : "spa",
-		"minus" : "atk"
+		"plus" : "SpA",
+		"minus" : "Atk"
 	},
 	"naive" : {
 		"name" : "Naive",
-		"plus" : "spe",
-		"minus" : "spd"
+		"plus" : "Spe",
+		"minus" : "SpD"
 	},
 	"naughty" : {
 		"name" : "Naughty",
-		"plus" : "atk",
-		"minus" : "spd"
+		"plus" : "Atk",
+		"minus" : "SpD"
 	},
 	"quiet" : {
 		"name" : "Quiet",
-		"plus" : "spa",
-		"minus" : "spe"
+		"plus" : "SpA",
+		"minus" : "Spe"
 	},
 	"rash" : {
 		"name" : "Rash",
-		"plus" : "spa",
-		"minus" : "spd"
+		"plus" : "SpA",
+		"minus" : "SpD"
 	},
 	"relaxed" : {
 		"name" : "Relaxed",
-		"plus" : "def",
-		"minus" : "spe"
+		"plus" : "Def",
+		"minus" : "Spe"
 	},
 	"sassy" : {
 		"name" : "Sassy",
-		"plus" : "spd",
-		"minus" : "spe"
+		"plus" : "SpD",
+		"minus" : "Spe"
 	},
 	"serious" : {
 		"name" : "Serious"
 	},
 	"timid" : {
 		"name" : "Timid",
-		"plus" : "spe",
-		"minus" : "atk"
+		"plus" : "Spe",
+		"minus" : "Atk"
 	}
 }

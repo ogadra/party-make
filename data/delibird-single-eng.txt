@@ -185,3 +185,4 @@ darumakagalar
 shellos
 meltan
 cosmog
+igglybuff

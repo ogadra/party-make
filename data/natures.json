@@ -95,7 +95,9 @@
 		"minus" : "Spe"
 	},
 	"serious" : {
-		"name" : "Serious"
+		"name" : "Serious",
+		"plus" : "None",
+		"minus" : "None"
 	},
 	"timid" : {
 		"name" : "Timid",

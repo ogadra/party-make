@@ -59,37 +59,34 @@ def generate():
     if nature['minus'] == 'Atk' or nature['minus'] == 'Spe':
         pokemon['IVs'][nature['minus']] = 0 if random.randrange(3) else 31
     
-    if pChoice(0.9):
+    if pChoice(0.7):
         # 3points
-        if pChoice(0.8):
-            if nature['plus'] == 'Spe':
-                pokemon['EVs']['Spe'] = 252
-                tmp = random.choices(stasList, weights=[10, 92, 3, 92, 3, 0])[0]
-                pokemon['EVs'][tmp] = 252
-                if pokemon['EVs']['HP'] == 0:
-                    pokemon['EVs']['HP'] = 4
-                else:
-                    pokemon['EVs']['SpD'] = 4
-
-            elif nature['plus'] == 'Atk' or nature['plus'] == 'SpA':
-                pokemon['EVs'][nature['plus']] = 252
-                tmp = random.choices(stasList, weights=[49, 0, 1, 0, 1, 49])[0]
-                pokemon['EVs'][tmp] = 252
-
-                if pokemon['EVs']['Spe'] == 0:
-                    pokemon['EVs']['Spe'] = 4
-                else:
-                    pokemon['EVs']['HP'] = 4
+        if nature['plus'] == 'Spe':
+            pokemon['EVs']['Spe'] = 252
+            tmp = random.choices(stasList, weights=[10, 92, 3, 92, 3, 0])[0]
+            pokemon['EVs'][tmp] = 252
+            if pokemon['EVs']['HP'] == 0:
+                pokemon['EVs']['HP'] = 4
             else:
-                points = choicePoint(nature, 3)
-                for i in points[:2]:
-                    pokemon['EVs'][i] = 252
-                pokemon['EVs'][points[-1]] = 4
+                pokemon['EVs']['SpD'] = 4
 
+        elif nature['plus'] == 'Atk' or nature['plus'] == 'SpA':
+            pokemon['EVs'][nature['plus']] = 252
+            tmp = random.choices(stasList, weights=[49, 0, 1, 0, 1, 49])[0]
+            pokemon['EVs'][tmp] = 252
+            if pokemon['EVs']['Spe'] == 0:
+                pokemon['EVs']['Spe'] = 4
+            else:
+                pokemon['EVs']['HP'] = 4
         else:
-            pokmeon = EVcalc(pokemon, nature, 3)
+            points = choicePoint(nature, 3)
+            for i in points[:2]:
+                pokemon['EVs'][i] = 252
+            pokemon['EVs'][points[-1]] = 4
+
     else:
-        pokemon = EVcalc(pokemon, nature, 5)
+        count = 3 if pChoice(0.7) else 5
+        pokemon = EVcalc(pokemon, nature, count)
 
         # 5points
         pass

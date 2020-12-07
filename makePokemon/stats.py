@@ -5,6 +5,15 @@ from copy import copy
 
 natures = json.load(open('../data/natures.json'))
 stasList = ['HP', 'Atk', 'Def', 'SpA', 'SpD', 'Spe']
+natureWeight = []
+
+for key, item in natures.items():
+    if item['minus'] == 'Atk' or item['minus'] == 'SpA':
+        natureWeight.append(3)
+    elif item['minus'] == 'Spe':
+        natureWeight.append(2)
+    else:
+        natureWeight.append(1)
 
 def pChoice(epsilon):
     if epsilon > random.random():
@@ -48,7 +57,7 @@ def EVcalc(pokemon, nature, count):
 def generate():
     pokemon = {'EVs':{'HP':0, 'Atk':0, 'Def':0, 'SpA':0, 'SpD':0, 'Spe':0}, 'IVs':{'HP':31, 'Atk':31, 'Def':31, 'SpA':31, 'SpD':31, 'Spe':31}}
     
-    nature = random.choice(list(natures.keys()))
+    nature = random.choices(list(natures.keys()),weights=natureWeight)[0]
 
     # nature = 'bold'
     # nature = 'serious'
@@ -94,7 +103,6 @@ def generate():
 
 if __name__ == '__main__':
     pokemon = generate()
-
     # print(sum(generate()['EVs'].values()))
 
     # for i in range(100000):

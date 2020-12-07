@@ -3,7 +3,7 @@ import numpy as np
 import json
 from copy import copy
 
-natures = json.load(open('../data/natures.json'))
+natures = json.load(open('./data/natures.json'))
 stasList = ['HP', 'Atk', 'Def', 'SpA', 'SpD', 'Spe']
 natureWeight = []
 
@@ -72,18 +72,25 @@ def generate():
         # 3points
         if nature['plus'] == 'Spe':
             pokemon['EVs']['Spe'] = 252
-            tmp = random.choices(stasList, weights=[10, 92, 3, 92, 3, 0])[0]
+            weight = [10, 92, 3, 92, 3, 0]
+            weight[stasList.index(nature['minus'])] = 0
+
+            tmp = random.choices(stasList, weights=weight)[0]
             pokemon['EVs'][tmp] = 252
             if pokemon['EVs']['HP'] == 0:
                 pokemon['EVs']['HP'] = 4
-            else:
+            elif nature['minus'] != 'SpD':
                 pokemon['EVs']['SpD'] = 4
+            else:
+                pokemon['EVs']['Def'] = 4
 
         elif nature['plus'] == 'Atk' or nature['plus'] == 'SpA':
             pokemon['EVs'][nature['plus']] = 252
-            tmp = random.choices(stasList, weights=[49, 0, 1, 0, 1, 49])[0]
+            weight = [49, 0, 1, 0, 1, 49]
+            weight[stasList.index(nature['minus'])] = 0
+            tmp = random.choices(stasList, weights=weight)[0]
             pokemon['EVs'][tmp] = 252
-            if pokemon['EVs']['Spe'] == 0:
+            if pokemon['EVs']['Spe'] == 0 and nature['minus'] == 'Spe':
                 pokemon['EVs']['Spe'] = 4
             else:
                 pokemon['EVs']['HP'] = 4

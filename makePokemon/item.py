@@ -1,13 +1,13 @@
 import json
-import random
+from numpy import random
 
 itemlist = open('./data/delibird-item-eng.txt').read().split('\n')
 itemlist.remove('thickclub')
-# with open('./data/items.json', 'r') as f:
-#     items = json.load(f)
+with open('./data/items.json', 'r') as f:
+    items = json.load(f)
 
 def pChoice(epsilon):
-    if epsilon > random.random():
+    if epsilon > random.rand():
         return True
     else:
         return False
@@ -18,7 +18,10 @@ def selectItem(pokemon=False):
             return 'thickclub'
         else:
             pass
-    return random.choice(itemlist)
+    return items[random.choice(itemlist)]['name']
 
 if __name__ == '__main__':
-    selectItem()
+    tmp = selectItem()
+    print(tmp)
+    print(type(tmp))
+    # print(items[tmp]['name'])

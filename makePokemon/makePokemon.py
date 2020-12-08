@@ -21,21 +21,31 @@ if __name__ == "__main__":
     with open('./data/pokedex.json') as f:
         pokedex = json.load(f)
 
-    for i in range(6):
-        pokemon = dict()
-        pokemon['name'] = random.choice(pokemons)
-        pokemon['item'] = item.selectItem(pokemon['name'])
-        pokemon['ability'] = ability.selectability(pokemon['name'])
-        pokemon['stats'] = stats.generate()
-        pokemon['moves'] = move.selectMove(pokemon['name'])
 
-        print(pokedex[pokemon['name']]['name'] + ' @ ' + pokemon['item'])
-        print('Ability: ' + pokemon['ability'])
-        print('EVs: ', end='')
-        print(returnValues(pokemon['stats']['EVs']))
-        print(pokemon['stats']['name'], 'Nature')
-        print(returnValues(pokemon['stats']['IVs']))
-        for i in pokemon['moves']:
-            print('- ' + i)
+    # format = "NICKNAME|SPECIES|ITEM|ABILITY|MOVES|NATURE|EVS|GENDER|IVS|SHINY|LEVEL|HAPPINESS,POKEBALL,HIDDENPOWERTYPE"
+    for i in range(6):
+        pokemon = [''] * 9
+        pokemon[1] = random.choice(pokemons)
+
+        pokemon[2] = item.selectItem(pokemon[1])
+        pokemon[3] = ability.selectability(pokemon[1])
+        # pokemon[4] = stats.generate()
+        pokemon[4] = move.selectMove(pokemon[1])
+        pokemon[5] = stats.showdownpt()
+
+        print(*pokemon, sep='|',end='')
+        if not i == 5:
+            print(']', end='')
+        else:
+            print()
+
+        # print(pokedex[pokemon['name']]['name'] + ' @ ' + pokemon['item'])
+        # print('Ability: ' + pokemon['ability'])
+        # print('EVs: ', end='')
+        # print(returnValues(pokemon['stats']['EVs']))
+        # print(pokemon['stats']['name'], 'Nature')
+        # print(returnValues(pokemon['stats']['IVs']))
+        # for i in pokemon['moves']:
+        #     print('- ' + i)
         
-        print()
+        # print()

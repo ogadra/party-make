@@ -108,8 +108,22 @@ def generate():
         pass
     return pokemon
 
+def showdownpt():
+    stats = generate()
+    returnstr = stats['name']
+    returnstr += '|'
+    returnstr += ','.join(map(str,list((stats['EVs'].values()))))
+    returnstr += '||'
+    returnstr += ','.join(map(str,list((stats['IVs'].values()))))
+
+    return returnstr
+
+
 if __name__ == '__main__':
     pokemon = generate()
+    pokemon = showdownpt()
+
+
     # print(sum(generate()['EVs'].values()))
 
     # for i in range(100000):

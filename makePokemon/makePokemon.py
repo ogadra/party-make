@@ -23,7 +23,8 @@ if __name__ == "__main__":
 
 
     # format = "NICKNAME|SPECIES|ITEM|ABILITY|MOVES|NATURE|EVS|GENDER|IVS|SHINY|LEVEL|HAPPINESS,POKEBALL,HIDDENPOWERTYPE"
-    for i in range(6):
+    times = 1
+    for i in range(times):
         pokemon = [''] * 9
         pokemon[1] = random.choice(pokemons)
 
@@ -32,9 +33,9 @@ if __name__ == "__main__":
         # pokemon[4] = stats.generate()
         pokemon[4] = move.selectMove(pokemon[1])
         pokemon[5] = stats.showdownpt()
-
+        pokemon[7] = 50
         print(*pokemon, sep='|',end='')
-        if not i == 5:
+        if not i == times-1:
             print(']', end='')
         else:
             print()

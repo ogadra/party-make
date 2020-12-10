@@ -1,15 +1,17 @@
-from .modules import item
-from .modules import ability
-from .modules import move
-from .modules import stats
+# No.1 argv is how many pokemons and No.2 argv is which pokemon data do i use
 
+from modules import item
+from modules import ability
+from modules import move
+from modules import stats
 
 from numpy import random
 import json
 import time
+import sys
+import os
 
 def makeParties(cnt=1):
-    pokemons = open('./data/delibird-single-eng.txt').read().split('\n')
     # format = "NICKNAME|SPECIES|ITEM|ABILITY|MOVES|NATURE|EVS|GENDER|IVS|SHINY|LEVEL|HAPPINESS,POKEBALL,HIDDENPOWERTYPE"
     party = str()
 
@@ -34,33 +36,37 @@ def makeParties(cnt=1):
 
 
 if __name__ == "__main__":
-    
+    pokemons = open('./data/delibird-single-eng.txt').read().split('\n')
+    dataset = []
 
-    # format = "NICKNAME|SPECIES|ITEM|ABILITY|MOVES|NATURE|EVS|GENDER|IVS|SHINY|LEVEL|HAPPINESS,POKEBALL,HIDDENPOWERTYPE"
-    times = 1
-    for i in range(times):
+    if len(sys.argv) > 1:
+        cnt = int(sys.argv[1])
+        if len(sys.argv) > 2:
+            savedir = './pokemons/' + str(sys.argv[2]) + '/'
+    else:
+        cnt = 1
+
+
+
+    for i in range(cnt):
         pokemon = [''] * 9
-        pokemon[1] = random.choice(pokemons)
+        if len(sys.argv) <= 2:
+            pokemon[1] = random.choice(pokemons)
+        else:
+            pokemon[1] = str(sys.argv[2])
 
         pokemon[2] = item.selectItem(pokemon[1])
         pokemon[3] = ability.selectability(pokemon[1])
-        # pokemon[4] = stats.generate()
         pokemon[4] = move.selectMove(pokemon[1])
         pokemon[5] = stats.showdownpt()
         pokemon[7] = 50
-        print(*pokemon, sep='|',end='')
-        if not i == times-1:
-            print(']', end='')
-        else:
-            print()
+        # print(*pokemon, sep='|',end='')
+        dataset.append('|'.join(list(map(str,pokemon))))
+    
 
-        # print(pokedex[pokemon['name']]['name'] + ' @ ' + pokemon['item'])
-        # print('Ability: ' + pokemon['ability'])
-        # print('EVs: ', end='')
-        # print(returnValues(pokemon['stats']['EVs']))
-        # print(pokemon['stats']['name'], 'Nature')
-        # print(returnValues(pokemon['stats']['IVs']))
-        # for i in pokemon['moves']:
-        #     print('- ' + i)
-        
-        # print()
+    num = sum(os.path.isfile(os.path.join(savedir, name)) for name in os.listdir(savedir))
+    with open (savedir + str(num).zfill(4) + '.txt', 'w') as f:
+        for i in dataset:
+            f.write(i)
+            f.write('\n')
+    

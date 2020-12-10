@@ -3,8 +3,7 @@ from time import time
 import multiprocessing
 import sys, os
 sys.path += [os.path.dirname(os.path.dirname(__file__))]
-
-# from makePokemon import makePokemon
+from makePT import makePokemon
 
 pt1 = '|darumakagalar|Liechi Berry|Hustle|hammerarm,icefang,fireblast,focuspunch|Hasty|84,124,0,76,132,92||31,31,31,31,31,31||50|'
 pt2 = '|darumakagalar|Liechi Berry|Hustle|hammerarm,icefang,fireblast,focuspunch|Hasty|84,124,0,76,132,92||31,31,31,31,31,31||50|'
@@ -15,6 +14,8 @@ def battle():
 
 if __name__ == "__main__":
     # pt1s = list()
+    print(makePokemon.makeParties())
+
     # for i in range(100):
     #     pt1s.append(makePokemon.makeParties())
     # pt2s = list()
@@ -23,17 +24,17 @@ if __name__ == "__main__":
     # data = result.stdout
     # print(data)
 
-    jobs = []
-    cnt = 100
+    # jobs = []
+    # cnt = 1000
 
-    start = time()
+    # start = time()
     
-    for i in range(cnt):
-        p = multiprocessing.Process(target=battle)
-        jobs.append(p)
-        p.start()
+    # for i in range(cnt):
+    #     p = multiprocessing.Process(target=battle)
+    #     jobs.append(p)
+    #     p.start()
         
-    p.join()
-    print((time() - start)/cnt)
+    # p.join()
+    # print((time() - start)/cnt)
     # data = data.split('\n')[-2]
 # print(data)

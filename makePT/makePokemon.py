@@ -1,12 +1,8 @@
-# from makePokemon import item
-# from makePokemon import ability
-# from makePokemon import move
-# from makePokemon import stats
+from .modules import item
+from .modules import ability
+from .modules import move
+from .modules import stats
 
-import item
-import ability
-import move
-import stats
 
 from numpy import random
 import json

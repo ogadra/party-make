@@ -1,3 +1,4 @@
+from trueskill import Rating, rate_1vs1
 from time import time, sleep
 from multiprocessing import Process, Manager, Pool
 import sys
@@ -18,9 +19,9 @@ def battle(evalData, p1, p2):
     battleData = proc.stdout.split('\n')
 
     if result == '|win|Bot 1':
-        evalData[p1] += 1
+        evalData.append([p1,p2])
     else:
-        evalData[p2] += 1
+        evalData.append([p2,p1])
     
 def wrapper(args):
     return battle(*args)
@@ -30,21 +31,35 @@ if __name__ == "__main__":
 
     cnt = len(dataSet)
     manager = Manager()
-    evalData = manager.list([0]*cnt)
+    evalData = manager.list()
 
-    p = Pool(12)
-    que = [[evalData,i,i+j+1] for i in range(cnt-1) for j in range(cnt-i-1)]
+    
+    que = []
+    matchCount = 36
+
+    for i in range(cnt):
+        for j in range(matchCount//2):
+            if i + j == cnt - 1:
+                break
+            que.append([evalData, i, i+j+1])
+
+        if i < matchCount//2:
+            for j in range(matchCount//2 - i):
+                que.append([evalData, i, cnt-j-1])
 
     s = time()
-
+    p = Pool(12)
     p.map(wrapper, que)
 
-
-    print(sum(evalData) , (cnt * (cnt - 1)) // 2)
     print(time()-s)
-    print((time()-s)/(cnt*(cnt-1)//2))
+    print((time()-s)/600)
 
-    result = [str(i)+ ' ' +poke for i,poke in sorted(zip(evalData, dataSet), reverse=True)]
+    players = [Rating()] * cnt
+    for i in evalData:
+        players[i[0]], players[i[1]] = rate_1vs1(players[i[0]], players[i[1]])
+    
+    mulist = [mu.mu for mu in players]
+    result = [str(i)+ ' ' +poke for i,poke in sorted(zip(mulist, dataSet), reverse=True)]
 
     savedir = './pokemons/abra/'
     num = sum(os.path.isfile(os.path.join(savedir, name)) for name in os.listdir(savedir))

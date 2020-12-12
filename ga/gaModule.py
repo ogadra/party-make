@@ -37,7 +37,7 @@ def heredityMove(dna1, dna2, species):
         childMoves.append(selectmove)
         ignore = moves.index(selectmove)
         # print(weight)
-    if pChoice(0.7):
+    if pChoice(0.5):
         childMoves.append(randomChoice(moves, weight, ignore))
     else:
         randomMove = move.selectMove(species).split(',')
@@ -58,7 +58,7 @@ def cross(parent1, parent2):
 
     child[2] = i if (i:=heredity(dna1, dna2, 2, 0.5)) else item.selectItem(species)
     child[3] = i if (i:=heredity(dna1, dna2, 3, 0.9)) else ability.selectability(species)
-    if pChoice(0.9):
+    if pChoice(0.7):
         if random.randrange(2):
             child[5:9] = dna1[5:9]
         else:

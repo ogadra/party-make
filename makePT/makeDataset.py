@@ -66,7 +66,5 @@ if __name__ == "__main__":
 
     num = sum(os.path.isfile(os.path.join(savedir, name)) for name in os.listdir(savedir))
     with open (savedir + str(num).zfill(4) + '.txt', 'w') as f:
-        for i in dataset:
-            f.write(i)
-            f.write('\n')
-    
+        f.write('\n'.join(dataset))
+

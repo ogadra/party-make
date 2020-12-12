@@ -6,10 +6,6 @@ import os
 import re
 import subprocess
 
-pokemon = 'abra'
-dataSet = open('./pokemons/' + pokemon + '/0002.txt').read().split('\n')
-
-
 def battle(evalData, p1, p2):
     pt1 = dataSet[p1]
     pt2 = dataSet[p2]
@@ -27,7 +23,16 @@ def wrapper(args):
     return battle(*args)
 
 
-if __name__ == "__main__":
+def evalBattle(pokemon):
+    savedir = './pokemons/' + pokemon + '/' 
+    global dataSet
+    num = sum(os.path.isfile(os.path.join(savedir, name)) for name in os.listdir(savedir))
+
+    readfile = savedir + str(num-1).zfill(4) + '.txt'
+    with open(readfile, 'r') as f:
+        dataSet = f.read().split('\n')
+
+
 
     cnt = len(dataSet)
     manager = Manager()
@@ -62,9 +67,9 @@ if __name__ == "__main__":
     mulist = [mu.mu for mu in players]
     result = [str(i)+ ' ' +poke for i,poke in sorted(zip(mulist, dataSet), reverse=True)]
 
-    savedir = './pokemons/abra/'
-    num = sum(os.path.isfile(os.path.join(savedir, name)) for name in os.listdir(savedir))
-    with open (savedir + str(num).zfill(4) + '.txt', 'w') as f:
+    writefile = savedir + str(num).zfill(4) + '.txt'
+
+    with open (writefile, 'w') as f:
         f.write('\n'.join(result))
         
     

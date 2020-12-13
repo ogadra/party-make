@@ -10,7 +10,7 @@ JS.require('JS.Class');
  */
 
 
-var _battlestream = require('../battle-stream');
+// var _battlestream = require('../battle-stream');
 var _prng = require('../prng');
 
 
@@ -50,7 +50,9 @@ weatherMoves.set('Hail', ['Hail', 'Z-Hail', 'Max Hailstorm']);
 
 
 var BattleRoom = new JS.Class ({
-    initialize: function(id, sendfunc, formatId, team) {
+    initialize: function(id, sendfunc, formatId, team, playerStream) {
+        this.stream = playerStream;
+
         this.id = id;
         this.title = "Untitled";
         this.send = sendfunc;
@@ -712,6 +714,7 @@ var BattleRoom = new JS.Class ({
 
     },
     recieve: function(data) {
+        return data;
         try {
             if (!data) return;
 

@@ -40,7 +40,7 @@ const p2spec = {
 
 // setting battle role and team
 const formatId = 'base';
-const team = null;
+
 
 function send(msg, room) {
 	const contents = room === undefined ? msg : msg + '@' + room;
@@ -61,18 +61,21 @@ logger.info("Room handler starts!");
 global.program = require('commander');
 
 const BattleRoom = require('../tools/random-player-ai');
-const p1 = new BattleRoom(1, send, formatId, team);
-const p2 = new BattleRoom(2, send, formatId, team);
+const p1 = new BattleRoom(1, send, formatId, p1spec.team, streams.p1);
+const p2 = new BattleRoom(2, send, formatId, p2spec.team, streams.p2);
 
 console.log("p1 is " + p1.constructor.name);
 console.log("p2 is " + p2.constructor.name);
-
+// console.log(p1);
 // void p1.start();
 // void p2.start();
+console.log();
 
 void (async () => {
 	for await (const chunk of streams.omniscient) {
 		console.log(chunk);
+		let log = p1.recieve(chunk);
+		console.log(log);
 	}
 })();
 

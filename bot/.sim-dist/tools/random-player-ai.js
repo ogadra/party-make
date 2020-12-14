@@ -132,8 +132,9 @@ var BattleRoom = new JS.Class ({
         this.state.reportPercentages = true;
 
         this.previousState = null; // For TD Learning
-
-        this.state.start();
+        console.log(135);
+        this.state.start(1,this.teamPreviewRequest);
+        console.log(137);
         this.afterBattleStarted.forEach(callback => {
             callback();
         });
@@ -730,7 +731,7 @@ var BattleRoom = new JS.Class ({
             }else if (data.substr(0, 6) === '|init|') {
                 return this.init(data);
             }else if (data.substr(0, 9) === '|request|') {
-                return this.receiveRequest(JSON.parse(data.substr(9) || "null" ));
+                return this.receiveRequest(JSON.parse(data.substr(9)));
             }else if (data.substr(0, 4) === '|t:|'){
                 this.choose('default');  
             }else{
@@ -738,7 +739,6 @@ var BattleRoom = new JS.Class ({
             }
 
             var log = data.split('\n');
-            console.log('log',log);
             const teamPreviewPokes = [];
             const pokesUsedMoves = new Map();
             for (var i = 0; i < log.length; i++) {
@@ -771,7 +771,7 @@ var BattleRoom = new JS.Class ({
                         // Leave in two seconds
                         var battleroom = this;
                         setTimeout(function() {
-                            battleroom.send("/leave " + battleroom.id);
+                            // battleroom.send("/leave " + battleroom.id);
                         }, 2000);
     
                     } else if (tokens[1] === 'poke') {
@@ -858,6 +858,10 @@ var BattleRoom = new JS.Class ({
     
                     } else if(tokens[1] === 'leave') {
     
+                    } else if(tokens[1] === 'request') {
+                        ;
+                        // console.log('tste');
+                        // return this.receiveRequest(JSON.parse(data.substr(9) || "null" ));
                     } else if(tokens[1]) { //what if token is defined
                         logger.info("Error: could not parse token '" + tokens[1] + "'. This needs to be implemented");
                     }
@@ -866,7 +870,7 @@ var BattleRoom = new JS.Class ({
         } catch (error) {
             logger.error(error.stack);
             logger.error("Something happened in BattleRoom. We will leave the game.");
-            // this.send("/forfeit", this.id);
+            // this.("/forfeit", this.id);
         }
     },
     saveResult: function() {
@@ -891,8 +895,10 @@ var BattleRoom = new JS.Class ({
             return;
         }
 
+        
         if (request.teamPreview === true) {
-            this.teamPreviewRequest = request;
+
+            this.teamPreviewRequest = request.side.pokemon;
             // team pokemon choice will be done with following messages
         } else {
             // on starting a battle, the first request is arrived former than |start| message

@@ -260,6 +260,7 @@ class PcmBattle extends Battle {
 
 	// for changing dependency on Side and not calling this.start()
 	setPlayer(slot, options) {
+
 		let side;
 		let didSomething = true;
 		const slotNum = parseInt(slot[1]) - 1;
@@ -289,9 +290,8 @@ class PcmBattle extends Battle {
 		if (!didSomething) return;
 		this.inputLog.push(`>player ${slot} ` + JSON.stringify(options));
 		this.add('player', side.id, side.name, side.avatar, options.rating || '');
-		
 		// Start the battle if it's ready to start
-		// if (this.sides.every(playerSide => !!playerSide) && !this.started) this.start();
+		if (this.sides.every(playerSide = !!playerSide) && !this.started) this.start();
 	}
  
   go() {

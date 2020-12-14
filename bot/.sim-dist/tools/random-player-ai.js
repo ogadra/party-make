@@ -50,12 +50,11 @@ weatherMoves.set('Hail', ['Hail', 'Z-Hail', 'Max Hailstorm']);
 
 
 var BattleRoom = new JS.Class ({
-    initialize: function(id, sendfunc, formatId, team, playerStream) {
+    initialize: function(id, playerName, formatId, team, playerStream) {
         this.stream = playerStream;
-
+        this.name = playerName;
         this.id = id;
         this.title = "Untitled";
-        this.send = sendfunc;
         this.formatId = formatId;
         this.team = team;
 
@@ -75,6 +74,14 @@ var BattleRoom = new JS.Class ({
 
         this.p1DynamaxUsed = false;
         this.p2DynamaxUsed = false;
+        this.start = async function() {
+            for await (const chunk of this.stream){
+                this.receive(chunk);
+            }
+            
+        }
+
+
     },
     init: function(data) {
         var log = data.split('\n');
@@ -86,12 +93,11 @@ var BattleRoom = new JS.Class ({
             log.shift();
             logger.info("Title for " + this.id + " is " + this.title);
         }
-	},
-	
-
-	// receiveRequest(request) {
-	// 	console.log(request);
-	// },
+    },
+    
+    choose: function(choice) {
+        void this.stream.write(choice);
+    },
 
     startBattle: function() {
         // Default team is automatically filled by 6 Bulbasaur
@@ -713,33 +719,38 @@ var BattleRoom = new JS.Class ({
         this.updatePokemon(battleside, pokemon);
 
     },
-    recieve: function(data) {
-        return data;
+    receive: function(data) {
+        // this.send(data);
         try {
             if (!data) return;
 
             logger.trace("<< " + data);
-    
-            if (data.substr(0, 6) === '|init|') {
+            if (data.substr(0,7) === '|error|'){
+                console.log(data);
+            }else if (data.substr(0, 6) === '|init|') {
                 return this.init(data);
-            }
-            if (data.substr(0, 9) === '|request|') {
+            }else if (data.substr(0, 9) === '|request|') {
                 return this.receiveRequest(JSON.parse(data.substr(9) || "null" ));
+            }else if (data.substr(0, 4) === '|t:|'){
+                this.choose('default');  
+            }else{
+                ;
             }
-    
+
             var log = data.split('\n');
+            console.log('log',log);
             const teamPreviewPokes = [];
             const pokesUsedMoves = new Map();
             for (var i = 0; i < log.length; i++) {
                 this.log += log[i] + "\n";
-    
+                
                 var tokens = log[i].split('|');
                 if (tokens.length > 1) {
     
                     if (tokens[1] === 'tier') {
                         this.tier = tokens[2];
                     } else if (tokens[1] === 'win') {
-                        this.send("gg", this.id);
+                        // this.send("gg", this.id);
     
                         this.winner = tokens[2];
                         if (this.winner == global.account.username) {
@@ -855,7 +866,7 @@ var BattleRoom = new JS.Class ({
         } catch (error) {
             logger.error(error.stack);
             logger.error("Something happened in BattleRoom. We will leave the game.");
-            this.send("/forfeit", this.id);
+            // this.send("/forfeit", this.id);
         }
     },
     saveResult: function() {
@@ -1054,3 +1065,5 @@ function range(start, end, step = 1) {
 const { Minimax } = require("./bots/minimaxbot");
 var greedybot = require("./bots/greedybot");
 var randombot = require("./bots/randombot");
+const { send } = require('process');const { SSL_OP_SSLEAY_080_CLIENT_DH_BUG } = require('constants');
+

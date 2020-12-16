@@ -115,12 +115,17 @@ var BattleRoom = new JS.Class ({
             team2.push(bulbasaur2);
         }
 
-        if (this.team && this.teamPreviewSelection) {
+        // if (this.team && this.teamPreviewSelection) {
+        if (this.team){
             team1 = [];
             const pokemonSets = this.dexForFormat.fastUnpackTeam(this.team);
+            console.log(pokemonSets);
             this.teamPreviewSelection.forEach(pokeIndex => {
                 team1.push(pokemonSets[pokeIndex - 1]);
             })
+            console.log(126,this.teamPreviewSelection);
+            console.log(127, team2);
+            // improve 
         }
 
         const p1 = { name: 'botPlayer', avatar: 1, team: team1 };
@@ -129,10 +134,12 @@ var BattleRoom = new JS.Class ({
         // Construct a battle object that we will modify as our state
         const battleOptions = { format: this.customGameFormat, rated: false, send: null, p1, p2 };
         this.state = new PcmBattle(battleOptions);
+        console.log(132);
         this.state.reportPercentages = true;
-
+        console.log(133);
         this.previousState = null; // For TD Learning
         console.log(135);
+        console.log(this.teamPreviewRequest);
         this.state.start(1,this.teamPreviewRequest);
         console.log(137);
         this.afterBattleStarted.forEach(callback => {

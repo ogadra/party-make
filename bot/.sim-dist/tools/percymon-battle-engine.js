@@ -287,10 +287,12 @@ class PcmBattle extends Battle {
 		if (options.team && typeof options.team !== 'string') {
 			options.team = this.dex.packTeam(options.team);
 		}
+		
 		if (!didSomething) return;
 		this.inputLog.push(`>player ${slot} ` + JSON.stringify(options));
 		this.add('player', side.id, side.name, side.avatar, options.rating || '');
 		// Start the battle if it's ready to start
+		console.log();
 		if (this.sides.every(playerSide = !!playerSide) && !this.started) this.start();
 	}
  

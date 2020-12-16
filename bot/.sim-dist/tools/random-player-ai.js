@@ -119,12 +119,12 @@ var BattleRoom = new JS.Class ({
         if (this.team){
             team1 = [];
             const pokemonSets = this.dexForFormat.fastUnpackTeam(this.team);
-            console.log(pokemonSets);
-            this.teamPreviewSelection.forEach(pokeIndex => {
-                team1.push(pokemonSets[pokeIndex - 1]);
+            pokemonSets.forEach(pokeI => {
+                team1poke = this.dexForFormat.getSpecies(pokeI.species);
+                team1poke.moves = pokeI.moves;
+                team1poke.level = pokeI.level;
+                team1.push(team1poke);
             })
-            console.log(126,this.teamPreviewSelection);
-            console.log(127, team2);
             // improve 
         }
 

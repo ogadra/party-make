@@ -292,8 +292,7 @@ class PcmBattle extends Battle {
 		this.inputLog.push(`>player ${slot} ` + JSON.stringify(options));
 		this.add('player', side.id, side.name, side.avatar, options.rating || '');
 		// Start the battle if it's ready to start
-		console.log();
-		if (this.sides.every(playerSide = !!playerSide) && !this.started) this.start();
+		// this.start();
 	}
  
   go() {

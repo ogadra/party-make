@@ -57,6 +57,8 @@ var BattleRoom = new JS.Class ({
         this.title = "Untitled";
         this.formatId = formatId;
         this.team = team;
+        // this.algorithm = "minimax";
+        program.algorithm = "minimax";
 
         this.decisions = [];
         this.teamPreviewRequest = {}; // my team information
@@ -134,14 +136,9 @@ var BattleRoom = new JS.Class ({
         // Construct a battle object that we will modify as our state
         const battleOptions = { format: this.customGameFormat, rated: false, send: null, p1, p2 };
         this.state = new PcmBattle(battleOptions);
-        console.log(132);
         this.state.reportPercentages = true;
-        console.log(133);
         this.previousState = null; // For TD Learning
-        console.log(135);
-        console.log(this.teamPreviewRequest);
         this.state.start(1,this.teamPreviewRequest);
-        console.log(137);
         this.afterBattleStarted.forEach(callback => {
             callback();
         });
@@ -1051,10 +1048,11 @@ var BattleRoom = new JS.Class ({
             else if(program.algorithm === "minimax") {
                 const minimax = new Minimax(true, 1); 
                 result = minimax.decide(Util.cloneBattle(room.state), decision.choices, program.depth);
+                console.log(result);
             } 
             else if(program.algorithm === "greedy") result = greedybot.decide(Util.cloneBattle(room.state), decision.choices);
             else if(program.algorithm === "random") result = randombot.decide(Util.cloneBattle(room.state), decision.choices);
-
+            console.log(program.algorithm);
             room.decisions.push(result);
 			room.send("/choose " + Util.toChoiceString(result, room.state.p1) + "|" + decision.rqid, room.id);
 			logger.log(result);

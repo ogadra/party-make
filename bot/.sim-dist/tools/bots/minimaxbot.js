@@ -302,7 +302,8 @@ class Minimax {
             logger.info("Predicted opponent action: " + this.overallMinNode.action.type + " " + this.overallMinNode.action.id);
         this.lastMove = maxNode.action.id;
         var endTime = new Date();
-        logger.info("Decision took: " + (endTime - startTime) / 1000 + " seconds");
+        
+
         return {
             ...maxNode.action,
             tree: maxNode

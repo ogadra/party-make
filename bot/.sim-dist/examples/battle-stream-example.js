@@ -57,7 +57,6 @@ function send(msg, room) {
 		process.send(contents);
 	} else {
 		process.emit('fromRoomHandler', contents);
-		console.log('test');
 	}
 } // Probably won't work unless i change it.
 
@@ -196,9 +195,7 @@ const BattleRoom = require('../tools/random-player-ai');
 const p1 = new BattleRoom(1, 'p1', formatId, p1spec.team, streams.p1);
 const p2 = new BattleRoom(2, 'p2', formatId, p2spec.team, streams.p2);
 
-console.log("p1 is " + p1.name);
-console.log("p2 is " + p2.name);
-// console.log(p1);
+
 void p1.start();
 void p2.start();
 console.log();

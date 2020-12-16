@@ -82,6 +82,15 @@ var BattleRoom = new JS.Class ({
             }
             
         }
+        this.pokemoves = {};
+        let tmp = this.team.split(']');
+        for (let i=0;i < tmp.length; i++){
+            if (tmp[i].split('|')[1]){
+                this.pokemoves[String(tmp[i].split('|')[1])] = tmp[i].split('|')[4].split(',');
+            }else{
+                this.pokemoves[String(tmp[i].split('|')[0])] = tmp[i].split('|')[4].split(',');
+            }
+        }
 
 
     },
@@ -95,6 +104,7 @@ var BattleRoom = new JS.Class ({
             log.shift();
             logger.info("Title for " + this.id + " is " + this.title);
         }
+
     },
     
     choose: function(choice) {
@@ -737,7 +747,8 @@ var BattleRoom = new JS.Class ({
             }else if (data.substr(0, 9) === '|request|') {
                 return this.receiveRequest(JSON.parse(data.substr(9)));
             }else if (data.substr(0, 4) === '|t:|'){
-                this.choose('default');  
+                // this.choose('default');
+                ;
             }else{
                 ;
             }
@@ -762,7 +773,7 @@ var BattleRoom = new JS.Class ({
                         } else {
                             logger.info(this.title + ": I lost this game");
                         }
-    
+
                         if(program.net === "update" && this.previousState) {
                             var playerAlive = _.any(this.state.p1.pokemon, function(pokemon) { return pokemon.hp > 0; });
                             var opponentAlive = _.any(this.state.p2.pokemon, function(pokemon) { return pokemon.hp > 0; });
@@ -788,8 +799,9 @@ var BattleRoom = new JS.Class ({
                         };
                         teamPreviewPokes.push(poke);
                     } else if (tokens[1] ==='teampreview') {
-                        const maxTeamSize = tokens[2];
-                        this.teamPreviewSelection = this.chooseTeamPokes(teamPreviewPokes, maxTeamSize);
+                        // const maxTeamSize = tokens[2];
+                        // this.teamPreviewSelection = this.chooseTeamPokes(teamPreviewPokes, maxTeamSize);
+                        this.choose('default');
                     } else if (tokens[1] ==='start') {
                         this.startBattle();
                     } else if (tokens[1] === 'switch' || tokens[1] === 'drag') {
@@ -916,7 +928,10 @@ var BattleRoom = new JS.Class ({
             if (request.active) logger.info(this.title + ": I need to make a move.");
             if (request.forceSwitch) logger.info(this.title + ": I need to make a switch.");
     
-            if (request.active || request.forceSwitch) this.makeMove(request);
+            if (request.active || request.forceSwitch) {
+
+                this.makeMove(request);
+            }
         }
     },
 
@@ -1025,9 +1040,27 @@ var BattleRoom = new JS.Class ({
             teamOrderNums[r] = tmp;
         }
 
-        this.send("/team " + teamOrderNums.join('') + '|' + this.teamPreviewRequest.rqid, this.id);
+        console.log(teamOrderNums);
+        this.choose("/team " + teamOrderNums.join('') + '|' + this.teamPreviewRequest.rqid, this.id);
         return teamOrderNums.slice(0, maxTeamSize);
     },
+
+    choiceNum: function(name, choice, moves, poke){
+        if (choice.type == "move") {
+			let movenum = String(moves[poke].indexOf(choice.id) + 1);
+            if (choice.runMegaEvo)
+					return "move " + movenum + " mega";
+			else if (choice.useZMove)
+					return "move " + movenum + " zmove";
+			else if (choice.runDynamax)
+					return  "move " + movenum + " dynamax";                    
+			else
+					return "move " + movenum;
+	    } else if (choice.type == " switch") {
+			return "switch " + (choice.id + 1);
+	    }
+    },
+
     makeMove: function(request) {
         var room = this;
 
@@ -1044,18 +1077,25 @@ var BattleRoom = new JS.Class ({
            
             // Use specified algorithm to determine resulting choice
             var result = undefined;
+
+            // console.log(1059,room.pokemoves, room.state.sides[0].active[0].species.name);
+
             if(decision.choices.length == 1) result = decision.choices[0];
             else if(program.algorithm === "minimax") {
-                const minimax = new Minimax(true, 1); 
+                const minimax = new Minimax(true, 1);
                 result = minimax.decide(Util.cloneBattle(room.state), decision.choices, program.depth);
-                console.log(result);
+                // console.log(result);
             } 
             else if(program.algorithm === "greedy") result = greedybot.decide(Util.cloneBattle(room.state), decision.choices);
             else if(program.algorithm === "random") result = randombot.decide(Util.cloneBattle(room.state), decision.choices);
-            console.log(program.algorithm);
-            room.decisions.push(result);
-			room.send("/choose " + Util.toChoiceString(result, room.state.p1) + "|" + decision.rqid, room.id);
-			logger.log(result);
+            // room.decisions.push(result);
+            // console.log(Util.toChoiceString(result, room.state));
+            // console.log(decision);
+            // room.choose("/choose " + Util.toChoiceString(result, room.state.p1) + "|" + decision.rqid, room.id);           
+            // room.choose("choice " + Util.toChoiceString(result, room.state.p1, this.pokemoves,room.state.sides[0].active[0].species.name));
+
+            room.choose(room.choiceNum(room.name ,result, room.pokemoves, room.state.sides[0].active[0].species.name));
+			// logger.log(result);
         }, 5000);
     }
 });
@@ -1076,5 +1116,5 @@ function range(start, end, step = 1) {
 const { Minimax } = require("./bots/minimaxbot");
 var greedybot = require("./bots/greedybot");
 var randombot = require("./bots/randombot");
-const { send } = require('process');const { SSL_OP_SSLEAY_080_CLIENT_DH_BUG } = require('constants');
+const { send } = require('process');const { SSL_OP_SSLEAY_080_CLIENT_DH_BUG, O_CREAT } = require('constants');
 

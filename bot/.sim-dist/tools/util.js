@@ -52,18 +52,18 @@ module.exports.cloneBattle = function(battle, copyPRNG = true) {
 	return newbattle;
 }
 
-module.exports.toChoiceString = function(choice) {
+module.exports.toChoiceString = function(choice, moves, poke) {
 	if (choice.type == "move") {
-			if (choice.runMegaEvo)
-					return "move " + choice.id + " mega";
-			else if (choice.useZMove)
-					return "move " + choice.id + " zmove";
-			else if (choice.runDynamax)
-					return "move " + choice.id + " dynamax";                    
-			else
-					return "move " + choice.id;
+		if (choice.runMegaEvo)
+				return "move " + choice.id + " mega";
+		else if (choice.useZMove)
+				return "move " + choice.id + " zmove";
+		else if (choice.runDynamax)
+				return "move " + choice.id + " dynamax";                    
+		else
+				return "move " + choice.id;
 	} else if (choice.type == "switch") {
-			return "switch " + (choice.id + 1);
+				return "switch " + (choice.id + 1);
 	}
 }
 

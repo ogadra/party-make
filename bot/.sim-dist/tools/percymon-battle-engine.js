@@ -27,7 +27,7 @@ var battleLogger = require('log4js').getLogger("battle");
 var clone = require("./clone");
 var _ = require("underscore");
 
-const Data = require('../dex-data');
+const Data = require('./dex-data');
 
 global.Dex = require('../dex').Dex;
 global.Config = require('../../config/config');

@@ -29,13 +29,13 @@ const spec = {
 };
 const p1spec = {
 	name: "Bot 1",
-	// team: process.argv[2],
-	team: _dex.Dex.packTeam(_dex.Dex.generateTeam('gen7randombattle')),
+	team: process.argv[2],
+	// team: _dex.Dex.packTeam(_dex.Dex.generateTeam('gen7randombattle')),
 };
 const p2spec = {
 	name: "Bot 2",
-	// team: process.argv[3],
-	team : _dex.Dex.packTeam(_dex.Dex.generateTeam('gen7randombattle')),
+	team: process.argv[3],
+	// team : _dex.Dex.packTeam(_dex.Dex.generateTeam('gen7randombattle')),
 };
 
 // setting battle role and team
@@ -192,6 +192,7 @@ module.exports.send = send;
 global.program = require('commander');
 
 const BattleRoom = require('../tools/random-player-ai');
+console.log('stream-example 195', p1spec.team);
 const p1 = new BattleRoom(1, 'p1', formatId, p1spec.team, streams.p1);
 const p2 = new BattleRoom(2, 'p2', formatId, p2spec.team, streams.p2);
 

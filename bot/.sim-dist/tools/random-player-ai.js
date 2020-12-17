@@ -88,8 +88,9 @@ var BattleRoom = new JS.Class ({
             if (tmp[i].split('|')[1]){
                 this.pokemoves[String(tmp[i].split('|')[1])] = tmp[i].split('|')[4].split(',');
             }else{
-                this.pokemoves[String(tmp[i].split('|')[0])] = tmp[i].split('|')[4].split(',');
+                this.pokemoves[String(tmp[i].split('|')[0]).toLowerCase()] = tmp[i].split('|')[4].split(',');
             }
+
         }
 
 
@@ -102,7 +103,7 @@ var BattleRoom = new JS.Class ({
         if (log.length && log[0].substr(0, 7) === '|title|') {
             this.title = log[0].substr(7);
             log.shift();
-            logger.info("Title for " + this.id + " is " + this.title);
+            // loggeinfo("Title for " + this.id + " is " + this.title);
         }
 
     },
@@ -137,6 +138,9 @@ var BattleRoom = new JS.Class ({
                 team1poke.level = pokeI.level;
                 team1.push(team1poke);
             })
+
+
+            
             // improve 
         }
 
@@ -171,7 +175,7 @@ var BattleRoom = new JS.Class ({
                 return;
             }
         }
-        logger.info("Could not find " + pokemon.name + " in the battle side, creating new Pokemon.");
+        // // loggeinfo("Could not find " + pokemon.name + " in the battle side, creating new Pokemon.");
         for(var i = battleside.pokemon.length - 1; i >= 0; i--) {
             if(battleside.pokemon[i].name === "Bulbasaur") {
                 battleside.pokemon[i] = pokemon;
@@ -199,13 +203,13 @@ var BattleRoom = new JS.Class ({
         let canPlayerDynamax = true;
 
         if (this.isPlayer(player)) {
-            logger.info("Our pokemon has switched! " + tokens[2]);
+            // // loggeinfo("Our pokemon has switched! " + tokens[2]);
             battleside = this.state.p1;
             //remove boosts for current pokemon
             this.state.p1.active[0].clearVolatile();
             canPlayerDynamax = !this.p1DynamaxUsed;
         } else {
-            logger.info("Opponents pokemon has switched! " + tokens[2]);
+            // // loggeinfo("Opponents pokemon has switched! " + tokens[2]);
             battleside = this.state.p2;
             //remove boosts for current pokemon
             this.state.p2.active[0].clearVolatile();
@@ -263,7 +267,7 @@ var BattleRoom = new JS.Class ({
 
         var pokemon = this.getPokemon(battleside, pokeName);
         if(!pokemon) {
-            logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
+            // logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
             return;
         }
 
@@ -296,10 +300,10 @@ var BattleRoom = new JS.Class ({
 					used: true,
                 });
                 pokemon.trueMoves.push(moveId);
-                logger.info("Determined that " + pokeName + " can use " + moveId);
+                // logger.info("Determined that " + pokeName + " can use " + moveId);
                 //if we have collected all of the moves, eliminate all other possibilities
                 if(pokemon.trueMoves.length >= 4) {
-                    logger.info("Collected all of " + pokeName + "'s moves!");
+                    // logger.info("Collected all of " + pokeName + "'s moves!");
                     var newMoveset = [];
                     for(var i = 0; i < pokemon.moveSlots.length; i++) {
                         if(pokemon.trueMoves.indexOf(pokemon.moveSlots[i].id) >= 0) {
@@ -335,7 +339,7 @@ var BattleRoom = new JS.Class ({
 
         var pokemon = this.getPokemon(battleside, pokeName);
         if(!pokemon) {
-            logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
+            // logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
             return;
         }
 
@@ -361,7 +365,7 @@ var BattleRoom = new JS.Class ({
 
         var pokemon = this.getPokemon(battleside, pokeName);
         if(!pokemon) {
-            logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
+            // logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
             return;
         }
 
@@ -393,7 +397,7 @@ var BattleRoom = new JS.Class ({
 
         var pokemon = this.getPokemon(battleside, pokeName);
         if(!pokemon) {
-            logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
+            // logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
             return;
         }
 
@@ -413,7 +417,7 @@ var BattleRoom = new JS.Class ({
 
         var pokemon = this.getPokemon(battleside, pokeName);
         if(!pokemon) {
-            logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
+            // logger.error("We have never seen " + pokeName + " before in this battle. Should not have happened.");
             return;
         }
 
@@ -696,11 +700,11 @@ var BattleRoom = new JS.Class ({
         } else {
             battleside = this.state.p2;
         }
-        logger.info(pokeName + " has transformed into " + newPokeName + "!");
+        // logger.info(pokeName + " has transformed into " + newPokeName + "!");
         var pokemon = this.getPokemon(battleside, pokeName, true);
         const isMegaEvo = newPokeName.indexOf('-Mega') > 0;
         if (isMegaEvo) {
-            logger.info('This is Mega evolution!');
+            // logger.info('This is Mega evolution!');
         }
 
         //apply forme change
@@ -738,8 +742,7 @@ var BattleRoom = new JS.Class ({
         // this.send(data);
         try {
             if (!data) return;
-
-            logger.trace("<< " + data);
+            console.log(745,data);
             if (data.substr(0,7) === '|error|'){
                 console.log(data);
             }else if (data.substr(0, 6) === '|init|') {
@@ -769,9 +772,11 @@ var BattleRoom = new JS.Class ({
     
                         this.winner = tokens[2];
                         if (this.winner == global.account.username) {
-                            logger.info(this.title + ": I won this game");
+                            // logger.info(this.title + ": I won this game");
+                            ;
                         } else {
-                            logger.info(this.title + ": I lost this game");
+                            // logger.info(this.title + ": I lost this game");
+                            ;
                         }
 
                         if(program.net === "update" && this.previousState) {
@@ -787,7 +792,8 @@ var BattleRoom = new JS.Class ({
                         var battleroom = this;
                         setTimeout(function() {
                             // battleroom.send("/leave " + battleroom.id);
-                        }, 2000);
+                            ;
+                        }, 1);
     
                     } else if (tokens[1] === 'poke') {
                         // information for teampreview
@@ -874,19 +880,23 @@ var BattleRoom = new JS.Class ({
     
                     } else if(tokens[1] === 'leave') {
     
-                    } else if(tokens[1] === 'request') {
+                    }　else if(tokens[1] === '-prepare' && tokens[2].match(this.name)){
+                        console.log(884)
+                    }  else if(tokens[1] === 'request') {
                         ;
                         // console.log('tste');
                         // return this.receiveRequest(JSON.parse(data.substr(9) || "null" ));
                     } else if(tokens[1]) { //what if token is defined
-                        logger.info("Error: could not parse token '" + tokens[1] + "'. This needs to be implemented");
+                        // logger.info("Error: could not parse token '" + tokens[1] + "'. This needs to be implemented");
+                        ;
                     }
                 }
             }    
         } catch (error) {
-            logger.error(error.stack);
-            logger.error("Something happened in BattleRoom. We will leave the game.");
+            // logger.error(error.stack);
+            // logger.error("Something happened in BattleRoom. We will leave the game.");
             // this.("/forfeit", this.id);
+            // console.log(error);
         }
     },
     saveResult: function() {
@@ -901,8 +911,11 @@ var BattleRoom = new JS.Class ({
             "tier": this.tier
         };
         db.insert(game, function(err, newDoc) {
-	    if(newDoc) logger.info("Saved result of " + newDoc.title + " to database.");
-	    else logger.error("Error saving result to database.");
+	    if(newDoc){
+            ;
+        }else{
+            ;
+        } // logger.error("Error saving result to database.");
         });
     },
     receiveRequest: function(request) {
@@ -925,8 +938,12 @@ var BattleRoom = new JS.Class ({
 
             if (request.side) this.updateSide(request.side, true);
     
-            if (request.active) logger.info(this.title + ": I need to make a move.");
-            if (request.forceSwitch) logger.info(this.title + ": I need to make a switch.");
+            if (request.active){
+                ;
+            } // logger.info(this.title + ": I need to make a move.");
+            if (request.forceSwitch){
+                ;
+            } // logger.info(this.title + ": I need to make a switch.");
     
             if (request.active || request.forceSwitch) {
 
@@ -939,7 +956,7 @@ var BattleRoom = new JS.Class ({
     //is this redundant?
     updateSide: function(sideData) {
         if (!sideData || !sideData.id) return;
-        logger.info("Starting to update my side data.");
+        // loggeinfo("Starting to update my side data.");
         // only for random team
         if (!this.team) {
             for (var i = 0; i < sideData.pokemon.length; ++i) {
@@ -1026,10 +1043,10 @@ var BattleRoom = new JS.Class ({
 
         this.side = sideData.id;
         this.oppSide = (this.side === "p1") ? "p2" : "p1";
-        logger.info(this.title + ": My current side is " + this.side);
+        // loggeinfo(this.title + ": My current side is " + this.side);
     },
     chooseTeamPokes: function(pokes, maxTeamSize) {
-        logger.info("Choose team pokemons...");
+        // loggeinfo("Choose team pokemons...");
         // temporary random selection
         // in the future, use some algorithms to decide which combination is strongest to oppenents
         let teamOrderNums = [1, 2, 3, 4, 5, 6];
@@ -1045,7 +1062,9 @@ var BattleRoom = new JS.Class ({
         return teamOrderNums.slice(0, maxTeamSize);
     },
 
-    choiceNum: function(name, choice, moves, poke){
+    choiceNum: function(choice, moves=false, poke=false){
+        console.log(1064,choice.id);
+
         if (choice.type == "move") {
 			let movenum = String(moves[poke].indexOf(choice.id) + 1);
             if (choice.runMegaEvo)
@@ -1054,10 +1073,12 @@ var BattleRoom = new JS.Class ({
 					return "move " + movenum + " zmove";
 			else if (choice.runDynamax)
 					return  "move " + movenum + " dynamax";                    
-			else
+            else if (choice.id == "struggle")
+                    return "move 1"
+            else
 					return "move " + movenum;
-	    } else if (choice.type == " switch") {
-			return "switch " + (choice.id + 1);
+	    } else if (choice.type == "switch") {
+			return "switch " + String(choice.id + 1);
 	    }
     },
 
@@ -1088,15 +1109,11 @@ var BattleRoom = new JS.Class ({
             } 
             else if(program.algorithm === "greedy") result = greedybot.decide(Util.cloneBattle(room.state), decision.choices);
             else if(program.algorithm === "random") result = randombot.decide(Util.cloneBattle(room.state), decision.choices);
-            // room.decisions.push(result);
-            // console.log(Util.toChoiceString(result, room.state));
-            // console.log(decision);
-            // room.choose("/choose " + Util.toChoiceString(result, room.state.p1) + "|" + decision.rqid, room.id);           
-            // room.choose("choice " + Util.toChoiceString(result, room.state.p1, this.pokemoves,room.state.sides[0].active[0].species.name));
 
-            room.choose(room.choiceNum(room.name ,result, room.pokemoves, room.state.sides[0].active[0].species.name));
-			// logger.log(result);
-        }, 5000);
+
+            room.choose(room.choiceNum(result, room.pokemoves, room.state.sides[0].active[0].species.id));
+			// // loggelog(result);
+        }, 50);
     }
 });
 module.exports = BattleRoom;

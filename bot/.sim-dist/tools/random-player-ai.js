@@ -742,18 +742,15 @@ var BattleRoom = new JS.Class ({
         // this.send(data);
         try {
             if (!data) return;
-            console.log(745,data);
+            // console.log(745,data);
             if (data.substr(0,7) === '|error|'){
                 console.log(data);
             }else if (data.substr(0, 6) === '|init|') {
                 return this.init(data);
-            }else if (data.substr(0, 9) === '|request|') {
-                return this.receiveRequest(JSON.parse(data.substr(9)));
             }else if (data.substr(0, 4) === '|t:|'){
-                // this.choose('default');
                 ;
-            }else{
-                ;
+            }else if (data.substr(0, 9) === '|request|') {
+                return this.receiveRequest(JSON.parse(data.substr(9) || "null" ));
             }
 
             var log = data.split('\n');
@@ -881,7 +878,7 @@ var BattleRoom = new JS.Class ({
                     } else if(tokens[1] === 'leave') {
     
                     }　else if(tokens[1] === '-prepare' && tokens[2].match(this.name)){
-                        console.log(884)
+                        ;
                     }  else if(tokens[1] === 'request') {
                         ;
                         // console.log('tste');
@@ -891,7 +888,7 @@ var BattleRoom = new JS.Class ({
                         ;
                     }
                 }
-            }    
+            }
         } catch (error) {
             // logger.error(error.stack);
             // logger.error("Something happened in BattleRoom. We will leave the game.");
@@ -932,6 +929,7 @@ var BattleRoom = new JS.Class ({
         } else {
             // on starting a battle, the first request is arrived former than |start| message
             if (!this.state) {
+
                 this.afterBattleStarted.push(() => this.receiveRequest(request));
                 return;
             }
@@ -944,9 +942,9 @@ var BattleRoom = new JS.Class ({
             if (request.forceSwitch){
                 ;
             } // logger.info(this.title + ": I need to make a switch.");
-    
-            if (request.active || request.forceSwitch) {
 
+            if (request.active || request.forceSwitch) {
+                // console.log(949, request);
                 this.makeMove(request);
             }
         }
@@ -1062,11 +1060,10 @@ var BattleRoom = new JS.Class ({
         return teamOrderNums.slice(0, maxTeamSize);
     },
 
-    choiceNum: function(choice, moves=false, poke=false){
-        console.log(1064,choice.id);
-
+    choiceNum: function(choice, moves=false){
+        let movelist = moves.map(move => move.id);
         if (choice.type == "move") {
-			let movenum = String(moves[poke].indexOf(choice.id) + 1);
+			let movenum = String(movelist.indexOf(choice.id) + 1);
             if (choice.runMegaEvo)
 					return "move " + movenum + " mega";
 			else if (choice.useZMove)
@@ -1084,6 +1081,7 @@ var BattleRoom = new JS.Class ({
 
     makeMove: function(request) {
         var room = this;
+
 
         setTimeout(function() {
             // The state of the battle was modified everywhere in previous processes, so at this time we update the request objects again 
@@ -1111,7 +1109,7 @@ var BattleRoom = new JS.Class ({
             else if(program.algorithm === "random") result = randombot.decide(Util.cloneBattle(room.state), decision.choices);
 
 
-            room.choose(room.choiceNum(result, room.pokemoves, room.state.sides[0].active[0].species.id));
+            room.choose(room.choiceNum(result, request.active[0].moves));
 			// // loggelog(result);
         }, 50);
     }

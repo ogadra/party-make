@@ -161,7 +161,6 @@ function splitFirst(str, delimiter, limit = 1) {
 		}),
 		p2: new Streams.ObjectReadWriteStream({
 			write(data) {
-				console.log(163,data);
 				void stream.write(data.replace(/(^|\n)/g, `$1>p2 `));
 			},
 		}),

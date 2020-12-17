@@ -192,21 +192,16 @@ module.exports.send = send;
 global.program = require('commander');
 
 const BattleRoom = require('../tools/random-player-ai');
-console.log('stream-example 195', p1spec.team);
 const p1 = new BattleRoom(1, 'p1', formatId, p1spec.team, streams.p1);
 const p2 = new BattleRoom(2, 'p2', formatId, p2spec.team, streams.p2);
 
 
 void p1.start();
 void p2.start();
-console.log();
 
 void (async () => {
 	for await (const chunk of streams.omniscient) {
 		console.log(chunk);
-		// let log = p1.receive(chunk);
-		// console.log(log);
-
 	}
 })();
 

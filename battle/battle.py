@@ -33,8 +33,8 @@ if __name__ == "__main__":
     pt2 = '|blissey|Assault Vest|Narural Care|aromatherapy|Serious|||||50|'
 
     battle(pt1, pt2)
-    for i in range(1000):
-        battle(makePokemon.makeParties(), makePokemon.makeParties())
+    # for i in range(1000):
+    #     battle(makePokemon.makeParties(), makePokemon.makeParties())
 
 
 # print(data)

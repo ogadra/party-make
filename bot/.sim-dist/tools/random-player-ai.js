@@ -1111,7 +1111,7 @@ var BattleRoom = new JS.Class ({
 
             room.choose(room.choiceNum(result, request.active[0].moves));
 			// // loggelog(result);
-        }, 50);
+        }, 500);
     }
 });
 module.exports = BattleRoom;

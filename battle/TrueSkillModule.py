@@ -1,5 +1,5 @@
 import trueskill
-from time import time, sleep
+# from time import time, sleep
 from multiprocessing import Process, Manager, Pool
 import sys
 import os
@@ -7,12 +7,16 @@ import re
 import subprocess
 
 def battle(evalData, p1, p2):
+    print('\r %d / 900' % len(evalData), end='')
     pt1 = dataSet[p1]
     pt2 = dataSet[p2]
     proc = subprocess.run(['node', './bot/.sim-dist/examples/battle-stream-example',pt1, pt2], stdout=subprocess.PIPE, text=True)
     battleData = proc.stdout.split('\n')
-    result = str([i for i in battleData if re.match('\|win\|Bot \d',i)][0])
-    battleData = proc.stdout.split('\n')
+    try:
+        result = str([i for i in battleData if re.match('\|win\|Bot \d',i)][0])
+    except:
+        print(battleData)
+        
 
     if result == '|win|Bot 1':
         evalData.append([p1,p2])
@@ -40,7 +44,7 @@ def evalBattle(pokemon):
 
     
     que = []
-    matchCount = 24
+    matchCount = 18
 
     for i in range(cnt):
         for j in range(matchCount//2):
@@ -52,12 +56,12 @@ def evalBattle(pokemon):
             for j in range(matchCount//2 - i):
                 que.append([evalData, i, cnt-j-1])
 
-    s = time()
+    # s = time()
     p = Pool(12)
     p.map(wrapper, que)
 
-    print((time()-s)/(matchCount * cnt // 2))
-    print(time()-s)
+    # print((time()-s)/(matchCount * cnt // 2))
+    # print(time()-s)
 
     env = trueskill.TrueSkill(beta=5,draw_probability=0)
     players = [env.create_rating()] * cnt

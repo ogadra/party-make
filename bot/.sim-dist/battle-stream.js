@@ -155,7 +155,6 @@ function splitFirst(str, delimiter, limit = 1) {
 		}),
 		p1: new Streams.ObjectReadWriteStream({
 			write(data) {
-				console.log(158,data);
 				void stream.write(data.replace(/(^|\n)/g, `$1>p1 `));
 			},
 		}),
@@ -228,7 +227,7 @@ function splitFirst(str, delimiter, limit = 1) {
 	}
 
 	receiveLine(line) {
-		if (this.debug) console.log(line);
+		// if (this.debug) console.log(line);
 		if (!line.startsWith('|')) return;
 		const [cmd, rest] = splitFirst(line.slice(1), '|');
 		if (cmd === 'request') return this.receiveRequest(JSON.parse(rest));

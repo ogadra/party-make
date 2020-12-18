@@ -4,6 +4,7 @@ import time
 import numpy as np
 
 target = list(range(37))
+print(target)
 matchCount = 24
 
 for i in target:

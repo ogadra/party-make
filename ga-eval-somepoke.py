@@ -28,4 +28,3 @@ if __name__ == '__main__':
                 f.write('\n'.join(nextGeneration))
 
             print('roop:',j, time.time()-s)
-            exit()

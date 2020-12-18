@@ -1,100 +1,100 @@
-|electrike|Life Orb|Minus|snore,spark,eerieimpulse,thunderbolt|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|electrike|Psychic Seed|Static|lightscreen,thunderwave,protect,irontail|Serious|236,20,252,0,0,0||31,31,31,31,31,31||50|
-|electrike|Blunder Policy|Minus|rest,attract,snore,swift|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
-|electrike|Razor Claw|Lightning Rod|discharge,leer,lightscreen,psychicfangs|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
-|electrike|Liechi Berry|Minus|tackle,irontail,thunderbolt,bite|Hasty|212,0,0,0,252,44||31,31,31,31,31,31||50|
-|electrike|Babiri Berry|Static|raindance,protect,swift,howl|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|electrike|Quick Claw|Lightning Rod|round,endure,flamethrower,headbutt|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
-|electrike|Micle Berry|Static|discharge,snore,roar,eerieimpulse|Calm|0,0,52,0,204,252||31,0,31,31,31,31||50|
-|electrike|Wise Glasses|Minus|uproar,shockwave,leer,attract|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
-|electrike|Yache Berry|Minus|psychicfangs,thunderwave,snarl,leer|Calm|132,0,196,0,180,0||31,0,31,31,31,31||50|
-|electrike|Room Service|Static|bodyslam,roar,shockwave,thunderwave|Careful|100,20,132,0,188,68||31,31,31,31,31,31||50|
-|electrike|Binding Band|Minus|tackle,howl,flamethrower,wildcharge|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
-|electrike|Tanga Berry|Static|uproar,substitute,thunderwave,swift|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
-|electrike|Power Herb|Lightning Rod|attract,raindance,shockwave,rest|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|electrike|Miracle Seed|Minus|firefang,swift,thief,thunder|Jolly|0,0,92,0,164,252||31,31,31,31,31,31||50|
-|electrike|Starf Berry|Lightning Rod|bite,attract,facade,quickattack|Relaxed|0,28,252,0,228,0||31,31,31,31,31,0||50|
-|electrike|Silk Scarf|Minus|flamethrower,endure,roar,spark|Quiet|0,108,148,252,0,0||31,31,31,31,31,0||50|
-|electrike|Chilan Berry|Static|raindance,voltswitch,crunch,spark|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|electrike|Micle Berry|Lightning Rod|wildcharge,uproar,spark,agility|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
-|electrike|Haban Berry|Minus|switcheroo,agility,raindance,thunderfang|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|solosis|Chople Berry|Overcoat|raindance,thunderwave,safeguard,charm|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
-|solosis|Occa Berry|Regenerator|rockslide,recover,confuseray,guardswap|Calm|252,0,0,0,4,252||31,0,31,31,31,31||50|
-|solosis|Wide Lens|Magic Guard|shadowball,imprison,protect,energyball|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
-|solosis|Iapapa Berry|Overcoat|snore,psybeam,rest,endure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|solosis|Miracle Seed|Regenerator|expandingforce,safeguard,round,guardswap|Relaxed|0,28,252,228,0,0||31,31,31,31,31,0||50|
-|solosis|Silk Scarf|Overcoat|endure,thunder,astonish,safeguard|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
-|solosis|Electric Seed|Magic Guard|trick,astonish,trickroom,flashcannon|Calm|44,0,0,244,220,0||31,31,31,31,31,31||50|
-|solosis|Wacan Berry|Overcoat|calmmind,snore,psychic,trick|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
-|solosis|Kelpsy Berry|Magic Guard|astonish,calmmind,psybeam,round|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
-|solosis|Flame Orb|Magic Guard|skillswap,rest,attract,charm|Sassy|252,4,60,140,52,0||31,31,31,31,31,31||50|
-|solosis|King's Rock|Regenerator|futuresight,steelroller,powerswap,psychicterrain|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
-|solosis|Bright Powder|Magic Guard|facade,shadowball,confusion,attract|Timid|84,0,0,172,0,252||31,31,31,31,31,31||50|
-|solosis|Occa Berry|Regenerator|irondefense,snore,zenheadbutt,rest|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
-|solosis|Wiki Berry|Magic Guard|acidarmor,gyroball,facade,storedpower|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
-|solosis|Safety Goggles|Overcoat|charm,safeguard,confuseray,allyswitch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|solosis|Big Root|Magic Guard|storedpower,psyshock,gyroball,guardswap|Timid|4,0,0,0,252,252||31,0,31,31,31,31||50|
-|solosis|Dragon Scale|Magic Guard|lightscreen,confusion,acidarmor,wonderroom|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
-|solosis|Terrain Extender|Regenerator|zenheadbutt,thunderwave,calmmind,painsplit|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|solosis|Eject Pack|Overcoat|thunderwave,endeavor,wonderroom,reflect|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
-|solosis|Zoom Lens|Regenerator|thunder,futuresight,psybeam,reflect|Careful|36,4,188,0,252,28||31,31,31,31,31,31||50|
-|shellder|Blunder Policy|Skill Link|aurorabeam,blizzard,selfdestruct,whirlpool|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
-|shellder|Chesto Berry|Shell Armor|watergun,dive,razorshell,attract|Calm|164,0,124,108,68,44||31,31,31,31,31,31||50|
-|shellder|Icy Rock|Overcoat|snore,tackle,raindance,reflect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|shellder|Lansat Berry|Skill Link|mudshot,blizzard,bubblebeam,waterpulse|Naive|252,0,0,28,0,228||31,31,31,31,31,31||50|
-|shellder|Rindo Berry|Shell Armor|endure,aquaring,bubblebeam,reflect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
-|shellder|Miracle Seed|Skill Link|hail,leer,watergun,toxic|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
-|shellder|Eject Pack|Shell Armor|hydropump,toxic,waterpulse,lifedew|Rash|108,140,36,188,0,36||31,31,31,31,31,31||50|
-|shellder|Odd Incense|Overcoat|supersonic,surf,substitute,sleeptalk|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
-|shellder|Air Balloon|Skill Link|hydropump,watergun,whirlpool,snore|Mild|204,132,0,172,0,0||31,31,31,31,31,31||50|
-|shellder|Choice Scarf|Overcoat|rockblast,dive,watergun,withdraw|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|shellder|Rose Incense|Overcoat|shellsmash,headbutt,toxic,payback|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
-|shellder|King's Rock|Overcoat|liquidation,supersonic,shellsmash,toxic|Timid|132,0,188,68,52,68||31,0,31,31,31,31||50|
-|shellder|Zoom Lens|Overcoat|lifedew,blizzard,triattack,iceshard|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
-|shellder|Poison Barb|Shell Armor|mudshot,razorshell,supersonic,irondefense|Sassy|252,0,0,4,252,0||31,31,31,31,31,31||50|
-|shellder|Wide Lens|Shell Armor|brine,swift,irondefense,avalanche|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
-|shellder|Binding Band|Overcoat|icywind,rockblast,substitute,shellsmash|Bold|4,0,252,0,0,252||31,31,31,31,31,31||50|
-|shellder|Protector|Skill Link|tackle,payback,endure,avalanche|Timid|252,0,0,0,4,252||31,31,31,31,31,31||50|
-|shellder|Never-Melt Ice|Overcoat|withdraw,raindance,clamp,hydropump|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
-|shellder|Chilan Berry|Skill Link|swift,iceshard,whirlpool,aquaring|Impish|156,0,252,0,100,0||31,31,31,31,31,31||50|
-|shellder|Eject Pack|Skill Link|selfdestruct,endure,swift,hail|Bold|252,0,4,0,0,252||31,0,31,31,31,31||50|
-|clauncher|Assault Vest|Mega Launcher|entrainment,dragonpulse,flipturn,round|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
-|clauncher|Ring Target|Mega Launcher|rest,round,flail,bubblebeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
-|clauncher|Focus Band|Mega Launcher|flipturn,uturn,splash,visegrip|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
-|clauncher|Petaya Berry|Mega Launcher|crabhammer,endure,surf,flashcannon|Gentle|252,4,0,0,252,0||31,31,31,31,31,31||50|
-|clauncher|Lum Berry|Mega Launcher|flipturn,visegrip,protect,endure|Sassy|0,148,0,156,204,0||31,31,31,31,31,0||50|
-|clauncher|Aspear Berry|Mega Launcher|bounce,icywind,round,rockslide|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
-|clauncher|Muscle Band|Mega Launcher|helpinghand,surf,honeclaws,flail|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
-|clauncher|Shuca Berry|Mega Launcher|bubblebeam,flail,irontail,smackdown|Careful|0,0,108,0,252,148||31,31,31,31,31,31||50|
-|clauncher|Kebia Berry|Mega Launcher|aquajet,bounce,terrainpulse,aquatail|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
-|clauncher|Eject Button|Mega Launcher|icywind,visegrip,venoshock,sleeptalk|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|clauncher|Protective Pads|Mega Launcher|splash,flashcannon,helpinghand,sleeptalk|Timid|0,0,0,252,68,188||31,0,31,31,31,31||50|
-|clauncher|Ring Target|Mega Launcher|icywind,rockslide,raindance,facade|Serious|252,0,252,0,4,0||31,31,31,31,31,31||50|
-|clauncher|Enigma Berry|Mega Launcher|attract,rest,venoshock,crabhammer|Relaxed|0,252,4,0,252,0||31,31,31,31,31,31||50|
-|clauncher|Poison Barb|Mega Launcher|icywind,helpinghand,endure,crabhammer|Hasty|252,0,0,0,4,252||31,31,31,31,31,31||50|
-|clauncher|Yache Berry|Mega Launcher|substitute,crabhammer,scald,rockslide|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|clauncher|Sitrus Berry|Mega Launcher|entrainment,flail,bubblebeam,watergun|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
-|clauncher|Air Balloon|Mega Launcher|bubblebeam,endure,surf,scald|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
-|clauncher|Room Service|Mega Launcher|raindance,bounce,terrainpulse,dragonpulse|Impish|84,68,108,0,84,164||31,31,31,31,31,31||50|
-|clauncher|Kebia Berry|Mega Launcher|sludgewave,smackdown,facade,terrainpulse|Jolly|100,156,0,0,252,0||31,31,31,31,31,31||50|
-|clauncher|Power Herb|Mega Launcher|watergun,endure,muddywater,round|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
-|riolu|Wacan Berry|Steadfast|bite,attract,icepunch,protect|Lax|252,0,252,0,0,4||31,31,31,31,31,31||50|
-|riolu|Assault Vest|Inner Focus|vacuumwave,rest,thunderpunch,highjumpkick|Modest|68,0,36,204,76,124||31,31,31,31,31,31||50|
-|riolu|Snowball|Steadfast|retaliate,irontail,bulkup,facade|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
-|riolu|Cheri Berry|Prankster|facade,reversal,swordsdance,crosschop|Relaxed|0,236,252,20,0,0||31,31,31,31,31,0||50|
-|riolu|Chilan Berry|Prankster|facade,screech,blazekick,reversal|Bold|4,0,116,156,28,204||31,0,31,31,31,31||50|
-|riolu|Tanga Berry|Steadfast|raindance,facade,irondefense,fling|Modest|0,0,244,252,12,0||31,31,31,31,31,31||50|
-|riolu|Icy Rock|Steadfast|reversal,feint,vacuumwave,fling|Careful|252,0,252,0,4,0||31,31,31,31,31,31||50|
-|riolu|Metal Coat|Prankster|blazekick,sleeptalk,round,revenge|Relaxed|68,164,116,116,44,0||31,31,31,31,31,0||50|
-|riolu|Wise Glasses|Prankster|feint,blazekick,attract,nastyplot|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|riolu|Payapa Berry|Prankster|bulkup,reversal,round,crunch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|riolu|Chilan Berry|Prankster|protect,bite,blazekick,drainpunch|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
-|riolu|Sitrus Berry|Prankster|fling,copycat,endure,megapunch|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|riolu|Wave Incense|Steadfast|poisonjab,lowkick,dig,endure|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|riolu|Smooth Rock|Prankster|retaliate,nastyplot,facade,thunderpunch|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
-|riolu|Rindo Berry|Inner Focus|rockslide,sleeptalk,revenge,blazekick|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|riolu|Tamato Berry|Prankster|endure,substitute,nastyplot,rocksmash|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
-|riolu|Choice Scarf|Steadfast|counter,revenge,facade,megapunch|Bold|252,0,4,252,0,0||31,31,31,31,31,31||50|
-|riolu|White Herb|Steadfast|helpinghand,megapunch,fling,circlethrow|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|riolu|Chesto Berry|Steadfast|rockslide,brickbreak,metalclaw,retaliate|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|riolu|Shuca Berry|Inner Focus|blazekick,sleeptalk,dig,bulldoze|Naive|68,12,100,124,0,204||31,31,31,31,31,31||50|
+|clauncher|Starf Berry|Mega Launcher|icywind,sludgewave,icebeam,aurasphere|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|clauncher|Chesto Berry|Mega Launcher|waterfall,scald,flail,honeclaws|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|clauncher|Ring Target|Mega Launcher|watergun,bubblebeam,venoshock,dive|Bold|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|clauncher|Blunder Policy|Mega Launcher|snore,dragonpulse,waterpulse,rockslide|Quiet|0,12,244,252,0,0||31,31,31,31,31,0||50|
+|clauncher|Choice Scarf|Mega Launcher|aquatail,bounce,crabhammer,round|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|clauncher|Lum Berry|Mega Launcher|round,icebeam,rest,facade|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|clauncher|Iron Ball|Mega Launcher|entrainment,uturn,dive,terrainpulse|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|clauncher|Utility Umbrella|Mega Launcher|icywind,visegrip,entrainment,crabhammer|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|clauncher|Mental Herb|Mega Launcher|sludgebomb,icebeam,muddywater,attract|Timid|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|clauncher|Kebia Berry|Mega Launcher|sludgewave,swordsdance,snore,aquajet|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|clauncher|Assault Vest|Mega Launcher|surf,sludgebomb,rest,dragonpulse|Bold|140,0,0,0,116,252||31,0,31,31,31,31||50|
+|clauncher|Chilan Berry|Mega Launcher|entrainment,round,snore,splash|Adamant|36,100,108,0,52,212||31,31,31,31,31,31||50|
+|clauncher|Lum Berry|Mega Launcher|helpinghand,icebeam,venoshock,snore|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|clauncher|Utility Umbrella|Mega Launcher|aquajet,terrainpulse,sleeptalk,scald|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|clauncher|Wacan Berry|Mega Launcher|attract,surf,aquatail,sludgewave|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|clauncher|Shuca Berry|Mega Launcher|endure,rockslide,venoshock,terrainpulse|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|clauncher|Protective Pads|Mega Launcher|rockslide,attract,muddywater,flail|Jolly|28,20,212,0,12,236||31,31,31,31,31,31||50|
+|clauncher|Liechi Berry|Mega Launcher|aurasphere,swordsdance,raindance,rest|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|clauncher|Rock Incense|Mega Launcher|uturn,sludgewave,sleeptalk,round|Calm|0,0,36,220,252,0||31,0,31,31,31,31||50|
+|clauncher|Aspear Berry|Mega Launcher|surf,rest,honeclaws,raindance|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|electrike|Hard Stone|Static|curse,switcheroo,rest,thief|Sassy|92,0,0,236,180,0||31,31,31,31,31,31||50|
+|electrike|Never-Melt Ice|Lightning Rod|snarl,irontail,attract,thief|Timid|252,0,0,0,100,156||31,0,31,31,31,31||50|
+|electrike|Utility Umbrella|Lightning Rod|discharge,risingvoltage,irontail,howl|Timid|36,0,20,164,36,252||31,31,31,31,31,31||50|
+|electrike|Lagging Tail|Lightning Rod|snore,curse,thief,wildcharge|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|electrike|Rock Incense|Static|shockwave,endure,facade,roar|Relaxed|4,0,252,252,0,0||31,31,31,31,31,0||50|
+|electrike|Light Clay|Minus|irontail,wildcharge,psychicfangs,howl|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|electrike|Normal Gem|Minus|thief,snore,spark,snarl|Relaxed|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|electrike|Power Herb|Minus|thunder,switcheroo,discharge,spark|Calm|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|electrike|Oran Berry|Minus|wildcharge,sleeptalk,snarl,round|Naughty|68,212,0,0,0,228||31,31,31,31,31,31||50|
+|electrike|Black Glasses|Static|roar,howl,snore,leer|Jolly|0,68,188,0,0,252||31,31,31,31,31,31||50|
+|electrike|Choice Scarf|Static|switcheroo,round,leer,curse|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|electrike|Tamato Berry|Static|raindance,thunderbolt,headbutt,agility|Adamant|108,148,0,0,252,0||31,31,31,31,31,31||50|
+|electrike|Custap Berry|Lightning Rod|risingvoltage,protect,rest,switcheroo|Lax|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|electrike|Roseli Berry|Static|thunderbolt,bodyslam,thunderfang,discharge|Jolly|196,60,0,0,0,252||31,31,31,31,31,31||50|
+|electrike|Wiki Berry|Static|thunderfang,tackle,sleeptalk,switcheroo|Relaxed|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|electrike|Iron Ball|Static|risingvoltage,round,thunderfang,discharge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|electrike|Magnet|Lightning Rod|switcheroo,shockwave,discharge,flamethrower|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|electrike|Chesto Berry|Static|attract,uproar,snore,crunch|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|electrike|Destiny Knot|Static|headbutt,charge,quickattack,flamethrower|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|electrike|Wacan Berry|Static|facade,sleeptalk,risingvoltage,thunderwave|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|riolu|Weakness Policy|Prankster|vacuumwave,rest,sleeptalk,lowkick|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|riolu|Kasib Berry|Inner Focus|nastyplot,howl,retaliate,reversal|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|riolu|Wise Glasses|Steadfast|round,irondefense,irontail,raindance|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|riolu|Weakness Policy|Steadfast|howl,earthquake,copycat,bulldoze|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|riolu|Qualot Berry|Inner Focus|rest,earthquake,brickbreak,protect|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|riolu|Aspear Berry|Prankster|sunnyday,forcepalm,payback,feint|Careful|148,0,0,0,188,172||31,31,31,31,31,31||50|
+|riolu|Enigma Berry|Steadfast|rest,vacuumwave,thunderpunch,reversal|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|riolu|Light Clay|Steadfast|crosschop,sunnyday,drainpunch,vacuumwave|Sassy|4,252,0,0,252,0||31,31,31,31,31,0||50|
+|riolu|Grip Claw|Inner Focus|revenge,brickbreak,mindreader,counter|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|riolu|Dragon Fang|Steadfast|sunnyday,irontail,sleeptalk,counter|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|riolu|Zoom Lens|Prankster|crunch,megakick,shadowclaw,poisonjab|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|riolu|Misty Seed|Inner Focus|attract,megapunch,quickguard,snore|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|riolu|Razor Claw|Steadfast|sunnyday,reversal,endure,helpinghand|Careful|124,84,12,0,132,156||31,31,31,31,31,31||50|
+|riolu|Silver Powder|Prankster|megapunch,protect,crosschop,focusblast|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|riolu|Float Stone|Prankster|attract,bulkup,round,rocktomb|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|riolu|Coba Berry|Steadfast|attract,megakick,counter,retaliate|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|riolu|Aguav Berry|Steadfast|raindance,workup,dig,zenheadbutt|Careful|12,244,0,0,252,0||31,31,31,31,31,31||50|
+|riolu|Life Orb|Inner Focus|brickbreak,agility,raindance,rockslide|Adamant|4,220,124,0,116,44||31,31,31,31,31,31||50|
+|riolu|Quick Claw|Steadfast|focusblast,quickattack,bulkup,vacuumwave|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|riolu|Rocky Helmet|Steadfast|detect,focusblast,crosschop,brickbreak|Jolly|196,0,60,0,0,252||31,31,31,31,31,31||50|
+|shellder|Cheri Berry|Shell Armor|iciclespear,endure,toxic,waterpulse|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|shellder|Razor Claw|Shell Armor|attract,iciclespear,clamp,facade|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|shellder|Air Balloon|Shell Armor|leer,attract,sleeptalk,screech|Calm|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|shellder|Psychic Seed|Overcoat|swift,endure,protect,razorshell|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|shellder|Utility Umbrella|Skill Link|avalanche,toxic,lifedew,rest|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|shellder|Black Glasses|Overcoat|protect,clamp,snore,dive|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|shellder|Wise Glasses|Skill Link|payback,blizzard,aquaring,surf|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|shellder|Rawst Berry|Shell Armor|icebeam,payback,teleport,aquaring|Timid|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|shellder|Tanga Berry|Skill Link|leer,hydropump,round,endure|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|shellder|Focus Band|Shell Armor|liquidation,leer,waterpulse,raindance|Impish|252,0,228,0,28,0||31,31,31,31,31,31||50|
+|shellder|Bright Powder|Shell Armor|triattack,icebeam,razorshell,whirlpool|Lax|252,252,0,4,0,0||31,31,31,31,31,31||50|
+|shellder|White Herb|Skill Link|raindance,surf,triattack,waterpulse|Naughty|20,252,12,20,0,204||31,31,31,31,31,31||50|
+|shellder|Choice Scarf|Overcoat|surf,liquidation,withdraw,toxic|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|shellder|Mago Berry|Skill Link|toxic,payback,avalanche,sleeptalk|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|shellder|Sharp Beak|Skill Link|lifedew,rockblast,teleport,hydropump|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|shellder|Scope Lens|Skill Link|watergun,brine,hail,clamp|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shellder|Life Orb|Shell Armor|withdraw,shellsmash,iciclespear,raindance|Bold|0,0,252,0,68,188||31,0,31,31,31,31||50|
+|shellder|Binding Band|Skill Link|mudshot,triattack,endure,irondefense|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|shellder|Room Service|Shell Armor|razorshell,whirlpool,avalanche,watergun|Bold|0,0,4,252,0,252||31,0,31,31,31,31||50|
+|shellder|Metronome|Overcoat|hail,sleeptalk,hydropump,icywind|Impish|0,204,68,0,0,236||31,31,31,31,31,31||50|
+|solosis|Focus Sash|Regenerator|flashcannon,psybeam,thunderwave,rest|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|solosis|Wacan Berry|Regenerator|gyroball,expandingforce,facade,raindance|Impish|20,36,140,0,116,196||31,31,31,31,31,31||50|
+|solosis|Lax Incense|Magic Guard|acidarmor,helpinghand,skillswap,facade|Bold|252,0,4,0,0,252||31,0,31,31,31,31||50|
+|solosis|Big Root|Overcoat|helpinghand,endeavor,protect,confuseray|Relaxed|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|solosis|Aspear Berry|Overcoat|protect,skillswap,thunderwave,gyroball|Mild|0,172,0,228,108,0||31,31,31,31,31,31||50|
+|solosis|Absorb Bulb|Magic Guard|acidarmor,protect,trick,steelroller|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|solosis|Life Orb|Magic Guard|psychicterrain,powerswap,confuseray,acidarmor|Sassy|4,36,180,252,36,0||31,31,31,31,31,0||50|
+|solosis|Sticky Barb|Regenerator|raindance,rockslide,reflect,storedpower|Impish|0,0,252,0,220,36||31,31,31,31,31,31||50|
+|solosis|Rock Incense|Regenerator|round,imprison,rocktomb,confuseray|Modest|0,0,164,172,0,172||31,31,31,31,31,31||50|
+|solosis|Quick Claw|Regenerator|imprison,acidarmor,reflect,endure|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|solosis|Yache Berry|Overcoat|calmmind,psybeam,trickroom,futuresight|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|solosis|Quick Claw|Overcoat|energyball,wonderroom,confuseray,recover|Mild|20,0,0,236,0,252||31,31,31,31,31,31||50|
+|solosis|Iapapa Berry|Overcoat|trickroom,psychic,shadowball,facade|Gentle|108,0,0,0,180,220||31,31,31,31,31,31||50|
+|solosis|Leftovers|Regenerator|powerswap,encore,rockslide,steelroller|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|solosis|Petaya Berry|Magic Guard|encore,shadowball,endure,attract|Gentle|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|solosis|Lansat Berry|Magic Guard|powerswap,expandingforce,storedpower,trickroom|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|solosis|Life Orb|Overcoat|powerswap,guardswap,snore,rest|Careful|0,0,204,0,52,252||31,31,31,31,31,31||50|
+|solosis|Dragon Fang|Regenerator|psychicterrain,astonish,rocktomb,helpinghand|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+|solosis|Muscle Band|Overcoat|psychic,futuresight,snore,endure|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|solosis|Damp Rock|Overcoat|skillswap,charm,encore,recover|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|

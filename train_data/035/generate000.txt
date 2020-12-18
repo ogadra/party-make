@@ -1,100 +1,100 @@
-|psyduck|Weakness Policy|Swift Swim|hypnosis,disable,psychup,yawn|Modest|0,0,0,252,108,148||31,0,31,31,31,31||50|
-|psyduck|Hondew Berry|Cloud Nine|hypnosis,disable,brickbreak,attract|Careful|4,164,4,0,212,124||31,31,31,31,31,31||50|
-|psyduck|Magnet|Damp|waterfall,psychup,wonderroom,whirlpool|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
-|psyduck|Wise Glasses|Swift Swim|hypnosis,waterfall,payday,attract|Impish|228,252,28,0,0,0||31,31,31,31,31,31||50|
-|psyduck|Life Orb|Cloud Nine|substitute,scald,protect,fling|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
-|psyduck|Ganlon Berry|Swift Swim|whirlpool,irontail,blizzard,watergun|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
-|psyduck|Odd Incense|Swift Swim|zenheadbutt,psychup,toxic,waterfall|Serious|148,0,0,108,0,252||31,31,31,31,31,31||50|
-|psyduck|Coba Berry|Cloud Nine|seismictoss,tailwhip,protect,surf|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|psyduck|Utility Umbrella|Swift Swim|psybeam,furyswipes,whirlpool,seismictoss|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|psyduck|Liechi Berry|Swift Swim|tailwhip,zenheadbutt,shadowclaw,surf|Timid|252,0,0,124,0,132||31,31,31,31,31,31||50|
-|psyduck|Throat Spray|Cloud Nine|clearsmog,confusion,psychic,dig|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
-|psyduck|Wise Glasses|Swift Swim|icepunch,soak,dive,encore|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
-|psyduck|Twisted Spoon|Swift Swim|psychic,zenheadbutt,sleeptalk,hydropump|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
-|psyduck|Leftovers|Damp|scald,surf,shadowclaw,zenheadbutt|Impish|12,0,252,0,0,244||31,31,31,31,31,31||50|
-|psyduck|Wiki Berry|Cloud Nine|zenheadbutt,furyswipes,confusion,watergun|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|psyduck|Bright Powder|Swift Swim|snore,rest,protect,bodyslam|Jolly|0,0,60,0,196,252||31,31,31,31,31,31||50|
-|psyduck|Eject Pack|Cloud Nine|toxic,shadowclaw,irontail,soak|Timid|0,0,0,252,4,252||31,0,31,31,31,31||50|
-|psyduck|Kee Berry|Swift Swim|soak,psyshock,megapunch,facade|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
-|psyduck|Petaya Berry|Damp|furyswipes,blizzard,shadowclaw,surf|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
-|psyduck|Silk Scarf|Cloud Nine|crosschop,psychic,icywind,confusion|Impish|0,196,0,0,252,60||31,31,31,31,31,31||50|
-|foongus|Lagging Tail|Regenerator|absorb,protect,raindance,synthesis|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|foongus|Protector|Effect Spore|substitute,spore,sunnyday,defensecurl|Serious|0,0,252,4,252,0||31,31,31,31,31,31||50|
-|foongus|Black Sludge|Effect Spore|foulplay,clearsmog,defensecurl,facade|Naughty|220,252,36,0,0,0||31,31,31,31,31,31||50|
-|foongus|Sitrus Berry|Regenerator|sunnyday,worryseed,protect,spore|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
-|foongus|Rowap Berry|Effect Spore|growth,stunspore,spore,foulplay|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|foongus|Choice Specs|Regenerator|worryseed,sweetscent,raindance,bodyslam|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|foongus|Eviolite|Effect Spore|solarbeam,synthesis,astonish,megadrain|Impish|252,0,0,0,252,4||31,31,31,31,31,31||50|
-|foongus|Hondew Berry|Regenerator|bodyslam,astonish,sunnyday,sludgebomb|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|foongus|Aspear Berry|Regenerator|toxic,spore,seedbomb,attract|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
-|foongus|Apicot Berry|Effect Spore|raindance,rest,toxic,attract|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|foongus|Rocky Helmet|Regenerator|ingrain,sunnyday,attract,astonish|Mild|116,0,0,252,0,140||31,31,31,31,31,31||50|
-|foongus|Sea Incense|Effect Spore|gigadrain,sweetscent,venoshock,grassknot|Gentle|4,252,0,0,252,0||31,31,31,31,31,31||50|
-|foongus|Liechi Berry|Regenerator|grassknot,pollenpuff,toxic,astonish|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
-|foongus|Salac Berry|Effect Spore|clearsmog,substitute,ragepowder,sleeptalk|Adamant|0,60,196,0,0,252||31,31,31,31,31,31||50|
-|foongus|Figy Berry|Regenerator|sludgebomb,megadrain,ragepowder,foulplay|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
-|foongus|Quick Claw|Effect Spore|rollout,gigadrain,bodyslam,worryseed|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
-|foongus|Sticky Barb|Regenerator|protect,foulplay,ingrain,solarbeam|Modest|0,0,0,252,76,180||31,0,31,31,31,31||50|
-|foongus|Weakness Policy|Effect Spore|seedbomb,megadrain,facade,attract|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|foongus|Magnet|Effect Spore|substitute,payback,gigadrain,seedbomb|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|foongus|Safety Goggles|Regenerator|absorb,sunnyday,grassknot,foulplay|Hasty|0,196,0,0,60,252||31,31,31,31,31,31||50|
-|wooloo|Custap Berry|Run Away|payback,counter,doubleedge,rest|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|wooloo|Assault Vest|Bulletproof|rest,grassyglide,endure,attract|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
-|wooloo|Choice Band|Bulletproof|attract,electroball,grassyglide,facade|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
-|wooloo|Protective Pads|Bulletproof|takedown,wildcharge,guardswap,electroball|Sassy|0,252,4,252,0,0||31,31,31,31,31,0||50|
-|wooloo|Float Stone|Fluffy|facade,electroball,substitute,swagger|Timid|252,0,0,196,0,60||31,0,31,31,31,31||50|
-|wooloo|Zoom Lens|Fluffy|copycat,headbutt,substitute,cottonguard|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|wooloo|Oran Berry|Run Away|guardsplit,defensecurl,protect,snore|Calm|28,0,76,36,252,116||31,31,31,31,31,31||50|
-|wooloo|Heat Rock|Fluffy|facade,copycat,guardsplit,cottonguard|Bold|0,0,252,4,0,252||31,31,31,31,31,31||50|
-|wooloo|Rose Incense|Bulletproof|facade,sleeptalk,defensecurl,snore|Calm|172,0,0,84,252,0||31,31,31,31,31,31||50|
-|wooloo|Terrain Extender|Bulletproof|thunderwave,reversal,doubleedge,attract|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
-|wooloo|Chilan Berry|Bulletproof|round,defensecurl,takedown,thunderwave|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
-|wooloo|Kasib Berry|Run Away|growl,tackle,takedown,thunderwave|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
-|wooloo|Metronome|Bulletproof|defensecurl,wildcharge,doubleedge,growl|Bold|252,0,4,0,0,252||31,0,31,31,31,31||50|
-|wooloo|Cell Battery|Run Away|round,snore,wildcharge,guardsplit|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|wooloo|Grassy Seed|Bulletproof|round,takedown,doublekick,growl|Modest|36,0,252,220,0,0||31,31,31,31,31,31||50|
-|wooloo|Rock Incense|Fluffy|agility,sleeptalk,substitute,takedown|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
-|wooloo|Rowap Berry|Run Away|agility,stomp,reversal,copycat|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
-|wooloo|Miracle Seed|Run Away|headbutt,facade,electroball,sleeptalk|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
-|wooloo|Grassy Seed|Bulletproof|doublekick,grassyglide,guardswap,facade|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
-|wooloo|Iapapa Berry|Fluffy|round,agility,doubleedge,endure|Quiet|0,244,0,252,12,0||31,31,31,31,31,0||50|
-|roggenrola|Roseli Berry|Sturdy|stoneedge,attract,wideguard,headbutt|Naive|0,0,28,252,0,228||31,31,31,31,31,31||50|
-|roggenrola|Assault Vest|Sturdy|earthquake,harden,gravity,explosion|Adamant|156,196,12,0,20,124||31,31,31,31,31,31||50|
-|roggenrola|Icy Rock|Sand Force|heavyslam,stealthrock,mudslap,attract|Careful|196,60,0,0,252,0||31,31,31,31,31,31||50|
-|roggenrola|Aguav Berry|Sand Force|explosion,gravity,attract,wideguard|Calm|0,0,84,252,172,0||31,31,31,31,31,31||50|
-|roggenrola|Roseli Berry|Weak Armor|smackdown,headbutt,flashcannon,rest|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
-|roggenrola|Colbur Berry|Weak Armor|facade,round,endure,stealthrock|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
-|roggenrola|Cell Battery|Sand Force|mudslap,wideguard,rest,attract|Lonely|188,196,0,0,0,124||31,31,31,31,31,31||50|
-|roggenrola|Spell Tag|Sand Force|smackdown,endure,attract,rest|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
-|roggenrola|Expert Belt|Weak Armor|stealthrock,curse,attract,irondefense|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
-|roggenrola|Weakness Policy|Sturdy|harden,smackdown,earthpower,sandattack|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
-|roggenrola|Shuca Berry|Sturdy|smackdown,tackle,curse,sandstorm|Impish|0,0,252,0,44,212||31,31,31,31,31,31||50|
-|roggenrola|Toxic Orb|Weak Armor|sleeptalk,bulldoze,mudslap,gravity|Impish|0,0,204,0,52,252||31,31,31,31,31,31||50|
-|roggenrola|Lax Incense|Sand Force|endure,heavyslam,sleeptalk,stoneedge|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
-|roggenrola|Misty Seed|Sturdy|harden,earthquake,endure,earthpower|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|roggenrola|Salac Berry|Sand Force|stealthrock,rockslide,bulldoze,tackle|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
-|roggenrola|Hard Stone|Sturdy|earthquake,irondefense,meteorbeam,stealthrock|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
-|roggenrola|Wacan Berry|Weak Armor|wideguard,gravity,bodypress,harden|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
-|roggenrola|Starf Berry|Weak Armor|attract,heavyslam,earthpower,round|Quiet|0,172,140,196,0,0||31,31,31,31,31,31||50|
-|roggenrola|Mystic Water|Sturdy|heavyslam,sandtomb,sandattack,protect|Naughty|180,100,60,84,0,84||31,31,31,31,31,31||50|
-|roggenrola|Choice Scarf|Sturdy|endure,sandstorm,headbutt,sleeptalk|Modest|140,0,116,252,0,0||31,0,31,31,31,31||50|
-|wooper|Hondew Berry|Damp|sludgebomb,amnesia,mist,irontail|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
-|wooper|Kelpsy Berry|Damp|yawn,waterfall,icepunch,sludgebomb|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
-|wooper|Iapapa Berry|Damp|aquatail,waterfall,irontail,scald|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
-|wooper|Never-Melt Ice|Unaware|facade,acidspray,scald,aquatail|Quiet|0,0,244,252,12,0||31,31,31,31,31,0||50|
-|wooper|Kasib Berry|Damp|substitute,scald,toxic,yawn|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
-|wooper|Hard Stone|Unaware|round,mudshot,protect,counter|Sassy|252,252,4,0,0,0||31,31,31,31,31,31||50|
-|wooper|Hard Stone|Water Absorb|substitute,doublekick,spitup,toxic|Serious|4,0,252,0,0,252||31,31,31,31,31,31||50|
-|wooper|Lax Incense|Damp|counter,spitup,safeguard,amnesia|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
-|wooper|Muscle Band|Damp|guardswap,afteryou,dig,scald|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
-|wooper|Chople Berry|Unaware|hydropump,poweruppunch,earthpower,counter|Naive|52,116,4,252,0,84||31,31,31,31,31,31||50|
-|wooper|Assault Vest|Damp|irontail,sludgewave,recover,haze|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
-|wooper|Choice Specs|Damp|sandstorm,substitute,dive,mudshot|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|wooper|Shell Bell|Water Absorb|sludgebomb,muddywater,swallow,blizzard|Careful|252,4,0,0,0,252||31,31,31,31,31,31||50|
-|wooper|Babiri Berry|Unaware|dig,snore,whirlpool,counter|Timid|0,0,140,124,0,244||31,0,31,31,31,31||50|
-|wooper|Flame Orb|Damp|poweruppunch,irontail,yawn,earthpower|Calm|0,0,0,4,252,252||31,31,31,31,31,31||50|
-|wooper|Toxic Orb|Water Absorb|recover,attract,earthpower,mist|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
-|wooper|Metronome|Water Absorb|sandstorm,haze,recover,safeguard|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
-|wooper|Wave Incense|Unaware|acidspray,tailwhip,irontail,endure|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
-|wooper|Kelpsy Berry|Unaware|tailwhip,dive,haze,watergun|Modest|0,0,196,140,172,0||31,0,31,31,31,31||50|
-|wooper|Ganlon Berry|Unaware|surf,irontail,bodyslam,blizzard|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|foongus|Petaya Berry|Effect Spore|poisonpowder,energyball,synthesis,attract|Adamant|252,164,0,0,0,92||31,31,31,31,31,31||50|
+|foongus|Silk Scarf|Regenerator|venoshock,synthesis,astonish,sludgebomb|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|foongus|Razor Claw|Regenerator|absorb,attract,foulplay,poisonpowder|Serious|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|foongus|Enigma Berry|Effect Spore|substitute,foulplay,clearsmog,raindance|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|foongus|Lax Incense|Regenerator|round,rest,protect,defensecurl|Bold|92,0,252,0,164,0||31,0,31,31,31,31||50|
+|foongus|Dragon Scale|Effect Spore|rollout,rest,substitute,ragepowder|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|foongus|Choice Scarf|Effect Spore|facade,growth,payback,protect|Relaxed|252,0,252,0,4,0||31,31,31,31,31,0||50|
+|foongus|King's Rock|Regenerator|venoshock,rest,sunnyday,sweetscent|Naughty|0,244,68,0,0,196||31,31,31,31,31,31||50|
+|foongus|Grepa Berry|Regenerator|gigadrain,toxic,sunnyday,round|Timid|0,0,0,188,68,252||31,0,31,31,31,31||50|
+|foongus|Blunder Policy|Regenerator|energyball,megadrain,facade,rollout|Impish|36,252,0,0,0,220||31,31,31,31,31,31||50|
+|foongus|Iapapa Berry|Effect Spore|worryseed,sunnyday,ragepowder,solarbeam|Gentle|0,252,0,252,4,0||31,31,31,31,31,31||50|
+|foongus|Wide Lens|Regenerator|astonish,absorb,substitute,foulplay|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|foongus|Cheri Berry|Regenerator|stunspore,defensecurl,growth,clearsmog|Calm|0,0,0,252,4,252||31,31,31,31,31,31||50|
+|foongus|Figy Berry|Effect Spore|poisonpowder,gigadrain,facade,solarbeam|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|foongus|Aguav Berry|Regenerator|ragepowder,grassknot,venoshock,facade|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|foongus|Pecha Berry|Regenerator|attract,protect,energyball,megadrain|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|foongus|Charti Berry|Effect Spore|facade,sweetscent,seedbomb,venoshock|Relaxed|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|foongus|Liechi Berry|Regenerator|rest,solarbeam,growth,pollenpuff|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|foongus|Shuca Berry|Regenerator|sleeptalk,sunnyday,bodyslam,attract|Jolly|252,44,0,0,0,212||31,31,31,31,31,31||50|
+|foongus|Cheri Berry|Effect Spore|growth,seedbomb,gigadrain,venoshock|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|psyduck|Jaboca Berry|Swift Swim|clearsmog,rest,surf,hail|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|psyduck|Poison Barb|Swift Swim|hail,payday,fling,scald|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|psyduck|Black Glasses|Cloud Nine|endure,facade,irontail,simplebeam|Impish|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|psyduck|Lansat Berry|Damp|bodyslam,hypnosis,waterpulse,wonderroom|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|psyduck|Qualot Berry|Swift Swim|blizzard,attract,tailwhip,psyshock|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|psyduck|Metal Coat|Damp|sleeptalk,psybeam,waterfall,lightscreen|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|psyduck|Black Belt|Damp|icepunch,raindance,aquatail,seismictoss|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|psyduck|Electric Seed|Cloud Nine|icepunch,encore,brine,wonderroom|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|psyduck|Persim Berry|Damp|tailwhip,clearsmog,zenheadbutt,whirlpool|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|psyduck|Big Root|Cloud Nine|amnesia,rest,psychic,waterfall|Sassy|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|psyduck|Chople Berry|Damp|payday,raindance,disable,brine|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|psyduck|Kee Berry|Swift Swim|soak,payday,shadowclaw,blizzard|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|psyduck|Scope Lens|Damp|waterfall,surf,whirlpool,psyshock|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|psyduck|Room Service|Cloud Nine|snore,wonderroom,yawn,surf|Adamant|0,76,0,0,180,252||31,31,31,31,31,31||50|
+|psyduck|Aguav Berry|Damp|confuseray,icywind,hydropump,watergun|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|psyduck|Light Clay|Swift Swim|round,facade,disable,shadowclaw|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|psyduck|Choice Scarf|Cloud Nine|tailwhip,waterfall,seismictoss,headbutt|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|psyduck|Payapa Berry|Damp|swift,zenheadbutt,protect,endure|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|psyduck|Assault Vest|Damp|irontail,brickbreak,brine,scratch|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+|psyduck|Leppa Berry|Damp|waterfall,round,substitute,scratch|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|roggenrola|Weakness Policy|Sand Force|sandtomb,snore,rockslide,smackdown|Quiet|252,0,124,132,0,0||31,31,31,31,31,0||50|
+|roggenrola|Electric Seed|Weak Armor|protect,endure,sleeptalk,stoneedge|Naughty|28,100,44,108,0,228||31,31,31,31,31,31||50|
+|roggenrola|Pixie Plate|Sturdy|stoneedge,autotomize,mudslap,attract|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|roggenrola|Rocky Helmet|Sturdy|snore,earthpower,heavyslam,tackle|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|roggenrola|Bright Powder|Sand Force|rest,rocktomb,mudslap,heavyslam|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|roggenrola|Petaya Berry|Sturdy|rest,meteorbeam,heavyslam,snore|Impish|148,108,252,0,0,0||31,31,31,31,31,31||50|
+|roggenrola|Red Card|Sturdy|mudslap,smackdown,rockblast,rocktomb|Calm|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|roggenrola|Aguav Berry|Sturdy|explosion,bodypress,irondefense,tackle|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|roggenrola|Leppa Berry|Weak Armor|snore,irondefense,round,protect|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|roggenrola|Float Stone|Sturdy|mudslap,smackdown,irondefense,snore|Careful|252,172,0,0,0,84||31,31,31,31,31,31||50|
+|roggenrola|Wave Incense|Weak Armor|bulldoze,explosion,harden,tackle|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|roggenrola|Focus Band|Sturdy|takedown,rockslide,headbutt,gravity|Gentle|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|roggenrola|Kelpsy Berry|Sturdy|explosion,tackle,smackdown,irondefense|Adamant|212,164,132,0,0,0||31,31,31,31,31,31||50|
+|roggenrola|Sitrus Berry|Sturdy|stoneedge,endure,attract,sandtomb|Calm|60,0,252,0,0,196||31,0,31,31,31,31||50|
+|roggenrola|Light Clay|Weak Armor|stealthrock,sandstorm,sandattack,meteorbeam|Careful|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|roggenrola|Utility Umbrella|Weak Armor|curse,rockblast,rest,earthquake|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|roggenrola|Tamato Berry|Sturdy|earthpower,endure,earthquake,headbutt|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|roggenrola|Enigma Berry|Weak Armor|stoneedge,wideguard,bodypress,headbutt|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|roggenrola|Silver Powder|Sturdy|sandtomb,autotomize,takedown,attract|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|roggenrola|Scope Lens|Sturdy|smackdown,headbutt,substitute,heavyslam|Naughty|68,252,0,188,0,0||31,31,31,31,31,31||50|
+|wooloo|Black Sludge|Fluffy|takedown,reversal,tackle,defensecurl|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|wooloo|Sitrus Berry|Run Away|protect,agility,electroball,payback|Timid|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|wooloo|Chople Berry|Bulletproof|doublekick,cottonguard,attract,endure|Careful|116,164,0,0,228,0||31,31,31,31,31,31||50|
+|wooloo|Oran Berry|Fluffy|doubleedge,payback,endure,attract|Hasty|52,68,0,92,44,252||31,31,31,31,31,31||50|
+|wooloo|Wise Glasses|Run Away|counter,substitute,headbutt,tackle|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|wooloo|Tamato Berry|Bulletproof|counter,thunderwave,cottonguard,payback|Calm|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|wooloo|Psychic Seed|Fluffy|reversal,thunderwave,stomp,guardswap|Lonely|84,252,0,0,0,172||31,31,31,31,31,31||50|
+|wooloo|Petaya Berry|Bulletproof|guardsplit,stomp,thunderwave,rest|Brave|92,156,84,132,44,0||31,31,31,31,31,0||50|
+|wooloo|Heat Rock|Run Away|defensecurl,protect,wildcharge,round|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|wooloo|Blunder Policy|Bulletproof|defensecurl,electroball,round,payback|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|wooloo|Silk Scarf|Run Away|cottonguard,guardsplit,doubleedge,attract|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|wooloo|Bright Powder|Bulletproof|payback,swagger,substitute,guardsplit|Bold|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|wooloo|Leppa Berry|Run Away|copycat,counter,rest,tackle|Timid|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|wooloo|Kebia Berry|Fluffy|stomp,copycat,agility,tackle|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wooloo|Misty Seed|Bulletproof|cottonguard,sleeptalk,guardswap,electroball|Sassy|28,108,92,76,204,0||31,31,31,31,31,31||50|
+|wooloo|Protector|Fluffy|round,doublekick,takedown,agility|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wooloo|Smooth Rock|Fluffy|counter,attract,doublekick,growl|Careful|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|wooloo|Full Incense|Fluffy|snore,electroball,tackle,swagger|Jolly|252,0,100,0,0,156||31,31,31,31,31,31||50|
+|wooloo|Silk Scarf|Run Away|electroball,rest,swagger,snore|Rash|0,28,228,0,0,252||31,31,31,31,31,31||50|
+|wooloo|Wacan Berry|Fluffy|stomp,doublekick,guardswap,round|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|wooper|Focus Band|Unaware|icywind,stockpile,tailwhip,eerieimpulse|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|wooper|Icy Rock|Damp|stockpile,whirlpool,curse,sleeptalk|Sassy|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|wooper|Miracle Seed|Damp|poweruppunch,bodyslam,sludgewave,round|Relaxed|4,0,252,252,0,0||31,31,31,31,31,0||50|
+|wooper|Never-Melt Ice|Damp|watergun,acidspray,facade,blizzard|Naughty|20,172,4,252,0,60||31,31,31,31,31,31||50|
+|wooper|Starf Berry|Unaware|watergun,stompingtantrum,sandstorm,slam|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|wooper|Wacan Berry|Damp|stompingtantrum,encore,icebeam,snore|Modest|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|wooper|Starf Berry|Unaware|sandstorm,tailwhip,spitup,recover|Gentle|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|wooper|Snowball|Damp|poweruppunch,tailwhip,doublekick,safeguard|Modest|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|wooper|Chople Berry|Water Absorb|bodyslam,blizzard,ancientpower,protect|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+|wooper|Focus Band|Water Absorb|rest,muddywater,stompingtantrum,amnesia|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|wooper|Zoom Lens|Damp|raindance,swallow,earthquake,icebeam|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wooper|Sea Incense|Unaware|stockpile,blizzard,guardswap,dive|Quiet|0,196,0,212,100,0||31,31,31,31,31,0||50|
+|wooper|Spell Tag|Water Absorb|tailwhip,encore,earthpower,counter|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wooper|Spell Tag|Unaware|spitup,stockpile,sludgewave,slam|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|wooper|Tamato Berry|Unaware|round,sludgewave,ancientpower,sandstorm|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|wooper|Tamato Berry|Damp|rest,haze,eerieimpulse,sludgewave|Jolly|164,0,0,0,92,252||31,31,31,31,31,31||50|
+|wooper|Quick Claw|Damp|icywind,sandstorm,guardswap,rest|Naughty|220,36,0,0,0,252||31,31,31,31,31,31||50|
+|wooper|Shed Shell|Unaware|stompingtantrum,earthquake,swallow,whirlpool|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|wooper|Room Service|Damp|curse,sludgebomb,snore,recover|Serious|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|wooper|Expert Belt|Unaware|afteryou,hail,encore,watergun|Bold|0,0,252,0,252,4||31,0,31,31,31,31||50|

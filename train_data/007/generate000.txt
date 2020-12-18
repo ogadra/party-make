@@ -1,0 +1,100 @@
+|dwebble|Metal Coat|Sturdy|shellsmash,bulldoze,sandstorm,sandtomb|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|dwebble|Sharp Beak|Sturdy|solarbeam,xscissor,rest,sandtomb|Calm|220,0,0,36,252,0||31,0,31,31,31,31||50|
+|dwebble|Safety Goggles|Weak Armor|bugbite,skittersmack,rocktomb,furycutter|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|dwebble|Snowball|Shell Armor|counter,rockwrecker,bulldoze,nightslash|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|dwebble|Tamato Berry|Weak Armor|bugbite,protect,sleeptalk,stoneedge|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|dwebble|Figy Berry|Shell Armor|flail,poisonjab,stoneedge,knockoff|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dwebble|Luminous Moss|Sturdy|rest,knockoff,dig,earthquake|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|dwebble|Red Card|Shell Armor|bulldoze,shadowclaw,irondefense,nightslash|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|dwebble|Tanga Berry|Weak Armor|solarbeam,nightslash,slash,rockpolish|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|dwebble|Heat Rock|Sturdy|withdraw,curse,flail,rocktomb|Serious|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|dwebble|Grip Claw|Sturdy|shadowclaw,attract,swordsdance,rockblast|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|dwebble|Never-Melt Ice|Weak Armor|shadowclaw,rockpolish,attract,counter|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|dwebble|Roseli Berry|Sturdy|rockslide,shadowclaw,block,bugbite|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|dwebble|Razor Claw|Shell Armor|curse,shellsmash,irondefense,stoneedge|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|dwebble|Leppa Berry|Shell Armor|sandstorm,shadowclaw,dig,rockpolish|Timid|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|dwebble|Apicot Berry|Sturdy|stealthrock,shadowclaw,furycutter,stoneedge|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dwebble|Lax Incense|Shell Armor|wideguard,earthquake,xscissor,rockpolish|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|dwebble|Float Stone|Shell Armor|stoneedge,rocktomb,round,substitute|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|dwebble|Jaboca Berry|Weak Armor|endure,nightslash,skittersmack,sandattack|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|dwebble|Charti Berry|Weak Armor|shadowclaw,swordsdance,attract,smackdown|Careful|0,92,0,0,212,204||31,31,31,31,31,31||50|
+|vanillite|Liechi Berry|Weak Armor|icebeam,lightscreen,rest,mist|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|vanillite|Safety Goggles|Snow Cloak|uproar,endure,lightscreen,flashcannon|Relaxed|124,52,148,148,36,0||31,31,31,31,31,0||50|
+|vanillite|Kee Berry|Snow Cloak|protect,endure,rest,imprison|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|vanillite|Magnet|Weak Armor|taunt,allyswitch,blizzard,explosion|Impish|92,4,252,0,108,52||31,31,31,31,31,31||50|
+|vanillite|Wacan Berry|Ice Body|magnetrise,iceshard,icywind,allyswitch|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|vanillite|Protector|Snow Cloak|auroraveil,flashcannon,substitute,magnetrise|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|vanillite|Absorb Bulb|Snow Cloak|substitute,auroraveil,blizzard,protect|Calm|0,0,0,140,124,244||31,0,31,31,31,31||50|
+|vanillite|Icy Rock|Snow Cloak|magnetrise,lightscreen,mirrorcoat,auroraveil|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|vanillite|Magnet|Ice Body|avalanche,substitute,hypervoice,rest|Sassy|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|vanillite|Never-Melt Ice|Weak Armor|icywind,autotomize,explosion,flashcannon|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|vanillite|Apicot Berry|Ice Body|irondefense,explosion,blizzard,acidarmor|Serious|92,20,76,0,108,212||31,31,31,31,31,31||50|
+|vanillite|Safety Goggles|Ice Body|mist,snore,substitute,harden|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|vanillite|Metal Coat|Ice Body|protect,flashcannon,imprison,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|vanillite|Protector|Weak Armor|hypervoice,magnetrise,mist,hail|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|vanillite|Metal Coat|Ice Body|lightscreen,snore,astonish,rest|Jolly|52,116,124,0,76,140||31,31,31,31,31,31||50|
+|vanillite|Grepa Berry|Snow Cloak|iciclespear,lightscreen,selfdestruct,blizzard|Careful|172,228,0,0,108,0||31,31,31,31,31,31||50|
+|vanillite|Charti Berry|Snow Cloak|uproar,irondefense,endure,lightscreen|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|vanillite|Ganlon Berry|Snow Cloak|mirrorcoat,explosion,lightscreen,icebeam|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|vanillite|Cell Battery|Snow Cloak|iciclecrash,sleeptalk,iciclespear,raindance|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|vanillite|Oran Berry|Snow Cloak|icywind,taunt,astonish,auroraveil|Impish|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|sandshrew|Assault Vest|Sand Rush|round,rocktomb,rockslide,poisonsting|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|sandshrew|Wise Glasses|Sand Veil|attract,amnesia,sandtomb,thief|Bold|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|sandshrew|Ganlon Berry|Sand Rush|stealthrock,sandattack,mudslap,fling|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|sandshrew|Throat Spray|Sand Rush|snore,rollout,furyswipes,steelroller|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandshrew|Wacan Berry|Sand Rush|round,shadowclaw,seismictoss,substitute|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|sandshrew|Rose Incense|Sand Rush|mudshot,rest,poisonjab,agility|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|sandshrew|Grepa Berry|Sand Rush|shadowclaw,xscissor,rockslide,sleeptalk|Timid|100,0,28,28,100,252||31,0,31,31,31,31||50|
+|sandshrew|Occa Berry|Sand Veil|nightslash,poisonsting,steelroller,seismictoss|Serious|36,220,180,0,4,68||31,31,31,31,31,31||50|
+|sandshrew|Destiny Knot|Sand Rush|swift,swordsdance,rapidspin,rest|Sassy|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|sandshrew|Charti Berry|Sand Rush|headbutt,sunnyday,furycutter,round|Impish|52,244,108,0,100,4||31,31,31,31,31,31||50|
+|sandshrew|Sharp Beak|Sand Veil|fling,facade,flail,stompingtantrum|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sandshrew|Toxic Orb|Sand Rush|safeguard,scorchingsands,leechlife,rapidspin|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|sandshrew|Sea Incense|Sand Veil|steelroller,poisonsting,slash,stealthrock|Bold|44,0,252,148,44,20||31,31,31,31,31,31||50|
+|sandshrew|Dragon Scale|Sand Rush|sleeptalk,stealthrock,earthquake,safeguard|Adamant|132,252,0,0,0,124||31,31,31,31,31,31||50|
+|sandshrew|Colbur Berry|Sand Veil|stealthrock,sunnyday,sandtomb,endure|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sandshrew|Icy Rock|Sand Rush|rockslide,earthpower,irontail,xscissor|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandshrew|Lansat Berry|Sand Rush|earthpower,stealthrock,irontail,gyroball|Bold|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|sandshrew|Normal Gem|Sand Rush|sandattack,sandtomb,flail,seismictoss|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|sandshrew|Heat Rock|Sand Veil|seismictoss,poisonjab,bulldoze,defensecurl|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sandshrew|Mental Herb|Sand Veil|snore,swordsdance,protect,stompingtantrum|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|shinx|Grassy Seed|Intimidate|thunderwave,electroball,scaryface,risingvoltage|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|shinx|Assault Vest|Intimidate|endure,risingvoltage,shockwave,lightscreen|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|shinx|Cheri Berry|Intimidate|charge,takedown,quickattack,endure|Impish|36,148,196,0,52,76||31,31,31,31,31,31||50|
+|shinx|Pecha Berry|Intimidate|thunder,eerieimpulse,spark,thunderfang|Sassy|0,0,4,252,252,0||31,31,31,31,31,0||50|
+|shinx|Starf Berry|Intimidate|attract,endure,protect,bite|Sassy|76,20,28,252,132,0||31,31,31,31,31,0||50|
+|shinx|Petaya Berry|Intimidate|babydolleyes,risingvoltage,scaryface,voltswitch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shinx|Rawst Berry|Guts|voltswitch,swagger,lightscreen,psychicfangs|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shinx|Leppa Berry|Rivalry|tackle,risingvoltage,nightslash,endure|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|shinx||Intimidate|roar,raindance,swift,round|Impish|0,28,228,0,0,252||31,31,31,31,31,31||50|
+|shinx|Weakness Policy|Intimidate|facade,thunderfang,swift,irontail|Gentle|0,0,0,244,252,12||31,31,31,31,31,31||50|
+|shinx|Apicot Berry|Rivalry|snore,babydolleyes,round,crunch|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|shinx|Shell Bell|Rivalry|charge,helpinghand,facade,thunder|Brave|92,188,0,0,228,0||31,31,31,31,31,0||50|
+|shinx|Magnet|Rivalry|doublekick,thief,risingvoltage,tackle|Brave|36,84,12,188,188,0||31,31,31,31,31,31||50|
+|shinx|Eject Pack|Guts|lightscreen,crunch,rest,spark|Impish|0,116,252,0,0,140||31,31,31,31,31,31||50|
+|shinx|Chople Berry|Rivalry|thunderbolt,thunderwave,thief,electroball|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|shinx|Choice Band|Rivalry|substitute,voltswitch,wildcharge,playrough|Jolly|0,0,164,0,92,252||31,31,31,31,31,31||50|
+|shinx|Mystic Water|Guts|psychicfangs,roar,risingvoltage,bite|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|shinx|Liechi Berry|Intimidate|thief,playrough,endure,tackle|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|shinx|Kelpsy Berry|Intimidate|irontail,sleeptalk,risingvoltage,charge|Jolly|76,68,60,0,172,132||31,31,31,31,31,31||50|
+|shinx|Tanga Berry|Intimidate|psychicfangs,sleeptalk,round,roar|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|milcery|Kee Berry|Sweet Veil|aromatherapy,substitute,sweetscent,sleeptalk|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+|milcery|Electric Seed|Aroma Veil|snore,endure,dazzlinggleam,fling|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|milcery|Pomeg Berry|Sweet Veil|helpinghand,babydolleyes,sweetscent,drainingkiss|Rash|0,0,52,204,0,252||31,31,31,31,31,31||50|
+|milcery|Utility Umbrella|Sweet Veil|substitute,fling,sweetkiss,charm|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|milcery|Figy Berry|Sweet Veil|attract,sweetkiss,drainingkiss,recover|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|milcery|Roseli Berry|Sweet Veil|aromaticmist,recover,babydolleyes,endure|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|milcery|Misty Seed|Aroma Veil|recover,facade,endure,rest|Jolly|252,0,44,0,0,212||31,31,31,31,31,31||50|
+|milcery|Enigma Berry|Sweet Veil|sleeptalk,drainingkiss,charm,aromatherapy|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|milcery|Cheri Berry|Aroma Veil|facade,storedpower,charm,celebrate|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|milcery|Utility Umbrella|Sweet Veil|aromaticmist,acidarmor,charm,helpinghand|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|milcery|Chilan Berry|Aroma Veil|helpinghand,acidarmor,rest,snore|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+|milcery|Protector|Sweet Veil|sweetkiss,fling,round,celebrate|Gentle|0,252,0,0,4,252||31,31,31,31,31,31||50|
+|milcery|Lum Berry|Aroma Veil|snore,round,babydolleyes,lastresort|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|milcery|Chople Berry|Sweet Veil|sweetkiss,sweetscent,mistyterrain,endure|Naughty|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|milcery|Rawst Berry|Sweet Veil|aromaticmist,mistyterrain,sleeptalk,celebrate|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|milcery|Kelpsy Berry|Sweet Veil|tackle,dazzlinggleam,drainingkiss,entrainment|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|milcery|White Herb|Aroma Veil|aromatherapy,sleeptalk,mistyterrain,entrainment|Timid|156,0,0,100,0,252||31,0,31,31,31,31||50|
+|milcery|Persim Berry|Sweet Veil|sweetkiss,protect,helpinghand,endure|Bold|0,0,148,0,252,108||31,0,31,31,31,31||50|
+|milcery|Black Sludge|Aroma Veil|tackle,fling,aromaticmist,celebrate|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|milcery|Liechi Berry|Sweet Veil|dazzlinggleam,lastresort,aromatherapy,snore|Lax|244,36,28,108,0,92||31,31,31,31,31,31||50|

@@ -1,0 +1,100 @@
+|joltik|Full Incense|Swarm|poisonsting,rest,lightscreen,furycutter|Jolly|28,0,228,0,0,252||31,31,31,31,31,31||50|
+|joltik|Qualot Berry|Swarm|slash,bounce,round,thunderbolt|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|joltik|Ganlon Berry|Compound Eyes|round,facade,risingvoltage,thunderwave|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+|joltik|Black Sludge|Swarm|round,screech,bugbuzz,lunge|Relaxed|0,84,188,236,0,0||31,31,31,31,31,31||50|
+|joltik|Focus Band|Compound Eyes|substitute,raindance,slash,lunge|Serious|0,0,252,4,0,252||31,31,31,31,31,31||50|
+|joltik|Metronome|Unnerve|strugglebug,lightscreen,pinmissile,gigadrain|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|joltik|Black Belt|Unnerve|skittersmack,raindance,facade,infestation|Sassy|236,0,0,20,252,0||31,31,31,31,31,0||50|
+|joltik|Air Balloon|Unnerve|skittersmack,lightscreen,leechlife,electroweb|Serious|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|joltik|Coba Berry|Compound Eyes|furycutter,rest,risingvoltage,electroweb|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|joltik|Hondew Berry|Swarm|sleeptalk,electroball,rest,thunderbolt|Impish|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|joltik|Quick Claw|Swarm|slash,energyball,rest,crosspoison|Timid|132,0,76,108,76,116||31,0,31,31,31,31||50|
+|joltik|Colbur Berry|Swarm|protect,doubleteam,xscissor,furycutter|Relaxed|124,0,252,0,132,0||31,31,31,31,31,0||50|
+|joltik|Soft Sand|Compound Eyes|thunderbolt,furycutter,electroweb,lunge|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|joltik|Custap Berry|Unnerve|attract,lightscreen,gigadrain,pinmissile|Mild|44,140,0,92,188,44||31,31,31,31,31,31||50|
+|joltik|Charti Berry|Unnerve|round,crosspoison,electroball,lunge|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|joltik|Shed Shell|Unnerve|thunderwave,absorb,skittersmack,poisonsting|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|joltik|Kee Berry|Swarm|screech,stringshot,infestation,bounce|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+|joltik|Wacan Berry|Swarm|gastroacid,doubleteam,poisonsting,crosspoison|Bold|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|joltik|Jaboca Berry|Compound Eyes|endure,lunge,poisonsting,thunderbolt|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|joltik|Salac Berry|Compound Eyes|bounce,crosspoison,thunderwave,furycutter|Relaxed|0,0,252,252,4,0||31,31,31,31,31,31||50|
+|yamask|Miracle Seed|Mummy|memento,trickroom,thief,raindance|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|yamask|Cell Battery|Mummy|grudge,craftyshield,safeguard,sleeptalk|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|yamask|Payapa Berry|Mummy|zenheadbutt,facade,imprison,payback|Lax|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|yamask|Mago Berry|Mummy|calmmind,nightshade,round,guardsplit|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|yamask|Passho Berry|Mummy|nastyplot,destinybond,wonderroom,disable|Sassy|252,252,0,4,0,0||31,31,31,31,31,0||50|
+|yamask|Kebia Berry|Mummy|rest,facade,faketears,imprison|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamask|Big Root|Mummy|sleeptalk,calmmind,memento,poltergeist|Naive|12,244,0,0,0,252||31,31,31,31,31,31||50|
+|yamask|Magnet|Mummy|psychic,snore,trick,poltergeist|Relaxed|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|yamask|Light Clay|Mummy|curse,calmmind,guardsplit,trick|Calm|0,0,0,252,4,252||31,31,31,31,31,31||50|
+|yamask|Terrain Extender|Mummy|safeguard,haze,destinybond,willowisp|Bold|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|yamask|Odd Incense|Mummy|trick,imprison,trickroom,safeguard|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|yamask|Tanga Berry|Mummy|irondefense,protect,nightshade,meanlook|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|yamask|Black Glasses|Mummy|darkpulse,raindance,astonish,faketears|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|yamask|Terrain Extender|Mummy|snore,psychic,allyswitch,calmmind|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|yamask|Blunder Policy|Mummy|raindance,endure,snore,toxicspikes|Relaxed|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|yamask|Life Orb|Mummy|grudge,powersplit,darkpulse,allyswitch|Careful|0,252,204,0,52,0||31,31,31,31,31,31||50|
+|yamask|Damp Rock|Mummy|skillswap,irondefense,round,sleeptalk|Calm|44,0,0,212,252,0||31,0,31,31,31,31||50|
+|yamask|Leppa Berry|Mummy|calmmind,trick,guardsplit,rest|Adamant|20,252,0,0,236,0||31,31,31,31,31,31||50|
+|yamask|Chesto Berry|Mummy|faketears,calmmind,psychic,meanlook|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|yamask|Pomeg Berry|Mummy|imprison,nastyplot,destinybond,grudge|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|chewtle|Lagging Tail|Strong Jaw|bodyslam,attract,skittersmack,skullbash|Timid|0,0,44,0,212,252||31,0,31,31,31,31||50|
+|chewtle|Kelpsy Berry|Swift Swim|skullbash,assurance,bodyslam,raindance|Calm|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|chewtle|Protector|Strong Jaw|jawlock,gastroacid,counter,snore|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|chewtle|Yache Berry|Shell Armor|whirlpool,round,attract,snore|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|chewtle|Ring Target|Swift Swim|whirlpool,mudshot,protect,snore|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|chewtle|Roseli Berry|Shell Armor|facade,attract,assurance,gastroacid|Calm|0,0,68,188,252,0||31,31,31,31,31,31||50|
+|chewtle|Magnet|Shell Armor|substitute,headbutt,skittersmack,protect|Bold|0,0,140,252,0,116||31,0,31,31,31,31||50|
+|chewtle|Protective Pads|Strong Jaw|surf,skullbash,headbutt,round|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|chewtle|Silk Scarf|Shell Armor|hydropump,protect,gastroacid,watergun|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|chewtle|Bright Powder|Strong Jaw|skullbash,hydropump,sleeptalk,endure|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|chewtle|Heat Rock|Shell Armor|surf,liquidation,bodyslam,mudshot|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|chewtle|Passho Berry|Strong Jaw|watergun,scaleshot,gastroacid,skittersmack|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|chewtle|Aguav Berry|Shell Armor|facade,sleeptalk,skittersmack,attract|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|chewtle|Petaya Berry|Shell Armor|counter,whirlpool,bodyslam,payback|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|chewtle|Luminous Moss|Strong Jaw|dive,attract,sleeptalk,substitute|Impish|36,252,76,0,140,4||31,31,31,31,31,31||50|
+|chewtle|Room Service|Swift Swim|skullbash,endure,headbutt,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|chewtle|Sitrus Berry|Swift Swim|whirlpool,raindance,watergun,round|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|chewtle|Pixie Plate|Shell Armor|skullbash,protect,sleeptalk,raindance|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|chewtle|Grassy Seed|Shell Armor|jawlock,dive,substitute,assurance|Serious|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|chewtle|Micle Berry|Shell Armor|liquidation,rest,facade,sleeptalk|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|bonsly|Mental Herb|Sturdy|earthpower,snore,counter,facade|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|bonsly|Rocky Helmet|Sturdy|foulplay,sandtomb,counter,block|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bonsly|Choice Scarf|Rock Head|mimic,attract,rest,harden|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|bonsly|Black Belt|Rock Head|uproar,faketears,block,curse|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bonsly|Hard Stone|Rock Head|harden,rockpolish,copycat,sandstorm|Jolly|84,172,0,0,0,252||31,31,31,31,31,31||50|
+|bonsly|Flame Orb|Sturdy|rockthrow,calmmind,stealthrock,round|Brave|0,252,180,76,0,0||31,31,31,31,31,0||50|
+|bonsly|Rose Incense|Sturdy|copycat,substitute,stompingtantrum,protect|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bonsly|Light Clay|Rattled|sleeptalk,endure,harden,mimic|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|bonsly|Roseli Berry|Sturdy|lowkick,snore,thief,rockslide|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|bonsly|Kebia Berry|Rock Head|suckerpunch,rockslide,defensecurl,tearfullook|Timid|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|bonsly|Zoom Lens|Rattled|block,harden,copycat,selfdestruct|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bonsly|Roseli Berry|Sturdy|sleeptalk,sandstorm,block,rest|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bonsly|Black Belt|Rock Head|curse,mimic,rocktomb,flail|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|bonsly|Enigma Berry|Rattled|lowkick,rockthrow,rockslide,copycat|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bonsly|Leppa Berry|Rattled|sandtomb,brickbreak,round,rockslide|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|bonsly|Haban Berry|Rattled|doubleedge,attract,rollout,stompingtantrum|Adamant|124,212,0,0,0,172||31,31,31,31,31,31||50|
+|bonsly|Iron Ball|Sturdy|stompingtantrum,doubleedge,rocktomb,rockslide|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bonsly|Electric Seed|Sturdy|substitute,facade,doubleedge,flail|Calm|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|bonsly|Pomeg Berry|Rattled|snore,helpinghand,stompingtantrum,calmmind|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bonsly|Throat Spray|Rattled|uproar,headbutt,rockslide,sandtomb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|budew|Eject Pack|Poison Point|weatherball,substitute,uproar,gigadrain|Calm|0,0,204,0,180,124||31,31,31,31,31,31||50|
+|budew|Rocky Helmet|Leaf Guard|sleeptalk,stunspore,cottonspore,bulletseed|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|budew|Ring Target|Poison Point|substitute,seedbomb,weatherball,stunspore|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|budew|Leftovers|Natural Cure|dazzlinggleam,attract,gigadrain,grassknot|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|budew|Rowap Berry|Natural Cure|gigadrain,stunspore,rest,snore|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|budew|Sticky Barb|Natural Cure|solarbeam,endure,gigadrain,swift|Modest|68,0,76,196,12,156||31,31,31,31,31,31||50|
+|budew|Aguav Berry|Natural Cure|grassknot,solarbeam,weatherball,sunnyday|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|budew|Rindo Berry|Leaf Guard|snore,rest,extrasensory,spikes|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+|budew|Poison Barb|Leaf Guard|sunnyday,grassyglide,leafstorm,dazzlinggleam|Relaxed|0,0,148,252,108,0||31,31,31,31,31,31||50|
+|budew|Salac Berry|Natural Cure|weatherball,shadowball,grassyglide,dazzlinggleam|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|budew|Zoom Lens|Natural Cure|shadowball,grassknot,snore,facade|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|budew|Sea Incense|Leaf Guard|sleeppowder,extrasensory,endure,dazzlinggleam|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|budew|Red Card|Poison Point|attract,gigadrain,sleeppowder,growth|Timid|0,0,0,44,252,212||31,0,31,31,31,31||50|
+|budew|Protective Pads|Leaf Guard|uproar,grassknot,dazzlinggleam,facade|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|budew|Twisted Spoon|Poison Point|dazzlinggleam,lifedew,substitute,razorleaf|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|budew|Iapapa Berry|Poison Point|sunnyday,gigadrain,rest,absorb|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|budew|Mental Herb|Natural Cure|protect,sleeptalk,snore,raindance|Jolly|0,220,0,0,36,252||31,31,31,31,31,31||50|
+|budew|Yache Berry|Leaf Guard|uproar,spikes,sleeptalk,synthesis|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|budew|Zoom Lens|Leaf Guard|gigadrain,raindance,pinmissile,protect|Lax|212,44,252,0,0,0||31,31,31,31,31,31||50|
+|budew|Red Card|Poison Point|endure,attract,swift,grassyglide|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|

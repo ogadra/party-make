@@ -8,28 +8,29 @@ from numpy import random
 import json
 import time
 
-def makeParties(cnt=1):
-    pokemons = open('./data/delibird-single-eng.txt').read().split('\n')
+def makePokemon(specy):
     # format = "NICKNAME|SPECIES|ITEM|ABILITY|MOVES|NATURE|EVS|GENDER|IVS|SHINY|LEVEL|HAPPINESS,POKEBALL,HIDDENPOWERTYPE"
-    party = str()
 
-    for i in range(cnt):
-        pokemon = [''] * 9
-        pokemon[1] = random.choice(pokemons)
+    pokemon = [''] * 9
+    pokemon[1] = specy
 
-        pokemon[2] = item.selectItem(pokemon[1])
-        pokemon[3] = ability.selectability(pokemon[1])
-        # pokemon[4] = stats.generate()
-        pokemon[4] = move.selectMove(pokemon[1])
-        pokemon[5] = stats.showdownpt()
-        pokemon[7] = 50
-        pokemon = list(map(str, pokemon))
-        party += '|'.join(pokemon)
-        if not i == cnt - 1:
-            party += ']'
-        else:
-            pass
+    pokemon[2] = item.selectItem(specy)
+    pokemon[3] = ability.selectability(specy)
+    # pokemon[4] = stats.generate()
+    pokemon[4] = move.selectMove(specy)
+    pokemon[5] = stats.showdownpt()
+    pokemon[7] = 50
+    pokemon = list(map(str, pokemon))
+    party = '|'.join(pokemon)
+
     return party
+
+def makeDataset(pokemon, cnt):
+    dataset = list()
+    for i in range(cnt):
+        dataset.append(makePokemon(pokemon))
+    return dataset
+
 
 
 

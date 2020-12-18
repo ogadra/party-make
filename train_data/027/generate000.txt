@@ -1,0 +1,100 @@
+|fomantis|Kee Berry|Leaf Guard|sweetscent,growth,ingrain,safeguard|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|fomantis|Hard Stone|Contrary|leafstorm,facade,payback,energyball|Adamant|20,108,172,0,148,60||31,31,31,31,31,31||50|
+|fomantis|Eject Pack|Contrary|sleeptalk,defog,sunnyday,bulletseed|Gentle|0,252,0,4,252,0||31,31,31,31,31,31||50|
+|fomantis|Enigma Berry|Contrary|synthesis,defog,rest,solarbeam|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|fomantis|Grassy Seed|Contrary|synthesis,bulletseed,worryseed,sweetscent|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|fomantis|Salac Berry|Leaf Guard|leafstorm,slash,protect,rest|Bold|0,0,180,76,252,0||31,0,31,31,31,31||50|
+|fomantis|Binding Band|Leaf Guard|grassknot,leechlife,defog,round|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|fomantis|Eject Pack|Leaf Guard|snore,grassyglide,sunnyday,defog|Careful|0,196,148,0,164,0||31,31,31,31,31,31||50|
+|fomantis|Dragon Scale|Contrary|leafage,ingrain,fling,sweetscent|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|fomantis|Sharp Beak|Leaf Guard|ingrain,slash,synthesis,leafstorm|Lax|20,252,180,20,0,36||31,31,31,31,31,31||50|
+|fomantis|Payapa Berry|Contrary|slash,sunnyday,grassyglide,fling|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|fomantis|Red Card|Contrary|slash,ingrain,round,sweetscent|Gentle|4,28,0,252,148,76||31,31,31,31,31,31||50|
+|fomantis|Lum Berry|Leaf Guard|attract,aromatherapy,round,grassyglide|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|fomantis|Black Belt|Leaf Guard|magicalleaf,ingrain,swordsdance,aromatherapy|Bold|236,0,244,0,0,28||31,0,31,31,31,31||50|
+|fomantis|Tamato Berry|Leaf Guard|leafstorm,leafage,growth,grassyglide|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|fomantis|Sharp Beak|Leaf Guard|safeguard,gigadrain,protect,weatherball|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|fomantis|Roseli Berry|Leaf Guard|solarbeam,defog,leafstorm,endure|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|fomantis|Safety Goggles|Leaf Guard|protect,leafblade,rest,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|fomantis|Hondew Berry|Contrary|weatherball,gigadrain,leafstorm,poisonjab|Bold|12,0,68,28,252,148||31,0,31,31,31,31||50|
+|fomantis|Hard Stone|Leaf Guard|grassknot,poisonjab,swordsdance,round|Lax|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|shellos|Safety Goggles|Storm Drain|harden,clearsmog,facade,hydropump|Lax|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|shellos|Tamato Berry|Storm Drain|yawn,endure,acidarmor,curse|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|shellos|Lum Berry|Storm Drain|endure,swallow,icebeam,whirlpool|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|shellos|Odd Incense|Sticky Hold|endure,substitute,sleeptalk,blizzard|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|shellos|Terrain Extender|Storm Drain|waterpulse,round,counter,bodyslam|Quiet|252,20,0,236,0,0||31,31,31,31,31,31||50|
+|shellos|Blunder Policy|Sticky Hold|icebeam,skittersmack,surf,protect|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shellos|Rindo Berry|Sand Force|icywind,brine,swallow,endure|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|shellos|Misty Seed|Sand Force|raindance,earthpower,clearsmog,blizzard|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|shellos|Sitrus Berry|Sticky Hold|yawn,protect,recover,rest|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|shellos|Yache Berry|Storm Drain|recover,whirlpool,mirrorcoat,clearsmog|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|shellos|Throat Spray|Storm Drain|mudshot,hydropump,sleeptalk,blizzard|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|shellos|Oran Berry|Sand Force|skittersmack,watergun,rest,spitup|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+|shellos|Soft Sand|Storm Drain|memento,acidarmor,snore,muddywater|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|shellos|Aspear Berry|Storm Drain|protect,substitute,stockpile,snore|Lax|148,0,252,108,0,0||31,31,31,31,31,31||50|
+|shellos|Cell Battery|Sand Force|whirlpool,blizzard,counter,mudshot|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|shellos|Misty Seed|Storm Drain|bodyslam,skittersmack,swallow,hail|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|shellos|Charti Berry|Storm Drain|sludge,muddywater,substitute,stockpile|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|shellos|Dragon Scale|Storm Drain|curse,bodyslam,waterpulse,yawn|Modest|132,0,188,188,0,0||31,0,31,31,31,31||50|
+|shellos|Luminous Moss|Sand Force|amnesia,icebeam,earthpower,whirlpool|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|shellos|Bright Powder|Storm Drain|raindance,recover,curse,ancientpower|Bold|204,0,164,36,36,68||31,0,31,31,31,31||50|
+|abra|Wave Incense|Magic Guard|firepunch,trick,trickroom,encore|Timid|76,0,12,180,68,172||31,31,31,31,31,31||50|
+|abra|Utility Umbrella|Synchronize|energyball,taunt,foulplay,triattack|Modest|252,0,0,84,172,0||31,0,31,31,31,31||50|
+|abra|Scope Lens|Synchronize|rest,raindance,toxic,speedswap|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|abra|Lax Incense|Inner Focus|rest,lightscreen,bodyslam,protect|Sassy|0,0,4,252,252,0||31,31,31,31,31,31||50|
+|abra|Twisted Spoon|Synchronize|wonderroom,trickroom,headbutt,zenheadbutt|Modest|0,0,12,252,0,244||31,0,31,31,31,31||50|
+|abra|Jaboca Berry|Synchronize|lightscreen,foulplay,grassknot,energyball|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|abra|Life Orb|Inner Focus|firepunch,psyshock,calmmind,headbutt|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|abra|Coba Berry|Synchronize|speedswap,trickroom,irontail,round|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|abra|Petaya Berry|Synchronize|magicroom,dazzlinggleam,sunnyday,megakick|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|abra|Rock Incense|Inner Focus|powerswap,headbutt,round,megakick|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|abra|Tamato Berry|Synchronize|thunderwave,magiccoat,rest,energyball|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|abra|Rowap Berry|Synchronize|safeguard,dreameater,magiccoat,icepunch|Sassy|0,0,4,252,252,0||31,31,31,31,31,0||50|
+|abra|Power Herb|Synchronize|speedswap,substitute,magiccoat,taunt|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|abra|Tamato Berry|Magic Guard|substitute,thief,thunderpunch,round|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|abra|Dragon Scale|Magic Guard|foulplay,wonderroom,drainpunch,megapunch|Lonely|12,252,0,52,92,100||31,31,31,31,31,31||50|
+|abra|Kebia Berry|Synchronize|attract,headbutt,thunderwave,guardsplit|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|abra|Life Orb|Inner Focus|raindance,irontail,guardswap,grassknot|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|abra|Ring Target|Inner Focus|guardsplit,reflect,sunnyday,round|Impish|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|abra|Safety Goggles|Magic Guard|grassknot,foulplay,psychicterrain,snore|Serious|156,252,0,0,0,100||31,31,31,31,31,31||50|
+|abra|King's Rock|Synchronize|trickroom,sunnyday,reflect,shadowball|Timid|52,0,20,36,252,148||31,0,31,31,31,31||50|
+|charmander|Wiki Berry|Solar Power|swift,dig,crunch,dragonclaw|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|charmander|Miracle Seed|Solar Power|growl,firepledge,thunderpunch,flamethrower|Lax|132,124,252,0,0,0||31,31,31,31,31,31||50|
+|charmander|Shed Shell|Solar Power|ember,bodyslam,rocktomb,sunnyday|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|charmander|Metal Coat|Blaze|endure,snore,flareblitz,swift|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|charmander|Charcoal|Blaze|outrage,megapunch,fling,reflect|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|charmander|Kee Berry|Blaze|flamethrower,fling,dragonrush,firefang|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|charmander|Yache Berry|Solar Power|megakick,rocktomb,facade,dragonrage|Quiet|148,0,196,164,0,0||31,31,31,31,31,0||50|
+|charmander|Quick Claw|Solar Power|beatup,dragonpulse,snore,dragonrage|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|charmander|Jaboca Berry|Blaze|ember,facade,ancientpower,round|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|charmander|Black Glasses|Blaze|thunderpunch,helpinghand,rocktomb,slash|Careful|0,0,68,0,252,188||31,31,31,31,31,31||50|
+|charmander|Chople Berry|Blaze|flareblitz,beatup,sleeptalk,firefang|Bold|164,0,252,0,0,92||31,0,31,31,31,31||50|
+|charmander|Charcoal|Solar Power|firepunch,helpinghand,brickbreak,dragonclaw|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+|charmander|Smooth Rock|Solar Power|dig,facade,sunnyday,firespin|Bold|36,0,252,220,0,0||31,0,31,31,31,31||50|
+|charmander|Shed Shell|Blaze|round,shadowclaw,endure,rocktomb|Calm|92,0,92,12,252,60||31,31,31,31,31,31||50|
+|charmander|Grassy Seed|Blaze|headbutt,ember,dragonrush,reflect|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|charmander|Light Clay|Blaze|seismictoss,megapunch,round,irontail|Calm|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|charmander|Sharp Beak|Solar Power|toxic,firefang,brickbreak,sunnyday|Quiet|0,0,12,244,252,0||31,31,31,31,31,0||50|
+|charmander|Leftovers|Blaze|substitute,flareblitz,workup,dragonclaw|Quiet|0,4,252,252,0,0||31,31,31,31,31,0||50|
+|charmander|Wise Glasses|Blaze|brickbreak,sleeptalk,inferno,metalclaw|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|charmander|Misty Seed|Solar Power|fling,snore,outrage,bite|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|torchic||Blaze|ember,quickattack,overheat,flareblitz|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|torchic|Terrain Extender|Blaze|firespin,overheat,rest,flareblitz|Mild|124,0,0,252,132,0||31,31,31,31,31,31||50|
+|torchic|Oran Berry|Blaze|sleeptalk,featherdance,round,rocktomb|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|torchic|Lansat Berry|Blaze|megakick,firepledge,sleeptalk,snore|Bold|52,0,220,236,0,0||31,31,31,31,31,31||50|
+|torchic|Lagging Tail|Blaze|peck,sunnyday,bounce,dig|Sassy|0,0,252,252,4,0||31,31,31,31,31,0||50|
+|torchic|Assault Vest|Blaze|firespin,flareblitz,reversal,agility|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|torchic|Sticky Barb|Speed Boost|endure,sandattack,featherdance,rocktomb|Naive|180,44,172,36,0,76||31,31,31,31,31,31||50|
+|torchic|Air Balloon|Blaze|overheat,rocktomb,fireblast,counter|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|torchic|Payapa Berry|Speed Boost|assurance,growl,fireblast,flamethrower|Lonely|156,236,0,116,0,0||31,31,31,31,31,31||50|
+|torchic|Black Sludge|Speed Boost|bounce,endure,peck,firepledge|Hasty|0,0,0,20,236,252||31,31,31,31,31,31||50|
+|torchic|Icy Rock|Blaze|assurance,quickattack,bounce,ember|Jolly|84,52,92,0,28,252||31,31,31,31,31,31||50|
+|torchic|Liechi Berry|Speed Boost|sunnyday,workup,counter,rest|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|torchic|Pixie Plate|Speed Boost|featherdance,willowisp,snore,nightslash|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|torchic|Expert Belt|Speed Boost|counter,facade,endure,bodyslam|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|torchic|Razor Claw|Speed Boost|endure,aerialace,ember,megakick|Serious|0,4,0,252,0,252||31,31,31,31,31,31||50|
+|torchic|Terrain Extender|Blaze|curse,nightslash,shadowclaw,facade|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|torchic|Luminous Moss|Blaze|megakick,assurance,feint,featherdance|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|torchic|Shed Shell|Blaze|quickattack,firepledge,bodyslam,curse|Adamant|0,236,252,0,0,20||31,31,31,31,31,31||50|
+|torchic|Aguav Berry|Speed Boost|featherdance,heatwave,assurance,ember|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|torchic|Oran Berry|Speed Boost|nightslash,scratch,sunnyday,firespin|Lonely|44,84,0,44,108,228||31,31,31,31,31,31||50|

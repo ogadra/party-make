@@ -1,0 +1,100 @@
+|spheal|Assault Vest|Oblivious|curse,earthquake,round,substitute|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|spheal|Silk Scarf|Thick Fat|rollout,surf,aurorabeam,icywind|Timid|68,0,188,52,20,180||31,0,31,31,31,31||50|
+|spheal|Mental Herb|Ice Body|sleeptalk,fissure,bellydrum,defensecurl|Sassy|0,4,0,252,252,0||31,31,31,31,31,0||50|
+|spheal|Wise Glasses|Thick Fat|attract,rollout,spitup,waterpulse|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|spheal|Full Incense|Thick Fat|earthquake,steelroller,watergun,fissure|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|spheal|Charcoal|Thick Fat|blizzard,hail,earthquake,rollout|Serious|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|spheal|Choice Band|Oblivious|swallow,rocktomb,powdersnow,bodyslam|Rash|0,172,0,252,0,84||31,31,31,31,31,31||50|
+|spheal|Ganlon Berry|Ice Body|rockslide,snore,bellydrum,brine|Naive|0,252,0,52,0,204||31,31,31,31,31,31||50|
+|spheal|Lax Incense|Thick Fat|whirlpool,rockslide,curse,growl|Impish|0,0,252,0,180,76||31,31,31,31,31,31||50|
+|spheal|Jaboca Berry|Oblivious|encore,brine,protect,fissure|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|spheal|Utility Umbrella|Oblivious|steelroller,rockslide,yawn,curse|Serious|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|spheal|Metal Coat|Thick Fat|icebeam,substitute,yawn,powdersnow|Relaxed|20,28,252,28,180,0||31,31,31,31,31,0||50|
+|spheal|Smooth Rock|Oblivious|protect,stockpile,hail,bellydrum|Relaxed|196,172,140,0,0,0||31,31,31,31,31,31||50|
+|spheal|Petaya Berry|Ice Body|spitup,sleeptalk,encore,yawn|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|spheal|Hondew Berry|Ice Body|fissure,aurorabeam,icebeam,brine|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|spheal|Black Belt|Thick Fat|rollout,sleeptalk,bellydrum,bulldoze|Naughty|164,196,0,148,0,0||31,31,31,31,31,31||50|
+|spheal|Apicot Berry|Thick Fat|powdersnow,aquaring,rollout,endure|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|spheal|Psychic Seed|Oblivious|swallow,whirlpool,brine,earthquake|Relaxed|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|spheal|Tamato Berry|Thick Fat|irontail,watergun,sheercold,raindance|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|spheal|Heat Rock|Thick Fat|stockpile,rockslide,dive,surf|Sassy|212,44,0,0,252,0||31,31,31,31,31,0||50|
+|snorunt|Focus Sash|Moody|icebeam,round,icywind,attract|Calm|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|snorunt|Ring Target|Inner Focus|leer,rollout,round,doubleteam|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|snorunt|Enigma Berry|Ice Body|hail,astonish,blizzard,iceshard|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|snorunt|Mystic Water|Moody|sleeptalk,headbutt,icebeam,doubleteam|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|snorunt|Damp Rock|Ice Body|raindance,safeguard,icywind,hex|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|snorunt|Kebia Berry|Ice Body|endure,icywind,weatherball,astonish|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|snorunt|Heat Rock|Moody|rest,shadowball,sleeptalk,raindance|Calm|252,0,0,4,0,252||31,0,31,31,31,31||50|
+|snorunt|Tamato Berry|Moody|rollout,leer,raindance,safeguard|Impish|44,92,196,0,84,92||31,31,31,31,31,31||50|
+|snorunt|Cheri Berry|Moody|bodyslam,headbutt,facade,switcheroo|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+|snorunt|Smooth Rock|Ice Body|headbutt,sleeptalk,doubleteam,icywind|Impish|44,60,140,0,68,196||31,31,31,31,31,31||50|
+|snorunt|Aspear Berry|Moody|safeguard,crunch,avalanche,spikes|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|snorunt|Tamato Berry|Inner Focus|raindance,lightscreen,substitute,spikes|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|snorunt|Safety Goggles|Ice Body|crunch,bite,astonish,rest|Quiet|0,0,100,252,156,0||31,31,31,31,31,0||50|
+|snorunt|Coba Berry|Inner Focus|crunch,iceshard,blizzard,disable|Timid|0,0,0,164,92,252||31,0,31,31,31,31||50|
+|snorunt|Utility Umbrella|Inner Focus|safeguard,switcheroo,bodyslam,sleeptalk|Bold|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|snorunt|Kelpsy Berry|Ice Body|sleeptalk,icefang,hex,faketears|Naive|44,36,252,68,0,108||31,31,31,31,31,31||50|
+|snorunt|Rose Incense|Ice Body|blizzard,icefang,lightscreen,icebeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|snorunt||Inner Focus|iceshard,substitute,lightscreen,protect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|snorunt|Shell Bell|Inner Focus|icywind,iceshard,snore,switcheroo|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|snorunt|Absorb Bulb|Ice Body|block,blizzard,round,safeguard|Rash|0,156,0,252,0,100||31,31,31,31,31,31||50|
+|pichu|Eject Pack|Lightning Rod|present,helpinghand,tickle,tailwhip|Modest|28,0,228,132,68,52||31,31,31,31,31,31||50|
+|pichu|Razor Claw|Static|playrough,rest,reversal,electricterrain|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|pichu|Grip Claw|Lightning Rod|disarmingvoice,swift,facade,protect|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|pichu|Custap Berry|Static|sweetkiss,round,charm,grassknot|Relaxed|0,140,116,252,0,0||31,31,31,31,31,0||50|
+|pichu|Snowball|Lightning Rod|attract,surf,present,substitute|Serious|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|pichu|Oran Berry|Static|megakick,fling,lightscreen,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|pichu|Figy Berry|Static|sweetkiss,voltswitch,electricterrain,tailwhip|Relaxed|0,0,132,124,252,0||31,31,31,31,31,31||50|
+|pichu|White Herb|Static|disarmingvoice,wildcharge,thunderbolt,surf|Bold|0,0,252,196,0,60||31,0,31,31,31,31||50|
+|pichu|Lagging Tail|Static|endure,round,charge,charm|Modest|44,0,0,252,212,0||31,0,31,31,31,31||50|
+|pichu|Black Sludge|Lightning Rod|encore,surf,fling,uproar|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pichu|Ganlon Berry|Static|playrough,thunderbolt,irontail,tailwhip|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|pichu|Magnet|Static|bodyslam,flail,charge,reflect|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|pichu|Oran Berry|Static|substitute,attract,round,electricterrain|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|pichu|Black Glasses|Static|fakeout,nuzzle,thunder,thundershock|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|pichu|Toxic Orb|Lightning Rod|tailwhip,wish,protect,sleeptalk|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pichu|Utility Umbrella|Lightning Rod|grassknot,thunderbolt,rest,reversal|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|pichu|Aspear Berry|Lightning Rod|playrough,tickle,megapunch,electricterrain|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|pichu|Twisted Spoon|Static|charm,electricterrain,playnice,reflect|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|pichu|Big Root|Lightning Rod|megakick,protect,charge,attract|Lonely|0,252,0,28,0,228||31,31,31,31,31,31||50|
+|pichu|Assault Vest|Lightning Rod|protect,sleeptalk,round,uproar|Serious|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|zigzagoongalar|Payapa Berry|Gluttony|thief,helpinghand,dig,protect|Quiet|44,76,132,252,4,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Air Balloon|Gluttony|protect,sunnyday,trick,bodyslam|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Grip Claw|Pickup|raindance,payback,trick,faketears|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|zigzagoongalar|White Herb|Quick Feet|seedbomb,lashout,pinmissile,snarl|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Odd Incense|Quick Feet|shadowball,takedown,pinmissile,irontail|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|zigzagoongalar|Room Service|Pickup|dig,payback,scaryface,assurance|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|zigzagoongalar|Safety Goggles|Pickup|snarl,icebeam,taunt,pinmissile|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Black Belt|Pickup|scaryface,sleeptalk,headbutt,retaliate|Calm|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Flame Orb|Gluttony|bodyslam,raindance,taunt,quickguard|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Wide Lens|Gluttony|icebeam,scaryface,substitute,mudshot|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Haban Berry|Gluttony|gunkshot,partingshot,retaliate,surf|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|zigzagoongalar|Tamato Berry|Quick Feet|protect,hypervoice,swift,faketears|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|zigzagoongalar|Micle Berry|Quick Feet|thunderbolt,thunder,partingshot,seedbomb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|zigzagoongalar|Throat Spray|Quick Feet|headbutt,screech,hypervoice,fling|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|zigzagoongalar|Normal Gem|Pickup|sleeptalk,quickguard,knockoff,thunderwave|Timid|100,0,156,0,252,0||31,0,31,31,31,31||50|
+|zigzagoongalar|Kee Berry|Quick Feet|snore,rest,thief,substitute|Bold|164,0,236,0,108,0||31,31,31,31,31,31||50|
+|zigzagoongalar|Scope Lens|Pickup|headbutt,gunkshot,grassknot,hypervoice|Lax|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|zigzagoongalar|Safety Goggles|Quick Feet|assurance,endure,lashout,surf|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|zigzagoongalar|Miracle Seed|Quick Feet|thief,protect,shadowball,thunderbolt|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|zigzagoongalar|Hard Stone|Quick Feet|attract,substitute,leer,quickguard|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|wingull|Shell Bell|Rain Dish|gust,airslash,brine,mist|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|wingull|Pecha Berry|Hydration|uproar,aquaring,protect,growl|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wingull|Chesto Berry|Keen Eye|aerialace,soak,waterpulse,liquidation|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|wingull|Pomeg Berry|Hydration|raindance,icebeam,dualwingbeat,agility|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|wingull|Custap Berry|Hydration|blizzard,gust,brine,aerialace|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|wingull|Silk Scarf|Hydration|gust,swift,blizzard,soak|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wingull|Dragon Scale|Rain Dish|hail,aerialace,swift,endure|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+|wingull|Occa Berry|Keen Eye|brine,dualwingbeat,mist,supersonic|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|wingull|Coba Berry|Rain Dish|substitute,gust,wideguard,thief|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|wingull|Sea Incense|Keen Eye|attract,snore,agility,hail|Brave|60,236,0,212,0,0||31,31,31,31,31,0||50|
+|wingull|Misty Seed|Hydration|airslash,wingattack,aquaring,uturn|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|wingull|Colbur Berry|Rain Dish|sleeptalk,wingattack,scald,facade|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|wingull|Jaboca Berry|Hydration|aircutter,wideguard,aquaring,rest|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|wingull|Big Root|Hydration|scald,uproar,raindance,aerialace|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|wingull|Dragon Scale|Keen Eye|supersonic,hail,aerialace,watergun|Sassy|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|wingull|Sitrus Berry|Keen Eye|supersonic,attract,hurricane,blizzard|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|wingull|Silver Powder|Rain Dish|uproar,wideguard,hail,growl|Calm|84,0,28,124,252,20||31,31,31,31,31,31||50|
+|wingull|Kee Berry|Rain Dish|aquaring,wideguard,liquidation,attract|Modest|0,0,20,252,236,0||31,0,31,31,31,31||50|
+|wingull|Coba Berry|Rain Dish|airslash,hail,brine,icebeam|Jolly|228,0,28,0,0,252||31,31,31,31,31,31||50|
+|wingull|Life Orb|Rain Dish|icywind,agility,brine,facade|Adamant|0,36,252,0,0,220||31,31,31,31,31,31||50|

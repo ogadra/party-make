@@ -1,0 +1,100 @@
+|marill|Big Root|Huge Power|slam,raindance,rest,faketears|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|marill|Kebia Berry|Huge Power|slam,supersonic,encore,facade|Impish|156,76,76,0,148,52||31,31,31,31,31,31||50|
+|marill|Aspear Berry|Sap Sipper|superpower,soak,facade,drainingkiss|Calm|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|marill|Enigma Berry|Thick Fat|helpinghand,tailwhip,watergun,aquatail|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|marill|Black Belt|Huge Power|slam,amnesia,tailwhip,present|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|marill|Smooth Rock|Huge Power|supersonic,sleeptalk,tailwhip,facade|Bold|0,0,252,52,0,204||31,0,31,31,31,31||50|
+|marill|Never-Melt Ice|Sap Sipper|hail,uproar,copycat,swift|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|marill|Metal Coat|Sap Sipper|steelroller,encore,bellydrum,workup|Impish|84,0,172,0,0,252||31,31,31,31,31,31||50|
+|marill|Coba Berry|Thick Fat|drainingkiss,waterfall,sing,muddywater|Calm|0,0,0,252,252,4||31,31,31,31,31,31||50|
+|marill|Roseli Berry|Thick Fat|tickle,aquaring,grassknot,dive|Brave|244,148,4,84,28,0||31,31,31,31,31,31||50|
+|marill|Tamato Berry|Thick Fat|snore,tickle,drainingkiss,superpower|Calm|0,0,0,252,252,4||31,31,31,31,31,31||50|
+|marill|Passho Berry|Sap Sipper|grassknot,hail,rest,encore|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|marill|Enigma Berry|Thick Fat|aquaring,sing,endure,round|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|marill|Heat Rock|Thick Fat|scald,tackle,icywind,sing|Bold|0,0,4,252,0,252||31,0,31,31,31,31||50|
+|marill|Lum Berry|Thick Fat|endure,surf,dig,scald|Jolly|0,84,172,0,0,252||31,31,31,31,31,31||50|
+|marill|Silver Powder|Sap Sipper|tailwhip,raindance,defensecurl,encore|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|marill|Figy Berry|Sap Sipper|futuresight,copycat,snore,perishsong|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|marill|Shell Bell|Thick Fat|bellydrum,sing,defensecurl,mistyexplosion|Brave|108,164,52,108,76,0||31,31,31,31,31,31||50|
+|marill|Safety Goggles|Sap Sipper|icepunch,faketears,workup,sing|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|marill|Destiny Knot|Thick Fat|megapunch,superpower,round,hypervoice|Brave|68,188,252,0,0,0||31,31,31,31,31,0||50|
+|yamaskgalar|Kee Berry|Wandering Spirit|faketears,nightshade,round,rest|Calm|164,0,0,0,180,164||31,0,31,31,31,31||50|
+|yamaskgalar|Leftovers|Wandering Spirit|toxicspikes,darkpulse,earthquake,attract|Relaxed|180,0,252,0,76,0||31,31,31,31,31,0||50|
+|yamaskgalar|Leppa Berry|Wandering Spirit|endure,willowisp,attract,calmmind|Naive|204,0,0,228,0,76||31,31,31,31,31,31||50|
+|yamaskgalar|Silver Powder|Wandering Spirit|powersplit,facade,sandstorm,destinybond|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|yamaskgalar|Sticky Barb|Wandering Spirit|meanlook,rest,faketears,trick|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|yamaskgalar|Mental Herb|Wandering Spirit|astonish,sleeptalk,sandstorm,snore|Impish|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|yamaskgalar|Kasib Berry|Wandering Spirit|brutalswing,craftyshield,energyball,sleeptalk|Brave|0,252,140,0,116,0||31,31,31,31,31,31||50|
+|yamaskgalar|Coba Berry|Wandering Spirit|astonish,powersplit,willowisp,poltergeist|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|yamaskgalar|Eviolite|Wandering Spirit|haze,hex,round,trick|Jolly|0,196,60,0,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Assault Vest|Wandering Spirit|slam,astonish,haze,willowisp|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Poison Barb|Wandering Spirit|shadowball,attract,hex,allyswitch|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|yamaskgalar|Eject Button|Wandering Spirit|substitute,rocktomb,shadowball,curse|Sassy|252,252,0,0,4,0||31,31,31,31,31,0||50|
+|yamaskgalar|Roseli Berry|Wandering Spirit|willowisp,round,toxicspikes,protect|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|yamaskgalar|Quick Claw|Wandering Spirit|sleeptalk,substitute,endure,meanlook|Relaxed|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|yamaskgalar|Rocky Helmet|Wandering Spirit|payback,protect,rocktomb,safeguard|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|yamaskgalar|Electric Seed|Wandering Spirit|poltergeist,haze,nastyplot,endure|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Black Glasses|Wandering Spirit|substitute,thief,willowisp,energyball|Adamant|44,196,68,0,108,92||31,31,31,31,31,31||50|
+|yamaskgalar|Icy Rock|Wandering Spirit|rest,calmmind,sleeptalk,trick|Bold|0,0,4,252,0,252||31,0,31,31,31,31||50|
+|yamaskgalar|Zoom Lens|Wandering Spirit|craftyshield,skillswap,nastyplot,rest|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Never-Melt Ice|Wandering Spirit|wonderroom,powersplit,round,allyswitch|Calm|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|bronzor|Eject Pack|Heavy Metal|solarbeam,rockslide,skillswap,endure|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|bronzor|Focus Sash|Levitate|endure,substitute,calmmind,reflect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bronzor|Kasib Berry|Heavy Metal|bulldoze,lightscreen,payback,flashcannon|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|bronzor|Rock Incense|Levitate|futuresight,flashcannon,sandstorm,stealthrock|Naughty|124,252,0,132,0,0||31,31,31,31,31,31||50|
+|bronzor|Charcoal|Levitate|calmmind,trickroom,sunnyday,extrasensory|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|bronzor|Full Incense|Heatproof|gyroball,raindance,facade,trick|Adamant|28,228,252,0,0,0||31,31,31,31,31,31||50|
+|bronzor|Salac Berry|Levitate|wonderroom,rockslide,rocktomb,protect|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|bronzor|Ganlon Berry|Heatproof|heavyslam,confusion,steelroller,earthquake|Bold|204,0,228,0,76,0||31,31,31,31,31,31||50|
+|bronzor|Colbur Berry|Levitate|shadowball,sleeptalk,heavyslam,grassknot|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|bronzor|Scope Lens|Levitate|grassknot,gyroball,rocktomb,metalsound|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|bronzor|Figy Berry|Heavy Metal|sunnyday,imprison,powerswap,guardswap|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|bronzor|Occa Berry|Heavy Metal|confusion,sunnyday,psyshock,rest|Calm|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|bronzor|Enigma Berry|Levitate|rockslide,endure,confuseray,skillswap|Relaxed|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|bronzor|Light Clay|Levitate|protect,sleeptalk,facade,metalsound|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|bronzor|Throat Spray|Heavy Metal|imprison,substitute,safeguard,hex|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bronzor|Charcoal|Heatproof|confuseray,futuresight,calmmind,sleeptalk|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bronzor|Leftovers|Levitate|substitute,raindance,calmmind,guardswap|Adamant|0,212,44,0,0,252||31,31,31,31,31,31||50|
+|bronzor|Silk Scarf|Levitate|powerswap,bulldoze,steelroller,rocktomb|Timid|252,0,196,0,0,60||31,31,31,31,31,31||50|
+|bronzor|Float Stone|Heavy Metal|guardswap,calmmind,rest,earthquake|Lax|244,92,0,0,0,172||31,31,31,31,31,31||50|
+|bronzor|Shuca Berry|Heavy Metal|steelroller,trick,hex,psychic|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandygast|Charti Berry|Water Compaction|attract,brine,bulldoze,stealthrock|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|sandygast|Dragon Fang|Sand Veil|gigadrain,snore,shadowball,hypnosis|Modest|0,0,252,244,12,0||31,0,31,31,31,31||50|
+|sandygast|Qualot Berry|Sand Veil|poltergeist,facade,round,earthpower|Timid|28,0,124,156,4,196||31,0,31,31,31,31||50|
+|sandygast|Rawst Berry|Water Compaction|sludgebomb,substitute,stealthrock,facade|Naive|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|sandygast|Air Balloon|Water Compaction|attract,hypnosis,earthquake,sludgebomb|Impish|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|sandygast|Spell Tag|Water Compaction|endure,absorb,energyball,round|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|sandygast|Wave Incense|Sand Veil|astonish,snore,stoneedge,rest|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|sandygast|Electric Seed|Sand Veil|irondefense,sandstorm,shoreup,poltergeist|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|sandygast|Sticky Barb|Water Compaction|stealthrock,gigadrain,earthpower,brine|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sandygast|Rindo Berry|Sand Veil|scorchingsands,sleeptalk,sandattack,gigadrain|Careful|36,236,0,0,236,0||31,31,31,31,31,31||50|
+|sandygast|Roseli Berry|Water Compaction|irondefense,substitute,poltergeist,earthpower|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|sandygast|Focus Band|Water Compaction|sandstorm,energyball,earthquake,megadrain|Lonely|0,252,0,124,0,132||31,31,31,31,31,31||50|
+|sandygast|Dragon Fang|Water Compaction|shoreup,earthpower,sandattack,endure|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandygast|Icy Rock|Water Compaction|bulldoze,mudshot,attract,sandattack|Relaxed|0,0,164,92,252,0||31,31,31,31,31,31||50|
+|sandygast|Kebia Berry|Water Compaction|amnesia,sandattack,gigadrain,rockslide|Careful|0,252,0,0,4,252||31,31,31,31,31,31||50|
+|sandygast|Lagging Tail|Sand Veil|snore,poltergeist,spitup,rest|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Petaya Berry|Sand Veil|stockpile,psychic,shoreup,substitute|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sandygast|Eject Button|Water Compaction|stoneedge,shoreup,brine,ancientpower|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|sandygast|Sticky Barb|Sand Veil|facade,curse,attract,brine|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandygast|Mago Berry|Water Compaction|substitute,earthquake,rest,brine|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|azurill|Babiri Berry|Thick Fat|lightscreen,hail,aquajet,whirlpool|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|azurill|Apicot Berry|Sap Sipper|snore,muddywater,encore,waterfall|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|azurill|Shell Bell|Huge Power|lightscreen,muddywater,endure,sing|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|azurill|Absorb Bulb|Huge Power|watergun,charm,surf,uproar|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|azurill|Yache Berry|Huge Power|facade,faketears,blizzard,encore|Careful|0,252,0,0,4,252||31,31,31,31,31,31||50|
+|azurill|Normal Gem|Huge Power|raindance,rest,irontail,bubblebeam|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|azurill|Pecha Berry|Huge Power|brutalswing,waterfall,uproar,bodyslam|Modest|196,0,0,220,0,92||31,0,31,31,31,31||50|
+|azurill|Apicot Berry|Thick Fat|tickle,copycat,facade,raindance|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|azurill|Figy Berry|Thick Fat|icywind,brutalswing,bounce,splash|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|azurill|Rocky Helmet|Sap Sipper|raindance,snore,protect,rest|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|azurill|Air Balloon|Huge Power|copycat,scald,lightscreen,substitute|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|azurill|Weakness Policy|Huge Power|present,encore,hail,hypervoice|Adamant|0,252,28,0,228,0||31,31,31,31,31,31||50|
+|azurill|Rowap Berry|Huge Power|workup,slam,encore,bubblebeam|Impish|68,0,252,0,188,0||31,31,31,31,31,31||50|
+|azurill|White Herb|Thick Fat|encore,hail,icywind,perishsong|Sassy|20,156,12,172,148,0||31,31,31,31,31,31||50|
+|azurill|Grepa Berry|Thick Fat|hail,icebeam,copycat,watergun|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|azurill|Odd Incense|Huge Power|lightscreen,surf,tickle,raindance|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|azurill|Silk Scarf|Huge Power|snore,supersonic,muddywater,tickle|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|azurill|Silver Powder|Sap Sipper|sleeptalk,encore,surf,workup|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|azurill|Persim Berry|Thick Fat|workup,slam,raindance,charm|Jolly|44,180,60,0,28,196||31,31,31,31,31,31||50|
+|azurill|Razor Claw|Thick Fat|watergun,slam,raindance,tickle|Relaxed|4,252,0,252,0,0||31,31,31,31,31,31||50|

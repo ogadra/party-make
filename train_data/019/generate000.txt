@@ -1,0 +1,100 @@
+|trapinch|Roseli Berry|Sheer Force|hyperbeam,focusenergy,rockslide,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|trapinch|Grip Claw|Hyper Cutter|bite,sunnyday,firstimpression,hyperbeam|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|trapinch|Grip Claw|Sheer Force|sleeptalk,solarbeam,mudshot,crunch|Impish|44,0,252,0,212,0||31,31,31,31,31,31||50|
+|trapinch|Cell Battery|Sheer Force|scorchingsands,mudshot,gust,focusenergy|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|trapinch|Wide Lens|Hyper Cutter|attract,feint,laserfocus,sunnyday|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|trapinch|Rowap Berry|Sheer Force|earthpower,solarbeam,gust,earthquake|Relaxed|4,0,252,252,0,0||31,31,31,31,31,0||50|
+|trapinch|Icy Rock|Arena Trap|endure,bugbite,gust,furycutter|Impish|108,0,244,0,156,0||31,31,31,31,31,31||50|
+|trapinch|Spell Tag|Arena Trap|firstimpression,fissure,snore,laserfocus|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trapinch|Wiki Berry|Arena Trap|solarbeam,sandtomb,hyperbeam,laserfocus|Serious|0,0,0,252,4,252||31,31,31,31,31,31||50|
+|trapinch|Destiny Knot|Arena Trap|earthpower,sandtomb,attract,sunnyday|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|trapinch|Protector|Arena Trap|attract,superpower,facade,sunnyday|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trapinch|Red Card|Hyper Cutter|mudslap,snore,dig,feint|Gentle|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|trapinch|Float Stone|Hyper Cutter|mudslap,facade,sandtomb,dig|Impish|0,252,0,0,4,252||31,31,31,31,31,31||50|
+|trapinch|Choice Scarf|Arena Trap|attract,mudshot,superpower,sleeptalk|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trapinch|Metronome|Arena Trap|dig,snore,facade,gigadrain|Relaxed|44,52,212,164,36,0||31,31,31,31,31,31||50|
+|trapinch|Room Service|Arena Trap|firstimpression,furycutter,substitute,gigadrain|Brave|0,252,0,0,252,4||31,31,31,31,31,0||50|
+|trapinch|Scope Lens|Sheer Force|sandstorm,bugbite,mudslap,quickattack|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trapinch|Rocky Helmet|Sheer Force|feint,rocktomb,earthpower,quickattack|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|trapinch|Iapapa Berry|Arena Trap|rest,hyperbeam,bugbite,solarbeam|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|trapinch|Haban Berry|Sheer Force|flail,crunch,hyperbeam,attract|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|snom|Magnet|Shield Dust|snore,endure,icywind,substitute|Mild|228,0,0,252,0,28||31,31,31,31,31,31||50|
+|snom|Mago Berry|Shield Dust|sleeptalk,endure,strugglebug,attract|Adamant|228,252,28,0,0,0||31,31,31,31,31,31||50|
+|snom|Custap Berry|Shield Dust|icywind,round,iciclespear,mirrorcoat|Relaxed|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|snom|Muscle Band|Ice Scales|bugbuzz,strugglebug,powdersnow,attract|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|snom|Metal Coat|Shield Dust|strugglebug,icywind,sleeptalk,mirrorcoat|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|snom|Sharp Beak|Ice Scales|icywind,round,mirrorcoat,strugglebug|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|snom|Kelpsy Berry|Ice Scales|snore,iciclespear,endure,skittersmack|Timid|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|snom|Power Herb|Shield Dust|fairywind,icywind,strugglebug,powdersnow|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|snom|Lagging Tail|Shield Dust|fairywind,skittersmack,bugbuzz,powdersnow|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|snom|Rock Incense|Shield Dust|fairywind,protect,icywind,sleeptalk|Bold|52,0,252,52,36,116||31,0,31,31,31,31||50|
+|snom|Wave Incense|Ice Scales|bugbite,facade,attract,endure|Bold|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|snom|Aguav Berry|Shield Dust|snore,powdersnow,round,rest|Relaxed|0,0,244,188,76,0||31,31,31,31,31,0||50|
+|snom|Throat Spray|Shield Dust|bugbuzz,rest,facade,mirrorcoat|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|snom|Choice Scarf|Shield Dust|round,bugbite,strugglebug,substitute|Sassy|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|snom|Qualot Berry|Ice Scales|protect,bugbuzz,substitute,snore|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|snom|Iron Ball|Ice Scales|iciclespear,snore,powdersnow,facade|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|snom|Odd Incense|Ice Scales|protect,fairywind,skittersmack,strugglebug|Careful|0,0,252,0,188,68||31,31,31,31,31,31||50|
+|snom|Wiki Berry|Shield Dust|fairywind,snore,bugbite,attract|Careful|92,0,196,0,0,220||31,31,31,31,31,31||50|
+|snom|White Herb|Shield Dust|attract,protect,sleeptalk,snore|Naive|12,0,0,252,0,244||31,31,31,31,31,31||50|
+|snom|Eject Button|Ice Scales|substitute,icywind,fairywind,powdersnow|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|lotad|Leftovers|Rain Dish|whirlpool,sunnyday,bulletseed,sweetscent|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|lotad|Zoom Lens|Own Tempo|naturepower,rest,attract,zenheadbutt|Bold|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|lotad|Choice Band|Swift Swim|sunnyday,astonish,mist,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|lotad|Metronome|Own Tempo|swordsdance,protect,astonish,zenheadbutt|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+|lotad|Black Glasses|Rain Dish|astonish,icywind,substitute,hail|Lonely|100,252,0,156,0,0||31,31,31,31,31,31||50|
+|lotad|Psychic Seed|Rain Dish|surf,endure,icywind,tickle|Modest|188,0,0,252,68,0||31,0,31,31,31,31||50|
+|lotad|Kelpsy Berry|Swift Swim|mist,rest,gigadrain,sleeptalk|Impish|188,0,252,0,0,68||31,31,31,31,31,31||50|
+|lotad|Pixie Plate|Own Tempo|mist,grassyglide,round,seedbomb|Adamant|180,60,204,0,52,12||31,31,31,31,31,31||50|
+|lotad|Utility Umbrella|Swift Swim|growl,uproar,blizzard,thief|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|lotad|Eviolite|Rain Dish|gigadrain,attract,sunnyday,icywind|Relaxed|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|lotad|Power Herb|Swift Swim|sleeptalk,facade,teeterdance,gigadrain|Serious|0,0,12,0,244,252||31,31,31,31,31,31||50|
+|lotad|Room Service|Swift Swim|facade,growl,flail,hail|Gentle|0,84,0,188,236,0||31,31,31,31,31,31||50|
+|lotad|Grassy Seed|Own Tempo|rest,sleeptalk,scald,grassyglide|Brave|252,252,4,0,0,0||31,31,31,31,31,0||50|
+|lotad|Shuca Berry|Swift Swim|razorleaf,whirlpool,teeterdance,icebeam|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|lotad|Yache Berry|Own Tempo|gigadrain,solarbeam,mist,facade|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|lotad|Destiny Knot|Swift Swim|teeterdance,hail,grassknot,whirlpool|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|lotad|Colbur Berry|Rain Dish|bulletseed,snore,whirlpool,tickle|Rash|76,20,252,140,0,20||31,31,31,31,31,31||50|
+|lotad|Poison Barb|Swift Swim|teeterdance,grassknot,astonish,icywind|Calm|0,0,36,0,244,228||31,31,31,31,31,31||50|
+|lotad|Tanga Berry|Own Tempo|sweetscent,facade,zenheadbutt,absorb|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|lotad|Full Incense|Rain Dish|mist,icebeam,solarbeam,bodyslam|Naughty|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|applin|Leftovers|Bulletproof|rollout,suckerpunch,dracometeor,astonish|Adamant|124,140,0,0,244,0||31,31,31,31,31,31||50|
+|applin|Binding Band|Bulletproof|withdraw,attract,defensecurl,rollout|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|applin|Heat Rock|Ripen|recycle,rollout,suckerpunch,attract|Gentle|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|applin|Sharp Beak|Gluttony|withdraw,recycle,astonish,rollout|Bold|0,0,252,4,0,252||31,31,31,31,31,31||50|
+|applin|Silver Powder|Gluttony|astonish,withdraw,suckerpunch,recycle|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|applin|Kee Berry|Bulletproof|astonish,attract,withdraw,defensecurl|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|applin|Hard Stone|Ripen|grassyglide,defensecurl,attract,dracometeor|Timid|0,0,148,0,148,212||31,0,31,31,31,31||50|
+|applin|Rindo Berry|Ripen|grassyglide,withdraw,defensecurl,dracometeor|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|applin|Iron Ball|Gluttony|astonish,recycle,grassyglide,dracometeor|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|applin|Blunder Policy|Ripen|astonish,rollout,recycle,attract|Lax|0,0,252,4,0,252||31,31,31,31,31,31||50|
+|applin|Full Incense|Gluttony|recycle,attract,dracometeor,suckerpunch|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|applin|Magnet|Ripen|attract,withdraw,grassyglide,defensecurl|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|applin|Roseli Berry|Gluttony|astonish,attract,grassyglide,defensecurl|Naughty|0,148,148,212,0,0||31,31,31,31,31,31||50|
+|applin|Shell Bell|Ripen|astonish,dracometeor,grassyglide,withdraw|Timid|44,0,76,20,116,252||31,0,31,31,31,31||50|
+|applin|Persim Berry|Ripen|suckerpunch,attract,defensecurl,astonish|Relaxed|0,148,196,0,164,0||31,31,31,31,31,0||50|
+|applin||Ripen|grassyglide,withdraw,dracometeor,recycle|Sassy|68,68,124,52,196,0||31,31,31,31,31,31||50|
+|applin|Shuca Berry|Bulletproof|recycle,rollout,withdraw,grassyglide|Jolly|0,0,76,0,180,252||31,31,31,31,31,31||50|
+|applin|Light Clay|Ripen|defensecurl,dracometeor,astonish,attract|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|applin|Protective Pads|Gluttony|defensecurl,attract,dracometeor,astonish|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|applin|Yache Berry|Ripen|defensecurl,dracometeor,withdraw,recycle|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|togepi|Safety Goggles|Hustle|sleeptalk,hypervoice,facade,helpinghand|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|togepi|Blunder Policy|Serene Grace|extrasensory,substitute,facade,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|togepi|Lansat Berry|Hustle|psychic,aerialace,psyshock,fling|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|togepi|Destiny Knot|Serene Grace|solarbeam,psychic,swift,followme|Brave|92,252,0,164,0,0||31,31,31,31,31,31||50|
+|togepi|Muscle Band|Hustle|helpinghand,fireblast,peck,grassknot|Bold|252,0,4,0,0,252||31,0,31,31,31,31||50|
+|togepi|Hondew Berry|Super Luck|yawn,triattack,drainingkiss,helpinghand|Relaxed|12,60,100,244,92,0||31,31,31,31,31,0||50|
+|togepi|Wide Lens|Serene Grace|storedpower,psyshock,sunnyday,facade|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|togepi|Terrain Extender|Hustle|bodyslam,afteryou,growl,thunderwave|Lax|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|togepi|Protector|Hustle|round,rest,megapunch,dazzlinggleam|Bold|0,0,20,236,252,0||31,0,31,31,31,31||50|
+|togepi|Leftovers|Hustle|solarbeam,facade,swift,aerialace|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|togepi|Iron Ball|Serene Grace|drainingkiss,dazzlinggleam,encore,yawn|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|togepi|Wide Lens|Super Luck|peck,nastyplot,psychoshift,ancientpower|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|togepi|Kelpsy Berry|Serene Grace|flamethrower,futuresight,shadowball,uproar|Bold|0,0,4,252,0,252||31,31,31,31,31,31||50|
+|togepi|Destiny Knot|Super Luck|charm,lightscreen,megapunch,helpinghand|Naughty|196,252,0,60,0,0||31,31,31,31,31,31||50|
+|togepi|Razor Claw|Hustle|psyshock,psychic,sweetkiss,flamethrower|Naive|28,164,84,124,0,108||31,31,31,31,31,31||50|
+|togepi|Room Service|Serene Grace|shadowball,dazzlinggleam,hypervoice,charm|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|togepi|Ganlon Berry|Hustle|safeguard,endure,snore,helpinghand|Sassy|0,252,4,252,0,0||31,31,31,31,31,31||50|
+|togepi|Ganlon Berry|Serene Grace|morningsun,ancientpower,yawn,afteryou|Impish|28,228,252,0,0,0||31,31,31,31,31,31||50|
+|togepi|Kee Berry|Hustle|sleeptalk,endure,afteryou,followme|Sassy|0,28,228,0,252,0||31,31,31,31,31,0||50|
+|togepi|Quick Claw|Hustle|workup,hypervoice,grassknot,present|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|

@@ -65,7 +65,14 @@ def evalBattle(path, matchCount=18):
     mulist = [mu.mu for mu in players]
     dataSet = [str(mu) + poke for mu,poke in zip(mulist, dataSet)]
     dataSet = [i.split('|') for i in dataSet]
+    for i in range(len(dataSet)):
+        dataSet[i][0] = float(dataSet[i][0])
+
     dataSet = sorted(dataSet, key = lambda x:(x[1], x[0]), reverse=True)
+
+    for i in range(len(dataSet)):
+        dataSet[i][0] = str(dataSet[i][0])
+
     dataSet = ['|'.join(i) for i in dataSet]
 
     return dataSet

@@ -70,28 +70,22 @@ def cross(parent1, parent2):
     return '|'.join(child)
 
 
-def ga(pokemon):
+def ga(parents, parentCnt=25):
 
-    savedir = './pokemons/' + pokemon + '/'
-    num = sum(os.path.isfile(os.path.join(savedir, name)) for name in os.listdir(savedir))
-    with open (savedir + str(num-1).zfill(4) + '.txt', 'r') as f:
-        parents = f.read().split('\n')
-
-    parentCnt = 25
+    generateCnt = len(parents)
     parents = parents[:parentCnt]
     parents = [re.sub('\d+\.*\d* \|', '|', i, 1) for i in parents]
 
     children = []
 
-    for i in range(8):
-        weight = [math.sqrt(parentCnt-i) for i in range(25)]
+    for i in range(generateCnt // parentCnt):
+        weight = [math.sqrt(parentCnt-i) for i in range(parentCnt)]
         parent1 = parents[i]
 
-        for j in range((4-i//2)*5):
+        for j in range(parentCnt):
             parent2 = randomChoice(parents, weight, i)
             children.append(cross(parent1, parent2))
 
-    with open (savedir + str(num).zfill(4) + '.txt', 'w') as f:
-        f.write('\n'.join(children))
+    return children
     
         

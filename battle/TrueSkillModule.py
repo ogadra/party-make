@@ -1,13 +1,14 @@
 import trueskill
 # from time import time, sleep
-from multiprocessing import Process, Manager, Pool
+from multiprocessing import Process, Manager, Pool, cpu_count
 import sys
 import os
 import re
 import subprocess
+import random
 
 def battle(evalData, p1, p2):
-    print('\r %d / 900' % len(evalData), end='')
+    print('\r%d' % len(evalData), end='')
     pt1 = dataSet[p1]
     pt2 = dataSet[p2]
     proc = subprocess.run(['node', './bot/.sim-dist/examples/battle-stream-example',pt1, pt2], stdout=subprocess.PIPE, text=True)
@@ -27,24 +28,15 @@ def wrapper(args):
     return battle(*args)
 
 
-def evalBattle(pokemon):
-    savedir = './pokemons/' + pokemon + '/' 
+def evalBattle(path, matchCount=18):
     global dataSet
-    num = sum(os.path.isfile(os.path.join(savedir, name)) for name in os.listdir(savedir))
-
-    readfile = savedir + str(num-1).zfill(4) + '.txt'
-    with open(readfile, 'r') as f:
-        dataSet = f.read().split('\n')
-
-
-
+    dataSet = open(path).read().split('\n')
+    random.shuffle(dataSet)
     cnt = len(dataSet)
     manager = Manager()
     evalData = manager.list()
 
-    
     que = []
-    matchCount = 18
 
     for i in range(cnt):
         for j in range(matchCount//2):
@@ -57,7 +49,10 @@ def evalBattle(pokemon):
                 que.append([evalData, i, cnt-j-1])
 
     # s = time()
-    p = Pool(12)
+    core = cpu_count()
+
+
+    p = Pool(core)
     p.map(wrapper, que)
 
     # print((time()-s)/(matchCount * cnt // 2))
@@ -69,11 +64,10 @@ def evalBattle(pokemon):
         players[i[0]], players[i[1]] = trueskill.rate_1vs1(players[i[0]], players[i[1]])
     
     mulist = [mu.mu for mu in players]
-    result = [str(i)+ ' ' +poke for i,poke in sorted(zip(mulist, dataSet), reverse=True)]
+    dataSet = [str(mu) + poke for mu,poke in zip(mulist, dataSet)]
+    dataSet = [i.split('|') for i in dataSet]
+    dataSet = sorted(dataSet, key = lambda x:(x[1], x[0]), reverse=True)
+    dataSet = ['|'.join(i) for i in dataSet]
 
-    writefile = savedir + str(num).zfill(4) + '.txt'
-
-    with open (writefile, 'w') as f:
-        f.write('\n'.join(result))
-        
+    return dataSet
     

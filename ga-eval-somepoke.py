@@ -1,25 +1,27 @@
 from battle import TrueSkillModule
 from ga import gaModule
-from makePT import makePokemon
 import time 
 import numpy as np
 
-pokemons = open('./train_data/pokemonset.txt').read().split('\n')
-pokemons = [i.split(',') for i in pokemons]
+target = list(range(37))
+matchCount = 24
 
-for i,poke in enumerate(pokemons):
+for i in target:
     path = './train_data/' + str(i).zfill(3) + '/'
-    dataset = list()
-    for j in poke:
-        dataset += makePokemon.makeDataset(j,20)
-    with open(path + 'generate000.txt', 'w') as f:
-        f.write('\n'.join(dataset))
-    print(*dataset, sep='\n')
+    print('set:',i)
+    # pokemons = open(path + 'generate000.txt').read().split('\n')
+    for j in range(10):
+        s = time.time()
+        pokemons = TrueSkillModule.evalBattle(path + 'generate' + str(j).zfill(3) + '.txt', matchCount)
+        with open(path + 'evaluation' + str(j).zfill(3) + '.txt', 'w') as f:
+            f.write('\n'.join(pokemons))
+        nextGeneration = list()
+        for i in range(5):
+            nextGeneration.extend(gaModule.ga(pokemons[i*20:(i+1)*20], 10))
         
+        print(*nextGeneration, sep='\n')
+        with open(path + 'generate' + str(j+1).zfill(3) + '.txt', 'w') as f:
+            f.write('\n'.join(nextGeneration))
 
-for i in range(100):
-    s = time.time()
-    TrueSkillModule.evalBattle(pokemon)
-    gaModule.ga(pokemon)
-    print('')
-    print('roop:',i, s-time.time())
+        print('roop:',j, time.time()-s)
+        exit()

@@ -13,3 +13,8 @@ python battle/battle.py
 to run bot battle test.
 
 select move time -> setting in ./bot/.sim-dist/tools/random-player-ai.js on 1114
+
+learn somepoke
+```
+python ga-eval-somepoke.py
+```

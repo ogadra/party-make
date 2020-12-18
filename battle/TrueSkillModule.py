@@ -7,7 +7,7 @@ import re
 import subprocess
 import random
 
-def battle(evalData, p1, p2):
+def battle(dataSet, evalData, p1, p2):
     print('\r%d' % len(evalData), end='')
     pt1 = dataSet[p1]
     pt2 = dataSet[p2]
@@ -29,7 +29,6 @@ def wrapper(args):
 
 
 def evalBattle(path, matchCount=18):
-    global dataSet
     dataSet = open(path).read().split('\n')
     random.shuffle(dataSet)
     cnt = len(dataSet)
@@ -42,11 +41,11 @@ def evalBattle(path, matchCount=18):
         for j in range(matchCount//2):
             if i + j == cnt - 1:
                 break
-            que.append([evalData, i, i+j+1])
+            que.append([dataSet, evalData, i, i+j+1])
 
         if i < matchCount//2:
             for j in range(matchCount//2 - i):
-                que.append([evalData, i, cnt-j-1])
+                que.append([dataSet, evalData, i, cnt-j-1])
 
     # s = time()
     core = cpu_count()

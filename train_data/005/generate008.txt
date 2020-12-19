@@ -1,0 +1,100 @@
+|slowpokegalar|Chesto Berry|Own Tempo|psyshock,grassknot,flamethrower,fireblast|Modest|212,0,212,84,0,0||31,0,31,31,31,31||50|
+|slowpokegalar|Full Incense|Regenerator|earthquake,dive,icebeam,liquidation|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|slowpokegalar|Roseli Berry|Own Tempo|imprison,facade,liquidation,payday|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|slowpokegalar|Electric Seed|Own Tempo|earthquake,grassknot,facade,rest|Gentle|0,252,0,4,0,252||31,31,31,31,31,31||50|
+|slowpokegalar|Cheri Berry|Gluttony|facade,flamethrower,liquidation,block|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|slowpokegalar|Coba Berry|Own Tempo|grassknot,flamethrower,swift,brine|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|slowpokegalar|Electric Seed|Regenerator|liquidation,grassknot,tackle,whirlpool|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|slowpokegalar|Electric Seed|Regenerator|flamethrower,mudshot,grassknot,round|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|slowpokegalar|Flame Orb|Regenerator|flamethrower,facade,liquidation,trick|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|slowpokegalar|Choice Band|Regenerator|grassknot,wonderroom,icebeam,rest|Modest|92,0,0,252,164,0||31,0,31,31,31,31||50|
+|slowpokegalar|Oran Berry|Regenerator|icebeam,psychup,hydropump,yawn|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|slowpokegalar|Choice Specs|Regenerator|dive,grassknot,swift,earthquake|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|slowpokegalar|Chilan Berry|Regenerator|facade,grassknot,flamethrower,yawn|Sassy|0,0,4,252,252,0||31,31,31,31,31,0||50|
+|slowpokegalar|Lansat Berry|Regenerator|psyshock,dive,icebeam,psychup|Bold|0,0,196,0,188,124||31,31,31,31,31,31||50|
+|slowpokegalar|Lum Berry|Regenerator|flamethrower,grassknot,icebeam,liquidation|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|slowpokegalar|Maranga Berry|Gluttony|icebeam,yawn,zenheadbutt,skillswap|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|slowpokegalar|Choice Specs|Regenerator|earthquake,flamethrower,swift,round|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|slowpokegalar|Choice Specs|Regenerator|earthquake,icebeam,swift,round|Modest|92,0,0,252,164,0||31,0,31,31,31,31||50|
+|slowpokegalar|Mental Herb|Regenerator|dive,icebeam,swift,hail|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|slowpokegalar|Float Stone|Regenerator|zenheadbutt,icebeam,grassknot,sunnyday|Timid|92,0,228,36,12,140||31,0,31,31,31,31||50|
+|oddish|Choice Specs|Chlorophyll|grassyterrain,sludgebomb,petaldance,solarbeam|Relaxed|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|oddish|Lansat Berry|Chlorophyll|grassknot,solarbeam,sludgebomb,leechseed|Relaxed|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|oddish|Chople Berry|Run Away|solarbeam,sunnyday,sludgebomb,charm|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|oddish|Choice Specs|Run Away|solarbeam,sludgebomb,strengthsap,grassknot|Quiet|92,0,0,252,164,0||31,31,31,31,31,31||50|
+|oddish|Choice Specs|Chlorophyll|solarbeam,grassknot,venoshock,round|Quiet|92,0,0,252,164,0||31,31,31,31,31,31||50|
+|oddish|Utility Umbrella|Run Away|grassknot,solarbeam,sunnyday,naturepower|Quiet|92,0,0,252,164,0||31,31,31,31,31,31||50|
+|oddish|Choice Specs|Chlorophyll|grassknot,sunnyday,sludgebomb,megadrain|Bold|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|oddish|Muscle Band|Run Away|leechseed,grassyterrain,acid,substitute|Relaxed|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|oddish|Odd Incense|Run Away|grassyterrain,sludgebomb,strengthsap,razorleaf|Quiet|92,0,0,252,164,0||31,31,31,31,31,31||50|
+|oddish|Petaya Berry|Run Away|solarbeam,grassknot,sludgebomb,synthesis|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|oddish|Choice Specs|Run Away|petaldance,grassknot,solarbeam,moonlight|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+|oddish|Choice Specs|Run Away|grassknot,sludgebomb,sunnyday,solarbeam|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+|oddish|Sea Incense|Run Away|sunnyday,snore,solarbeam,protect|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|oddish|Chople Berry|Run Away|solarbeam,grassknot,sunnyday,protect|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+|oddish|Rindo Berry|Run Away|acid,leechseed,venoshock,moonblast|Quiet|252,0,0,196,60,0||31,31,31,31,31,0||50|
+|oddish|Chople Berry|Chlorophyll|sludgebomb,sunnyday,solarbeam,sleeppowder|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|oddish|Choice Scarf|Chlorophyll|afteryou,solarbeam,leechseed,strengthsap|Jolly|36,140,12,0,108,212||31,31,31,31,31,31||50|
+|oddish|Wacan Berry|Chlorophyll|solarbeam,strengthsap,sunnyday,endure|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+|oddish|Chople Berry|Chlorophyll|grassyterrain,sludgebomb,leechseed,growth|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|oddish|Choice Specs|Chlorophyll|venoshock,leechseed,sludgebomb,ingrain|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|bunnelby|Rindo Berry|Huge Power|wildcharge,facade,doublekick,ironhead|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|bunnelby|Iapapa Berry|Pickup|takedown,ironhead,facade,bounce|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|bunnelby|Yache Berry|Huge Power|facade,ironhead,earthquake,wildcharge|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|bunnelby|Micle Berry|Huge Power|protect,doublekick,endure,stoneedge|Modest|36,0,108,252,12,100||31,0,31,31,31,31||50|
+|bunnelby|Ganlon Berry|Huge Power|workup,doublekick,ironhead,brickbreak|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Grip Claw|Huge Power|doublekick,mudslap,rollout,laserfocus|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Electric Seed|Huge Power|workup,payback,facade,agility|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Chesto Berry|Huge Power|workup,flail,rockslide,doublekick|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Choice Scarf|Huge Power|workup,mudslap,facade,doublekick|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Kelpsy Berry|Huge Power|ironhead,mudslap,sleeptalk,rocktomb|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|bunnelby|Full Incense|Huge Power|mudslap,rollout,rockslide,facade|Adamant|180,164,76,0,36,52||31,31,31,31,31,31||50|
+|bunnelby|Electric Seed|Huge Power|mudslap,ironhead,facade,thief|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|bunnelby|Iapapa Berry|Huge Power|rollout,ironhead,leer,laserfocus|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|bunnelby|Focus Sash|Huge Power|sleeptalk,mudslap,takedown,dig|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|bunnelby|Power Herb|Pickup|payback,leer,flail,superfang|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Qualot Berry|Pickup|ironhead,takedown,leer,grassknot|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|bunnelby|Leftovers|Huge Power|mudslap,leer,takedown,thief|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Soft Sand|Huge Power|protect,rockslide,ironhead,laserfocus|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Pixie Plate|Cheek Pouch|takedown,leer,mudslap,laserfocus|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bunnelby|Aspear Berry|Huge Power|leer,rollout,sleeptalk,takedown|Serious|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|bulbasaur|Blunder Policy|Overgrow|bulletseed,venoshock,swordsdance,falseswipe|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bulbasaur|Sharp Beak|Chlorophyll|sludgebomb,megadrain,venoshock,lightscreen|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|bulbasaur|Chesto Berry|Overgrow|bulletseed,swordsdance,falseswipe,workup|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|bulbasaur|Grassy Seed|Chlorophyll|falseswipe,swordsdance,razorleaf,lightscreen|Mild|0,0,0,252,244,12||31,31,31,31,31,31||50|
+|bulbasaur|Assault Vest|Chlorophyll|sludgebomb,outrage,razorleaf,swordsdance|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bulbasaur|Assault Vest|Overgrow|venoshock,sludgebomb,workup,attract|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bulbasaur|Hondew Berry|Chlorophyll|tackle,sludgebomb,swordsdance,bulletseed|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bulbasaur|Protector|Overgrow|venoshock,bulletseed,sludgebomb,curse|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bulbasaur|Iapapa Berry|Overgrow|venoshock,outrage,sludgebomb,round|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bulbasaur|Blunder Policy|Chlorophyll|sludgebomb,outrage,swordsdance,poisonpowder|Lonely|0,212,0,0,68,228||31,31,31,31,31,31||50|
+|bulbasaur|Sea Incense|Overgrow|round,outrage,bulletseed,magicalleaf|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bulbasaur|Blunder Policy|Overgrow|sludgebomb,outrage,powerwhip,ingrain|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|bulbasaur|Blunder Policy|Chlorophyll|outrage,falseswipe,tackle,swordsdance|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|bulbasaur|Twisted Spoon|Overgrow|bulletseed,outrage,falseswipe,leechseed|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|bulbasaur|Haban Berry|Overgrow|round,powerwhip,sludgebomb,petaldance|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bulbasaur|Cell Battery|Overgrow|powerwhip,protect,falseswipe,curse|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|bulbasaur|Razor Claw|Chlorophyll|outrage,swordsdance,bulletseed,protect|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bulbasaur|Silver Powder|Overgrow|outrage,round,bulletseed,grassknot|Bold|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|bulbasaur|Sitrus Berry|Overgrow|sludgebomb,powerwhip,outrage,growth|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|bulbasaur|Blunder Policy|Overgrow|falseswipe,powerwhip,sludgebomb,curse|Modest|220,0,20,156,92,20||31,0,31,31,31,31||50|
+|beldum|Kebia Berry|Light Metal|irondefense,tackle,ironhead,zenheadbutt|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|beldum|Weakness Policy|Light Metal|tackle,ironhead,steelbeam,zenheadbutt|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|beldum|Shed Shell|Light Metal|tackle,steelbeam,irondefense,zenheadbutt|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|beldum|Shed Shell|Light Metal|irondefense,zenheadbutt,ironhead,steelbeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|beldum|Power Herb|Light Metal|irondefense,steelbeam,ironhead,zenheadbutt|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|beldum|Never-Melt Ice|Light Metal|steelbeam,tackle,ironhead,irondefense|Jolly|140,44,28,0,188,108||31,31,31,31,31,31||50|
+|beldum|Grip Claw|Light Metal|ironhead,tackle,steelbeam,irondefense|Impish|188,20,124,0,12,164||31,31,31,31,31,31||50|
+|beldum|Hard Stone|Light Metal|irondefense,ironhead,steelbeam,tackle|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|beldum|Shed Shell|Light Metal|irondefense,tackle,steelbeam,ironhead|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|beldum|White Herb|Light Metal|steelbeam,tackle,ironhead,zenheadbutt|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|beldum|White Herb|Light Metal|tackle,steelbeam,irondefense,ironhead|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|beldum|Wise Glasses|Light Metal|irondefense,zenheadbutt,ironhead,steelbeam|Bold|148,0,252,0,108,0||31,31,31,31,31,31||50|
+|beldum|Choice Scarf|Light Metal|irondefense,ironhead,steelbeam,zenheadbutt|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|beldum|Choice Scarf|Light Metal|ironhead,steelbeam,irondefense,tackle|Modest|0,0,164,236,0,108||31,31,31,31,31,31||50|
+|beldum|Quick Claw|Light Metal|irondefense,tackle,ironhead,steelbeam|Sassy|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|beldum|Expert Belt|Clear Body|tackle,ironhead,zenheadbutt,irondefense|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|beldum|Choice Scarf|Light Metal|tackle,steelbeam,irondefense,zenheadbutt|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|beldum|Dragon Scale|Light Metal|steelbeam,ironhead,irondefense,zenheadbutt|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|beldum|Leppa Berry|Light Metal|steelbeam,irondefense,tackle,zenheadbutt|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|beldum|King's Rock|Light Metal|tackle,ironhead,steelbeam,irondefense|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|

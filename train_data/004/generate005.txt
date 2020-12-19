@@ -1,0 +1,100 @@
+|rockruff|Misty Seed|Steadfast|thunderfang,thrash,snarl,lastresort|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|rockruff|Scope Lens|Steadfast|rockslide,stoneedge,ironhead,scaryface|Lax|44,252,212,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Misty Seed|Keen Eye|stompingtantrum,lastresort,sleeptalk,rest|Lax|44,252,212,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Misty Seed|Steadfast|thrash,thunderfang,sleeptalk,ironhead|Impish|236,4,236,0,20,12||31,31,31,31,31,31||50|
+|rockruff|Misty Seed|Steadfast|stoneedge,lastresort,thrash,endeavor|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|rockruff|Metronome|Steadfast|thunderfang,stoneedge,rockslide,rockthrow|Impish|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|rockruff|Toxic Orb|Steadfast|thrash,lastresort,ironhead,zenheadbutt|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|rockruff|Wave Incense|Keen Eye|thrash,snarl,thunderfang,firefang|Lax|44,252,212,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Soft Sand|Keen Eye|stoneedge,thunderfang,thrash,endure|Careful|0,244,252,0,0,12||31,31,31,31,31,31||50|
+|rockruff|Misty Seed|Vital Spirit|thrash,thunderfang,howl,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|rockruff|Aguav Berry|Keen Eye|stompingtantrum,snarl,rocktomb,substitute|Impish|236,4,236,0,20,12||31,31,31,31,31,31||50|
+|rockruff|Full Incense|Own Tempo|stompingtantrum,lastresort,rocktomb,attract|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|rockruff|Rock Incense|Keen Eye|endure,thunderfang,stoneedge,leer|Lax|44,252,212,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Wise Glasses|Keen Eye|bite,endure,rockslide,rockthrow|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|rockruff|Misty Seed|Keen Eye|howl,rockslide,rocktomb,swordsdance|Impish|236,4,236,0,20,12||31,31,31,31,31,31||50|
+|rockruff|Full Incense|Keen Eye|endure,snarl,stompingtantrum,playrough|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|rockruff|Misty Seed|Keen Eye|stompingtantrum,endure,howl,leer|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|rockruff|Full Incense|Steadfast|stompingtantrum,rocktomb,round,stealthrock|Impish|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|rockruff|Misty Seed|Steadfast|endure,thrash,stoneedge,substitute|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|rockruff|Float Stone|Keen Eye|endure,lastresort,tackle,rocktomb|Impish|12,244,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|feint,nastyplot,foulplay,slash|Hasty|0,0,0,228,28,252||31,31,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|charm,foulplay,sunnyday,gunkshot|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|meowthalola|Room Service|Pickup|taunt,assurance,foulplay,feint|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|meowthalola|Hard Stone|Rattled|foulplay,taunt,sunnyday,nastyplot|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|meowthalola|Protector|Pickup|foulplay,sunnyday,feint,attract|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Silver Powder|Pickup|taunt,foulplay,assurance,irontail|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|assurance,payday,foulplay,playrough|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Persim Berry|Pickup|foulplay,assurance,snore,playrough|Adamant|36,156,68,0,196,52||31,31,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|snore,taunt,foulplay,nightslash|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|meowthalola|Charcoal|Pickup|growl,foulplay,payday,shadowball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|amnesia,hypervoice,assurance,retaliate|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+|meowthalola|Big Root|Rattled|feint,assurance,growl,slash|Hasty|172,0,0,228,0,108||31,31,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|slash,taunt,sunnyday,protect|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|meowthalola|Flame Orb|Pickup|snore,nastyplot,hypervoice,sleeptalk|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|meowthalola|Black Sludge|Technician|sunnyday,slash,nastyplot,bite|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|meowthalola|Choice Band|Technician|growl,nastyplot,feint,spite|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|meowthalola|Babiri Berry|Technician|nastyplot,foulplay,sunnyday,rest|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Figy Berry|Technician|assurance,nastyplot,foulplay,gunkshot|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|meowthalola|Sitrus Berry|Technician|snore,foulplay,payday,feint|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Mago Berry|Technician|rest,nastyplot,sunnyday,shadowball|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|drilbur|Smooth Rock|Sand Rush|round,earthquake,poisonjab,scratch|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|drilbur|Grip Claw|Mold Breaker|xscissor,fissure,earthquake,highhorsepower|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Eject Button|Sand Force|poisonjab,earthquake,xscissor,stealthrock|Careful|108,0,196,0,204,0||31,31,31,31,31,31||50|
+|drilbur|Metal Coat|Sand Rush|brickbreak,poisonjab,earthquake,shadowclaw|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Metal Coat|Sand Rush|poisonjab,earthquake,highhorsepower,mudslap|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|drilbur|Mental Herb|Sand Rush|xscissor,poisonjab,honeclaws,metalclaw|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Shuca Berry|Mold Breaker|attract,earthquake,brickbreak,xscissor|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Toxic Orb|Mold Breaker|poisonjab,irondefense,round,mudslap|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Rawst Berry|Sand Force|round,earthquake,xscissor,endure|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Rock Incense|Sand Force|earthquake,facade,poisonjab,scratch|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Ring Target|Mold Breaker|xscissor,earthquake,protect,swordsdance|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|drilbur|Ring Target|Sand Rush|brickbreak,facade,earthquake,metalclaw|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|drilbur|Ring Target|Mold Breaker|attract,facade,earthquake,sandtomb|Calm|0,0,252,0,52,204||31,0,31,31,31,31||50|
+|drilbur|Metal Coat|Sand Force|brickbreak,xscissor,facade,sludgebomb|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|drilbur|Ring Target|Mold Breaker|rapidspin,fissure,earthquake,endure|Calm|228,0,0,68,212,0||31,0,31,31,31,31||50|
+|drilbur|Sharp Beak|Sand Rush|facade,earthquake,rapidspin,fissure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Bright Powder|Sand Rush|xscissor,earthquake,fissure,round|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|drilbur|Ring Target|Sand Rush|furyswipes,facade,earthquake,fissure|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|drilbur|Chilan Berry|Mold Breaker|attract,earthquake,rapidspin,sleeptalk|Gentle|0,0,0,252,196,60||31,31,31,31,31,31||50|
+|drilbur|Ring Target|Sand Rush|brickbreak,honeclaws,facade,bulldoze|Relaxed|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|croagunk|Leftovers|Dry Skin|bounce,bulkup,gunkshot,round|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+|croagunk|Leftovers|Poison Touch|flatter,mudslap,thief,lowkick|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+|croagunk|Weakness Policy|Poison Touch|bounce,fakeout,gunkshot,endure|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+|croagunk|Soft Sand|Poison Touch|rocktomb,mudslap,megakick,brickbreak|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|croagunk|Weakness Policy|Poison Touch|rockslide,megakick,gunkshot,flatter|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|croagunk|King's Rock|Dry Skin|belch,gunkshot,flatter,bounce|Timid|0,0,12,244,0,252||31,0,31,31,31,31||50|
+|croagunk|Eject Pack|Poison Touch|rockslide,mudslap,lowkick,vacuumwave|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+|croagunk|Sitrus Berry|Dry Skin|mudslap,lowkick,rockslide,lowsweep|Jolly|0,172,0,0,84,252||31,31,31,31,31,31||50|
+|croagunk|Smooth Rock|Dry Skin|gunkshot,lowkick,mudslap,substitute|Modest|172,0,0,252,0,84||31,0,31,31,31,31||50|
+|croagunk|Liechi Berry|Poison Touch|mudslap,counter,lowkick,fakeout|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|croagunk|Choice Specs|Dry Skin|earthquake,gunkshot,flatter,megakick|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|croagunk|Leftovers|Poison Touch|gunkshot,bounce,lowkick,batonpass|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|croagunk|Binding Band|Poison Touch|gunkshot,rockslide,thief,bounce|Lax|252,0,0,4,0,252||31,31,31,31,31,31||50|
+|croagunk|Zoom Lens|Poison Touch|mudslap,counter,gunkshot,thunderpunch|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+|croagunk|Leftovers|Poison Touch|drainpunch,rockslide,thief,counter|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|croagunk|Chople Berry|Poison Touch|rockslide,megakick,rocktomb,payback|Careful|196,0,0,0,252,60||31,31,31,31,31,31||50|
+|croagunk|Iron Ball|Poison Touch|rocktomb,rockslide,megakick,bulkup|Relaxed|252,0,220,0,36,0||31,31,31,31,31,0||50|
+|croagunk|Full Incense|Dry Skin|gunkshot,bounce,counter,lowkick|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|croagunk|Pixie Plate|Poison Touch|gunkshot,rockslide,foulplay,thief|Relaxed|252,0,220,0,36,0||31,31,31,31,31,0||50|
+|croagunk|Leftovers|Poison Touch|drainpunch,megakick,rockslide,fakeout|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+|carvanha|Wise Glasses|Rough Skin|uproar,surf,poisonfang,bounce|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|carvanha|Yache Berry|Speed Boost|thrash,surf,crunch,retaliate|Gentle|0,252,0,252,4,0||31,31,31,31,31,31||50|
+|carvanha|Rocky Helmet|Rough Skin|crunch,thrash,waterfall,hail|Impish|196,60,252,0,0,0||31,31,31,31,31,31||50|
+|carvanha|Damp Rock|Speed Boost|liquidation,thrash,surf,takedown|Calm|0,0,0,36,252,220||31,0,31,31,31,31||50|
+|carvanha|Colbur Berry|Rough Skin|crunch,dive,liquidation,bounce|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|carvanha|Yache Berry|Rough Skin|liquidation,icefang,thrash,facade|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|carvanha|Jaboca Berry|Rough Skin|liquidation,thrash,leer,bounce|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Mystic Water|Rough Skin|liquidation,crunch,aquajet,takedown|Hasty|164,0,0,252,0,92||31,31,31,31,31,31||50|
+|carvanha|Psychic Seed|Rough Skin|waterfall,liquidation,thrash,dive|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|carvanha|Eviolite|Rough Skin|liquidation,thrash,surf,icywind|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Scope Lens|Rough Skin|uproar,aquajet,thrash,retaliate|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|carvanha|Colbur Berry|Rough Skin|poisonfang,aquajet,uproar,attract|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|carvanha|Blunder Policy|Rough Skin|bounce,thrash,scald,leer|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Jaboca Berry|Speed Boost|dive,thrash,leer,waterpulse|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|carvanha|Colbur Berry|Speed Boost|thrash,crunch,icefang,bounce|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|carvanha|Eviolite|Rough Skin|thrash,crunch,dive,aquajet|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|carvanha|Rose Incense|Speed Boost|dive,liquidation,thrash,waterfall|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|carvanha|Yache Berry|Rough Skin|waterfall,aquajet,liquidation,bounce|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|carvanha|Eviolite|Rough Skin|aquajet,crunch,protect,ancientpower|Timid|0,0,196,236,0,76||31,31,31,31,31,31||50|
+|carvanha|Persim Berry|Speed Boost|aquajet,liquidation,thrash,agility|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|

@@ -1,0 +1,100 @@
+|phantump|Oran Berry|Harvest|venomdrench,phantomforce,forestscurse,grudge|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|phantump|Oran Berry|Harvest|thief,forestscurse,phantomforce,gigadrain|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|phantump|Oran Berry|Natural Cure|rest,phantomforce,venomdrench,sleeptalk|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|phantump|Toxic Orb|Natural Cure|venomdrench,forestscurse,attract,suckerpunch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|phantump|Scope Lens|Harvest|bulldoze,phantomforce,rest,trickroom|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|phantump|Black Sludge|Harvest|curse,poltergeist,foulplay,trick|Lonely|68,188,0,100,92,60||31,31,31,31,31,31||50|
+|phantump|Sharp Beak|Harvest|darkpulse,venomdrench,phantomforce,psychic|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|phantump|Tamato Berry|Harvest|thief,forestscurse,bulldoze,phantomforce|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|phantump|Shell Bell|Harvest|venomdrench,phantomforce,forestscurse,leechseed|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|phantump|Shell Bell|Harvest|bulldoze,thief,gigadrain,safeguard|Careful|148,12,60,0,236,52||31,31,31,31,31,31||50|
+|phantump|Mental Herb|Harvest|gigadrain,curse,substitute,allyswitch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|phantump|Light Clay|Frisk|snore,phantomforce,curse,facade|Serious|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|phantump|Ganlon Berry|Harvest|phantomforce,venomdrench,forestscurse,suckerpunch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|phantump|Shell Bell|Harvest|phantomforce,snore,substitute,foulplay|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|phantump|Pecha Berry|Harvest|leechseed,phantomforce,poltergeist,astonish|Quiet|0,0,92,164,252,0||31,31,31,31,31,31||50|
+|phantump|Shell Bell|Natural Cure|leechseed,poltergeist,tackle,poisonjab|Lonely|0,44,0,0,252,212||31,31,31,31,31,31||50|
+|phantump|Shell Bell|Harvest|snore,substitute,phantomforce,ingrain|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|phantump|Salac Berry|Harvest|poltergeist,phantomforce,curse,darkpulse|Timid|0,0,244,228,36,0||31,0,31,31,31,31||50|
+|phantump|Shell Bell|Frisk|poltergeist,substitute,phantomforce,suckerpunch|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|phantump|Shell Bell|Natural Cure|foulplay,phantomforce,poltergeist,rockslide|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|metapod|Dragon Fang|Shed Skin|irondefense,harden,electroweb|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|metapod|Shell Bell|Shed Skin|harden,electroweb,irondefense,harden|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|metapod|Aguav Berry|Shed Skin|irondefense,harden,electroweb|Calm|212,0,0,0,252,44||31,0,31,31,31,31||50|
+|metapod|Pixie Plate|Shed Skin|electroweb,harden,irondefense|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|metapod|Pixie Plate|Shed Skin|electroweb,harden,irondefense,harden|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|metapod|Tanga Berry|Shed Skin|electroweb,irondefense,harden|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|metapod|Eject Pack|Shed Skin|irondefense,harden,electroweb|Bold|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|metapod|Room Service|Shed Skin|harden,electroweb,irondefense|Naive|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|metapod|Pixie Plate|Shed Skin|irondefense,harden,electroweb|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|metapod|Pixie Plate|Shed Skin|irondefense,electroweb,harden|Sassy|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|metapod|Babiri Berry|Shed Skin|harden,electroweb,irondefense|Impish|188,100,52,0,156,12||31,31,31,31,31,31||50|
+|metapod|Red Card|Shed Skin|electroweb,irondefense,harden,irondefense|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|metapod|Grip Claw|Shed Skin|irondefense,harden,electroweb|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|metapod|Occa Berry|Shed Skin|harden,irondefense,electroweb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|metapod|Sitrus Berry|Shed Skin|irondefense,electroweb,harden|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|metapod|Cheri Berry|Shed Skin|harden,irondefense,electroweb|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|metapod|Cheri Berry|Shed Skin|harden,irondefense,electroweb|Naughty|20,252,0,0,0,236||31,31,31,31,31,31||50|
+|metapod|Silk Scarf|Shed Skin|electroweb,harden,irondefense|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|metapod|Chilan Berry|Shed Skin|harden,electroweb,irondefense|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|metapod|Cheri Berry|Shed Skin|electroweb,harden,irondefense|Naive|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|horsea|Sitrus Berry|Sniper|hydropump,icebeam,watergun,bubblebeam|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|horsea|Petaya Berry|Swift Swim|hydropump,icebeam,scaleshot,flail|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|horsea|Red Card|Swift Swim|hydropump,icebeam,dragonpulse,rest|Relaxed|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|horsea|Sitrus Berry|Damp|flail,waterpulse,icebeam,liquidation|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|horsea|Protective Pads|Sniper|icebeam,hydropump,smokescreen,flashcannon|Impish|0,60,252,0,0,196||31,31,31,31,31,31||50|
+|horsea|Micle Berry|Swift Swim|dragonpulse,hydropump,icebeam,substitute|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|horsea|Sitrus Berry|Damp|icebeam,smokescreen,snore,scald|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|horsea|Sitrus Berry|Sniper|hydropump,scaleshot,surf,raindance|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|horsea|Oran Berry|Swift Swim|aurorabeam,icebeam,scaleshot,disable|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|horsea|Sitrus Berry|Swift Swim|scaleshot,icebeam,smokescreen,outrage|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|horsea|Chesto Berry|Sniper|icebeam,waterpulse,round,leer|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|horsea|Mental Herb|Sniper|leer,icebeam,surf,watergun|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|horsea|Apicot Berry|Swift Swim|round,icebeam,waterpulse,scaleshot|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|horsea|Sitrus Berry|Damp|waterpulse,flail,scaleshot,toxic|Modest|0,0,84,252,172,0||31,0,31,31,31,31||50|
+|horsea|Lum Berry|Damp|icebeam,flail,waterpulse,watergun|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|horsea|Chesto Berry|Damp|surf,icebeam,flail,substitute|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|horsea|Big Root|Damp|flail,watergun,icebeam,octazooka|Gentle|0,0,0,252,4,252||31,31,31,31,31,31||50|
+|horsea|Chesto Berry|Sniper|icebeam,surf,flail,dragonbreath|Modest|0,0,84,252,172,0||31,0,31,31,31,31||50|
+|horsea|Wiki Berry|Damp|flail,scaleshot,smokescreen,swift|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|horsea|Shell Bell|Damp|icebeam,waterpulse,aurorabeam,whirlpool|Modest|0,0,84,252,172,0||31,0,31,31,31,31||50|
+|combee|Mago Berry|Hustle|snore,bugbite,gust,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|combee|Destiny Knot|Hustle|snore,dualwingbeat,strugglebug,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|combee|Light Clay|Hustle|dualwingbeat,bugbuzz,bugbite,sweetscent|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|combee|Grip Claw|Hustle|bugbuzz,strugglebug,gust,bugbite|Rash|0,0,180,252,0,76||31,31,31,31,31,31||50|
+|combee|Expert Belt|Hustle|strugglebug,bugbite,snore,dualwingbeat|Modest|228,0,0,188,92,0||31,31,31,31,31,31||50|
+|combee|Wiki Berry|Honey Gather|bugbuzz,snore,strugglebug,dualwingbeat|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|combee|Protector|Honey Gather|strugglebug,dualwingbeat,bugbite,snore|Bold|0,0,252,228,0,28||31,31,31,31,31,31||50|
+|combee|Light Clay|Hustle|snore,dualwingbeat,bugbuzz,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|combee|Light Clay|Hustle|snore,strugglebug,dualwingbeat,bugbuzz|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|combee|Safety Goggles|Hustle|snore,strugglebug,dualwingbeat,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|combee|Light Clay|Hustle|bugbite,strugglebug,dualwingbeat,bugbuzz|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|combee|Mystic Water|Hustle|bugbite,dualwingbeat,bugbuzz,snore|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|combee|Rowap Berry|Honey Gather|bugbite,gust,bugbuzz,dualwingbeat|Quiet|0,0,0,252,252,4||31,31,31,31,31,0||50|
+|combee|Pomeg Berry|Hustle|strugglebug,dualwingbeat,bugbuzz,gust|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|combee|Miracle Seed|Honey Gather|strugglebug,dualwingbeat,bugbite,bugbuzz|Sassy|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|combee|Protector|Honey Gather|sweetscent,gust,strugglebug,dualwingbeat|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|combee|Enigma Berry|Hustle|snore,bugbuzz,sweetscent,bugbite|Gentle|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|combee|Pomeg Berry|Hustle|bugbite,strugglebug,dualwingbeat,snore|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|combee|Pomeg Berry|Honey Gather|dualwingbeat,bugbite,bugbuzz,strugglebug|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|combee|Dragon Scale|Hustle|bugbite,bugbuzz,gust,sweetscent|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|barboach|Power Herb|Anticipation|scald,flail,takedown,waterpulse|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|barboach|Starf Berry|Oblivious|futuresight,flail,mudslap,sandstorm|Relaxed|0,252,4,252,0,0||31,31,31,31,31,31||50|
+|barboach|Dragon Fang|Hydration|scald,mudslap,flail,amnesia|Bold|0,0,252,188,0,68||31,0,31,31,31,31||50|
+|barboach|Black Belt|Hydration|scald,icebeam,flail,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|barboach|Kasib Berry|Oblivious|flail,icebeam,takedown,bounce|Bold|100,0,156,0,252,0||31,0,31,31,31,31||50|
+|barboach|Sharp Beak|Hydration|scald,flail,icebeam,aquatail|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|Starf Berry|Oblivious|flail,futuresight,icebeam,blizzard|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|barboach|Starf Berry|Hydration|icebeam,flail,attract,rocktomb|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|Blunder Policy|Hydration|earthquake,takedown,flail,amnesia|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+|barboach|Zoom Lens|Anticipation|icebeam,flail,takedown,earthquake|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|Sharp Beak|Hydration|icebeam,flail,scald,facade|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|Wise Glasses|Oblivious|flail,scald,attract,icebeam|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|Apicot Berry|Hydration|waterfall,scald,icebeam,surf|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|Normal Gem|Hydration|icebeam,attract,flail,earthquake|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|barboach|Sharp Beak|Oblivious|flail,icebeam,takedown,attract|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|barboach|Sharp Beak|Hydration|icebeam,flail,mudslap,hail|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|barboach|Tamato Berry|Hydration|scald,icebeam,sandstorm,futuresight|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|Qualot Berry|Hydration|endure,flail,scald,sleeptalk|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|barboach|White Herb|Hydration|attract,icebeam,flail,snore|Calm|164,0,212,0,132,0||31,0,31,31,31,31||50|
+|barboach|Sharp Beak|Hydration|raindance,icebeam,attract,muddywater|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|

@@ -1,0 +1,100 @@
+31.22579286005255|woobat|Eviolite|Simple|protect,gigadrain,psyshock,taunt|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.575064451523996|woobat|Eviolite|Unaware|endure,psychic,speedswap,airslash|Sassy|252,0,252,0,4,0||31,31,31,31,31,0||50|
+28.089825583087293|woobat|Black Sludge|Klutz|nastyplot,protect,faketears,psychic|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+27.868833033442193|woobat|Eviolite|Unaware|protect,facade,expandingforce,gigadrain|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+27.8676903785312|woobat|Babiri Berry|Unaware|nastyplot,psyshock,protect,thief|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+25.981501941758424|woobat|Shell Bell|Unaware|psychic,swift,endure,psychocut|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+25.8176721073469|woobat|Colbur Berry|Unaware|psychic,protect,psyshock,imprison|Sassy|252,0,252,0,4,0||31,31,31,31,31,0||50|
+25.552789469859775|woobat|Protector|Simple|dualwingbeat,faketears,psyshock,charm|Naive|36,228,0,0,0,244||31,31,31,31,31,31||50|
+24.095605407506735|woobat|Shell Bell|Unaware|psychic,helpinghand,expandingforce,endeavor|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+23.383221110461566|woobat|Magnet|Simple|imprison,amnesia,faketears,swift|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+22.742180422128808|woobat|Razor Claw|Simple|psyshock,protect,speedswap,trick|Bold|76,0,188,28,148,68||31,0,31,31,31,31||50|
+20.910215223194133|woobat|Muscle Band|Simple|swift,protect,endeavor,energyball|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+20.80294707879189|woobat|Rock Incense|Unaware|swift,endure,simplebeam,expandingforce|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.585812963687836|woobat|Leppa Berry|Klutz|thief,swift,batonpass,gyroball|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+20.44564830795517|woobat|Leppa Berry|Simple|protect,endure,swift,sleeptalk|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+19.67440784070848|woobat|Wiki Berry|Unaware|simplebeam,swift,nastyplot,steelwing|Sassy|252,0,252,0,4,0||31,31,31,31,31,0||50|
+17.388178043717197|woobat|Sticky Barb|Simple|dualwingbeat,taunt,speedswap,uturn|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+9.82768550061436|woobat|Magnet|Simple|endure,amnesia,gigadrain,taunt|Brave|220,68,116,36,68,0||31,31,31,31,31,31||50|
+9.12775301627412|woobat|Chesto Berry|Klutz|protect,speedswap,simplebeam,gyroball|Jolly|0,0,196,0,92,220||31,31,31,31,31,31||50|
+7.594396112072053|woobat|Leppa Berry|Simple|amnesia,gigadrain,imprison,faketears|Calm|0,0,204,0,76,228||31,0,31,31,31,31||50|
+30.54744670618875|vulpixalola|Big Root|Snow Cloak|charm,auroraveil,darkpulse,babydolleyes|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.48505377166269|vulpixalola|Power Herb|Snow Warning|icebeam,darkpulse,icywind,confuseray|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.311706777593745|vulpixalola|Black Belt|Snow Cloak|icebeam,darkpulse,moonblast,weatherball|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.225452102569317|vulpixalola|Weakness Policy|Snow Warning|icebeam,disable,charm,snore|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+28.718502750065294|vulpixalola|Jaboca Berry|Snow Cloak|icebeam,hail,imprison,disable|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+28.28755054184755|vulpixalola|Grassy Seed|Snow Warning|bodyslam,charm,tackle,foulplay|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+28.12312050595562|vulpixalola|Lansat Berry|Snow Warning|darkpulse,imprison,payback,substitute|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.086097185441|vulpixalola|Petaya Berry|Snow Cloak|endure,blizzard,disable,headbutt|Brave|60,116,124,60,148,0||31,31,31,31,31,31||50|
+26.96584191267288|vulpixalola|Power Herb|Snow Cloak|confuseray,foulplay,auroraveil,irontail|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+26.13759413573582|vulpixalola|Scope Lens|Snow Cloak|auroraveil,bodyslam,hail,protect|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+25.566458025494942|vulpixalola|Maranga Berry|Snow Warning|bodyslam,tackle,charm,howl|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+25.294206796470057|vulpixalola|Wacan Berry|Snow Warning|auroraveil,facade,disable,sleeptalk|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+24.762246461293017|vulpixalola|Colbur Berry|Snow Warning|substitute,disable,charm,dig|Adamant|68,188,0,0,0,252||31,31,31,31,31,31||50|
+24.046731201953275|vulpixalola|Wacan Berry|Snow Cloak|darkpulse,imprison,tackle,round|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+23.95541372585133|vulpixalola|Power Herb|Snow Cloak|bodyslam,hypnosis,icebeam,foulplay|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+21.926647944751423|vulpixalola|King's Rock|Snow Warning|foulplay,auroraveil,disable,charm|Jolly|92,0,0,0,220,196||31,31,31,31,31,31||50|
+17.96893590864407|vulpixalola|Pomeg Berry|Snow Warning|icywind,imprison,disable,spite|Naughty|20,252,0,0,0,236||31,31,31,31,31,31||50|
+14.570842182706901|vulpixalola|Maranga Berry|Snow Cloak|tackle,auroraveil,disable,safeguard|Lax|124,0,252,132,0,0||31,31,31,31,31,31||50|
+12.652292528913218|vulpixalola|Rawst Berry|Snow Cloak|tackle,bodyslam,imprison,grudge|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+11.428106284468507|vulpixalola|Hard Stone|Snow Cloak|encore,charm,grudge,tackle|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+38.291456779027655|stunky|Lansat Berry|Keen Eye|scaryface,explosion,focusenergy,nightslash|Adamant|164,252,0,0,0,92||31,31,31,31,31,31||50|
+35.260353075367604|stunky|Lansat Berry|Aftermath|throatchop,snore,focusenergy,scratch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+35.103444106791024|stunky|Wave Incense|Keen Eye|throatchop,payback,snore,smog|Jolly|212,44,0,0,0,252||31,31,31,31,31,31||50|
+34.596451590009764|stunky|Lansat Berry|Keen Eye|snarl,venoshock,thief,round|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+34.083527637514344|stunky|Wide Lens|Keen Eye|flamethrower,irontail,toxic,scaryface|Mild|0,0,0,252,92,164||31,31,31,31,31,31||50|
+33.90125909603453|stunky|Salac Berry|Keen Eye|flamethrower,attract,toxic,shadowball|Mild|0,0,0,252,92,164||31,31,31,31,31,31||50|
+31.960600105283344|stunky|Lansat Berry|Keen Eye|endure,fireblast,sunnyday,haze|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.77050804479303|stunky|Luminous Moss|Aftermath|poisongas,smokescreen,suckerpunch,substitute|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+30.81248183277651|stunky|Rose Incense|Aftermath|thief,attract,nightslash,payback|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.402474942097385|stunky|Wave Incense|Keen Eye|sunnyday,toxic,leer,payback|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.732766020956596|stunky|Yache Berry|Aftermath|focusenergy,thief,throatchop,playrough|Relaxed|0,0,252,4,252,0||31,31,31,31,31,0||50|
+29.628297869070437|stunky|Electric Seed|Keen Eye|toxic,endure,venoshock,rest|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.66591279730349|stunky|Lansat Berry|Aftermath|thief,smokescreen,suckerpunch,feint|Calm|252,0,252,0,4,0||31,31,31,31,31,31||50|
+28.30775111272689|stunky|Lansat Berry|Aftermath|focusenergy,sunnyday,venoshock,toxic|Calm|252,0,252,0,4,0||31,31,31,31,31,31||50|
+27.507116958230185|stunky|Lansat Berry|Stench|endure,focusenergy,thief,leer|Mild|12,148,0,252,60,36||31,31,31,31,31,31||50|
+25.42053394052072|stunky|Oran Berry|Keen Eye|nightslash,attract,toxic,snarl|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.27800830059857|stunky|Charcoal|Stench|venoshock,payback,throatchop,toxic|Jolly|212,44,0,0,0,252||31,31,31,31,31,31||50|
+23.151559015407035|stunky|Mystic Water|Aftermath|thief,memento,shadowclaw,feint|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+22.638387265801626|stunky|Sticky Barb|Keen Eye|raindance,throatchop,snore,poisongas|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+19.62632975235667|stunky|Heat Rock|Keen Eye|thief,sludgebomb,venoshock,focusenergy|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+39.117031774929565|salandit|Focus Band|Corrosion|sludgewave,sandattack,fireblast,smog|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+37.76922254064672|salandit|Rose Incense|Corrosion|scaleshot,heatwave,fakeout,round|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+37.204607165269294|salandit|Terrain Extender|Oblivious|sludgewave,overheat,scaleshot,willowisp|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+34.823038093339065|salandit|Protector|Oblivious|swift,overheat,fakeout,scaleshot|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+34.09679546174656|salandit|Bright Powder|Corrosion|fireblast,overheat,shadowclaw,heatwave|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+33.66922765711331|salandit|Tamato Berry|Oblivious|shadowclaw,heatwave,overheat,thunderwave|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+32.72609654162391|salandit|Binding Band|Oblivious|fireblast,substitute,mudslap,toxic|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+31.972685773395913|salandit|Damp Rock|Oblivious|mudslap,venoshock,swift,round|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+31.957475794511442|salandit|Custap Berry|Corrosion|fireblast,facade,poisonjab,rest|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.95561462580638|salandit|Aguav Berry|Oblivious|shadowclaw,sludgewave,swift,foulplay|Calm|172,0,228,0,0,108||31,0,31,31,31,31||50|
+29.240402189934926|salandit|Chilan Berry|Oblivious|toxic,substitute,mudslap,flamethrower|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+28.616562177333275|salandit|Focus Band|Corrosion|attract,dragonclaw,venoshock,mudslap|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+28.36588959128728|salandit|Magnet|Oblivious|toxic,venoshock,substitute,nastyplot|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+27.079542623462363|salandit|Tamato Berry|Oblivious|swift,dragonclaw,scaleshot,shadowclaw|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+26.932200682047476|salandit|Yache Berry|Oblivious|swift,shadowclaw,willowisp,fling|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+26.38642751638527|salandit|Electric Seed|Corrosion|venoshock,mudslap,leechlife,snore|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+16.31645599463849|salandit|Tamato Berry|Oblivious|shadowclaw,scaleshot,swift,willowisp|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+15.282688344719544|salandit|Terrain Extender|Oblivious|sandattack,dragonclaw,willowisp,fling|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+14.578260617723771|salandit|Toxic Orb|Oblivious|shadowclaw,sandattack,willowisp,sleeptalk|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+10.692498036922096|salandit|Focus Band|Oblivious|toxic,substitute,attract,snore|Careful|0,244,12,0,252,0||31,31,31,31,31,31||50|
+30.146902443036282|cubchoo|Colbur Berry|Rattled|protect,avalanche,thrash,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+28.192608141297384|cubchoo|Spell Tag|Snow Cloak|playnice,yawn,shadowclaw,round|Adamant|68,116,220,0,84,20||31,31,31,31,31,31||50|
+27.63270487676806|cubchoo|Aguav Berry|Slush Rush|playnice,blizzard,nightslash,round|Relaxed|252,0,4,252,0,0||31,31,31,31,31,31||50|
+26.885310694401554|cubchoo|Room Service|Slush Rush|frostbreath,shadowclaw,surf,assurance|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+26.566199787543283|cubchoo|Blunder Policy|Snow Cloak|growl,frostbreath,fling,protect|Naive|0,0,212,108,0,188||31,31,31,31,31,31||50|
+26.217668541080485|cubchoo|Tamato Berry|Snow Cloak|megakick,nightslash,yawn,dig|Careful|0,252,0,0,4,252||31,31,31,31,31,31||50|
+24.915290708347275|cubchoo|Blunder Policy|Slush Rush|nightslash,playnice,protect,icefang|Timid|0,0,164,0,92,252||31,31,31,31,31,31||50|
+24.453292196702737|cubchoo|Pixie Plate|Slush Rush|thrash,surf,playnice,snore|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+24.09798938491561|cubchoo|Damp Rock|Slush Rush|shadowclaw,blizzard,frostbreath,facade|Naughty|0,252,4,252,0,0||31,31,31,31,31,31||50|
+22.78434746342452|cubchoo|Persim Berry|Slush Rush|playnice,yawn,frostbreath,snore|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+21.901192672045614|cubchoo|Colbur Berry|Snow Cloak|nightslash,shadowclaw,frostbreath,growl|Adamant|148,164,0,0,196,0||31,31,31,31,31,31||50|
+21.194950308176473|cubchoo|Icy Rock|Snow Cloak|frostbreath,snore,yawn,icywind|Adamant|68,116,220,0,84,20||31,31,31,31,31,31||50|
+18.73661826844984|cubchoo|Weakness Policy|Snow Cloak|powdersnow,grassknot,playnice,playrough|Adamant|68,116,220,0,84,20||31,31,31,31,31,31||50|
+17.39414005965199|cubchoo|Colbur Berry|Rattled|focuspunch,protect,substitute,encore|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+17.17167246443843|cubchoo|Weakness Policy|Snow Cloak|nightslash,grassknot,brine,powdersnow|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+14.903254769859029|cubchoo|Silk Scarf|Rattled|nightslash,yawn,snore,growl|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+11.819217774171454|cubchoo|Power Herb|Slush Rush|protect,snore,nightslash,flail|Naughty|244,180,0,0,0,84||31,31,31,31,31,31||50|
+10.384435769734012|cubchoo|Rindo Berry|Slush Rush|protect,snore,nightslash,encore|Timid|180,0,0,76,0,252||31,0,31,31,31,31||50|
+7.785184670289408|cubchoo|Twisted Spoon|Slush Rush|encore,snore,playnice,lowkick|Adamant|68,116,220,0,84,20||31,31,31,31,31,31||50|
+6.452823176114724|cubchoo|Spell Tag|Slush Rush|yawn,encore,snore,slash|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|

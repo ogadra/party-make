@@ -1,0 +1,100 @@
+|zubat|Dragon Fang|Infiltrator|gust,bravebird,headbutt,raindance|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|zubat|Charti Berry|Infiltrator|attract,acrobatics,bravebird,facade|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|zubat|Icy Rock|Infiltrator|bravebird,airslash,quickguard,swift|Impish|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|zubat|Charti Berry|Inner Focus|dualwingbeat,acrobatics,steelwing,taunt|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|zubat|Heat Rock|Infiltrator|headbutt,acrobatics,fly,gust|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|zubat|Wiki Berry|Infiltrator|headbutt,attract,airslash,quickattack|Impish|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|zubat|Poison Barb|Infiltrator|curse,bravebird,steelwing,shadowball|Timid|60,0,252,4,12,180||31,0,31,31,31,31||50|
+|zubat|Blunder Policy|Infiltrator|bravebird,gust,acrobatics,defog|Lax|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|zubat|Pomeg Berry|Infiltrator|heatwave,headbutt,bravebird,raindance|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|zubat|Wiki Berry|Inner Focus|headbutt,acrobatics,leechlife,airslash|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|zubat|King's Rock|Inner Focus|bravebird,steelwing,headbutt,facade|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|zubat|Roseli Berry|Infiltrator|bravebird,raindance,fly,haze|Relaxed|92,0,252,0,164,0||31,31,31,31,31,0||50|
+|zubat|Poison Barb|Inner Focus|bravebird,fly,curse,protect|Serious|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|zubat|Poison Barb|Infiltrator|heatwave,bravebird,curse,megadrain|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|zubat|Charti Berry|Inner Focus|quickguard,protect,steelwing,acrobatics|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|zubat|Icy Rock|Infiltrator|steelwing,airslash,protect,uproar|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|zubat|Grip Claw|Infiltrator|protect,headbutt,bravebird,gust|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|zubat|Chilan Berry|Infiltrator|bravebird,attract,steelwing,absorb|Impish|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|zubat|Misty Seed|Infiltrator|leechlife,nastyplot,raindance,facade|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|zubat|Poison Barb|Inner Focus|raindance,dualwingbeat,quickguard,steelwing|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|yamper|Eject Button|Ball Fetch|bite,firefang,helpinghand,tailwhip|Gentle|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamper|Bright Powder|Ball Fetch|firefang,nuzzle,bite,uproar|Gentle|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamper|Metronome|Rattled|swift,roar,bite,uproar|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamper|Persim Berry|Ball Fetch|crunch,firefang,swift,substitute|Relaxed|252,0,148,0,108,0||31,31,31,31,31,31||50|
+|yamper|Absorb Bulb|Ball Fetch|wildcharge,nuzzle,swift,bite|Relaxed|252,0,148,0,108,0||31,31,31,31,31,31||50|
+|yamper|Charcoal|Rattled|snarl,firefang,wildcharge,facade|Relaxed|252,0,148,0,108,0||31,31,31,31,31,31||50|
+|yamper|Damp Rock|Rattled|crunch,firefang,swift,snarl|Relaxed|252,0,148,0,108,0||31,31,31,31,31,31||50|
+|yamper|Lagging Tail|Ball Fetch|firefang,wildcharge,thunder,charge|Gentle|252,0,0,4,0,252||31,31,31,31,31,31||50|
+|yamper|Leftovers|Rattled|thunder,wildcharge,crunch,voltswitch|Serious|188,68,28,100,124,0||31,31,31,31,31,31||50|
+|yamper|Icy Rock|Ball Fetch|firefang,swift,wildcharge,crunch|Serious|12,252,244,0,0,0||31,31,31,31,31,31||50|
+|yamper|Choice Scarf|Rattled|nuzzle,firefang,snarl,sleeptalk|Gentle|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamper|Room Service|Ball Fetch|firefang,swift,wildcharge,charge|Gentle|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamper|Shuca Berry|Rattled|snarl,swift,substitute,nuzzle|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|yamper|Choice Scarf|Rattled|bite,snarl,nuzzle,risingvoltage|Relaxed|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|yamper|Weakness Policy|Rattled|swift,snarl,thunderbolt,thunder|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|yamper|Chilan Berry|Rattled|wildcharge,snarl,charge,dig|Lax|0,252,0,4,0,252||31,31,31,31,31,31||50|
+|yamper|Spell Tag|Rattled|snarl,crunch,wildcharge,discharge|Relaxed|252,0,148,0,108,0||31,31,31,31,31,31||50|
+|yamper|Choice Scarf|Ball Fetch|charge,swift,nuzzle,roar|Modest|4,0,28,212,140,124||31,31,31,31,31,31||50|
+|yamper|Choice Scarf|Rattled|nuzzle,firefang,roar,thunderfang|Gentle|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamper|Choice Scarf|Rattled|swift,firefang,nuzzle,thunderfang|Gentle|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Normal Gem|Soundproof|outrage,brickbreak,rocktomb,counter|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|jangmoo|Dragon Fang|Overcoat|brickbreak,falseswipe,payback,tackle|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|jangmoo|Pixie Plate|Overcoat|falseswipe,dragondance,payback,bulkup|Adamant|52,204,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Pecha Berry|Soundproof|rocktomb,falseswipe,outrage,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Eject Button|Overcoat|rocktomb,payback,dragondance,nobleroar|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Ring Target|Overcoat|dragonclaw,rocktomb,falseswipe,leer|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Salac Berry|Soundproof|rest,falseswipe,rocktomb,tackle|Relaxed|4,0,252,252,0,0||31,31,31,31,31,0||50|
+|jangmoo|Occa Berry|Overcoat|falseswipe,payback,outrage,leer|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Spell Tag|Overcoat|outrage,rocktomb,falseswipe,uproar|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Pecha Berry|Overcoat|payback,brickbreak,outrage,safeguard|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Eject Button|Overcoat|dragondance,focusblast,rocktomb,tackle|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Shell Bell|Overcoat|outrage,uproar,attract,rockslide|Rash|164,20,172,116,0,36||31,31,31,31,31,31||50|
+|jangmoo|Shell Bell|Overcoat|outrage,focusblast,uproar,xscissor|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Sticky Barb|Soundproof|outrage,earthquake,brickbreak,dragondance|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Wave Incense|Soundproof|focusblast,uproar,brickbreak,attract|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|jangmoo|Colbur Berry|Soundproof|focusblast,outrage,payback,dragondance|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Cheri Berry|Soundproof|outrage,rocktomb,uproar,brickbreak|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Charti Berry|Overcoat|outrage,payback,brickbreak,uproar|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+|jangmoo|Occa Berry|Overcoat|brickbreak,payback,bulldoze,workup|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|jangmoo|Figy Berry|Overcoat|falseswipe,uproar,rocktomb,sandstorm|Adamant|0,220,0,0,132,156||31,31,31,31,31,31||50|
+|dewpider|Quick Claw|Water Absorb|stockpile,spitup,round,bite|Serious|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|dewpider|Haban Berry|Water Absorb|leechlife,attract,stockpile,round|Sassy|0,0,252,252,4,0||31,31,31,31,31,0||50|
+|dewpider|Zoom Lens|Water Absorb|bugbuzz,attract,round,poisonjab|Relaxed|148,84,228,36,12,0||31,31,31,31,31,0||50|
+|dewpider|Snowball|Water Bubble|leechlife,wonderroom,stockpile,raindance|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dewpider|Electric Seed|Water Absorb|substitute,attract,wonderroom,icywind|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dewpider|Black Belt|Water Absorb|round,leechlife,stockpile,wonderroom|Relaxed|148,84,228,36,12,0||31,31,31,31,31,0||50|
+|dewpider|Room Service|Water Absorb|liquidation,blizzard,skittersmack,snore|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|dewpider|Ganlon Berry|Water Absorb|round,leechlife,snore,watergun|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|dewpider|Haban Berry|Water Absorb|stockpile,leechlife,wonderroom,liquidation|Relaxed|148,84,228,36,12,0||31,31,31,31,31,0||50|
+|dewpider|Colbur Berry|Water Absorb|bugbuzz,leechlife,stockpile,attract|Serious|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|dewpider|Life Orb|Water Bubble|stockpile,wonderroom,skittersmack,spitup|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dewpider|Normal Gem|Water Bubble|stockpile,substitute,wonderroom,surf|Bold|0,0,164,92,252,0||31,0,31,31,31,31||50|
+|dewpider|Pomeg Berry|Water Bubble|stockpile,wonderroom,substitute,gigadrain|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dewpider||Water Absorb|substitute,liquidation,icywind,protect|Adamant|204,252,52,0,0,0||31,31,31,31,31,31||50|
+|dewpider|Snowball|Water Absorb|round,snore,stockpile,leechlife|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|dewpider|Snowball|Water Bubble|rest,wonderroom,stockpile,poisonjab|Relaxed|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|dewpider|Snowball|Water Absorb|wonderroom,skittersmack,stockpile,leechlife|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|dewpider|Pecha Berry|Water Bubble|substitute,wonderroom,rest,magicroom|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|dewpider|Kee Berry|Water Bubble|wonderroom,skittersmack,substitute,surf|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|dewpider|Miracle Seed|Water Bubble|substitute,bugbuzz,wonderroom,xscissor|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|darumakagalar|Eviolite|Inner Focus|bellydrum,facade,avalanche,rest|Brave|212,196,100,0,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Kasib Berry|Inner Focus|overheat,avalanche,grassknot,zenheadbutt|Brave|212,196,100,0,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Kasib Berry|Hustle|overheat,icepunch,flareblitz,takedown|Serious|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|darumakagalar|Kasib Berry|Hustle|facade,sunnyday,workup,bite|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+|darumakagalar|Figy Berry|Inner Focus|avalanche,encore,workup,freezedry|Brave|212,196,100,0,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Red Card|Inner Focus|dig,grassknot,bellydrum,rest|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Figy Berry|Hustle|overheat,flareblitz,avalanche,endure|Careful|0,212,44,0,252,0||31,31,31,31,31,31||50|
+|darumakagalar|Figy Berry|Hustle|avalanche,encore,flareblitz,freezedry|Brave|212,196,100,0,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Rowap Berry|Inner Focus|facade,avalanche,flareblitz,megapunch|Relaxed|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Dragon Fang|Inner Focus|grassknot,avalanche,flareblitz,yawn|Brave|212,196,100,0,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Rawst Berry|Inner Focus|avalanche,workup,attract,zenheadbutt|Bold|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|darumakagalar|Magnet|Hustle|workup,avalanche,encore,sleeptalk|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|darumakagalar|Destiny Knot|Inner Focus|flareblitz,avalanche,bellydrum,firepunch|Relaxed|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Destiny Knot|Hustle|bellydrum,flareblitz,workup,avalanche|Lax|0,0,252,4,0,252||31,31,31,31,31,31||50|
+|darumakagalar|Ring Target|Hustle|workup,avalanche,uturn,taunt|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|darumakagalar|White Herb|Inner Focus|avalanche,attract,workup,focuspunch|Careful|212,68,52,0,164,12||31,31,31,31,31,31||50|
+|darumakagalar|Mystic Water|Inner Focus|flareblitz,avalanche,encore,hammerarm|Relaxed|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|darumakagalar|Figy Berry|Hustle|avalanche,flareblitz,zenheadbutt,poweruppunch|Brave|228,252,0,28,0,0||31,31,31,31,31,0||50|
+|darumakagalar|Muscle Band|Inner Focus|workup,encore,bellydrum,zenheadbutt|Lax|0,0,252,4,0,252||31,31,31,31,31,31||50|
+|darumakagalar|Figy Berry|Inner Focus|encore,overheat,avalanche,flareblitz|Relaxed|0,252,252,4,0,0||31,31,31,31,31,31||50|

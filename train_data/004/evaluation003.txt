@@ -1,0 +1,100 @@
+27.167477752729184|rockruff|Misty Seed|Steadfast|lastresort,rockslide,rocktomb,sleeptalk|Impish|236,4,236,0,20,12||31,31,31,31,31,31||50|
+25.5925192512219|rockruff|Misty Seed|Vital Spirit|rocktomb,leer,snarl,rockthrow|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+24.805249907859665|rockruff|Metronome|Vital Spirit|snarl,rockslide,leer,round|Impish|0,212,132,0,0,164||31,31,31,31,31,31||50|
+24.2663078433843|rockruff|Sharp Beak|Keen Eye|rocktomb,endure,tackle,lastresort|Lax|252,0,0,4,0,252||31,31,31,31,31,31||50|
+23.892959619444625|rockruff|Normal Gem|Keen Eye|lastresort,endeavor,stoneedge,hypervoice|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+23.814757647892712|rockruff|Misty Seed|Vital Spirit|rocktomb,stoneedge,hypervoice,protect|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+23.565533753996196|rockruff|Misty Seed|Vital Spirit|irontail,hypervoice,snarl,round|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+23.19634076326087|rockruff|Salac Berry|Steadfast|lastresort,rocktomb,irontail,thunderfang|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.531467980482105|rockruff|Normal Gem|Vital Spirit|rocktomb,protect,lastresort,thrash|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+22.289177769650042|rockruff|Poison Barb|Steadfast|rocktomb,stoneedge,rockslide,thrash|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+22.273280025782295|rockruff|Starf Berry|Own Tempo|rocktomb,protect,stoneedge,thunderfang|Quiet|204,52,252,0,0,0||31,31,31,31,31,0||50|
+20.06365606182162|rockruff|Protector|Steadfast|snarl,rocktomb,endure,rockslide|Bold|252,0,4,252,0,0||31,0,31,31,31,31||50|
+19.658837422364343|rockruff|Apicot Berry|Vital Spirit|rocktomb,rockslide,snarl,playrough|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+19.06716237410506|rockruff|Grassy Seed|Vital Spirit|protect,endure,rocktomb,substitute|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+15.067138973488744|rockruff|Dragon Fang|Keen Eye|protect,leer,taunt,tackle|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+14.353244336604329|rockruff|Normal Gem|Keen Eye|rockslide,rocktomb,lastresort,swordsdance|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+12.784535734733252|rockruff|Colbur Berry|Vital Spirit|endeavor,leer,snarl,scaryface|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+12.36398150337133|rockruff|Starf Berry|Vital Spirit|lastresort,protect,irontail,attract|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+10.48528482657754|rockruff|Jaboca Berry|Own Tempo|protect,endure,lastresort,irontail|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+9.345375635764983|rockruff|Misty Seed|Vital Spirit|lastresort,leer,irontail,protect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+34.92582049089672|meowthalola|Choice Band|Pickup|foulplay,growl,sunnyday,assurance|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+29.47802564016189|meowthalola|Eviolite|Pickup|hypervoice,foulplay,snore,charm|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.55851422826781|meowthalola|Lum Berry|Pickup|foulplay,taunt,snore,slash|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+27.943714619929327|meowthalola|Leppa Berry|Pickup|foulplay,nastyplot,taunt,playrough|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+25.893830917778082|meowthalola|Choice Band|Rattled|sunnyday,nastyplot,slash,thunder|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+25.122927667251222|meowthalola|Damp Rock|Pickup|nastyplot,foulplay,taunt,bite|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+25.07285093702729|meowthalola|Sharp Beak|Pickup|uturn,snore,taunt,nastyplot|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+23.859063577826365|meowthalola|Shed Shell|Technician|nastyplot,foulplay,taunt,headbutt|Careful|0,20,0,0,252,236||31,31,31,31,31,31||50|
+23.25353205292651|meowthalola|Sea Incense|Technician|taunt,headbutt,foulplay,flail|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.229107948960078|meowthalola|Leftovers|Rattled|throatchop,taunt,growl,dig|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+19.12152827435423|meowthalola|Wave Incense|Pickup|hypervoice,growl,nastyplot,retaliate|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+15.972061919868063|meowthalola|Colbur Berry|Pickup|snore,taunt,payback,hypervoice|Impish|148,20,84,0,132,124||31,31,31,31,31,31||50|
+14.211812624442965|meowthalola|Eject Pack|Pickup|growl,payback,foulplay,flatter|Gentle|252,0,0,252,4,0||31,31,31,31,31,31||50|
+14.18759841812895|meowthalola|Leppa Berry|Pickup|slash,flail,taunt,hypervoice|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+12.639556655704718|meowthalola|Focus Sash|Pickup|sunnyday,taunt,throatchop,nastyplot|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+12.0905713070242|meowthalola|Pomeg Berry|Pickup|assurance,foulplay,flatter,retaliate|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+8.452087648478567|meowthalola|Choice Band|Pickup|sunnyday,flatter,taunt,screech|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+7.433730438709336|meowthalola|Charcoal|Pickup|flatter,foulplay,taunt,dreameater|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+7.411580222677|meowthalola|Eject Pack|Pickup|growl,snore,taunt,dig|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+6.066587136953732|meowthalola|Rose Incense|Pickup|snore,growl,nastyplot,playrough|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+38.27041493041417|drilbur|Toxic Orb|Sand Rush|fissure,rapidspin,earthquake,brickbreak|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+37.9381397369446|drilbur|Lum Berry|Mold Breaker|attract,earthquake,xscissor,irondefense|Brave|0,196,108,0,204,0||31,31,31,31,31,0||50|
+37.32871948643032|drilbur|Safety Goggles|Mold Breaker|earthquake,fissure,rapidspin,facade|Calm|0,0,244,164,100,0||31,31,31,31,31,31||50|
+37.03305065023335|drilbur|Safety Goggles|Mold Breaker|xscissor,attract,earthquake,metalclaw|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+36.90637367356427|drilbur|Figy Berry|Mold Breaker|facade,round,fissure,earthquake|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+36.132849623819865|drilbur|Safety Goggles|Sand Force|earthquake,scratch,rest,fissure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+35.86830999998674|drilbur|Throat Spray|Mold Breaker|earthquake,swordsdance,attract,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+35.86675559930909|drilbur|Protective Pads|Mold Breaker|fissure,facade,earthquake,mudshot|Impish|0,44,252,0,212,0||31,31,31,31,31,31||50|
+35.537687045169264|drilbur|Payapa Berry|Sand Rush|earthquake,swordsdance,scratch,slash|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+35.1190912795653|drilbur|Metal Coat|Sand Rush|xscissor,earthquake,brickbreak,poisonjab|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+34.1809669294068|drilbur|Protective Pads|Mold Breaker|brickbreak,swordsdance,earthquake,honeclaws|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+33.40973355247367|drilbur|Protective Pads|Sand Rush|round,facade,attract,dig|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+33.09330912206357|drilbur|Safety Goggles|Sand Rush|earthquake,swordsdance,xscissor,brickbreak|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+33.0666397762578|drilbur|Protective Pads|Mold Breaker|scratch,attract,xscissor,earthquake|Calm|52,0,140,52,100,164||31,0,31,31,31,31||50|
+32.22731429578039|drilbur|Protective Pads|Mold Breaker|earthquake,attract,xscissor,honeclaws|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+32.00339595865988|drilbur|Luminous Moss|Sand Rush|earthquake,drillrun,brickbreak,bulldoze|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.812144480552284|drilbur|Safety Goggles|Sand Rush|earthquake,swordsdance,drillrun,substitute|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+19.086046354480892|drilbur|Safety Goggles|Mold Breaker|swordsdance,snore,rapidspin,mudslap|Serious|0,252,252,0,0,4||31,31,31,31,31,31||50|
+16.771445305472923|drilbur|Safety Goggles|Mold Breaker|honeclaws,brickbreak,rapidspin,metalsound|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+16.08922090784944|drilbur|Safety Goggles|Sand Rush|swordsdance,rapidspin,attract,substitute|Naive|0,0,68,252,0,188||31,31,31,31,31,31||50|
+35.50005938206819|croagunk|Leftovers|Dry Skin|gunkshot,thief,megakick,rockslide|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+33.516236433440476|croagunk|Binding Band|Poison Touch|thief,gunkshot,megakick,rockslide|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+31.852727029128022|croagunk|Rose Incense|Poison Touch|revenge,gunkshot,megakick,rockslide|Relaxed|252,0,220,0,36,0||31,31,31,31,31,0||50|
+31.222547833577963|croagunk|Safety Goggles|Anticipation|dynamicpunch,sleeptalk,flatter,earthquake|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+30.91105858530682|croagunk|Smooth Rock|Poison Touch|gunkshot,flatter,screech,astonish|Impish|0,0,188,0,252,68||31,31,31,31,31,31||50|
+28.98512743560973|croagunk|Smooth Rock|Dry Skin|flatter,gunkshot,bounce,mudslap|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+28.907994190747583|croagunk|Shed Shell|Poison Touch|gunkshot,drainpunch,megakick,substitute|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+28.52456987159478|croagunk|Binding Band|Dry Skin|gunkshot,megakick,rockslide,astonish|Serious|252,204,52,0,0,0||31,31,31,31,31,31||50|
+28.327857231406647|croagunk||Dry Skin|crosschop,gunkshot,megakick,dig|Calm|4,0,252,0,0,252||31,0,31,31,31,31||50|
+27.861838878310337|croagunk|Kebia Berry|Dry Skin|megakick,suckerpunch,rockslide,belch|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.794445161756|croagunk|Twisted Spoon|Anticipation|drainpunch,gunkshot,belch,foulplay|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+27.793615200418984|croagunk|Binding Band|Dry Skin|gunkshot,dynamicpunch,thief,sunnyday|Adamant|44,252,0,0,0,212||31,31,31,31,31,31||50|
+27.53077030448928|croagunk|Binding Band|Poison Touch|gunkshot,sleeptalk,belch,brickbreak|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+25.210496775014214|croagunk|Binding Band|Poison Touch|flatter,revenge,gunkshot,venomdrench|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.809825657146526|croagunk|Metronome|Anticipation|rockslide,gunkshot,belch,poisonjab|Timid|4,0,0,0,252,252||31,0,31,31,31,31||50|
+22.839531021986282|croagunk|Cell Battery|Poison Touch|raindance,gunkshot,belch,thunderpunch|Sassy|252,0,0,252,4,0||31,31,31,31,31,0||50|
+21.503557899758952|croagunk|Binding Band|Poison Touch|belch,megakick,sunnyday,coaching|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+16.03258834850966|croagunk|Power Herb|Poison Touch|revenge,sunnyday,dynamicpunch,feint|Impish|0,204,252,0,0,52||31,31,31,31,31,31||50|
+9.309303406754054|croagunk|Heat Rock|Dry Skin|sleeptalk,flatter,revenge,crosschop|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+8.734241714472313|croagunk|Smooth Rock|Dry Skin|flatter,dynamicpunch,attract,venomdrench|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+30.56599309073364|carvanha|Jaboca Berry|Rough Skin|crunch,liquidation,thrash,aquajet|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+27.64819746882961|carvanha|Eviolite|Rough Skin|liquidation,thrash,crunch,surf|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.599105859726063|carvanha|Apicot Berry|Speed Boost|liquidation,thrash,taunt,facade|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.239250620257906|carvanha|King's Rock|Speed Boost|uproar,sleeptalk,protect,poisonfang|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+26.609722799474017|carvanha|Assault Vest|Rough Skin|uproar,thrash,liquidation,blizzard|Impish|68,0,244,0,0,196||31,31,31,31,31,31||50|
+26.11204936427714|carvanha|Rose Incense|Rough Skin|scald,liquidation,uproar,bounce|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.83513498007329|carvanha|Hondew Berry|Rough Skin|liquidation,crunch,thrash,icebeam|Quiet|0,0,116,140,252,0||31,31,31,31,31,31||50|
+24.118422203744974|carvanha|Razor Claw|Speed Boost|thrash,crunch,uproar,leer|Careful|220,0,0,0,76,212||31,31,31,31,31,31||50|
+22.504978044477202|carvanha|Safety Goggles|Rough Skin|sleeptalk,crunch,bite,waterpulse|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+21.299941973053468|carvanha|Mystic Water|Rough Skin|thrash,crunch,protect,darkpulse|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.29009509285074|carvanha|Heat Rock|Rough Skin|thrash,crunch,scald,facade|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.20567847343818|carvanha|Life Orb|Speed Boost|sleeptalk,scald,crunch,endure|Careful|220,0,0,0,76,212||31,31,31,31,31,31||50|
+19.589501337362098|carvanha|Apicot Berry|Rough Skin|thrash,taunt,liquidation,uproar|Bold|252,0,0,212,44,0||31,0,31,31,31,31||50|
+19.2833446152303|carvanha|Apicot Berry|Speed Boost|thrash,liquidation,crunch,destinybond|Careful|220,0,0,0,76,212||31,31,31,31,31,31||50|
+18.258077844318613|carvanha|Razor Claw|Rough Skin|crunch,scald,thrash,rest|Careful|220,0,0,0,76,212||31,31,31,31,31,31||50|
+18.173757753475773|carvanha|Misty Seed|Rough Skin|snarl,crunch,taunt,thief|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+18.15377911661689|carvanha|Hard Stone|Rough Skin|crunch,thrash,liquidation,scald|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.31260273732643|carvanha|Sitrus Berry|Rough Skin|crunch,scald,thrash,rest|Bold|252,0,0,212,44,0||31,0,31,31,31,31||50|
+15.002066446800217|carvanha||Rough Skin|liquidation,thrash,blizzard,substitute|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+8.850624882635724|carvanha|Razor Claw|Rough Skin|protect,scald,liquidation,waterpulse|Hasty|0,252,0,108,0,148||31,31,31,31,31,31||50|

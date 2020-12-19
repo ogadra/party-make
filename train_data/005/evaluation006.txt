@@ -1,0 +1,100 @@
+35.667423752056344|slowpokegalar|Choice Specs|Regenerator|earthquake,swift,icebeam,imprison|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+30.27655104230918|slowpokegalar|Lum Berry|Own Tempo|flamethrower,attract,grassknot,psychup|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+29.760782714434736|slowpokegalar|Electric Seed|Regenerator|dig,liquidation,swift,imprison|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+29.28597903200494|slowpokegalar|Electric Seed|Regenerator|icebeam,liquidation,swift,bulldoze|Quiet|76,0,180,252,0,0||31,31,31,31,31,31||50|
+29.209588312242662|slowpokegalar|Power Herb|Regenerator|icebeam,grassknot,earthquake,waterpulse|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+29.11278128968814|slowpokegalar|Power Herb|Own Tempo|fireblast,liquidation,attract,endure|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.389797835859955|slowpokegalar|Babiri Berry|Regenerator|swift,icebeam,earthquake,yawn|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.90312527141817|slowpokegalar|Kebia Berry|Regenerator|tackle,grassknot,icebeam,icywind|Modest|92,0,0,252,164,0||31,0,31,31,31,31||50|
+26.012119265625845|slowpokegalar|Mental Herb|Regenerator|fireblast,wonderroom,round,brine|Naive|180,116,4,44,0,164||31,31,31,31,31,31||50|
+25.9772945182728|slowpokegalar|Electric Seed|Own Tempo|fireblast,grassknot,liquidation,mudshot|Modest|92,0,0,252,164,0||31,0,31,31,31,31||50|
+25.45907764568423|slowpokegalar|Power Herb|Regenerator|icebeam,wonderroom,swift,scald|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.422377704126397|slowpokegalar|Magnet|Regenerator|flamethrower,wonderroom,expandingforce,endure|Modest|92,0,0,252,164,0||31,0,31,31,31,31||50|
+23.398026786471405|slowpokegalar|Ganlon Berry|Own Tempo|liquidation,icebeam,attract,calmmind|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+22.858477009908867|slowpokegalar|Electric Seed|Regenerator|wonderroom,swift,fireblast,waterpulse|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+21.880952118145622|slowpokegalar|Utility Umbrella|Regenerator|icebeam,earthquake,hail,sleeptalk|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+20.145534320245726|slowpokegalar|Charti Berry|Regenerator|hail,wonderroom,attract,icywind|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+16.924667901491823|slowpokegalar|Flame Orb|Own Tempo|wonderroom,icebeam,attract,belch|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+16.692007929093542|slowpokegalar|Power Herb|Own Tempo|liquidation,substitute,attract,amnesia|Modest|92,0,0,252,164,0||31,0,31,31,31,31||50|
+13.677064924896275|slowpokegalar|Power Herb|Regenerator|swift,tackle,attract,grassknot|Jolly|28,0,0,0,228,252||31,31,31,31,31,31||50|
+12.859439379984423|slowpokegalar|Razor Claw|Own Tempo|attract,swift,wonderroom,belch|Serious|252,0,0,0,252,4||31,31,31,31,31,31||50|
+32.198160456269036|oddish|Lansat Berry|Chlorophyll|grassknot,sludgebomb,sunnyday,solarbeam|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+32.04444106182506|oddish|Choice Specs|Run Away|sludgebomb,strengthsap,venoshock,grassyterrain|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+31.1426000324407|oddish|Aguav Berry|Run Away|sludgebomb,snore,sunnyday,solarbeam|Calm|0,0,0,188,252,68||31,0,31,31,31,31||50|
+29.093596548610115|oddish|Colbur Berry|Chlorophyll|sunnyday,sludgebomb,snore,charm|Careful|132,0,0,0,252,124||31,31,31,31,31,31||50|
+27.76132408606601|oddish|Bright Powder|Run Away|sludgebomb,venoshock,attract,leechseed|Calm|252,0,0,0,92,164||31,0,31,31,31,31||50|
+27.14826511219873|oddish|Smooth Rock|Chlorophyll|sunnyday,strengthsap,sludgebomb,teeterdance|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+27.04194302793353|oddish|Chople Berry|Chlorophyll|attract,sludgebomb,sunnyday,sleeptalk|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+26.528743073514338|oddish|Payapa Berry|Chlorophyll|sunnyday,snore,sludgebomb,moonlight|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+24.040699752075525|oddish|Big Root|Run Away|sludgebomb,acid,attract,growth|Quiet|0,212,0,252,44,0||31,31,31,31,31,0||50|
+23.95909981953296|oddish|Choice Specs|Chlorophyll|solarbeam,sunnyday,megadrain,absorb|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+23.027717912066084|oddish|Chople Berry|Run Away|solarbeam,rest,venoshock,attract|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.584361369389736|oddish|Zoom Lens|Chlorophyll|attract,venoshock,solarbeam,headbutt|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+20.69632904244146|oddish|Focus Sash|Run Away|round,attract,solarbeam,growth|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+20.246077736642413|oddish|Chople Berry|Run Away|strengthsap,round,solarbeam,sleeptalk|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+16.678698200836514|oddish|Scope Lens|Chlorophyll|sunnyday,megadrain,round,substitute|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+12.871291132158566|oddish|Enigma Berry|Chlorophyll|snore,megadrain,dazzlinggleam,rest|Careful|132,0,0,0,252,124||31,31,31,31,31,31||50|
+10.463425566852653|oddish|Chesto Berry|Chlorophyll|megadrain,snore,dazzlinggleam,afteryou|Careful|36,44,124,0,220,84||31,31,31,31,31,31||50|
+10.154060689169341|oddish|Float Stone|Chlorophyll|snore,sunnyday,megadrain,afteryou|Relaxed|0,100,164,0,244,0||31,31,31,31,31,0||50|
+7.56834584025772|oddish|Colbur Berry|Chlorophyll|attract,rest,solarbeam,sweetscent|Careful|132,0,0,0,252,124||31,31,31,31,31,31||50|
+5.946244918406442|oddish|Choice Specs|Run Away|rest,attract,solarbeam,protect|Bold|100,0,52,44,60,252||31,0,31,31,31,31||50|
+32.39512313865356|bunnelby|Charti Berry|Huge Power|takedown,leer,mudslap,wildcharge|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+29.655251796820092|bunnelby|Micle Berry|Huge Power|payback,ironhead,mudslap,workup|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+28.610149961428306|bunnelby|Utility Umbrella|Huge Power|leer,rockslide,protect,facade|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+28.097345163746812|bunnelby|Expert Belt|Huge Power|doublekick,payback,ironhead,sludgebomb|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+27.95226922557643|bunnelby|Expert Belt|Huge Power|ironhead,payback,rockslide,earthquake|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+26.939948784477618|bunnelby|Rawst Berry|Huge Power|payback,sludgebomb,grassknot,rollout|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+26.77557053673394|bunnelby|Scope Lens|Huge Power|leer,ironhead,fling,rest|Jolly|0,76,0,0,180,252||31,31,31,31,31,31||50|
+25.349715204955466|bunnelby|Silk Scarf|Huge Power|doublekick,ironhead,substitute,endure|Lax|252,0,252,0,0,4||31,31,31,31,31,31||50|
+25.252051558839018|bunnelby|Expert Belt|Huge Power|rockslide,ironhead,payback,mudslap|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+24.10435461027933|bunnelby|Enigma Berry|Huge Power|protect,rockslide,leer,rollout|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+23.73879513999864|bunnelby|Protector|Huge Power|ironhead,rockslide,protect,quickattack|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+21.898351468025922|bunnelby|Miracle Seed|Huge Power|payback,rockslide,surf,facade|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+21.091090241328995|bunnelby|Qualot Berry|Huge Power|rockslide,protect,ironhead,tackle|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+19.60135468740509|bunnelby|Rindo Berry|Pickup|rockslide,protect,leer,defensecurl|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+19.487874905431774|bunnelby|Scope Lens|Huge Power|leer,rockslide,payback,substitute|Relaxed|0,0,252,252,4,0||31,31,31,31,31,0||50|
+19.147801390816806|bunnelby|Payapa Berry|Pickup|rockslide,substitute,payback,leer|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+16.508778128828723|bunnelby|Micle Berry|Pickup|fling,mudslap,ironhead,payback|Impish|28,28,252,0,132,68||31,31,31,31,31,31||50|
+16.23547807120712|bunnelby|Haban Berry|Huge Power|protect,rockslide,quickattack,flail|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+13.785868503341774|bunnelby|Tamato Berry|Huge Power|protect,sludgebomb,ironhead,mudslap|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+12.170884127979427|bunnelby|Silk Scarf|Huge Power|payback,sludgebomb,substitute,surf|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+33.28658566056683|bulbasaur|Blunder Policy|Overgrow|sludgebomb,outrage,venoshock,powerwhip|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+32.84143101090043|bulbasaur|Chesto Berry|Overgrow|sludgebomb,falseswipe,outrage,bulletseed|Modest|220,0,20,156,92,20||31,0,31,31,31,31||50|
+31.556202322120335|bulbasaur|Choice Band|Overgrow|leafstorm,sludgebomb,falseswipe,grassyterrain|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.533651703069403|bulbasaur|Blunder Policy|Overgrow|sludgebomb,outrage,leafstorm,round|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+29.764292429158104|bulbasaur|Scope Lens|Chlorophyll|leafstorm,attract,outrage,weatherball|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+29.44417498214916|bulbasaur|Assault Vest|Overgrow|bulletseed,venoshock,sludgebomb,leechseed|Modest|220,0,20,156,92,20||31,0,31,31,31,31||50|
+27.535140737745994|bulbasaur|Grepa Berry|Overgrow|workup,sludgebomb,attract,takedown|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
+27.121805166938834|bulbasaur|Micle Berry|Overgrow|leafstorm,outrage,grassyterrain,lightscreen|Hasty|0,12,0,0,244,252||31,31,31,31,31,31||50|
+26.221022430416646|bulbasaur|Grepa Berry|Overgrow|endure,sludgebomb,outrage,lightscreen|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.605487234112747|bulbasaur|Grepa Berry|Chlorophyll|leafstorm,grassyterrain,venoshock,weatherball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.368852761182584|bulbasaur|Assault Vest|Overgrow|falseswipe,venoshock,sludgebomb,outrage|Jolly|132,172,0,0,0,204||31,31,31,31,31,31||50|
+24.26157776436912|bulbasaur|King's Rock|Overgrow|outrage,sludgebomb,workup,energyball|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+22.572803109146374|bulbasaur|Eject Pack|Overgrow|sludgebomb,attract,outrage,workup|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+21.493083199181154|bulbasaur|Grepa Berry|Overgrow|doubleedge,workup,venoshock,poisonpowder|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+20.540478465395587|bulbasaur|Grepa Berry|Overgrow|workup,doubleedge,bulletseed,gigadrain|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+19.307845862371774|bulbasaur|Lagging Tail|Overgrow|doubleedge,workup,venoshock,swordsdance|Adamant|92,68,84,0,100,164||31,31,31,31,31,31||50|
+19.250831307643583|bulbasaur|Blunder Policy|Overgrow|doubleedge,outrage,venoshock,reflect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+19.114833718460837|bulbasaur|Soft Sand|Chlorophyll|outrage,leafstorm,doubleedge,skullbash|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+18.51673593890188|bulbasaur|Psychic Seed|Overgrow|facade,falseswipe,outrage,grasspledge|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+7.4274017514529564|bulbasaur|Destiny Knot|Overgrow|falseswipe,bulletseed,outrage,toxic|Brave|28,156,164,52,108,0||31,31,31,31,31,0||50|
+41.99651494721403|beldum|Micle Berry|Light Metal|tackle,irondefense,ironhead,steelbeam|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+39.21066521060015|beldum|Dragon Scale|Clear Body|ironhead,tackle,irondefense,steelbeam|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+38.831569465368254|beldum|Aspear Berry|Clear Body|ironhead,steelbeam,tackle,irondefense|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+38.48318481647633|beldum|Micle Berry|Clear Body|tackle,ironhead,irondefense,steelbeam|Impish|124,252,0,0,0,132||31,31,31,31,31,31||50|
+36.93135802580194|beldum|Luminous Moss|Clear Body|ironhead,tackle,irondefense,steelbeam|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+34.93520880732194|beldum|Choice Scarf|Clear Body|irondefense,ironhead,tackle,steelbeam|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+33.14010027557864|beldum|Rawst Berry|Clear Body|ironhead,tackle,zenheadbutt,irondefense|Lax|236,20,252,0,0,0||31,31,31,31,31,31||50|
+31.861331855951573|beldum|Dragon Scale|Clear Body|ironhead,tackle,irondefense,zenheadbutt|Careful|52,0,204,0,252,0||31,31,31,31,31,31||50|
+31.238134713081784|beldum|Electric Seed|Clear Body|steelbeam,tackle,ironhead,zenheadbutt|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.07269996203791|beldum|Grassy Seed|Clear Body|steelbeam,zenheadbutt,irondefense,tackle|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.086817335236887|beldum|Luminous Moss|Clear Body|tackle,irondefense,ironhead,zenheadbutt|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+28.833124910147063|beldum|Smooth Rock|Clear Body|ironhead,irondefense,tackle,zenheadbutt|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+28.651885211135536|beldum|Miracle Seed|Clear Body|irondefense,steelbeam,ironhead,zenheadbutt|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+27.584615069871923|beldum|Grassy Seed|Clear Body|irondefense,steelbeam,tackle,ironhead|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.05074207501245|beldum|Lagging Tail|Light Metal|irondefense,ironhead,tackle,zenheadbutt|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+22.122665423443333|beldum|Silk Scarf|Clear Body|steelbeam,tackle,ironhead,irondefense|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+19.624547732596053|beldum|Luminous Moss|Clear Body|steelbeam,tackle,ironhead,irondefense|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+18.458291344579443|beldum|Luminous Moss|Light Metal|steelbeam,tackle,ironhead,irondefense|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+18.178633564823066|beldum|Twisted Spoon|Clear Body|tackle,steelbeam,ironhead,irondefense|Impish|124,252,0,0,0,132||31,31,31,31,31,31||50|
+11.39496627752565|beldum|Luminous Moss|Light Metal|irondefense,steelbeam,ironhead,tackle|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|

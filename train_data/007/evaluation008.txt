@@ -1,0 +1,100 @@
+37.25252133647026|vanillite|Aguav Berry|Snow Cloak|auroraveil,irondefense,icebeam,avalanche|Mild|172,36,0,180,12,108||31,31,31,31,31,31||50|
+37.225975117859925|vanillite|Aguav Berry|Snow Cloak|blizzard,auroraveil,facade,rest|Bold|84,0,252,0,172,0||31,0,31,31,31,31||50|
+36.44708741114266|vanillite|Ganlon Berry|Snow Cloak|selfdestruct,harden,icebeam,iciclespear|Quiet|132,0,0,252,124,0||31,31,31,31,31,31||50|
+36.06865304580845|vanillite|Weakness Policy|Snow Cloak|icebeam,auroraveil,raindance,facade|Mild|172,36,0,180,12,108||31,31,31,31,31,31||50|
+34.15909213740931|vanillite|Aguav Berry|Snow Cloak|harden,blizzard,icebeam,facade|Bold|84,0,252,0,172,0||31,0,31,31,31,31||50|
+34.158378762936636|vanillite|Tanga Berry|Snow Cloak|icebeam,irondefense,auroraveil,flashcannon|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+33.75869594136643|vanillite|Bright Powder|Ice Body|auroraveil,allyswitch,blizzard,flashcannon|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+33.33054023571972|vanillite|Haban Berry|Weak Armor|auroraveil,icebeam,avalanche,sleeptalk|Bold|84,0,252,0,172,0||31,0,31,31,31,31||50|
+33.19081839077102|vanillite|Damp Rock|Weak Armor|harden,facade,icebeam,icywind|Quiet|132,0,0,252,124,0||31,31,31,31,31,31||50|
+32.42020198480116|vanillite|Kee Berry|Snow Cloak|facade,auroraveil,icebeam,hail|Mild|172,36,0,180,12,108||31,31,31,31,31,31||50|
+32.19973748546289|vanillite|Choice Specs|Snow Cloak|icywind,harden,icebeam,blizzard|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+31.551857085119963|vanillite|Blunder Policy|Snow Cloak|facade,blizzard,raindance,auroraveil|Quiet|132,0,0,252,124,0||31,31,31,31,31,31||50|
+31.336903112787482|vanillite|Weakness Policy|Weak Armor|icebeam,irondefense,auroraveil,allyswitch|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+31.280391866832293|vanillite|King's Rock|Weak Armor|allyswitch,icebeam,magnetrise,astonish|Mild|164,0,0,92,0,252||31,31,31,31,31,31||50|
+28.92198987276013|vanillite|Aspear Berry|Ice Body|auroraveil,hypervoice,blizzard,protect|Lax|52,100,156,12,0,188||31,31,31,31,31,31||50|
+28.714415318660684|vanillite|Chilan Berry|Snow Cloak|irondefense,icebeam,auroraveil,explosion|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+28.323234444488484|vanillite|Apicot Berry|Weak Armor|irondefense,allyswitch,icywind,endure|Mild|172,36,0,180,12,108||31,31,31,31,31,31||50|
+13.123448993120455|vanillite|Bright Powder|Snow Cloak|irondefense,iceshard,allyswitch,substitute|Bold|252,0,0,0,4,252||31,0,31,31,31,31||50|
+9.061189195283287|vanillite||Snow Cloak|irondefense,magnetrise,raindance,mirrorcoat|Mild|172,36,0,180,12,108||31,31,31,31,31,31||50|
+5.972776046476853|vanillite|Choice Specs|Weak Armor|raindance,harden,auroraveil,mist|Quiet|132,0,0,252,124,0||31,31,31,31,31,31||50|
+30.09214675897829|shinx|Eviolite|Intimidate|sleeptalk,rest,psychicfangs,roar|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+27.799655090212006|shinx|Rocky Helmet|Intimidate|thunderwave,bite,electroball,voltswitch|Lax|236,68,204,0,0,0||31,31,31,31,31,31||50|
+26.55422925260498|shinx|Ganlon Berry|Intimidate|firefang,spark,bite,tackle|Impish|0,212,252,0,0,44||31,31,31,31,31,31||50|
+24.80758177074762|shinx|King's Rock|Intimidate|protect,bite,psychicfangs,attract|Impish|0,212,252,0,0,44||31,31,31,31,31,31||50|
+22.97794011204051|shinx|Custap Berry|Intimidate|psychicfangs,firefang,thundershock,swift|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+22.828795928019314|shinx|Blunder Policy|Intimidate|irontail,protect,sleeptalk,snore|Timid|204,0,0,0,60,244||31,0,31,31,31,31||50|
+22.690708878982377|shinx|Oran Berry|Intimidate|psychicfangs,spark,firefang,thundershock|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.04984690362607|shinx|Life Orb|Intimidate|spark,firefang,crunch,snarl|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+20.874246893541354|shinx|Apicot Berry|Intimidate|firefang,endure,electroball,scaryface|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+20.69371705051938|shinx|Aguav Berry|Rivalry|psychicfangs,sleeptalk,irontail,swagger|Naughty|60,52,108,124,0,164||31,31,31,31,31,31||50|
+20.658861187581387|shinx|Silver Powder|Intimidate|crunch,psychicfangs,endure,eerieimpulse|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+20.150212084025444|shinx|Jaboca Berry|Intimidate|bite,psychicfangs,thundershock,roar|Relaxed|0,132,0,124,252,0||31,31,31,31,31,31||50|
+19.963061794551756|shinx|Rocky Helmet|Intimidate|quickattack,bite,electroball,crunch|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+18.762257545930588|shinx|Tanga Berry|Guts|irontail,spark,psychicfangs,tackle|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+16.360481999963593|shinx|Destiny Knot|Intimidate|rest,quickattack,irontail,discharge|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+16.279900739879416|shinx|Miracle Seed|Intimidate|crunch,icefang,firefang,faketears|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+14.631211724899725|shinx|Rocky Helmet|Rivalry|bite,protect,thunderwave,voltswitch|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+14.33877632536165|shinx|Ganlon Berry|Guts|babydolleyes,discharge,psychicfangs,helpinghand|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+13.587132641829665|shinx|Destiny Knot|Guts|bite,firefang,thundershock,thunderfang|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+13.178038593959585|shinx|Black Sludge|Guts|icefang,thunderwave,swagger,rest|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+34.83564336790267|sandshrew|Life Orb|Sand Veil|earthpower,counter,rocktomb,bodyslam|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+33.358468758989524|sandshrew|Rawst Berry|Sand Veil|nightslash,shadowclaw,earthquake,throatchop|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+33.065591041376486|sandshrew|Focus Sash|Sand Veil|poisonsting,earthpower,counter,leechlife|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+33.021187796025494|sandshrew|Silk Scarf|Sand Veil|counter,rocktomb,earthquake,shadowclaw|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+32.385882979219765|sandshrew|Expert Belt|Sand Veil|seismictoss,rocktomb,earthquake,poisonsting|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+32.10555778997347|sandshrew|Binding Band|Sand Veil|shadowclaw,earthquake,rocktomb,bulldoze|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+32.01548873319287|sandshrew|Terrain Extender|Sand Veil|poisonsting,seismictoss,earthpower,mudshot|Bold|92,0,236,148,12,20||31,0,31,31,31,31||50|
+31.0469129512286|sandshrew|Heat Rock|Sand Veil|scorchingsands,poisonjab,earthpower,furycutter|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.90305781619624|sandshrew|Metronome|Sand Veil|earthquake,xscissor,earthpower,throatchop|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.887333918849663|sandshrew|Expert Belt|Sand Veil|rocktomb,seismictoss,earthpower,rest|Mild|84,0,0,252,172,0||31,31,31,31,31,31||50|
+30.794798407184146|sandshrew|Sticky Barb|Sand Veil|earthquake,xscissor,earthpower,safeguard|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.669317126580584|sandshrew|Expert Belt|Sand Veil|seismictoss,poisonjab,earthpower,rockslide|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+30.51084740972262|sandshrew|Life Orb|Sand Veil|poisonjab,counter,earthpower,earthquake|Mild|84,0,0,252,172,0||31,31,31,31,31,31||50|
+28.494379848040975|sandshrew|Metronome|Sand Veil|xscissor,earthquake,poisonjab,dig|Mild|84,0,0,252,172,0||31,31,31,31,31,31||50|
+27.81364473734607|sandshrew|Expert Belt|Sand Veil|seismictoss,counter,earthquake,bodyslam|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.511986198771115|sandshrew|Metronome|Sand Rush|earthquake,counter,poisonjab,safeguard|Mild|84,0,0,252,172,0||31,31,31,31,31,31||50|
+25.38573984321823|sandshrew|Icy Rock|Sand Rush|poisonjab,counter,seismictoss,mudshot|Mild|84,0,0,252,172,0||31,31,31,31,31,31||50|
+24.471828162318726|sandshrew|Expert Belt|Sand Veil|seismictoss,earthpower,poisonjab,slash|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+19.82794849410478|sandshrew|Custap Berry|Sand Veil|scorchingsands,xscissor,earthpower,counter|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+16.82976082410607|sandshrew|Shuca Berry|Sand Veil|shadowclaw,rocktomb,counter,endure|Calm|0,0,0,220,252,36||31,31,31,31,31,31||50|
+22.432568992212005|milcery|Rocky Helmet|Aroma Veil|facade,recover,helpinghand,sleeptalk|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+22.096693488949814|milcery|Eviolite|Sweet Veil|facade,helpinghand,aromaticmist,snore|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+21.38979855531391|milcery|Eviolite|Sweet Veil|entrainment,sweetscent,facade,aromaticmist|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+21.053432764064606|milcery|Liechi Berry|Sweet Veil|drainingkiss,aromatherapy,entrainment,helpinghand|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.55222869351804|milcery|Eviolite|Sweet Veil|aromaticmist,facade,helpinghand,mistyterrain|Naughty|116,116,12,12,0,252||31,31,31,31,31,31||50|
+19.93653257588951|milcery|Eviolite|Sweet Veil|facade,dazzlinggleam,charm,snore|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+19.60632182572562|milcery|Toxic Orb|Sweet Veil|helpinghand,facade,aromaticmist,entrainment|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+18.33517743357907|milcery|Leftovers|Sweet Veil|aromaticmist,celebrate,facade,round|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.281382262783733|milcery|Smooth Rock|Sweet Veil|facade,entrainment,aromaticmist,aromatherapy|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+15.297131423041916|milcery|Eject Button|Sweet Veil|helpinghand,facade,drainingkiss,charm|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+15.092996219340046|milcery||Sweet Veil|facade,celebrate,endure,sweetkiss|Gentle|0,196,0,0,252,60||31,31,31,31,31,31||50|
+13.964253488695856|milcery|Eviolite|Sweet Veil|facade,sleeptalk,endure,celebrate|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+13.295531174297535|milcery|Quick Claw|Sweet Veil|drainingkiss,endure,facade,recover|Quiet|252,36,52,28,140,0||31,31,31,31,31,31||50|
+12.383652195240048|milcery|Ring Target|Aroma Veil|endure,facade,entrainment,lastresort|Calm|84,0,212,0,212,0||31,31,31,31,31,31||50|
+12.265520159096729|milcery|Air Balloon|Aroma Veil|snore,facade,rest,mistyterrain|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+12.209658572524386|milcery|Assault Vest|Sweet Veil|aromaticmist,recover,facade,entrainment|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+11.887138583770295|milcery|Eviolite|Sweet Veil|aromaticmist,recover,facade,mistyterrain|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+11.238202201009022|milcery|Protector|Sweet Veil|endure,aromaticmist,snore,babydolleyes|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+7.89726855936308|milcery|Eviolite|Sweet Veil|snore,facade,sweetscent,endure|Mild|0,244,0,252,0,12||31,31,31,31,31,31||50|
+6.928218612877696|milcery|Smooth Rock|Sweet Veil|aromaticmist,helpinghand,sweetscent,snore|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+32.46786107755912|dwebble|Assault Vest|Sturdy|xscissor,stoneedge,skittersmack,rockwrecker|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.42490584566107|dwebble|Protector|Sturdy|rockwrecker,curse,skittersmack,bulldoze|Naughty|252,220,20,12,0,4||31,31,31,31,31,31||50|
+31.233543382377018|dwebble|Spell Tag|Sturdy|stoneedge,rockwrecker,swordsdance,rockslide|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.10183853206348|dwebble|Kasib Berry|Sturdy|irondefense,stoneedge,shadowclaw,rockpolish|Sassy|44,0,0,212,252,0||31,31,31,31,31,31||50|
+30.880862783066373|dwebble|Lax Incense|Sturdy|xscissor,swordsdance,stoneedge,knockoff|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+30.15961117466267|dwebble|Silver Powder|Sturdy|withdraw,skittersmack,wideguard,rockpolish|Naughty|252,220,20,12,0,4||31,31,31,31,31,31||50|
+29.325444279553995|dwebble|Colbur Berry|Sturdy|sleeptalk,wideguard,rockwrecker,swordsdance|Careful|108,0,188,0,212,0||31,31,31,31,31,31||50|
+29.283577456737117|dwebble|Miracle Seed|Shell Armor|irondefense,xscissor,counter,stoneedge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.956290994402487|dwebble|Utility Umbrella|Sturdy|shadowclaw,xscissor,swordsdance,irondefense|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.750718626704824|dwebble|Colbur Berry|Sturdy|round,shadowclaw,rockwrecker,bulldoze|Calm|0,0,228,92,188,0||31,0,31,31,31,31||50|
+28.620695903903723|dwebble|Silver Powder|Sturdy|rockblast,rockwrecker,shadowclaw,slash|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+28.128999626999658|dwebble|Iapapa Berry|Sturdy|shadowclaw,sleeptalk,solarbeam,withdraw|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.93917561259145|dwebble|Lax Incense|Sturdy|rockwrecker,swordsdance,xscissor,stealthrock|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.556657480176238|dwebble|Salac Berry|Sturdy|swordsdance,irondefense,xscissor,attract|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+26.47276210665436|dwebble|Colbur Berry|Sturdy|sandtomb,xscissor,stoneedge,rest|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+26.28047726725131|dwebble|Colbur Berry|Sturdy|shadowclaw,sandtomb,wideguard,furycutter|Naughty|252,220,20,12,0,4||31,31,31,31,31,31||50|
+25.576690487990003|dwebble|Protector|Weak Armor|stoneedge,sleeptalk,shadowclaw,rockwrecker|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+24.824792188065|dwebble|Protector|Sturdy|skittersmack,xscissor,rockwrecker,shellsmash|Relaxed|0,0,228,252,28,0||31,31,31,31,31,0||50|
+23.40769882234374|dwebble|Protector|Sturdy|xscissor,stoneedge,rockwrecker,withdraw|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+19.887086659869055|dwebble|Colbur Berry|Sturdy|shadowclaw,rest,wideguard,solarbeam|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|

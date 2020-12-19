@@ -1,0 +1,100 @@
+35.106058070087634|squirtle|Leftovers|Rain Dish|bodyslam,seismictoss,rest,haze|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+31.576012651050362|squirtle|Rowap Berry|Rain Dish|waterspout,waterfall,bodyslam,bubble|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+30.427925947667248|squirtle|Dragon Fang|Rain Dish|seismictoss,rest,waterfall,aquatail|Quiet|0,0,52,244,212,0||31,31,31,31,31,0||50|
+29.723781010142517|squirtle|Wiki Berry|Rain Dish|bodyslam,haze,waterfall,endure|Quiet|108,116,20,44,220,0||31,31,31,31,31,31||50|
+29.611906422433474|squirtle|Dragon Fang|Rain Dish|rest,bodyslam,zenheadbutt,skullbash|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+29.41193485932769|squirtle|Leftovers|Rain Dish|dive,skullbash,zenheadbutt,seismictoss|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.443252435267333|squirtle|Dragon Fang|Rain Dish|bodyslam,rest,waterspout,waterpulse|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.346711527421213|squirtle|Electric Seed|Torrent|rapidspin,rest,bodyslam,icepunch|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+27.184176275971062|squirtle|Choice Scarf|Rain Dish|aurasphere,zenheadbutt,seismictoss,waterspout|Serious|252,0,252,0,0,4||31,31,31,31,31,31||50|
+26.26628262508126|squirtle|Full Incense|Rain Dish|rest,waterfall,waterspout,raindance|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.139145754363472|squirtle|Leftovers|Torrent|skullbash,bodyslam,zenheadbutt,bubblebeam|Sassy|0,0,4,252,252,0||31,31,31,31,31,0||50|
+24.008038087099468|squirtle|Leftovers|Rain Dish|icepunch,dive,zenheadbutt,bubblebeam|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+23.113420057874027|squirtle|Dragon Fang|Rain Dish|waterfall,waterspout,bodyslam,withdraw|Gentle|0,0,0,76,252,180||31,31,31,31,31,31||50|
+22.588266070109448|squirtle|Dragon Fang|Rain Dish|waterfall,zenheadbutt,seismictoss,toxic|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+22.2302591121901|squirtle|Full Incense|Torrent|waterfall,rest,waterspout,facade|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+18.518442326366817|squirtle|Custap Berry|Rain Dish|rest,waterfall,dive,raindance|Calm|0,0,4,0,252,252||31,31,31,31,31,31||50|
+18.30349545838429|squirtle|Aguav Berry|Rain Dish|bodyslam,sleeptalk,rest,weatherball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+17.714465178970322|squirtle|White Herb|Rain Dish|bodyslam,muddywater,flipturn,falseswipe|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+17.47569491445677|squirtle|Metal Coat|Rain Dish|bodyslam,seismictoss,megapunch,icywind|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+16.09946176670906|squirtle|Dragon Fang|Rain Dish|waterfall,waterspout,bodyslam,protect|Timid|0,0,0,252,4,252||31,0,31,31,31,31||50|
+34.85398169157682|klink|Smooth Rock|Clear Body|thunderbolt,thunderwave,geargrind,snore|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+34.49726605440879|klink|Occa Berry|Clear Body|geargrind,wildcharge,thunderbolt,thundershock|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+34.09906483535101|klink|Kelpsy Berry|Minus|wildcharge,geargrind,zapcannon,powergem|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+32.96145102972655|klink|Zoom Lens|Plus|geargrind,thunderwave,zapcannon,shiftgear|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+32.40031872482945|klink|Mago Berry|Plus|geargrind,thunderwave,risingvoltage,voltswitch|Relaxed|252,252,4,0,0,0||31,31,31,31,31,0||50|
+32.381604884869404|klink|Enigma Berry|Plus|geargrind,wildcharge,round,snore|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+31.880788610265736|klink|Wise Glasses|Plus|geargrind,autotomize,thunderbolt,steelbeam|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+31.648807481284862|klink|Eject Pack|Clear Body|geargrind,thunderwave,protect,facade|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+31.332108986645455|klink|Aguav Berry|Clear Body|wildcharge,geargrind,zapcannon,chargebeam|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+31.290905603284234|klink|Occa Berry|Clear Body|thunderwave,geargrind,wildcharge,thunderbolt|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.916967340265085|klink|Binding Band|Clear Body|wildcharge,geargrind,facade,endure|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+29.53694616122441|klink|Lagging Tail|Clear Body|zapcannon,thunderbolt,thundershock,flashcannon|Bold|0,0,4,252,252,0||31,0,31,31,31,31||50|
+29.206210005905216|klink|Utility Umbrella|Plus|geargrind,thunderwave,charge,risingvoltage|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+29.100368612257196|klink|Jaboca Berry|Clear Body|zapcannon,sleeptalk,autotomize,round|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.419666830487095|klink|Lagging Tail|Clear Body|thunderbolt,geargrind,thundershock,sandstorm|Bold|0,0,4,252,252,0||31,0,31,31,31,31||50|
+26.47883511623263|klink|Occa Berry|Plus|zapcannon,thunderwave,wildcharge,rest|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+24.72308241363625|klink|Tanga Berry|Clear Body|risingvoltage,wildcharge,geargrind,voltswitch|Serious|0,4,0,0,252,252||31,31,31,31,31,31||50|
+23.55204766183582|klink|Icy Rock|Plus|powergem,sleeptalk,wildcharge,lockon|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.72874307986083|klink|Ring Target|Clear Body|zapcannon,wildcharge,thunderbolt,hyperbeam|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+10.959080674857383|klink|Occa Berry|Minus|thunderwave,wildcharge,risingvoltage,endure|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+25.677429683081733|helioptile|Liechi Berry|Dry Skin|substitute,rocktomb,thundershock,dragonrush|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+25.381095869576008|helioptile|Liechi Berry|Dry Skin|electricterrain,charge,rockslide,electrify|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+24.691701513845004|helioptile|Blunder Policy|Dry Skin|allyswitch,substitute,facade,dragonrush|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+24.68745596766146|helioptile|Muscle Band|Dry Skin|voltswitch,electricterrain,electroball,charge|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+23.436621441287876|helioptile|Roseli Berry|Dry Skin|rockslide,allyswitch,substitute,irontail|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+22.739841365990905|helioptile|Choice Specs|Sand Veil|facade,electroball,charge,thunderwave|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+22.73870136848364|helioptile|Occa Berry|Dry Skin|electricterrain,electroball,facade,rockslide|Adamant|36,252,0,0,220,0||31,31,31,31,31,31||50|
+21.091832153573346|helioptile|Oran Berry|Dry Skin|facade,mudslap,rockslide,charge|Calm|0,0,252,0,236,20||31,31,31,31,31,31||50|
+19.84822258113292|helioptile|Light Clay|Dry Skin|rockslide,charge,electroball,glare|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+19.629491506955365|helioptile|Oran Berry|Dry Skin|charge,rocktomb,facade,quickattack|Quiet|68,0,236,204,0,0||31,31,31,31,31,0||50|
+18.539723692725886|helioptile|Figy Berry|Dry Skin|facade,mudslap,electricterrain,protect|Hasty|36,0,0,220,0,252||31,31,31,31,31,31||50|
+17.838230734525354|helioptile|Yache Berry|Solar Power|allyswitch,electroball,substitute,dragonrush|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+17.564944382576428|helioptile|Kebia Berry|Dry Skin|substitute,electroball,dragonrush,grassknot|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+16.40584980709842|helioptile|Haban Berry|Dry Skin|charge,bulldoze,rockslide,electrify|Calm|0,0,4,252,252,0||31,31,31,31,31,31||50|
+16.00943593123843|helioptile|Charcoal|Dry Skin|dragontail,charge,bulldoze,endure|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+15.968140204462117|helioptile|Salac Berry|Dry Skin|electroball,substitute,facade,thundershock|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+11.308303493259181|helioptile|Salac Berry|Dry Skin|electroball,allyswitch,facade,substitute|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+11.234653173440897|helioptile|Razor Claw|Dry Skin|substitute,charge,voltswitch,agility|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+9.977848156651909|helioptile|Throat Spray|Dry Skin|allyswitch,voltswitch,thundershock,sleeptalk|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+6.727290254886514|helioptile|Smooth Rock|Dry Skin|allyswitch,electroball,substitute,voltswitch|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|
+32.41785365555029|cutiefly|Power Herb|Shield Dust|skillswap,dazzlinggleam,leechlife,facade|Rash|0,132,252,124,0,0||31,31,31,31,31,31||50|
+30.143608885291844|cutiefly|Petaya Berry|Sweet Veil|leechlife,round,calmmind,dazzlinggleam|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.446196671711633|cutiefly|Leftovers|Honey Gather|leechlife,aromatherapy,skillswap,facade|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.25557260205917|cutiefly|Chesto Berry|Honey Gather|leechlife,dazzlinggleam,sweetscent,allyswitch|Impish|116,92,124,0,20,156||31,31,31,31,31,31||50|
+29.17407104112504|cutiefly|Dragon Scale|Shield Dust|dazzlinggleam,allyswitch,imprison,wonderroom|Sassy|0,0,244,12,252,0||31,31,31,31,31,0||50|
+28.89481806481273|cutiefly|Focus Band|Shield Dust|dazzlinggleam,aromatherapy,skillswap,rest|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+28.485995102629683|cutiefly|Leftovers|Honey Gather|leechlife,dazzlinggleam,switcheroo,stunspore|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+28.256449559029164|cutiefly|Power Herb|Honey Gather|leechlife,dazzlinggleam,sweetscent,drainingkiss|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.5053043564758|cutiefly|Leftovers|Sweet Veil|aromatherapy,dazzlinggleam,leechlife,skillswap|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.057999267826453|cutiefly|Lagging Tail|Shield Dust|sweetscent,facade,leechlife,snore|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.8548044983281|cutiefly|Full Incense|Sweet Veil|leechlife,fairywind,aromatherapy,substitute|Brave|252,0,220,0,36,0||31,31,31,31,31,31||50|
+25.2873944000416|cutiefly|Power Herb|Honey Gather|leechlife,substitute,allyswitch,strugglebug|Impish|124,124,100,0,44,116||31,31,31,31,31,31||50|
+25.209617053414178|cutiefly|Lagging Tail|Sweet Veil|sweetscent,facade,leechlife,snore|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.895773410918462|cutiefly|Power Herb|Sweet Veil|sweetscent,sleeptalk,facade,charm|Rash|0,132,252,124,0,0||31,31,31,31,31,31||50|
+22.498722130099633|cutiefly|Full Incense|Sweet Veil|leechlife,aromatherapy,dazzlinggleam,fairywind|Calm|4,0,0,0,252,252||31,31,31,31,31,31||50|
+19.61382671051412|cutiefly|Rock Incense|Shield Dust|facade,dazzlinggleam,aromatherapy,swift|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.412872520147136|cutiefly|Black Glasses|Shield Dust|absorb,dazzlinggleam,round,imprison|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+16.01935614507497|cutiefly|Full Incense|Honey Gather|sweetscent,skillswap,dazzlinggleam,facade|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+14.890151483315803|cutiefly|Power Herb|Honey Gather|skillswap,dazzlinggleam,switcheroo,round|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+13.549837233414815|cutiefly|Sticky Barb|Honey Gather|facade,absorb,sweetscent,energyball|Sassy|12,36,52,156,252,0||31,31,31,31,31,0||50|
+36.265487218330065|clobbopus|Mago Berry|Technician|seismictoss,workup,attract,brickbreak|Impish|204,0,252,0,0,52||31,31,31,31,31,31||50|
+30.065100398866885|clobbopus|Rowap Berry|Technician|revenge,mudshot,soak,muddywater|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|
+29.415900221692876|clobbopus|Rose Incense|Technician|mudshot,seismictoss,bulkup,closecombat|Timid|252,0,156,0,0,100||31,0,31,31,31,31||50|
+28.867190946055263|clobbopus|Rose Incense|Technician|suckerpunch,revenge,seismictoss,payback|Impish|28,188,164,0,52,76||31,31,31,31,31,31||50|
+28.308139549983977|clobbopus|Rose Incense|Technician|mudshot,bulkup,rest,megapunch|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.201344841050766|clobbopus|Leftovers|Technician|seismictoss,endure,taunt,bulkup|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.94695878744043|clobbopus|Rock Incense|Technician|brickbreak,endure,revenge,protect|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+27.885561747843287|clobbopus|Scope Lens|Limber|revenge,soak,focusblast,superpower|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+26.890468575884803|clobbopus|Black Glasses|Technician|seismictoss,attract,mudshot,suckerpunch|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+26.797142374391843|clobbopus|Binding Band|Limber|mudshot,taunt,poweruppunch,attract|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.065068364488265|clobbopus|Black Sludge|Technician|mudshot,bulkup,rest,brickbreak|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+25.86918311309105|clobbopus|Rowap Berry|Technician|mudshot,bulkup,attract,reversal|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.7100101029558|clobbopus|Wacan Berry|Limber|rest,focusblast,poweruppunch,substitute|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+25.0759286461746|clobbopus|Silk Scarf|Limber|soak,mudshot,attract,icepunch|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|
+23.548182670821635|clobbopus|Rose Incense|Limber|attract,liquidation,mudshot,focusblast|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+22.178057758597053|clobbopus|Occa Berry|Limber|taunt,soak,revenge,icepunch|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+20.638921749683313|clobbopus|Rowap Berry|Technician|liquidation,revenge,soak,attract|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|
+16.28745300277586|clobbopus|Wiki Berry|Technician|endure,brickbreak,soak,protect|Quiet|188,0,0,236,84,0||31,31,31,31,31,0||50|
+15.486963532490034|clobbopus|Pixie Plate|Technician|rest,soak,focusblast,coaching|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+8.116491064266576|clobbopus|Eject Button|Technician|soak,endure,liquidation,leer|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|

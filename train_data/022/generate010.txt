@@ -1,0 +1,100 @@
+|whismur|Assault Vest|Soundproof|blizzard,facade,icebeam,endeavor|Calm|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|whismur|Soft Sand|Soundproof|blizzard,uproar,facade,thunderpunch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|whismur|Soft Sand|Soundproof|icepunch,facade,blizzard,supersonic|Adamant|148,204,0,0,156,0||31,31,31,31,31,31||50|
+|whismur|Eject Button|Soundproof|workup,icepunch,uproar,hammerarm|Impish|0,0,252,0,140,116||31,31,31,31,31,31||50|
+|whismur|Soft Sand|Soundproof|icepunch,facade,workup,rest|Sassy|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|whismur|Eject Button|Rattled|facade,icepunch,blizzard,workup|Calm|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|whismur|Eject Button|Soundproof|uproar,icepunch,blizzard,screech|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|whismur|Eject Button|Soundproof|supersonic,workup,shadowball,zenheadbutt|Calm|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|whismur|Binding Band|Soundproof|blizzard,workup,extrasensory,pound|Bold|164,0,252,92,0,0||31,31,31,31,31,31||50|
+|whismur|Soft Sand|Rattled|blizzard,facade,workup,snore|Calm|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|whismur|Silver Powder|Soundproof|workup,uproar,blizzard,endure|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|whismur|Flame Orb|Soundproof|facade,icepunch,uproar,screech|Calm|204,0,0,0,252,52||31,0,31,31,31,31||50|
+|whismur|Wiki Berry|Soundproof|roar,flamethrower,facade,echoedvoice|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+|whismur|Colbur Berry|Soundproof|sunnyday,uproar,workup,snore|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|whismur|Metronome|Soundproof|roar,workup,icebeam,blizzard|Calm|12,0,4,76,180,236||31,31,31,31,31,31||50|
+|whismur|Silver Powder|Soundproof|uproar,roar,workup,astonish|Calm|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|whismur|Soft Sand|Soundproof|blizzard,roar,workup,firepunch|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+|whismur|Silver Powder|Soundproof|roar,workup,blizzard,uproar|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|whismur|Silver Powder|Soundproof|stomp,icebeam,uproar,roar|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|whismur|Liechi Berry|Soundproof|blizzard,workup,hypervoice,retaliate|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+|skwovet|Sticky Barb|Cheek Pouch|fling,bodyslam,protect,stockpile|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|skwovet|Normal Gem|Cheek Pouch|dig,tackle,bodyslam,bite|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|skwovet|Starf Berry|Gluttony|dig,belch,counter,facade|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|skwovet|Black Glasses|Cheek Pouch|dig,protect,uproar,lastresort|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|skwovet|Silver Powder|Cheek Pouch|thief,fling,protect,round|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|skwovet|Starf Berry|Cheek Pouch|thief,bodyslam,dig,tackle|Sassy|148,0,0,244,116,0||31,31,31,31,31,0||50|
+|skwovet|Utility Umbrella|Cheek Pouch|sleeptalk,rollout,bodyslam,tailwhip|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|skwovet|Miracle Seed|Cheek Pouch|rest,protect,defensecurl,fling|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|skwovet|Starf Berry|Cheek Pouch|dig,swallow,tackle,bulletseed|Timid|20,0,12,76,164,236||31,0,31,31,31,31||50|
+|skwovet|Rowap Berry|Cheek Pouch|dig,bodyslam,defensecurl,tailwhip|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|skwovet|Enigma Berry|Cheek Pouch|endure,bodyslam,thief,bite|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+|skwovet|Black Glasses|Cheek Pouch|seedbomb,counter,defensecurl,mudshot|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|skwovet|Shuca Berry|Cheek Pouch|bodyslam,rest,protect,seedbomb|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+|skwovet|Custap Berry|Cheek Pouch|dig,tackle,uproar,protect|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+|skwovet|Spell Tag|Cheek Pouch|endure,bodyslam,protect,sleeptalk|Jolly|164,44,20,0,28,252||31,31,31,31,31,31||50|
+|skwovet|Iapapa Berry|Cheek Pouch|tackle,counter,endure,substitute|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+|skwovet|Binding Band|Cheek Pouch|bodyslam,defensecurl,endure,counter|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|skwovet|Starf Berry|Gluttony|defensecurl,endure,counter,dig|Impish|0,36,252,0,220,0||31,31,31,31,31,31||50|
+|skwovet|Enigma Berry|Cheek Pouch|protect,bodyslam,dig,swallow|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+|skwovet|Sea Incense|Cheek Pouch|counter,fling,bodyslam,spitup|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|rookidee|Dragon Scale|Keen Eye|uturn,peck,pluck,skyattack|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|rookidee|Eviolite|Keen Eye|payback,drillpeck,pluck,rocksmash|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|rookidee|Rindo Berry|Big Pecks|pluck,uturn,drillpeck,skyattack|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|rookidee|Wide Lens|Big Pecks|sleeptalk,pluck,round,snore|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|rookidee|Eviolite|Keen Eye|uturn,pluck,roost,bravebird|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|rookidee|Chople Berry|Unnerve|sleeptalk,drillpeck,peck,snore|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|
+|rookidee|Assault Vest|Big Pecks|snore,uturn,drillpeck,powertrip|Adamant|60,196,52,0,164,36||31,31,31,31,31,31||50|
+|rookidee|Air Balloon|Big Pecks|roost,pluck,drillpeck,dualwingbeat|Relaxed|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|rookidee|Wide Lens|Unnerve|snore,uturn,sleeptalk,faketears|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|rookidee|Chople Berry|Big Pecks|uturn,payback,drillpeck,taunt|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|rookidee|Eviolite|Big Pecks|agility,payback,drillpeck,endure|Gentle|0,252,0,4,252,0||31,31,31,31,31,31||50|
+|rookidee|Eviolite|Unnerve|drillpeck,pluck,snore,swagger|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|rookidee|Eviolite|Big Pecks|fly,pluck,uturn,round|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|rookidee|Charti Berry|Unnerve|pluck,peck,drillpeck,focusenergy|Rash|0,0,92,244,0,172||31,31,31,31,31,31||50|
+|rookidee|Eviolite|Keen Eye|dualwingbeat,payback,drillpeck,pluck|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|rookidee|Damp Rock|Keen Eye|drillpeck,uturn,defog,spite|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|rookidee|Odd Incense|Big Pecks|drillpeck,uturn,payback,peck|Jolly|44,252,0,0,212,0||31,31,31,31,31,31||50|
+|rookidee|Terrain Extender|Big Pecks|fly,peck,round,faketears|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|rookidee|Eviolite|Big Pecks|fly,sleeptalk,agility,protect|Lonely|0,252,0,196,60,0||31,31,31,31,31,31||50|
+|rookidee|Eviolite|Big Pecks|pluck,drillpeck,snore,nastyplot|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|meowth|Salac Berry|Technician|darkpulse,bite,sleeptalk,endure|Bold|228,0,252,28,0,0||31,31,31,31,31,31||50|
+|meowth|Normal Gem|Unnerve|darkpulse,endure,sleeptalk,tailwhip|Bold|0,0,252,196,60,0||31,0,31,31,31,31||50|
+|meowth|Salac Berry|Unnerve|sleeptalk,slash,bite,substitute|Careful|52,108,92,0,252,4||31,31,31,31,31,31||50|
+|meowth|Micle Berry|Technician|sleeptalk,round,slash,amnesia|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|meowth|Salac Berry|Technician|round,sleeptalk,tailwhip,spite|Bold|252,0,0,252,0,4||31,0,31,31,31,31||50|
+|meowth|Eject Button|Technician|slash,lastresort,round,bite|Serious|0,0,4,252,0,252||31,31,31,31,31,31||50|
+|meowth|Lagging Tail|Technician|sleeptalk,screech,bite,assurance|Jolly|68,0,188,0,0,252||31,31,31,31,31,31||50|
+|meowth|Rawst Berry|Technician|sleeptalk,round,slash,endure|Bold|0,0,252,196,60,0||31,0,31,31,31,31||50|
+|meowth|Salac Berry|Technician|sleeptalk,round,scratch,assurance|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|meowth|Salac Berry|Technician|round,icywind,bite,thief|Calm|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|meowth|Toxic Orb|Technician|tailwhip,scratch,sleeptalk,covet|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|meowth|Chesto Berry|Technician|sleeptalk,round,tailwhip,bodyslam|Bold|252,0,0,252,0,4||31,0,31,31,31,31||50|
+|meowth|Toxic Orb|Technician|slash,round,sleeptalk,headbutt|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|meowth|Roseli Berry|Technician|sleeptalk,icywind,bite,flail|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|meowth|Toxic Orb|Technician|round,tailwhip,scratch,feint|Jolly|84,84,92,0,44,204||31,31,31,31,31,31||50|
+|meowth|Cheri Berry|Technician|icywind,round,scratch,toxic|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|meowth|Silver Powder|Technician|icywind,endure,tailwhip,workup|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|meowth|Toxic Orb|Technician|scratch,icywind,tailwhip,uturn|Bold|252,0,0,252,0,4||31,0,31,31,31,31||50|
+|meowth|Smooth Rock|Technician|scratch,tailwhip,screech,bite|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|meowth|Razor Claw|Pickup|round,scratch,sleeptalk,lashout|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cubone|thickclub|Battle Armor|tailwhip,firepunch,attract,perishsong|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Battle Armor|snore,icebeam,attract,earthpower|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubone|Razor Claw|Battle Armor|attract,firepunch,snore,ancientpower|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Lightning Rod|attract,snore,firepunch,leer|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Battle Armor|attract,snore,firepunch,icywind|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Battle Armor|snore,thunderpunch,attract,seismictoss|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|snore,attract,icywind,bellydrum|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|attract,snore,firepunch,detect|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cubone|Bright Powder|Battle Armor|thunderpunch,firepunch,icebeam,attract|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Lightning Rod|firepunch,icebeam,thunderpunch,doubleedge|Bold|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|attract,firepunch,snore,earthpower|Modest|156,0,100,252,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|irontail,substitute,firepunch,doubleedge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cubone|Sticky Barb|Rock Head|toxic,screech,tailwhip,firepunch|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|attract,irontail,firepunch,rockslide|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|snore,firepunch,icywind,irontail|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|substitute,attract,irontail,icebeam|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|firepunch,thunderpunch,snore,facade|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|irontail,snore,tailwhip,attract|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Rock Head|swordsdance,firepunch,attract,icywind|Serious|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|cubone|thickclub|Lightning Rod|attract,firepunch,snore,rage|Sassy|92,204,44,12,156,0||31,31,31,31,31,31||50|

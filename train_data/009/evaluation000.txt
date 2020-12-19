@@ -1,0 +1,100 @@
+41.28069408837224|rowlet|Razor Claw|Overgrow|rest,swordsdance,bravebird,astonish|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+40.11839884748883|rowlet|Aguav Berry|Overgrow|dualwingbeat,confuseray,growl,pluck|Sassy|204,52,0,0,252,0||31,31,31,31,31,31||50|
+37.10993731486872|rowlet|Razor Claw|Overgrow|dualwingbeat,tackle,swift,defog|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+32.093083933617635|rowlet|Rocky Helmet|Long Reach|workup,pluck,razorleaf,substitute|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.883997180913962|rowlet|White Herb|Overgrow|steelwing,defog,batonpass,rest|Relaxed|60,0,252,0,196,0||31,31,31,31,31,31||50|
+31.79716532082293|rowlet|Figy Berry|Long Reach|peck,tackle,featherdance,swift|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+31.38766039144825|rowlet|Sea Incense|Overgrow|endure,grassyglide,steelwing,nastyplot|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+28.17391615871911|rowlet|Grassy Seed|Overgrow|round,leafblade,suckerpunch,defog|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+27.11222372377601|rowlet|Miracle Seed|Long Reach|rest,seedbomb,round,safeguard|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+25.8365713693402|rowlet|Jaboca Berry|Overgrow|swordsdance,leafage,defog,suckerpunch|Naughty|0,252,0,124,0,132||31,31,31,31,31,31||50|
+23.97644400795009|rowlet|Micle Berry|Long Reach|nastyplot,leafblade,peck,suckerpunch|Serious|0,0,0,252,4,252||31,31,31,31,31,31||50|
+22.383577947611418|rowlet|Aguav Berry|Long Reach|grasspledge,astonish,tackle,facade|Mild|36,0,0,0,244,228||31,31,31,31,31,31||50|
+22.16865399321899|rowlet|Focus Sash|Overgrow|nastyplot,substitute,confuseray,facade|Timid|0,0,0,108,252,148||31,0,31,31,31,31||50|
+20.921359851306722|rowlet|Petaya Berry|Long Reach|gigadrain,leafage,tackle,suckerpunch|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+20.87230300078116|rowlet|Leftovers|Overgrow|confuseray,tackle,doubleteam,steelwing|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+18.94720612121441|rowlet|Kasib Berry|Overgrow|grassknot,leafage,astonish,solarbeam|Relaxed|4,0,252,0,252,0||31,31,31,31,31,31||50|
+17.24034499110638|rowlet|Tamato Berry|Long Reach|suckerpunch,nastyplot,shadowclaw,falseswipe|Timid|84,0,0,236,0,188||31,0,31,31,31,31||50|
+14.07711035754752|rowlet|Chilan Berry|Overgrow|falseswipe,steelwing,solarbeam,confuseray|Calm|4,0,252,0,252,0||31,31,31,31,31,31||50|
+13.592521195844345|rowlet|Luminous Moss|Long Reach|sunnyday,doubleteam,lightscreen,batonpass|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+8.718878838603151|rowlet|Mystic Water|Overgrow|defog,safeguard,snore,swordsdance|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+37.646386027019126|nincada|Miracle Seed|Compound Eyes|shadowball,furyswipes,round,leechlife|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+34.874276274611056|nincada|King's Rock|Compound Eyes|solarbeam,nightslash,skittersmack,leechlife|Impish|252,4,0,0,0,252||31,31,31,31,31,31||50|
+29.910899474967817|nincada|King's Rock|Run Away|harden,shadowball,skittersmack,mudslap|Sassy|252,12,44,44,156,0||31,31,31,31,31,0||50|
+29.868019888108314|nincada|Ring Target|Run Away|snore,furyswipes,sunnyday,leechlife|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+29.327608744176736|nincada|Micle Berry|Run Away|dig,nightslash,flail,endure|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+29.182865648903764|nincada|Rocky Helmet|Run Away|shadowball,nightslash,dig,metalclaw|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+28.71483198392932|nincada|Metronome|Compound Eyes|metalclaw,bugbuzz,shadowball,snore|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+28.604171247589363|nincada|Sitrus Berry|Compound Eyes|metalclaw,protect,bugbuzz,falseswipe|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+26.670316513298985|nincada|Flame Orb|Compound Eyes|harden,falseswipe,facade,skittersmack|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.590805656490474|nincada|Muscle Band|Compound Eyes|metalclaw,snore,facade,substitute|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+24.0829621415664|nincada|Float Stone|Run Away|protect,absorb,sandstorm,facade|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.66615499621562|nincada|Iapapa Berry|Compound Eyes|rest,mudslap,substitute,bugbite|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+23.17053351617542|nincada|Iapapa Berry|Run Away|solarbeam,sandattack,round,facade|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+22.903267818615365|nincada|Miracle Seed|Compound Eyes|flail,bugbuzz,protect,falseswipe|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+22.201120999446452|nincada|Eviolite|Compound Eyes|mindreader,solarbeam,finalgambit,round|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+22.0928789004328|nincada|Eject Button|Compound Eyes|substitute,shadowball,gigadrain,flail|Sassy|84,252,12,60,100,0||31,31,31,31,31,31||50|
+22.02235784431547|nincada|Occa Berry|Run Away|endure,metalclaw,skittersmack,mindreader|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|
+21.841612968765364|nincada|Kasib Berry|Compound Eyes|solarbeam,substitute,gust,gigadrain|Timid|180,0,132,4,36,156||31,31,31,31,31,31||50|
+21.785998383292394|nincada|White Herb|Compound Eyes|gust,flail,xscissor,mudslap|Calm|252,0,0,4,0,252||31,0,31,31,31,31||50|
+19.94766407429663|nincada|Cheri Berry|Compound Eyes|round,metalclaw,mudslap,mindreader|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+35.85995692876236|igglybuff|Rocky Helmet|Cute Charm|rollout,perishsong,facade,fireblast|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+35.729158136928994|igglybuff|Focus Band|Competitive|rest,bodyslam,thunderwave,wildcharge|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+34.708012318250056|igglybuff|Damp Rock|Friend Guard|megapunch,fireblast,dig,lastresort|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+34.191007659102574|igglybuff|Mystic Water|Friend Guard|shadowball,hypervoice,faketears,screech|Modest|180,0,0,220,108,0||31,0,31,31,31,31||50|
+33.47205374620056|igglybuff|Ganlon Berry|Competitive|flamethrower,charm,megakick,substitute|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+31.968284871995248|igglybuff|Kelpsy Berry|Cute Charm|rollout,bodyslam,sunnyday,megapunch|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+30.165088616536757|igglybuff|Hondew Berry|Competitive|safeguard,round,copycat,sleeptalk|Calm|252,0,252,4,0,0||31,0,31,31,31,31||50|
+28.873676646094474|igglybuff|Payapa Berry|Competitive|sing,lastresort,defensecurl,flamethrower|Lax|252,4,252,0,0,0||31,31,31,31,31,31||50|
+28.437412104084977|igglybuff|Choice Scarf|Cute Charm|rest,icywind,round,psychic|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.916274514293978|igglybuff|Tanga Berry|Cute Charm|hypervoice,sweetkiss,copycat,megakick|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+26.808594952323944|igglybuff|Charti Berry|Competitive|megakick,mistyterrain,solarbeam,safeguard|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+25.015764611191404|igglybuff|Liechi Berry|Friend Guard|solarbeam,charm,playrough,round|Adamant|228,116,92,0,20,52||31,31,31,31,31,31||50|
+24.075467662863474|igglybuff|Hard Stone|Cute Charm|helpinghand,covet,fireblast,solarbeam|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.5833316606765|igglybuff|Room Service|Cute Charm|copycat,sunnyday,disarmingvoice,charm|Bold|0,0,60,196,0,252||31,0,31,31,31,31||50|
+22.81818642208592|igglybuff|Sticky Barb|Cute Charm|round,screech,endure,protect|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+17.966670007926478|igglybuff|Spell Tag|Friend Guard|bounce,disable,sweetkiss,sing|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+17.73262778613677|igglybuff|Toxic Orb|Friend Guard|fling,rollout,icywind,workup|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.195532547383007|igglybuff|Wide Lens|Cute Charm|mistyterrain,present,sing,raindance|Gentle|0,252,0,0,252,4||31,31,31,31,31,31||50|
+10.349819325043484|igglybuff|Zoom Lens|Cute Charm|healpulse,screech,copycat,disable|Adamant|100,252,108,0,12,36||31,31,31,31,31,31||50|
+7.632950491665987|igglybuff|Misty Seed|Friend Guard|gravity,lastresort,screech,perishsong|Careful|0,0,132,0,132,244||31,31,31,31,31,31||50|
+30.856124304731736|happiny|Air Balloon|Natural Cure|fireblast,snore,pound,facade|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+29.84892944803601|happiny|Terrain Extender|Serene Grace|protect,psychic,grassknot,storedpower|Serious|4,252,0,252,0,0||31,31,31,31,31,31||50|
+27.738149067700597|happiny|Spell Tag|Serene Grace|solarbeam,aromatherapy,grassknot,uproar|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+26.996905162929608|happiny|Lax Incense|Natural Cure|uproar,facade,round,pound|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.97422755058959|happiny|Grassy Seed|Friend Guard|icywind,safeguard,hypervoice,storedpower|Adamant|52,252,100,0,52,52||31,31,31,31,31,31||50|
+22.637146992643395|happiny|Wide Lens|Natural Cure|pound,zenheadbutt,sweetkiss,facade|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+21.03563923146087|happiny|Binding Band|Serene Grace|sunnyday,drainpunch,shadowball,hail|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+20.12744711762717|happiny|Sharp Beak|Serene Grace|charm,grassknot,present,icywind|Impish|252,0,4,0,252,0||31,31,31,31,31,31||50|
+19.693329156628412|happiny|Absorb Bulb|Natural Cure|disarmingvoice,helpinghand,shadowball,protect|Jolly|0,0,60,0,196,252||31,31,31,31,31,31||50|
+19.63180491097418|happiny|Pixie Plate|Serene Grace|metronome,minimize,lightscreen,grassknot|Calm|252,0,4,0,0,252||31,31,31,31,31,31||50|
+18.667937149611088|happiny|Occa Berry|Friend Guard|facade,seismictoss,charm,disarmingvoice|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+17.082465621541754|happiny|Pecha Berry|Friend Guard|helpinghand,minimize,defensecurl,thunderwave|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+17.017789259581157|happiny||Friend Guard|rest,lightscreen,flamethrower,endure|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+16.066540886912264|happiny|Kebia Berry|Natural Cure|protect,sleeptalk,gravity,present|Naive|0,164,92,0,0,252||31,31,31,31,31,31||50|
+15.900659343420324|happiny|Iron Ball|Friend Guard|storedpower,workup,aromatherapy,icywind|Impish|236,0,252,0,0,20||31,31,31,31,31,31||50|
+15.104919826688045|happiny|Scope Lens|Friend Guard|drainpunch,pound,fling,lightscreen|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+14.966641600143646|happiny|Aguav Berry|Friend Guard|charm,aromatherapy,disarmingvoice,rest|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+13.587425919034898|happiny|Hondew Berry|Friend Guard|storedpower,raindance,rest,snore|Adamant|204,252,0,0,0,52||31,31,31,31,31,31||50|
+12.248130767286845|happiny|Sticky Barb|Serene Grace|seismictoss,sleeptalk,round,hypervoice|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+10.142197719806072|happiny|Choice Scarf|Serene Grace|flamethrower,lightscreen,gravity,sunnyday|Adamant|0,252,12,0,244,0||31,31,31,31,31,31||50|
+34.64019458478074|cleffa|Heat Rock|Cute Charm|uproar,safeguard,attract,flamethrower|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+34.47574730424348|cleffa|Jaboca Berry|Cute Charm|rest,uproar,psychic,workup|Calm|252,0,0,0,4,252||31,31,31,31,31,31||50|
+34.3376138199714|cleffa|Soft Sand|Magic Guard|psyshock,metronome,endure,playrough|Relaxed|0,0,252,252,4,0||31,31,31,31,31,31||50|
+33.1074590330806|cleffa|Lax Incense|Cute Charm|facade,helpinghand,dig,psychic|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+30.499461103553244|cleffa|Choice Band|Magic Guard|pound,psyshock,storedpower,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.376102425825067|cleffa|Assault Vest|Friend Guard|protect,sunnyday,flamethrower,reflect|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+29.209434630962875|cleffa|Rowap Berry|Magic Guard|sleeptalk,faketears,grassknot,hypervoice|Impish|180,212,116,0,0,0||31,31,31,31,31,31||50|
+27.96094733191869|cleffa|Wise Glasses|Friend Guard|icywind,fireblast,shadowball,protect|Naive|252,0,188,0,0,68||31,31,31,31,31,31||50|
+22.600581405199627|cleffa|Apicot Berry|Magic Guard|thunderwave,metronome,amnesia,round|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+21.680981050775063|cleffa|Snowball|Friend Guard|bodyslam,metronome,encore,attract|Bold|0,0,244,0,180,84||31,0,31,31,31,31||50|
+21.25812655971839|cleffa|Focus Band|Friend Guard|aromatherapy,facade,safeguard,endure|Naive|0,252,0,4,0,252||31,31,31,31,31,31||50|
+20.35765889646889|cleffa|Ring Target|Friend Guard|wonderroom,solarbeam,substitute,shadowball|Relaxed|52,68,68,236,84,0||31,31,31,31,31,31||50|
+18.779738063907402|cleffa|Scope Lens|Friend Guard|megapunch,drainingkiss,helpinghand,storedpower|Sassy|0,4,252,0,252,0||31,31,31,31,31,0||50|
+15.620904258192212|cleffa|Expert Belt|Magic Guard|reflect,metronome,mistyterrain,trick|Modest|0,0,140,116,0,252||31,0,31,31,31,31||50|
+12.311700239436568|cleffa|Dragon Fang|Friend Guard|amnesia,charm,solarbeam,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+11.01523586600059|cleffa|Wise Glasses|Magic Guard|trick,amnesia,sweetkiss,copycat|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+9.789674530560562|cleffa|Colbur Berry|Magic Guard|helpinghand,splash,drainingkiss,attract|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+9.055872563011084|cleffa|Hondew Berry|Magic Guard|reflect,fling,raindance,disarmingvoice|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+7.810709313356214|cleffa|Blunder Policy|Friend Guard|healpulse,splash,endure,rest|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+6.544953652739431|cleffa|Petaya Berry|Magic Guard|sunnyday,safeguard,snore,megakick|Modest|52,0,100,196,44,116||31,0,31,31,31,31||50|

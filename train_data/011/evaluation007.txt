@@ -1,0 +1,100 @@
+38.93259022626609|solosis|Weakness Policy|Regenerator|powerswap,psychic,energyball,facade|Gentle|252,0,0,252,4,0||31,31,31,31,31,31||50|
+38.713053009774555|solosis|Power Herb|Overcoat|imprison,psychic,powerswap,confusion|Calm|252,0,0,0,4,252||31,0,31,31,31,31||50|
+38.39587216853312|solosis|Shuca Berry|Overcoat|powerswap,trick,psychic,futuresight|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+37.707256460505015|solosis|Sitrus Berry|Overcoat|acidarmor,psychic,imprison,sleeptalk|Calm|0,0,252,252,4,0||31,0,31,31,31,31||50|
+35.14825149791231|solosis|Kebia Berry|Overcoat|acidarmor,psychic,imprison,substitute|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+34.77154546569452|solosis|Iapapa Berry|Overcoat|psychic,powerswap,recover,astonish|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+32.8675131217092|solosis|Leftovers|Regenerator|energyball,expandingforce,recover,endure|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+32.54780846716091|solosis|Yache Berry|Magic Guard|recover,acidarmor,psychic,psyshock|Sassy|0,60,244,204,0,0||31,31,31,31,31,31||50|
+31.923520122122955|solosis|Babiri Berry|Overcoat|sleeptalk,psychic,futuresight,attract|Careful|68,100,12,0,252,76||31,31,31,31,31,31||50|
+30.77061850710749|solosis|Dragon Fang|Regenerator|irondefense,acidarmor,powerswap,expandingforce|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+29.870114378680668|solosis|Air Balloon|Regenerator|psychic,irondefense,trickroom,expandingforce|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+27.04163082795995|solosis|Sticky Barb|Regenerator|thunder,psychic,imprison,irondefense|Lonely|52,84,0,172,44,156||31,31,31,31,31,31||50|
+25.96633591985218|solosis|Bright Powder|Regenerator|acidarmor,psychic,expandingforce,wonderroom|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.936953877932435|solosis|Razor Claw|Overcoat|sleeptalk,futuresight,trickroom,rocktomb|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+18.764195712630592|solosis|Yache Berry|Overcoat|acidarmor,futuresight,trickroom,thunder|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+14.3229019518939|solosis|Sitrus Berry|Overcoat|irondefense,powerswap,acidarmor,rockslide|Bold|132,0,252,0,124,0||31,0,31,31,31,31||50|
+8.797827362041524|solosis|Payapa Berry|Overcoat|powerswap,irondefense,acidarmor,snore|Gentle|4,0,0,252,0,252||31,31,31,31,31,31||50|
+8.086439423363947|solosis|Icy Rock|Overcoat|powerswap,trickroom,irondefense,painsplit|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+7.035028562270668|solosis|Ganlon Berry|Overcoat|trickroom,powerswap,recover,calmmind|Gentle|252,0,0,252,4,0||31,31,31,31,31,31||50|
+6.90269105459151|solosis|Kee Berry|Regenerator|irondefense,recover,trickroom,acidarmor|Gentle|252,0,0,252,4,0||31,31,31,31,31,31||50|
+30.58966469106259|shellder|Zoom Lens|Shell Armor|selfdestruct,liquidation,irondefense,withdraw|Modest|124,0,0,204,180,0||31,0,31,31,31,31||50|
+29.532917666836443|shellder|Leftovers|Shell Armor|withdraw,liquidation,headbutt,irondefense|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+28.443309488815142|shellder|Zoom Lens|Skill Link|sleeptalk,substitute,headbutt,waterpulse|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+28.301441405437064|shellder|Rawst Berry|Skill Link|leer,shellsmash,headbutt,attract|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+26.88106084846069|shellder|Normal Gem|Shell Armor|shellsmash,sleeptalk,dive,facade|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+24.668278402386964|shellder|Dragon Scale|Skill Link|headbutt,leer,screech,waterpulse|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+24.343310433196134|shellder|Micle Berry|Shell Armor|surf,withdraw,liquidation,rest|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+23.46799665685421|shellder|Big Root|Skill Link|liquidation,headbutt,leer,waterpulse|Naughty|0,0,196,148,0,164||31,31,31,31,31,31||50|
+22.643668607084052|shellder|Sharp Beak|Skill Link|round,liquidation,screech,lifedew|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.574634789110842|shellder|Sticky Barb|Shell Armor|liquidation,headbutt,leer,shellsmash|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+21.70800145259192|shellder|Focus Band|Skill Link|liquidation,dive,headbutt,endure|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+21.596609275276524|shellder|Black Glasses|Shell Armor|triattack,withdraw,surf,icebeam|Careful|164,0,0,0,236,108||31,31,31,31,31,31||50|
+20.984447517173795|shellder|Safety Goggles|Skill Link|headbutt,liquidation,shellsmash,blizzard|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+20.17372798933924|shellder|Colbur Berry|Skill Link|liquidation,headbutt,teleport,aurorabeam|Modest|0,0,124,220,0,164||31,0,31,31,31,31||50|
+16.640737560373037|shellder|Chople Berry|Skill Link|irondefense,leer,headbutt,razorshell|Modest|124,0,0,204,180,0||31,0,31,31,31,31||50|
+11.763843936826945|shellder|Zoom Lens|Shell Armor|leer,liquidation,sleeptalk,dive|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+11.718597452916935|shellder|Qualot Berry|Overcoat|liquidation,screech,leer,tackle|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+11.687537624066556|shellder|Chople Berry|Skill Link|shellsmash,liquidation,withdraw,sleeptalk|Quiet|20,252,0,236,0,0||31,31,31,31,31,0||50|
+11.435518156145644|shellder|Dragon Fang|Skill Link|raindance,screech,withdraw,clamp|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+8.305960870092585|shellder|Zoom Lens|Skill Link|screech,liquidation,shellsmash,withdraw|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+32.038484453539795|riolu|Silk Scarf|Prankster|quickguard,brickbreak,earthquake,raindance|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+30.47220378276648|riolu|Normal Gem|Inner Focus|bulkup,megakick,workup,megapunch|Impish|60,228,220,0,0,0||31,31,31,31,31,31||50|
+30.367826831225006|riolu|Rawst Berry|Inner Focus|brickbreak,bulkup,lowsweep,irondefense|Jolly|132,124,0,0,0,252||31,31,31,31,31,31||50|
+29.73500890209765|riolu|Colbur Berry|Inner Focus|lowsweep,brickbreak,focusblast,nastyplot|Calm|68,0,0,196,244,0||31,31,31,31,31,31||50|
+29.0766008574222|riolu|Lax Incense|Inner Focus|quickguard,megakick,bulkup,helpinghand|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.668118939445016|riolu|Sitrus Berry|Inner Focus|bulkup,earthquake,brickbreak,fling|Jolly|132,124,0,0,0,252||31,31,31,31,31,31||50|
+25.684968632312383|riolu|Sea Incense|Inner Focus|quickguard,brickbreak,megakick,endure|Brave|132,236,140,0,0,0||31,31,31,31,31,0||50|
+24.64734866850128|riolu|Charcoal|Inner Focus|lowsweep,earthquake,workup,quickattack|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+22.92068480658695|riolu|Silk Scarf|Inner Focus|lowsweep,screech,megapunch,focusblast|Jolly|132,124,0,0,0,252||31,31,31,31,31,31||50|
+22.856636842761795|riolu|Silk Scarf|Inner Focus|workup,bulkup,earthquake,fling|Quiet|4,108,44,148,204,0||31,31,31,31,31,0||50|
+22.305205153759125|riolu|Rose Incense|Inner Focus|bulkup,quickguard,megakick,circlethrow|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+22.204455746506003|riolu|Custap Berry|Inner Focus|screech,earthquake,lowsweep,drainpunch|Lonely|60,0,0,244,0,204||31,31,31,31,31,31||50|
+21.391756544437413|riolu|Rose Incense|Prankster|thunderpunch,lowsweep,poisonjab,earthquake|Jolly|132,124,0,0,0,252||31,31,31,31,31,31||50|
+21.287946041619723|riolu|Chesto Berry|Prankster|irontail,bulkup,workup,quickattack|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+19.168975687474642|riolu|Wide Lens|Inner Focus|irontail,lowsweep,bulkup,metalclaw|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+18.64279457665537|riolu|Rawst Berry|Inner Focus|brickbreak,lowsweep,bulkup,irontail|Sassy|4,0,252,0,252,0||31,31,31,31,31,31||50|
+18.527093998481952|riolu|Normal Gem|Prankster|irontail,workup,bulkup,helpinghand|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+16.40961080816843|riolu|Eject Pack|Prankster|screech,bulkup,irontail,payback|Jolly|132,124,0,0,0,252||31,31,31,31,31,31||50|
+15.955053040073105|riolu|Normal Gem|Inner Focus|lowsweep,screech,brickbreak,rocktomb|Jolly|132,124,0,0,0,252||31,31,31,31,31,31||50|
+15.229487027034436|riolu|Heat Rock|Inner Focus|irontail,quickguard,attract,round|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+28.50319830481004|electrike|Charcoal|Minus|flamethrower,wildcharge,swift,bodyslam|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+26.49954405171886|electrike|Hondew Berry|Minus|thunderfang,snarl,flamethrower,howl|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+25.215134038395522|electrike|Charcoal|Lightning Rod|curse,round,flamethrower,thunderfang|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+25.089105191105762|electrike|Charcoal|Lightning Rod|swift,attract,flamethrower,risingvoltage|Modest|0,0,0,252,156,100||31,0,31,31,31,31||50|
+24.811623071120373|electrike|Charcoal|Lightning Rod|rest,curse,flamethrower,crunch|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+24.268660326771627|electrike|Colbur Berry|Minus|protect,snarl,flamethrower,bodyslam|Naive|0,0,60,252,0,196||31,31,31,31,31,31||50|
+24.205317498014438|electrike|Focus Band|Minus|shockwave,flamethrower,swift,switcheroo|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+23.247228211383284|electrike|Assault Vest|Static|curse,thunderfang,flamethrower,thief|Serious|0,0,252,4,252,0||31,31,31,31,31,31||50|
+22.848849987401348|electrike|Wacan Berry|Minus|flamethrower,snarl,switcheroo,facade|Hasty|220,0,0,252,36,0||31,31,31,31,31,31||50|
+22.55285447867688|electrike|Tamato Berry|Minus|attract,flamethrower,curse,rest|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+21.918828706566057|electrike|Occa Berry|Minus|attract,snarl,curse,rest|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+21.659792058000214|electrike|Eject Pack|Minus|swift,flamethrower,switcheroo,raindance|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+21.358119201083394|electrike|Charcoal|Static|attract,flamethrower,protect,tackle|Timid|252,0,0,0,100,156||31,0,31,31,31,31||50|
+21.225981989460145|electrike|Spell Tag|Minus|risingvoltage,curse,flamethrower,bite|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+20.949131203164058|electrike|Utility Umbrella|Minus|switcheroo,flamethrower,wildcharge,swift|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+19.965670443295778|electrike|Expert Belt|Minus|rest,swift,flamethrower,wildcharge|Mild|252,36,0,108,84,28||31,31,31,31,31,31||50|
+19.964128362316433|electrike|Smooth Rock|Static|flamethrower,attract,curse,wildcharge|Timid|252,0,0,0,100,156||31,0,31,31,31,31||50|
+19.366024275630046|electrike|Muscle Band|Minus|switcheroo,thief,swift,raindance|Hasty|220,0,0,252,36,0||31,31,31,31,31,31||50|
+17.402631785242637|electrike|Charcoal|Minus|shockwave,swift,snarl,tackle|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+17.36908642045141|electrike|Mental Herb|Minus|risingvoltage,swift,snarl,shockwave|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+39.814528821259394|clauncher|King's Rock|Mega Launcher|surf,dragonpulse,flail,honeclaws|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+39.230024729191236|clauncher|Misty Seed|Mega Launcher|flail,crabhammer,helpinghand,dragonpulse|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+38.98181934708915|clauncher|Rose Incense|Mega Launcher|dragonpulse,crabhammer,raindance,uturn|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+38.54951148013728|clauncher|Spell Tag|Mega Launcher|flail,dragonpulse,raindance,watergun|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+37.25830620548321|clauncher|Big Root|Mega Launcher|crabhammer,dragonpulse,aquajet,helpinghand|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+36.673293731309684|clauncher|Dragon Fang|Mega Launcher|raindance,surf,dragonpulse,scald|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+36.50355934539902|clauncher|Mystic Water|Mega Launcher|helpinghand,aquajet,dragonpulse,sludgewave|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+35.80218878578071|clauncher|Misty Seed|Mega Launcher|dragonpulse,helpinghand,surf,entrainment|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+35.47186438882895|clauncher|Spell Tag|Mega Launcher|flail,dragonpulse,helpinghand,flipturn|Careful|132,52,60,0,228,36||31,31,31,31,31,31||50|
+35.20444232466666|clauncher|Rose Incense|Mega Launcher|helpinghand,dragonpulse,aquajet,sludgewave|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+34.573736542508485|clauncher|Hard Stone|Mega Launcher|scald,aquajet,raindance,honeclaws|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+34.47648119909791|clauncher|Spell Tag|Mega Launcher|crabhammer,aquajet,dragonpulse,flashcannon|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+33.30895370534121|clauncher|Passho Berry|Mega Launcher|helpinghand,dragonpulse,flail,venoshock|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+32.99721623469004|clauncher|Big Root|Mega Launcher|helpinghand,dragonpulse,flail,uturn|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+32.7247230287127|clauncher|Spell Tag|Mega Launcher|dragonpulse,crabhammer,aquajet,sludgebomb|Bold|0,0,252,204,0,52||31,31,31,31,31,31||50|
+31.76952486930597|clauncher|Persim Berry|Mega Launcher|aurasphere,helpinghand,crabhammer,flipturn|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+29.942277595753378|clauncher|Qualot Berry|Mega Launcher|raindance,swordsdance,dragonpulse,flail|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+19.2737705072824|clauncher|Misty Seed|Mega Launcher|scald,irontail,surf,watergun|Brave|0,252,212,0,44,0||31,31,31,31,31,0||50|
+17.68703125010459|clauncher|Icy Rock|Mega Launcher|rest,scald,helpinghand,bubblebeam|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+16.985302031886402|clauncher|Coba Berry|Mega Launcher|helpinghand,scald,raindance,smackdown|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|

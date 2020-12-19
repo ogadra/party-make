@@ -1,0 +1,100 @@
+31.546147764206477|phantump|Shell Bell|Harvest|snore,substitute,phantomforce,ingrain|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.435789255222733|phantump|Shell Bell|Frisk|poltergeist,substitute,phantomforce,suckerpunch|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+31.359467376567935|phantump|Oran Berry|Harvest|venomdrench,phantomforce,forestscurse,grudge|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+31.16868481838838|phantump|Light Clay|Frisk|snore,phantomforce,curse,facade|Serious|252,0,252,4,0,0||31,31,31,31,31,31||50|
+30.888573297412535|phantump|Shell Bell|Harvest|phantomforce,snore,substitute,foulplay|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.71170516006209|phantump|Shell Bell|Natural Cure|foulplay,phantomforce,poltergeist,rockslide|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.02801760903386|phantump|Oran Berry|Natural Cure|rest,phantomforce,venomdrench,sleeptalk|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.568519174244496|phantump|Scope Lens|Harvest|bulldoze,phantomforce,rest,trickroom|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.90755612374301|phantump|Mental Herb|Harvest|gigadrain,curse,substitute,allyswitch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.8681592357809|phantump|Tamato Berry|Harvest|thief,forestscurse,bulldoze,phantomforce|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.76315584178539|phantump|Pecha Berry|Harvest|leechseed,phantomforce,poltergeist,astonish|Quiet|0,0,92,164,252,0||31,31,31,31,31,31||50|
+27.668833179448555|phantump|Black Sludge|Harvest|curse,poltergeist,foulplay,trick|Lonely|68,188,0,100,92,60||31,31,31,31,31,31||50|
+27.502082049189855|phantump|Oran Berry|Harvest|thief,forestscurse,phantomforce,gigadrain|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+26.991396939675138|phantump|Ganlon Berry|Harvest|phantomforce,venomdrench,forestscurse,suckerpunch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.968400437121318|phantump|Shell Bell|Harvest|venomdrench,phantomforce,forestscurse,leechseed|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+25.63188159387217|phantump|Salac Berry|Harvest|poltergeist,phantomforce,curse,darkpulse|Timid|0,0,244,228,36,0||31,0,31,31,31,31||50|
+25.34046096471688|phantump|Shell Bell|Natural Cure|leechseed,poltergeist,tackle,poisonjab|Lonely|0,44,0,0,252,212||31,31,31,31,31,31||50|
+22.903394111877493|phantump|Sharp Beak|Harvest|darkpulse,venomdrench,phantomforce,psychic|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+21.834625963106223|phantump|Shell Bell|Harvest|bulldoze,thief,gigadrain,safeguard|Careful|148,12,60,0,236,52||31,31,31,31,31,31||50|
+15.89478676289112|phantump|Toxic Orb|Natural Cure|venomdrench,forestscurse,attract,suckerpunch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.951493034317746|metapod|Pixie Plate|Shed Skin|electroweb,harden,irondefense,harden|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.00391284804483|metapod|Red Card|Shed Skin|electroweb,irondefense,harden,irondefense|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+20.176470081482016|metapod|Tanga Berry|Shed Skin|electroweb,irondefense,harden|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+19.632925560854577|metapod|Pixie Plate|Shed Skin|electroweb,harden,irondefense|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+16.873737076094915|metapod|Silk Scarf|Shed Skin|electroweb,harden,irondefense|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+15.034218356343468|metapod|Pixie Plate|Shed Skin|irondefense,electroweb,harden|Sassy|0,4,252,0,252,0||31,31,31,31,31,0||50|
+14.613210600690481|metapod|Cheri Berry|Shed Skin|electroweb,harden,irondefense|Naive|4,0,252,0,0,252||31,31,31,31,31,31||50|
+13.586373766101975|metapod|Sitrus Berry|Shed Skin|irondefense,electroweb,harden|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+13.520292722467037|metapod|Chilan Berry|Shed Skin|harden,electroweb,irondefense|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+13.171610536993583|metapod|Babiri Berry|Shed Skin|harden,electroweb,irondefense|Impish|188,100,52,0,156,12||31,31,31,31,31,31||50|
+12.946794175144197|metapod|Aguav Berry|Shed Skin|irondefense,harden,electroweb|Calm|212,0,0,0,252,44||31,0,31,31,31,31||50|
+12.808515998608794|metapod|Shell Bell|Shed Skin|harden,electroweb,irondefense,harden|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+10.480176564412671|metapod|Dragon Fang|Shed Skin|irondefense,harden,electroweb|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+10.348017893994891|metapod|Cheri Berry|Shed Skin|harden,irondefense,electroweb|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+9.554495870891602|metapod|Pixie Plate|Shed Skin|irondefense,harden,electroweb|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+8.973848659371368|metapod|Occa Berry|Shed Skin|harden,irondefense,electroweb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+8.348214093143568|metapod|Room Service|Shed Skin|harden,electroweb,irondefense|Naive|4,0,252,0,0,252||31,31,31,31,31,31||50|
+7.765732122001253|metapod|Grip Claw|Shed Skin|irondefense,harden,electroweb|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+7.53222147538365|metapod|Cheri Berry|Shed Skin|harden,irondefense,electroweb|Naughty|20,252,0,0,0,236||31,31,31,31,31,31||50|
+6.473063804676088|metapod|Eject Pack|Shed Skin|irondefense,harden,electroweb|Bold|4,0,252,0,0,252||31,31,31,31,31,31||50|
+39.18319093501135|horsea|Sitrus Berry|Damp|icebeam,smokescreen,snore,scald|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+36.36557331707441|horsea|Apicot Berry|Swift Swim|round,icebeam,waterpulse,scaleshot|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+36.25532777045593|horsea|Shell Bell|Damp|icebeam,waterpulse,aurorabeam,whirlpool|Modest|0,0,84,252,172,0||31,0,31,31,31,31||50|
+36.23848981101559|horsea|Chesto Berry|Sniper|icebeam,surf,flail,dragonbreath|Modest|0,0,84,252,172,0||31,0,31,31,31,31||50|
+34.64041761133059|horsea|Chesto Berry|Damp|surf,icebeam,flail,substitute|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+34.11743377374529|horsea|Sitrus Berry|Swift Swim|scaleshot,icebeam,smokescreen,outrage|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+33.7552513211609|horsea|Mental Herb|Sniper|leer,icebeam,surf,watergun|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+33.570862275274024|horsea|Sitrus Berry|Sniper|hydropump,icebeam,watergun,bubblebeam|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+33.09284997431193|horsea|Sitrus Berry|Damp|flail,waterpulse,icebeam,liquidation|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+32.12032070906895|horsea|Chesto Berry|Sniper|icebeam,waterpulse,round,leer|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+32.10384803307554|horsea|Red Card|Swift Swim|hydropump,icebeam,dragonpulse,rest|Relaxed|252,0,252,0,4,0||31,31,31,31,31,31||50|
+31.488911282231335|horsea|Lum Berry|Damp|icebeam,flail,waterpulse,watergun|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+30.560562533476705|horsea|Petaya Berry|Swift Swim|hydropump,icebeam,scaleshot,flail|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+30.29605639017934|horsea|Sitrus Berry|Sniper|hydropump,scaleshot,surf,raindance|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+29.996286895377718|horsea|Protective Pads|Sniper|icebeam,hydropump,smokescreen,flashcannon|Impish|0,60,252,0,0,196||31,31,31,31,31,31||50|
+29.8960866677429|horsea|Big Root|Damp|flail,watergun,icebeam,octazooka|Gentle|0,0,0,252,4,252||31,31,31,31,31,31||50|
+29.23191329249232|horsea|Micle Berry|Swift Swim|dragonpulse,hydropump,icebeam,substitute|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+28.713373698018728|horsea|Oran Berry|Swift Swim|aurorabeam,icebeam,scaleshot,disable|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+23.582167425776746|horsea|Wiki Berry|Damp|flail,scaleshot,smokescreen,swift|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+20.022879415875618|horsea|Sitrus Berry|Damp|waterpulse,flail,scaleshot,toxic|Modest|0,0,84,252,172,0||31,0,31,31,31,31||50|
+32.38708473453635|combee|Light Clay|Hustle|snore,dualwingbeat,bugbuzz,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+28.9529339294338|combee|Pomeg Berry|Hustle|bugbite,strugglebug,dualwingbeat,snore|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.755193606945774|combee|Light Clay|Hustle|bugbite,strugglebug,dualwingbeat,bugbuzz|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+28.416056972401954|combee|Enigma Berry|Hustle|snore,bugbuzz,sweetscent,bugbite|Gentle|4,0,0,252,252,0||31,31,31,31,31,31||50|
+27.791626092980216|combee|Light Clay|Hustle|dualwingbeat,bugbuzz,bugbite,sweetscent|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.60742807975274|combee|Pomeg Berry|Honey Gather|dualwingbeat,bugbite,bugbuzz,strugglebug|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+27.018455276014063|combee|Destiny Knot|Hustle|snore,dualwingbeat,strugglebug,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+26.7118959015053|combee|Protector|Honey Gather|strugglebug,dualwingbeat,bugbite,snore|Bold|0,0,252,228,0,28||31,31,31,31,31,31||50|
+25.289854325033968|combee|Mystic Water|Hustle|bugbite,dualwingbeat,bugbuzz,snore|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+25.0145097493714|combee|Safety Goggles|Hustle|snore,strugglebug,dualwingbeat,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+24.47138017761858|combee|Miracle Seed|Honey Gather|strugglebug,dualwingbeat,bugbite,bugbuzz|Sassy|4,0,0,252,252,0||31,31,31,31,31,31||50|
+24.374400791607606|combee|Wiki Berry|Honey Gather|bugbuzz,snore,strugglebug,dualwingbeat|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+23.767151951365722|combee|Light Clay|Hustle|snore,strugglebug,dualwingbeat,bugbuzz|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+23.16519435842724|combee|Expert Belt|Hustle|strugglebug,bugbite,snore,dualwingbeat|Modest|228,0,0,188,92,0||31,31,31,31,31,31||50|
+21.425522018521452|combee|Rowap Berry|Honey Gather|bugbite,gust,bugbuzz,dualwingbeat|Quiet|0,0,0,252,252,4||31,31,31,31,31,0||50|
+20.97370814075291|combee|Grip Claw|Hustle|bugbuzz,strugglebug,gust,bugbite|Rash|0,0,180,252,0,76||31,31,31,31,31,31||50|
+20.579973771024623|combee|Pomeg Berry|Hustle|strugglebug,dualwingbeat,bugbuzz,gust|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+20.410587190852997|combee|Mago Berry|Hustle|snore,bugbite,gust,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+16.46753151842547|combee|Protector|Honey Gather|sweetscent,gust,strugglebug,dualwingbeat|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+15.693436889344163|combee|Dragon Scale|Hustle|bugbite,bugbuzz,gust,sweetscent|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+35.19719869493764|barboach|Apicot Berry|Hydration|waterfall,scald,icebeam,surf|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+33.08635938272412|barboach|Zoom Lens|Anticipation|icebeam,flail,takedown,earthquake|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+32.40634776780044|barboach|Normal Gem|Hydration|icebeam,attract,flail,earthquake|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+31.42371559806969|barboach|Sharp Beak|Hydration|icebeam,flail,scald,facade|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.084430455542524|barboach|Tamato Berry|Hydration|scald,icebeam,sandstorm,futuresight|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.883040681789566|barboach|Sharp Beak|Hydration|scald,flail,icebeam,aquatail|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.515308380815156|barboach|Sharp Beak|Hydration|raindance,icebeam,attract,muddywater|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.05203392449138|barboach|Wise Glasses|Oblivious|flail,scald,attract,icebeam|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.90268239059941|barboach|Starf Berry|Hydration|icebeam,flail,attract,rocktomb|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.011152759450376|barboach|White Herb|Hydration|attract,icebeam,flail,snore|Calm|164,0,212,0,132,0||31,0,31,31,31,31||50|
+25.839696129153324|barboach|Kasib Berry|Oblivious|flail,icebeam,takedown,bounce|Bold|100,0,156,0,252,0||31,0,31,31,31,31||50|
+25.60023494051466|barboach|Black Belt|Hydration|scald,icebeam,flail,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.607169794051213|barboach|Sharp Beak|Oblivious|flail,icebeam,takedown,attract|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+24.442326151374207|barboach|Blunder Policy|Hydration|earthquake,takedown,flail,amnesia|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+22.67341983754288|barboach|Sharp Beak|Hydration|icebeam,flail,mudslap,hail|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.762676621825083|barboach|Power Herb|Anticipation|scald,flail,takedown,waterpulse|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+19.902204522340536|barboach|Starf Berry|Oblivious|futuresight,flail,mudslap,sandstorm|Relaxed|0,252,4,252,0,0||31,31,31,31,31,31||50|
+16.24502790715953|barboach|Starf Berry|Oblivious|flail,futuresight,icebeam,blizzard|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+15.883477254457242|barboach|Dragon Fang|Hydration|scald,mudslap,flail,amnesia|Bold|0,0,252,188,0,68||31,0,31,31,31,31||50|
+15.57016629398403|barboach|Qualot Berry|Hydration|endure,flail,scald,sleeptalk|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|

@@ -1,0 +1,100 @@
+|mudkip|Air Balloon|Torrent|irontail,bodyslam,superpower,workup|Timid|108,0,148,0,0,252||31,31,31,31,31,31||50|
+|mudkip|Air Balloon|Torrent|bodyslam,sludgewave,irontail,endeavor|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|mudkip|Smooth Rock|Damp|attract,icebeam,rocksmash,icywind|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Sitrus Berry|Damp|irontail,blizzard,icebeam,scald|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Air Balloon|Damp|bodyslam,attract,whirlpool,ancientpower|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Air Balloon|Damp|raindance,attract,icebeam,snore|Relaxed|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|mudkip|Black Glasses|Torrent|irontail,icebeam,whirlpool,bodyslam|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|mudkip|Pecha Berry|Torrent|rocksmash,sludgewave,icebeam,waterpulse|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Lax Incense|Torrent|earthpower,bodyslam,attract,dig|Bold|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|mudkip|Air Balloon|Torrent|icebeam,bodyslam,attract,workup|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|mudkip|King's Rock|Damp|irontail,waterpulse,dive,facade|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Coba Berry|Torrent|hail,sludgewave,blizzard,rockslide|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Liechi Berry|Torrent|dive,superpower,hydropump,sludge|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Razor Claw|Damp|dive,irontail,hail,facade|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Rock Incense|Torrent|bodyslam,blizzard,sludgewave,facade|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Air Balloon|Damp|irontail,dive,attract,hail|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Sitrus Berry|Torrent|irontail,dive,hydropump,sleeptalk|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Sitrus Berry|Damp|whirlpool,icebeam,irontail,raindance|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|mudkip|Sitrus Berry|Damp|irontail,icebeam,dive,wideguard|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|mudkip|Sitrus Berry|Damp|irontail,hail,icebeam,doubleedge|Modest|44,0,252,164,28,20||31,31,31,31,31,31||50|
+|larvitar|Twisted Spoon|Sand Veil|earthquake,taunt,superpower,scaryface|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|larvitar|Iapapa Berry|Sand Veil|earthquake,superpower,stoneedge,taunt|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|larvitar|Protective Pads|Sand Veil|earthquake,facade,stoneedge,sandtomb|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|larvitar|Icy Rock|Sand Veil|stoneedge,superpower,earthquake,irondefense|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|larvitar|Colbur Berry|Sand Veil|earthquake,taunt,irondefense,endure|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|larvitar|Icy Rock|Guts|stoneedge,superpower,earthquake,leer|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|larvitar|Never-Melt Ice|Sand Veil|taunt,superpower,earthquake,muddywater|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|larvitar|Focus Sash|Guts|earthquake,superpower,scaryface,bite|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|larvitar|Focus Sash|Sand Veil|taunt,curse,earthquake,irondefense|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|larvitar|Rindo Berry|Guts|taunt,assurance,stoneedge,hyperbeam|Lax|0,0,4,252,0,252||31,31,31,31,31,31||50|
+|larvitar|Black Belt|Guts|superpower,irondefense,scaryface,bite|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|larvitar|Shuca Berry|Guts|taunt,irondefense,scaryface,crunch|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|larvitar|Focus Sash|Guts|irondefense,earthquake,scaryface,taunt|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|larvitar|Icy Rock|Guts|superpower,irondefense,taunt,rockslide|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|larvitar|Light Clay|Sand Veil|superpower,scaryface,earthquake,thrash|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|larvitar|Iapapa Berry|Guts|superpower,earthquake,curse,facade|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|larvitar|Throat Spray|Sand Veil|earthquake,superpower,taunt,crunch|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|larvitar|Focus Sash|Guts|earthquake,taunt,irondefense,darkpulse|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|larvitar|Focus Sash|Guts|earthquake,focusenergy,superpower,crunch|Quiet|0,180,76,252,0,0||31,31,31,31,31,0||50|
+|larvitar|Focus Sash|Guts|taunt,superpower,stoneedge,focusenergy|Adamant|52,164,4,0,164,124||31,31,31,31,31,31||50|
+|jigglypuff|Iapapa Berry|Competitive|dig,dazzlinggleam,selfdestruct,drainpunch|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Chilan Berry|Competitive|thunderwave,faketears,selfdestruct,round|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Protector|Competitive|selfdestruct,playrough,dazzlinggleam,copycat|Adamant|252,196,60,0,0,0||31,31,31,31,31,31||50|
+|jigglypuff|Dragon Fang|Competitive|thunderwave,selfdestruct,dazzlinggleam,sleeptalk|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Magnet|Competitive|dazzlinggleam,dig,faketears,helpinghand|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Tamato Berry|Cute Charm|thunderwave,selfdestruct,dazzlinggleam,toxic|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Rowap Berry|Cute Charm|selfdestruct,thunderwave,faketears,disarmingvoice|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Focus Sash|Competitive|megapunch,dazzlinggleam,selfdestruct,raindance|Bold|100,0,252,124,12,20||31,0,31,31,31,31||50|
+|jigglypuff|Dragon Fang|Competitive|playrough,dazzlinggleam,mistyexplosion,thunderpunch|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Apicot Berry|Cute Charm|sunnyday,wildcharge,mistyexplosion,shadowball|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|jigglypuff|Jaboca Berry|Cute Charm|sweetkiss,stockpile,megapunch,rest|Adamant|92,252,164,0,0,0||31,31,31,31,31,31||50|
+|jigglypuff|Grip Claw|Competitive|mimic,sunnyday,selfdestruct,steelroller|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|jigglypuff|Jaboca Berry|Cute Charm|doubleslap,stockpile,megapunch,retaliate|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|jigglypuff|Jaboca Berry|Competitive|thunderwave,dazzlinggleam,megapunch,faketears|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|jigglypuff|Jaboca Berry|Friend Guard|stockpile,selfdestruct,playrough,faketears|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|jigglypuff|Float Stone|Competitive|selfdestruct,dazzlinggleam,wildcharge,protect|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|jigglypuff|Passho Berry|Competitive|dazzlinggleam,megapunch,doubleslap,megakick|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|jigglypuff|Wiki Berry|Competitive|sweetkiss,selfdestruct,dazzlinggleam,triattack|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|jigglypuff|Jaboca Berry|Competitive|stockpile,selfdestruct,dazzlinggleam,mistyterrain|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|jigglypuff|Qualot Berry|Competitive|stockpile,dig,selfdestruct,defensecurl|Sassy|0,180,252,0,76,0||31,31,31,31,31,31||50|
+|honedge|Maranga Berry|No Guard|round,ironhead,solarblade,powertrick|Modest|4,0,148,156,116,84||31,0,31,31,31,31||50|
+|honedge|Rowap Berry|No Guard|rockslide,ironhead,rest,destinybond|Careful|0,76,0,0,252,180||31,31,31,31,31,31||50|
+|honedge|Leftovers|No Guard|rest,nightslash,sleeptalk,block|Gentle|0,252,0,4,252,0||31,31,31,31,31,31||50|
+|honedge|Rawst Berry|No Guard|solarblade,ironhead,brickbreak,closecombat|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|honedge|Leftovers|No Guard|snore,rest,nightslash,sleeptalk|Jolly|36,0,0,0,220,252||31,31,31,31,31,31||50|
+|honedge|Starf Berry|No Guard|ironhead,facade,nightslash,sacredsword|Naive|0,60,196,0,0,252||31,31,31,31,31,31||50|
+|honedge|Leftovers|No Guard|nightslash,powertrick,ironhead,rockslide|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|honedge|Maranga Berry|No Guard|flashcannon,slash,ironhead,wideguard|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|honedge|Leftovers|No Guard|rockslide,rest,powertrick,irondefense|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|honedge|Qualot Berry|No Guard|solarblade,nightslash,ironhead,rest|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|honedge|Sharp Beak|No Guard|rockslide,ironhead,powertrick,furycutter|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|honedge|Sticky Barb|No Guard|ironhead,powertrick,slash,reversal|Careful|44,252,0,0,212,0||31,31,31,31,31,31||50|
+|honedge|Silver Powder|No Guard|rest,powertrick,rockslide,tackle|Careful|44,252,0,0,212,0||31,31,31,31,31,31||50|
+|honedge|Wiki Berry|No Guard|powertrick,ironhead,rockslide,brutalswing|Naughty|100,0,0,252,0,156||31,31,31,31,31,31||50|
+|honedge|Aguav Berry|No Guard|round,tackle,rest,rockslide|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+|honedge|Passho Berry|No Guard|powertrick,round,ironhead,gyroball|Careful|44,252,0,0,212,0||31,31,31,31,31,31||50|
+|honedge|Grepa Berry|No Guard|rest,ironhead,snore,furycutter|Gentle|0,252,0,4,252,0||31,31,31,31,31,31||50|
+|honedge|Yache Berry|No Guard|snore,rest,ironhead,wideguard|Gentle|0,252,0,4,252,0||31,31,31,31,31,31||50|
+|honedge|Heat Rock|No Guard|wideguard,rockslide,gyroball,block|Careful|44,252,0,0,212,0||31,31,31,31,31,31||50|
+|honedge|Leftovers|No Guard|ironhead,powertrick,facade,falseswipe|Careful|44,252,0,0,212,0||31,31,31,31,31,31||50|
+|bagon|Eviolite|Sheer Force|bodyslam,dragonrush,endure,headbutt|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bagon|Kebia Berry|Sheer Force|attract,endure,dragonrush,brickbreak|Careful|44,100,68,0,236,60||31,31,31,31,31,31||50|
+|bagon|Binding Band|Sheer Force|headbutt,dragonrush,endure,dragonbreath|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bagon|Scope Lens|Sheer Force|crunch,attract,endure,brickbreak|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bagon|Eviolite|Rock Head|dragonrush,twister,bodyslam,thrash|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|bagon|Qualot Berry|Sheer Force|crunch,dragonrush,defensecurl,thrash|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|bagon|Red Card|Sheer Force|dragonrush,crunch,defensecurl,outrage|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|bagon|Leftovers|Sheer Force|dragonrush,twister,bodyslam,round|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|bagon|Zoom Lens|Sheer Force|endure,bodyslam,attract,bite|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|bagon|Eviolite|Sheer Force|thrash,dragonrush,bodyslam,hypervoice|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|bagon|Charti Berry|Sheer Force|thrash,dragonrush,headbutt,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bagon|Mental Herb|Sheer Force|headbutt,dragonrush,outrage,dragonclaw|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bagon|Grip Claw|Rock Head|thrash,headbutt,dragonrush,round|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bagon|Big Root|Sheer Force|dragonrush,endure,thrash,crunch|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|bagon|Haban Berry|Sheer Force|snore,hypervoice,outrage,sunnyday|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|bagon|Qualot Berry|Sheer Force|dragonrush,headbutt,protect,bodyslam|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bagon|Psychic Seed|Sheer Force|thrash,outrage,defensecurl,dragonrush|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bagon|Kelpsy Berry|Sheer Force|crunch,bodyslam,dragonrush,raindance|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|bagon|Leftovers|Sheer Force|thrash,dragonrush,outrage,dracometeor|Gentle|0,0,0,44,252,212||31,31,31,31,31,31||50|
+|bagon|Maranga Berry|Rock Head|dragonrush,thrash,defensecurl,dracometeor|Adamant|0,252,0,0,60,196||31,31,31,31,31,31||50|

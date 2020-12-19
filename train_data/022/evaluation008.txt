@@ -1,0 +1,100 @@
+31.39919285492326|whismur|Protector|Soundproof|sunnyday,blizzard,facade,uproar|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+30.1153820074912|whismur|Assault Vest|Soundproof|stomp,facade,blizzard,supersonic|Calm|0,0,252,252,0,4||31,31,31,31,31,31||50|
+28.847197478522297|whismur|Lagging Tail|Soundproof|solarbeam,blizzard,facade,attract|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+27.759860038941518|whismur|Qualot Berry|Soundproof|workup,extrasensory,stomp,uproar|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.380535295669773|whismur|Assault Vest|Soundproof|blizzard,stomp,zenheadbutt,workup|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+27.26576417564574|whismur|Protector|Soundproof|workup,flamethrower,sunnyday,attract|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+26.232881063117166|whismur|Chople Berry|Soundproof|blizzard,facade,protect,icepunch|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+25.68699829677142|whismur|Protector|Soundproof|sunnyday,flamethrower,extrasensory,bodyslam|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+25.599176352087962|whismur|Silk Scarf|Rattled|protect,uproar,workup,pound|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+25.020614482228204|whismur|Figy Berry|Soundproof|protect,blizzard,uproar,stomp|Brave|0,188,236,84,0,0||31,31,31,31,31,31||50|
+24.879003967851272|whismur|Silk Scarf|Soundproof|uproar,flamethrower,workup,firepunch|Hasty|28,0,0,0,228,252||31,31,31,31,31,31||50|
+24.306532448229195|whismur|Dragon Scale|Rattled|workup,blizzard,solarbeam,whirlwind|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+24.239992753900584|whismur|Shuca Berry|Soundproof|sunnyday,flamethrower,icebeam,blizzard|Modest|156,0,0,252,100,0||31,31,31,31,31,31||50|
+23.827455624634126|whismur|Custap Berry|Soundproof|extrasensory,solarbeam,flamethrower,substitute|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.84665283412749|whismur|Charti Berry|Soundproof|solarbeam,protect,workup,attract|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+20.308978809533905|whismur|Protector|Soundproof|workup,facade,stomp,pound|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+20.02632088800502|whismur|Occa Berry|Soundproof|flamethrower,uproar,workup,endeavor|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+18.817319107913303|whismur|Silk Scarf|Rattled|astonish,workup,flamethrower,screech|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.13338727408497|whismur|Tanga Berry|Soundproof|workup,flamethrower,facade,thunderpunch|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+5.363964806558602|whismur|Pecha Berry|Soundproof|workup,protect,sunnyday,roar|Rash|0,0,188,124,0,196||31,31,31,31,31,31||50|
+35.40497556630042|skwovet|Starf Berry|Cheek Pouch|bodyslam,defensecurl,thief,protect|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+34.010222231809735|skwovet|Iapapa Berry|Gluttony|dig,bodyslam,counter,tackle|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+33.75099230113328|skwovet|Starf Berry|Cheek Pouch|bodyslam,uproar,defensecurl,amnesia|Timid|20,0,12,76,164,236||31,0,31,31,31,31||50|
+33.20222325166301|skwovet|Wiki Berry|Gluttony|defensecurl,uproar,bodyslam,stockpile|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+32.939892156004724|skwovet|Rawst Berry|Cheek Pouch|mudshot,stockpile,bodyslam,payback|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.826321242933986|skwovet|Sea Incense|Gluttony|stockpile,dig,bodyslam,round|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+31.645031562890008|skwovet|Starf Berry|Cheek Pouch|bodyslam,mudshot,defensecurl,seedbomb|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+30.766362893050054|skwovet|Wiki Berry|Gluttony|endure,bodyslam,counter,protect|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+30.29543482189794|skwovet|Psychic Seed|Gluttony|bodyslam,attract,counter,seedbomb|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+29.351525615921606|skwovet|Starf Berry|Cheek Pouch|thief,bodyslam,sleeptalk,stockpile|Jolly|132,0,0,0,164,212||31,31,31,31,31,31||50|
+28.906280070357035|skwovet|Psychic Seed|Cheek Pouch|stockpile,bulletseed,bodyslam,amnesia|Naive|0,252,108,0,0,148||31,31,31,31,31,31||50|
+28.695774566461875|skwovet|Sea Incense|Cheek Pouch|bodyslam,uproar,bite,facade|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+26.22357499481604|skwovet|Sitrus Berry|Gluttony|bulletseed,uproar,thief,bodyslam|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+25.682420072162312|skwovet|Power Herb|Cheek Pouch|bodyslam,mudshot,stockpile,round|Modest|0,0,0,52,252,204||31,0,31,31,31,31||50|
+25.49019594652889|skwovet|Grassy Seed|Gluttony|counter,stockpile,attract,spitup|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+25.23933107356078|skwovet|Grepa Berry|Cheek Pouch|endure,thief,uproar,amnesia|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+23.20995412310139|skwovet|Starf Berry|Gluttony|attract,thief,defensecurl,endure|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+21.335847462609475|skwovet|Dragon Scale|Cheek Pouch|thief,protect,defensecurl,stuffcheeks|Brave|0,252,252,0,0,4||31,31,31,31,31,0||50|
+11.170051186647985|skwovet|Utility Umbrella|Cheek Pouch|stockpile,sleeptalk,counter,amnesia|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+9.366201097167668|skwovet|Starf Berry|Cheek Pouch|stockpile,counter,sleeptalk,amnesia|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+33.93773239042864|rookidee|Eviolite|Big Pecks|drillpeck,uturn,snore,payback|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+30.461337912472285|rookidee|Eviolite|Keen Eye|drillpeck,sleeptalk,pluck,round|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+28.12348957277369|rookidee|Wave Incense|Big Pecks|drillpeck,skyattack,sleeptalk,uturn|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+27.547143077676473|rookidee|Sitrus Berry|Keen Eye|drillpeck,pluck,sleeptalk,dualwingbeat|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+26.7538817055521|rookidee|Wave Incense|Keen Eye|sleeptalk,drillpeck,uturn,rocksmash|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+25.794052168382947|rookidee|Lax Incense|Big Pecks|drillpeck,roost,sleeptalk,snore|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+25.24589999424953|rookidee|Destiny Knot|Unnerve|attract,drillpeck,pluck,swift|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+24.549926200364226|rookidee|Wave Incense|Big Pecks|skyattack,sleeptalk,attract,defog|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+24.31379800009267|rookidee|Never-Melt Ice|Big Pecks|dualwingbeat,attract,skyattack,facade|Jolly|44,252,0,0,212,0||31,31,31,31,31,31||50|
+23.766132595640396|rookidee|Throat Spray|Big Pecks|sleeptalk,drillpeck,skyattack,roost|Jolly|44,252,0,0,212,0||31,31,31,31,31,31||50|
+22.783378163697808|rookidee|Muscle Band|Keen Eye|snore,drillpeck,thief,honeclaws|Bold|148,0,252,0,108,0||31,31,31,31,31,31||50|
+20.72049380274807|rookidee|Wave Incense|Keen Eye|skyattack,pluck,sleeptalk,honeclaws|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+19.178227302990997|rookidee|White Herb|Unnerve|drillpeck,fly,skyattack,agility|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+18.85425511906384|rookidee|Wave Incense|Big Pecks|drillpeck,roost,sleeptalk,nastyplot|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+18.42730779012206|rookidee|Charcoal|Keen Eye|thief,sandattack,roost,agility|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+18.330185918828718|rookidee|Eject Button|Big Pecks|skyattack,attract,roost,focusenergy|Timid|4,0,0,0,252,252||31,0,31,31,31,31||50|
+18.07627199243963|rookidee|Eviolite|Big Pecks|uturn,roost,sleeptalk,nastyplot|Relaxed|252,0,252,0,4,0||31,31,31,31,31,0||50|
+13.3610836804209|rookidee|Light Clay|Keen Eye|pluck,roost,sandattack,tailwind|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+9.313578029898888|rookidee|Shed Shell|Keen Eye|sleeptalk,leer,attract,faketears|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+9.263684023365897|rookidee|Pecha Berry|Big Pecks|sandattack,roost,protect,swagger|Serious|84,172,0,252,0,0||31,31,31,31,31,31||50|
+31.983014210958533|meowth|Chesto Berry|Technician|sleeptalk,tailwhip,round,darkpulse|Bold|252,0,0,252,0,4||31,0,31,31,31,31||50|
+30.493714148578896|meowth|Cheri Berry|Technician|round,sleeptalk,bite,slash|Bold|0,0,252,196,60,0||31,0,31,31,31,31||50|
+29.18196253700938|meowth|Mago Berry|Technician|darkpulse,sleeptalk,endure,screech|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+29.050388025827917|meowth|Flame Orb|Technician|round,endure,icywind,tailwhip|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.145196320290708|meowth|Salac Berry|Technician|sleeptalk,lashout,round,thunderbolt|Bold|60,0,188,140,76,44||31,0,31,31,31,31||50|
+27.66285790398534|meowth|Kebia Berry|Technician|round,endure,bite,throatchop|Bold|228,0,252,28,0,0||31,31,31,31,31,31||50|
+26.82264151897388|meowth|Tanga Berry|Technician|darkpulse,bite,nastyplot,raindance|Bold|0,0,252,196,60,0||31,0,31,31,31,31||50|
+24.7196008330444|meowth|Smooth Rock|Technician|round,sleeptalk,darkpulse,tailwhip|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+24.43972566092221|meowth|Hard Stone|Technician|sleeptalk,darkpulse,nastyplot,irontail|Bold|252,0,0,252,0,4||31,0,31,31,31,31||50|
+24.397729797525106|meowth|Kebia Berry|Technician|darkpulse,nastyplot,scratch,icywind|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.17073660906314|meowth|Roseli Berry|Technician|hypnosis,darkpulse,lashout,covet|Naughty|0,52,236,220,0,0||31,31,31,31,31,31||50|
+20.426737617635244|meowth|Tanga Berry|Technician|nastyplot,darkpulse,endure,furyswipes|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+16.799765604783477|meowth|Kasib Berry|Technician|lastresort,endure,darkpulse,lashout|Impish|0,0,244,0,12,252||31,31,31,31,31,31||50|
+14.723782417341233|meowth|Kasib Berry|Technician|lastresort,hypervoice,hypnosis,raindance|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+12.372659738090395|meowth|Full Incense|Technician|scratch,darkpulse,hypervoice,gunkshot|Bold|252,0,0,252,0,4||31,0,31,31,31,31||50|
+11.890584094267068|meowth|Shuca Berry|Technician|darkpulse,lastresort,sleeptalk,slash|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+11.65363264681679|meowth|Tanga Berry|Technician|lashout,sleeptalk,darkpulse,lastresort|Bold|252,0,0,252,0,4||31,0,31,31,31,31||50|
+11.072731242368786|meowth|Focus Sash|Technician|lastresort,round,bite,fakeout|Naughty|0,52,236,220,0,0||31,31,31,31,31,31||50|
+10.458374636587871|meowth|Kasib Berry|Technician|lastresort,bite,darkpulse,feint|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+10.275568630478642|meowth|Tanga Berry|Technician|sleeptalk,darkpulse,lashout,fakeout|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+36.24536882583125|cubone|thickclub|Battle Armor|tailwhip,firepunch,attract,irontail|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+34.99062234278464|cubone|thickclub|Rock Head|firepunch,attract,swordsdance,blizzard|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+34.57826486715438|cubone|thickclub|Rock Head|tailwhip,headbutt,attract,snore|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+34.53828624131573|cubone|thickclub|Rock Head|firepunch,sunnyday,attract,icebeam|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+33.935507967519904|cubone|thickclub|Rock Head|snore,attract,firepunch,icywind|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+33.651905805473575|cubone|thickclub|Lightning Rod|firepunch,ancientpower,tailwhip,substitute|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+33.491521192520416|cubone|thickclub|Rock Head|firepunch,stompingtantrum,sunnyday,toxic|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+31.797546544882152|cubone|thickclub|Rock Head|tailwhip,swordsdance,firepunch,bulldoze|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.7643762322635|cubone|thickclub|Lightning Rod|attract,retaliate,bellydrum,bulldoze|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+28.758866313884134|cubone|thickclub|Lightning Rod|tailwhip,firepunch,bellydrum,substitute|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+28.472396069754716|cubone|thickclub|Rock Head|sunnyday,attract,stompingtantrum,thrash|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.371608869229892|cubone|Mystic Water|Rock Head|attract,bellydrum,firepunch,protect|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+26.15423982656491|cubone|thickclub|Rock Head|retaliate,firepunch,attract,bonerush|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+25.828990083408517|cubone|thickclub|Rock Head|attract,icywind,tailwhip,toxic|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+25.387780095780464|cubone|thickclub|Battle Armor|sunnyday,attract,snore,stompingtantrum|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+24.71082525810789|cubone|thickclub|Rock Head|attract,swordsdance,icywind,firepunch|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+21.78715946124047|cubone|Absorb Bulb|Rock Head|retaliate,tailwhip,icywind,leer|Impish|252,252,0,0,0,4||31,31,31,31,31,31||50|
+20.224174437150644|cubone|thickclub|Lightning Rod|tailwhip,bellydrum,icywind,rest|Adamant|0,196,0,0,212,100||31,31,31,31,31,31||50|
+9.79846170602508|cubone|thickclub|Rock Head|tailwhip,snore,attract,uproar|Serious|0,0,252,148,0,108||31,31,31,31,31,31||50|
+8.487957815331221|cubone|thickclub|Lightning Rod|tailwhip,sleeptalk,focusenergy,falseswipe|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|

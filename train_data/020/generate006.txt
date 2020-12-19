@@ -1,0 +1,100 @@
+|squirtle|Choice Scarf|Rain Dish|aurasphere,zenheadbutt,seismictoss,waterspout|Serious|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|squirtle|Leftovers|Torrent|skullbash,bodyslam,zenheadbutt,bubblebeam|Sassy|0,0,4,252,252,0||31,31,31,31,31,0||50|
+|squirtle|Dragon Fang|Rain Dish|bodyslam,rest,waterspout,waterpulse|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|squirtle|Metal Coat|Rain Dish|bodyslam,seismictoss,megapunch,icywind|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|squirtle|Leftovers|Rain Dish|bodyslam,seismictoss,rest,haze|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|squirtle|Electric Seed|Torrent|rapidspin,rest,bodyslam,icepunch|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|squirtle|Leftovers|Rain Dish|dive,skullbash,zenheadbutt,seismictoss|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|squirtle|Dragon Fang|Rain Dish|rest,bodyslam,zenheadbutt,skullbash|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|squirtle|Leftovers|Rain Dish|icepunch,dive,zenheadbutt,bubblebeam|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|squirtle|Dragon Fang|Rain Dish|seismictoss,rest,waterfall,aquatail|Quiet|0,0,52,244,212,0||31,31,31,31,31,0||50|
+|squirtle|Aguav Berry|Rain Dish|bodyslam,sleeptalk,rest,weatherball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|squirtle|White Herb|Rain Dish|bodyslam,muddywater,flipturn,falseswipe|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|squirtle|Full Incense|Rain Dish|rest,waterfall,waterspout,raindance|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|squirtle|Dragon Fang|Rain Dish|waterfall,waterspout,bodyslam,withdraw|Gentle|0,0,0,76,252,180||31,31,31,31,31,31||50|
+|squirtle|Wiki Berry|Rain Dish|bodyslam,haze,waterfall,endure|Quiet|108,116,20,44,220,0||31,31,31,31,31,31||50|
+|squirtle|Custap Berry|Rain Dish|rest,waterfall,dive,raindance|Calm|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|squirtle|Dragon Fang|Rain Dish|waterfall,waterspout,bodyslam,protect|Timid|0,0,0,252,4,252||31,0,31,31,31,31||50|
+|squirtle|Dragon Fang|Rain Dish|waterfall,zenheadbutt,seismictoss,toxic|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|squirtle|Full Incense|Torrent|waterfall,rest,waterspout,facade|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|squirtle|Rowap Berry|Rain Dish|waterspout,waterfall,bodyslam,bubble|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|klink|Binding Band|Clear Body|wildcharge,geargrind,facade,endure|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Lagging Tail|Clear Body|zapcannon,thunderbolt,thundershock,flashcannon|Bold|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|klink|Lagging Tail|Clear Body|thunderbolt,geargrind,thundershock,sandstorm|Bold|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|klink|Occa Berry|Clear Body|geargrind,wildcharge,thunderbolt,thundershock|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Zoom Lens|Plus|geargrind,thunderwave,zapcannon,shiftgear|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Ring Target|Clear Body|zapcannon,wildcharge,thunderbolt,hyperbeam|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|klink|Jaboca Berry|Clear Body|zapcannon,sleeptalk,autotomize,round|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|klink|Aguav Berry|Clear Body|wildcharge,geargrind,zapcannon,chargebeam|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|klink|Kelpsy Berry|Minus|wildcharge,geargrind,zapcannon,powergem|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|klink|Occa Berry|Plus|zapcannon,thunderwave,wildcharge,rest|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Utility Umbrella|Plus|geargrind,thunderwave,charge,risingvoltage|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|klink|Icy Rock|Plus|powergem,sleeptalk,wildcharge,lockon|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|klink|Enigma Berry|Plus|geargrind,wildcharge,round,snore|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Wise Glasses|Plus|geargrind,autotomize,thunderbolt,steelbeam|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Smooth Rock|Clear Body|thunderbolt,thunderwave,geargrind,snore|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Mago Berry|Plus|geargrind,thunderwave,risingvoltage,voltswitch|Relaxed|252,252,4,0,0,0||31,31,31,31,31,0||50|
+|klink|Eject Pack|Clear Body|geargrind,thunderwave,protect,facade|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Occa Berry|Minus|thunderwave,wildcharge,risingvoltage,endure|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|klink|Occa Berry|Clear Body|thunderwave,geargrind,wildcharge,thunderbolt|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|klink|Tanga Berry|Clear Body|risingvoltage,wildcharge,geargrind,voltswitch|Serious|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|helioptile|Blunder Policy|Dry Skin|allyswitch,substitute,facade,dragonrush|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+|helioptile|Liechi Berry|Dry Skin|substitute,rocktomb,thundershock,dragonrush|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+|helioptile|Smooth Rock|Dry Skin|allyswitch,electroball,substitute,voltswitch|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|helioptile|Salac Berry|Dry Skin|electroball,substitute,facade,thundershock|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|helioptile|Yache Berry|Solar Power|allyswitch,electroball,substitute,dragonrush|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+|helioptile|Roseli Berry|Dry Skin|rockslide,allyswitch,substitute,irontail|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+|helioptile|Throat Spray|Dry Skin|allyswitch,voltswitch,thundershock,sleeptalk|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+|helioptile|Salac Berry|Dry Skin|electroball,allyswitch,facade,substitute|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|helioptile|Occa Berry|Dry Skin|electricterrain,electroball,facade,rockslide|Adamant|36,252,0,0,220,0||31,31,31,31,31,31||50|
+|helioptile|Kebia Berry|Dry Skin|substitute,electroball,dragonrush,grassknot|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|helioptile|Liechi Berry|Dry Skin|electricterrain,charge,rockslide,electrify|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+|helioptile|Figy Berry|Dry Skin|facade,mudslap,electricterrain,protect|Hasty|36,0,0,220,0,252||31,31,31,31,31,31||50|
+|helioptile|Haban Berry|Dry Skin|charge,bulldoze,rockslide,electrify|Calm|0,0,4,252,252,0||31,31,31,31,31,31||50|
+|helioptile|Oran Berry|Dry Skin|facade,mudslap,rockslide,charge|Calm|0,0,252,0,236,20||31,31,31,31,31,31||50|
+|helioptile|Charcoal|Dry Skin|dragontail,charge,bulldoze,endure|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+|helioptile|Razor Claw|Dry Skin|substitute,charge,voltswitch,agility|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|helioptile|Light Clay|Dry Skin|rockslide,charge,electroball,glare|Adamant|228,252,0,0,0,28||31,31,31,31,31,31||50|
+|helioptile|Choice Specs|Sand Veil|facade,electroball,charge,thunderwave|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+|helioptile|Muscle Band|Dry Skin|voltswitch,electricterrain,electroball,charge|Brave|68,252,76,84,28,0||31,31,31,31,31,0||50|
+|helioptile|Oran Berry|Dry Skin|charge,rocktomb,facade,quickattack|Quiet|68,0,236,204,0,0||31,31,31,31,31,0||50|
+|cutiefly|Leftovers|Sweet Veil|aromatherapy,dazzlinggleam,leechlife,skillswap|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Full Incense|Honey Gather|sweetscent,skillswap,dazzlinggleam,facade|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cutiefly|Focus Band|Shield Dust|dazzlinggleam,aromatherapy,skillswap,rest|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|cutiefly|Power Herb|Honey Gather|leechlife,substitute,allyswitch,strugglebug|Impish|124,124,100,0,44,116||31,31,31,31,31,31||50|
+|cutiefly|Leftovers|Honey Gather|leechlife,dazzlinggleam,switcheroo,stunspore|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|cutiefly|Leftovers|Honey Gather|leechlife,aromatherapy,skillswap,facade|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Power Herb|Honey Gather|leechlife,dazzlinggleam,sweetscent,drainingkiss|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Power Herb|Honey Gather|skillswap,dazzlinggleam,switcheroo,round|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Full Incense|Sweet Veil|leechlife,fairywind,aromatherapy,substitute|Brave|252,0,220,0,36,0||31,31,31,31,31,31||50|
+|cutiefly|Full Incense|Sweet Veil|leechlife,aromatherapy,dazzlinggleam,fairywind|Calm|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|cutiefly|Power Herb|Sweet Veil|sweetscent,sleeptalk,facade,charm|Rash|0,132,252,124,0,0||31,31,31,31,31,31||50|
+|cutiefly|Dragon Scale|Shield Dust|dazzlinggleam,allyswitch,imprison,wonderroom|Sassy|0,0,244,12,252,0||31,31,31,31,31,0||50|
+|cutiefly|Chesto Berry|Honey Gather|leechlife,dazzlinggleam,sweetscent,allyswitch|Impish|116,92,124,0,20,156||31,31,31,31,31,31||50|
+|cutiefly|Sticky Barb|Honey Gather|facade,absorb,sweetscent,energyball|Sassy|12,36,52,156,252,0||31,31,31,31,31,0||50|
+|cutiefly|Petaya Berry|Sweet Veil|leechlife,round,calmmind,dazzlinggleam|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Black Glasses|Shield Dust|absorb,dazzlinggleam,round,imprison|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Lagging Tail|Shield Dust|sweetscent,facade,leechlife,snore|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Rock Incense|Shield Dust|facade,dazzlinggleam,aromatherapy,swift|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Lagging Tail|Sweet Veil|sweetscent,facade,leechlife,snore|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cutiefly|Power Herb|Shield Dust|skillswap,dazzlinggleam,leechlife,facade|Rash|0,132,252,124,0,0||31,31,31,31,31,31||50|
+|clobbopus|Rock Incense|Technician|brickbreak,endure,revenge,protect|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|clobbopus|Wacan Berry|Limber|rest,focusblast,poweruppunch,substitute|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|clobbopus|Scope Lens|Limber|revenge,soak,focusblast,superpower|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|clobbopus|Rowap Berry|Technician|liquidation,revenge,soak,attract|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|
+|clobbopus|Occa Berry|Limber|taunt,soak,revenge,icepunch|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|clobbopus|Pixie Plate|Technician|rest,soak,focusblast,coaching|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|clobbopus|Binding Band|Limber|mudshot,taunt,poweruppunch,attract|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|clobbopus|Black Sludge|Technician|mudshot,bulkup,rest,brickbreak|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|clobbopus|Eject Button|Technician|soak,endure,liquidation,leer|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|
+|clobbopus|Rose Incense|Limber|attract,liquidation,mudshot,focusblast|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|clobbopus|Rose Incense|Technician|mudshot,seismictoss,bulkup,closecombat|Timid|252,0,156,0,0,100||31,0,31,31,31,31||50|
+|clobbopus|Rose Incense|Technician|suckerpunch,revenge,seismictoss,payback|Impish|28,188,164,0,52,76||31,31,31,31,31,31||50|
+|clobbopus|Rowap Berry|Technician|mudshot,bulkup,attract,reversal|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|clobbopus|Silk Scarf|Limber|soak,mudshot,attract,icepunch|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|
+|clobbopus|Rose Incense|Technician|mudshot,bulkup,rest,megapunch|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|clobbopus|Rowap Berry|Technician|revenge,mudshot,soak,muddywater|Calm|0,0,196,0,92,220||31,0,31,31,31,31||50|
+|clobbopus|Mago Berry|Technician|seismictoss,workup,attract,brickbreak|Impish|204,0,252,0,0,52||31,31,31,31,31,31||50|
+|clobbopus|Wiki Berry|Technician|endure,brickbreak,soak,protect|Quiet|188,0,0,236,84,0||31,31,31,31,31,0||50|
+|clobbopus|Black Glasses|Technician|seismictoss,attract,mudshot,suckerpunch|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|clobbopus|Leftovers|Technician|seismictoss,endure,taunt,bulkup|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|

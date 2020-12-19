@@ -1,0 +1,100 @@
+|rowlet|Blunder Policy|Long Reach|rest,tackle,bravebird,round|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|rowlet|Rindo Berry|Long Reach|rest,bravebird,swift,peck|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|rowlet|Grassy Seed|Overgrow|astonish,round,suckerpunch,tackle|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|rowlet|Rocky Helmet|Overgrow|razorleaf,rest,workup,peck|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|rowlet|Throat Spray|Overgrow|nastyplot,rest,steelwing,shadowclaw|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|rowlet|Sea Incense|Long Reach|swordsdance,endure,astonish,swift|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|rowlet|Rocky Helmet|Overgrow|workup,rest,swordsdance,substitute|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|rowlet|Grassy Seed|Overgrow|astonish,defog,leafblade,tackle|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|rowlet|Razor Claw|Overgrow|pluck,dualwingbeat,confuseray,workup|Sassy|204,52,0,0,252,0||31,31,31,31,31,31||50|
+|rowlet|Assault Vest|Overgrow|astonish,swordsdance,suckerpunch,tackle|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|rowlet|Kasib Berry|Overgrow|endure,confuseray,dualwingbeat,safeguard|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|rowlet|Icy Rock|Overgrow|tackle,pluck,defog,round|Sassy|204,52,0,0,252,0||31,31,31,31,31,31||50|
+|rowlet|Ganlon Berry|Overgrow|defog,dualwingbeat,growl,steelwing|Relaxed|60,0,252,0,196,0||31,31,31,31,31,31||50|
+|rowlet|Bright Powder|Long Reach|growl,confuseray,dualwingbeat,solarbeam|Relaxed|60,0,252,0,196,0||31,31,31,31,31,31||50|
+|rowlet|Aguav Berry|Overgrow|growl,endure,confuseray,workup|Sassy|204,52,0,0,252,0||31,31,31,31,31,31||50|
+|rowlet|Razor Claw|Overgrow|growl,dualwingbeat,pluck,seedbomb|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|rowlet|Razor Claw|Overgrow|astonish,bravebird,confuseray,dualwingbeat|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|rowlet|Quick Claw|Overgrow|bravebird,dualwingbeat,confuseray,swordsdance|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|rowlet|Mago Berry|Overgrow|growl,razorleaf,confuseray,swift|Sassy|204,52,0,0,252,0||31,31,31,31,31,31||50|
+|rowlet|Sea Incense|Overgrow|dualwingbeat,nastyplot,growl,confuseray|Sassy|204,52,0,0,252,0||31,31,31,31,31,31||50|
+|nincada|Apicot Berry|Compound Eyes|facade,substitute,round,bugbite|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|nincada|Metronome|Compound Eyes|metalclaw,round,shadowball,sandattack|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|nincada|Miracle Seed|Run Away|round,shadowball,metalclaw,substitute|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|nincada|Flame Orb|Compound Eyes|shadowball,skittersmack,round,nightslash|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|nincada|Metronome|Compound Eyes|metalclaw,round,bugbuzz,bugbite|Adamant|212,252,44,0,0,0||31,31,31,31,31,31||50|
+|nincada|Twisted Spoon|Compound Eyes|solarbeam,shadowball,round,falseswipe|Careful|0,252,0,0,52,204||31,31,31,31,31,31||50|
+|nincada|Hard Stone|Compound Eyes|furyswipes,skittersmack,harden,round|Sassy|252,12,44,44,156,0||31,31,31,31,31,0||50|
+|nincada|Miracle Seed|Compound Eyes|protect,bugbuzz,metalclaw,sandstorm|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nincada|King's Rock|Compound Eyes|leechlife,skittersmack,round,absorb|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|nincada|King's Rock|Compound Eyes|shadowball,round,furyswipes,substitute|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nincada|Protector|Compound Eyes|snore,furyswipes,skittersmack,solarbeam|Impish|252,4,0,0,0,252||31,31,31,31,31,31||50|
+|nincada|King's Rock|Run Away|nightslash,solarbeam,shadowball,mindreader|Impish|252,4,0,0,0,252||31,31,31,31,31,31||50|
+|nincada|Sitrus Berry|Compound Eyes|falseswipe,nightslash,bugbuzz,endure|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nincada|King's Rock|Run Away|nightslash,mudslap,skittersmack,sleeptalk|Sassy|252,12,44,44,156,0||31,31,31,31,31,0||50|
+|nincada|King's Rock|Compound Eyes|skittersmack,solarbeam,sunnyday,bugbuzz|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|nincada|Sitrus Berry|Compound Eyes|falseswipe,skittersmack,bugbuzz,harden|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nincada|King's Rock|Run Away|nightslash,leechlife,snore,sleeptalk|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|nincada|Muscle Band|Run Away|leechlife,furyswipes,sunnyday,harden|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|nincada|Cheri Berry|Run Away|solarbeam,skittersmack,nightslash,substitute|Sassy|252,12,44,44,156,0||31,31,31,31,31,0||50|
+|nincada|Focus Band|Compound Eyes|solarbeam,bugbuzz,nightslash,finalgambit|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|igglybuff|Maranga Berry|Competitive|lastresort,rollout,perishsong,sing|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|igglybuff|Sea Incense|Friend Guard|rollout,perishsong,faketears,present|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|igglybuff|Misty Seed|Cute Charm|perishsong,facade,wildcharge,copycat|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|igglybuff|Rocky Helmet|Cute Charm|substitute,facade,charm,thunderwave|Sassy|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|igglybuff|Wave Incense|Competitive|bodyslam,rest,rollout,fireblast|Adamant|60,252,196,0,0,0||31,31,31,31,31,31||50|
+|igglybuff|Oran Berry|Cute Charm|facade,perishsong,psychic,flamethrower|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|igglybuff|Rocky Helmet|Cute Charm|rollout,fireblast,dig,mistyterrain|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|igglybuff|Black Glasses|Cute Charm|fireblast,flamethrower,perishsong,charm|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|igglybuff|Lum Berry|Cute Charm|facade,rollout,fireblast,present|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|igglybuff|Rocky Helmet|Competitive|fireblast,flamethrower,charm,megakick|Bold|36,0,244,0,228,0||31,31,31,31,31,31||50|
+|igglybuff|Blunder Policy|Competitive|wildcharge,flamethrower,sing,disable|Lax|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|igglybuff|Micle Berry|Friend Guard|wildcharge,fireblast,bodyslam,uproar|Relaxed|0,148,180,0,180,0||31,31,31,31,31,0||50|
+|igglybuff|Focus Band|Cute Charm|thunderwave,rollout,perishsong,disable|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|igglybuff|Persim Berry|Cute Charm|rest,icywind,round,flamethrower|Timid|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|igglybuff|Shed Shell|Cute Charm|thunderwave,wildcharge,fireblast,hypervoice|Modest|0,0,124,252,132,0||31,0,31,31,31,31||50|
+|igglybuff|Cheri Berry|Competitive|bodyslam,round,thunderwave,wildcharge|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|igglybuff|Wave Incense|Cute Charm|thunderwave,fireblast,perishsong,wildcharge|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|igglybuff|Room Service|Competitive|shadowball,rest,thunderwave,present|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|igglybuff|Hard Stone|Competitive|fireblast,bodyslam,rollout,solarbeam|Lax|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|igglybuff|Rocky Helmet|Cute Charm|rollout,wildcharge,perishsong,covet|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|happiny|Grassy Seed|Friend Guard|hypervoice,pound,snore,endure|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|happiny|Misty Seed|Natural Cure|protect,snore,pound,flamethrower|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|happiny|Air Balloon|Natural Cure|drainpunch,sunnyday,snore,minimize|Naughty|36,164,116,4,0,188||31,31,31,31,31,31||50|
+|happiny|Absorb Bulb|Natural Cure|pound,protect,facade,thunderwave|Bold|188,0,212,108,0,0||31,0,31,31,31,31||50|
+|happiny|Wide Lens|Serene Grace|sweetkiss,fireblast,facade,fling|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|happiny|Float Stone|Serene Grace|grassknot,psychic,protect,flamethrower|Serious|4,252,0,252,0,0||31,31,31,31,31,31||50|
+|happiny|Never-Melt Ice|Friend Guard|safeguard,facade,icywind,snore|Relaxed|0,252,220,0,36,0||31,31,31,31,31,0||50|
+|happiny|Dragon Fang|Serene Grace|shadowball,sunnyday,fireblast,icywind|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|happiny|Terrain Extender|Serene Grace|storedpower,pound,snore,gravity|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|happiny|Pomeg Berry|Natural Cure|pound,fireblast,uproar,flamethrower|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|happiny|Eject Pack|Serene Grace|shadowball,sunnyday,storedpower,flamethrower|Serious|4,252,0,252,0,0||31,31,31,31,31,31||50|
+|happiny|Coba Berry|Serene Grace|grassknot,shadowball,drainpunch,safeguard|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|happiny|Terrain Extender|Serene Grace|storedpower,grassknot,present,pound|Impish|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|happiny|Terrain Extender|Friend Guard|icywind,protect,grassknot,defensecurl|Adamant|52,252,100,0,52,52||31,31,31,31,31,31||50|
+|happiny|Big Root|Serene Grace|psychic,protect,storedpower,snore|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|happiny|Terrain Extender|Serene Grace|zenheadbutt,psychic,protect,covet|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|happiny|Terrain Extender|Natural Cure|facade,fireblast,grassknot,solarbeam|Serious|4,252,0,252,0,0||31,31,31,31,31,31||50|
+|happiny|Enigma Berry|Serene Grace|snore,grassknot,protect,storedpower|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|happiny|Lax Incense|Serene Grace|round,psychic,pound,safeguard|Serious|4,252,0,252,0,0||31,31,31,31,31,31||50|
+|happiny|Rindo Berry|Natural Cure|round,uproar,storedpower,icywind|Serious|4,252,0,252,0,0||31,31,31,31,31,31||50|
+|cleffa|Lax Incense|Cute Charm|psychic,helpinghand,safeguard,sweetkiss|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|cleffa|Lansat Berry|Cute Charm|flamethrower,protect,uproar,attract|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|cleffa|Assault Vest|Cute Charm|safeguard,sunnyday,uproar,fling|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|cleffa|Heat Rock|Cute Charm|workup,flamethrower,uproar,attract|Sassy|252,0,252,0,4,0||31,31,31,31,31,0||50|
+|cleffa|Soft Sand|Friend Guard|endure,playrough,flamethrower,present|Relaxed|0,0,252,252,4,0||31,31,31,31,31,31||50|
+|cleffa|Heat Rock|Friend Guard|reflect,flamethrower,uproar,aromatherapy|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|cleffa|Petaya Berry|Cute Charm|uproar,safeguard,psychic,disarmingvoice|Calm|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|cleffa|Assault Vest|Friend Guard|protect,safeguard,sunnyday,copycat|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|cleffa|Damp Rock|Cute Charm|safeguard,storedpower,pound,amnesia|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|cleffa|Heat Rock|Friend Guard|psychic,safeguard,helpinghand,megapunch|Lax|0,108,148,252,0,0||31,31,31,31,31,31||50|
+|cleffa|Jaboca Berry|Cute Charm|dig,psychic,helpinghand,disarmingvoice|Calm|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|cleffa|Hondew Berry|Cute Charm|psychic,workup,pound,storedpower|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|cleffa|Dragon Scale|Cute Charm|psychic,workup,uproar,sunnyday|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|cleffa|Chesto Berry|Magic Guard|psychic,workup,sleeptalk,faketears|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cleffa|Lagging Tail|Cute Charm|uproar,rest,facade,amnesia|Calm|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|cleffa|Colbur Berry|Cute Charm|facade,psychic,rest,tickle|Bold|92,0,252,0,0,164||31,0,31,31,31,31||50|
+|cleffa|Kelpsy Berry|Friend Guard|protect,rest,sunnyday,megapunch|Relaxed|0,0,108,244,156,0||31,31,31,31,31,31||50|
+|cleffa|Jaboca Berry|Cute Charm|rest,attract,psychic,flamethrower|Calm|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|cleffa|Roseli Berry|Magic Guard|psychic,uproar,psyshock,aromatherapy|Calm|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|cleffa|Jaboca Berry|Magic Guard|grassknot,sleeptalk,hypervoice,workup|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|

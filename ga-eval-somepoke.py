@@ -6,7 +6,7 @@ import numpy as np
 
 if __name__ == '__main__':
 
-    target =[22]
+    target =[22,23]
     print(target)
     matchCount = 24
 

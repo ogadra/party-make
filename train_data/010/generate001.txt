@@ -1,0 +1,100 @@
+|swablu|Wacan Berry|Natural Cure|astonish,substitute,bodyslam,uproar|Timid|180,0,0,76,0,252||31,31,31,31,31,31||50|
+|swablu|Black Belt|Cloud Nine|icebeam,sing,growl,heatwave|Impish|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|swablu|Grepa Berry|Natural Cure|steelwing,outrage,moonblast,sing|Impish|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|swablu|Wave Incense|Natural Cure|dazzlinggleam,sing,cottonguard,solarbeam|Impish|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|swablu|Mago Berry|Natural Cure|astonish,sing,cottonguard,outrage|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|swablu|Mago Berry|Cloud Nine|outrage,bodyslam,substitute,astonish|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|swablu|Expert Belt|Natural Cure|powerswap,safeguard,outrage,sing|Impish|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|swablu|Expert Belt|Natural Cure|substitute,sing,safeguard,solarbeam|Impish|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|swablu|Expert Belt|Natural Cure|outrage,agility,sing,takedown|Relaxed|36,0,252,220,0,0||31,31,31,31,31,31||50|
+|swablu|Expert Belt|Cloud Nine|astonish,attract,dualwingbeat,falseswipe|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|swablu|Apicot Berry|Cloud Nine|dazzlinggleam,growl,moonblast,astonish|Careful|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|swablu|Sticky Barb|Cloud Nine|rest,dazzlinggleam,cottonguard,dragonpulse|Modest|76,0,0,252,180,0||31,0,31,31,31,31||50|
+|swablu|Muscle Band|Cloud Nine|moonblast,dazzlinggleam,cottonguard,attract|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|swablu|Grepa Berry|Natural Cure|sing,agility,hypervoice,featherdance|Modest|76,0,0,252,180,0||31,0,31,31,31,31||50|
+|swablu|Grip Claw|Cloud Nine|cottonguard,swift,dualwingbeat,thief|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|swablu|Mental Herb|Cloud Nine|sleeptalk,mist,dazzlinggleam,swift|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|swablu|Muscle Band|Natural Cure|hypervoice,growl,moonblast,fly|Brave|36,188,52,172,60,0||31,31,31,31,31,31||50|
+|swablu|Rock Incense|Cloud Nine|hypervoice,cottonguard,dualwingbeat,steelwing|Relaxed|0,0,4,252,252,0||31,31,31,31,31,0||50|
+|swablu|Expert Belt|Natural Cure|cottonguard,dazzlinggleam,outrage,rest|Serious|12,0,12,252,44,188||31,31,31,31,31,31||50|
+|swablu|Mystic Water|Natural Cure|dazzlinggleam,cottonguard,sing,growl|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|steenee|Iapapa Berry|Oblivious|leafstorm,razorleaf,lightscreen,charm|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Iapapa Berry|Sweet Veil|snore,stomp,tripleaxel,reflect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Colbur Berry|Leaf Guard|teeterdance,tripleaxel,facade,sweetscent|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|steenee|Hard Stone|Leaf Guard|tripleaxel,stomp,bounce,snore|Naive|0,0,140,116,0,252||31,31,31,31,31,31||50|
+|steenee|Colbur Berry|Sweet Veil|leafstorm,facade,solarbeam,seedbomb|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|steenee|Spell Tag|Leaf Guard|razorleaf,sunnyday,stomp,attract|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Colbur Berry|Sweet Veil|tripleaxel,stomp,grassknot,payback|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Aspear Berry|Sweet Veil|facade,snore,stomp,charm|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|steenee|Miracle Seed|Oblivious|facade,snore,teeterdance,bounce|Sassy|0,0,4,252,252,0||31,31,31,31,31,31||50|
+|steenee|Cell Battery|Oblivious|tripleaxel,leafstorm,solarbeam,fling|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Sticky Barb|Oblivious|stomp,grassknot,lightscreen,dazzlinggleam|Timid|124,0,132,0,0,252||31,31,31,31,31,31||50|
+|steenee|Aguav Berry|Oblivious|aromaticmist,dazzlinggleam,razorleaf,zenheadbutt|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Iapapa Berry|Oblivious|lowsweep,stomp,razorleaf,playrough|Timid|124,0,132,0,0,252||31,31,31,31,31,31||50|
+|steenee|Iapapa Berry|Oblivious|stomp,teeterdance,solarbeam,snore|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Colbur Berry|Sweet Veil|snore,substitute,razorleaf,playrough|Impish|20,100,124,0,132,132||31,31,31,31,31,31||50|
+|steenee|Passho Berry|Oblivious|stomp,leafstorm,substitute,safeguard|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|steenee|Twisted Spoon|Oblivious|substitute,helpinghand,dazzlinggleam,rapidspin|Careful|100,44,12,0,252,100||31,31,31,31,31,31||50|
+|steenee|Miracle Seed|Leaf Guard|leafstorm,zenheadbutt,lightscreen,bounce|Timid|124,0,132,0,0,252||31,31,31,31,31,31||50|
+|steenee||Sweet Veil|lightscreen,snore,substitute,leafstorm|Relaxed|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|steenee|Oran Berry|Oblivious|seedbomb,substitute,razorleaf,snore|Gentle|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|lillipup|Luminous Moss|Vital Spirit|gigaimpact,endure,roar,covet|Naughty|148,212,28,4,0,116||31,31,31,31,31,31||50|
+|lillipup|Spell Tag|Run Away|retaliate,snore,playrough,afteryou|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+|lillipup|Spell Tag|Pickup|wildcharge,playrough,roar,payback|Adamant|4,236,100,0,140,28||31,31,31,31,31,31||50|
+|lillipup|Yache Berry|Run Away|snore,gigaimpact,thunderfang,sunnyday|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|lillipup|Spell Tag|Run Away|snore,gigaimpact,sunnyday,babydolleyes|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|lillipup|Lansat Berry|Pickup|takedown,endure,gigaimpact,sunnyday|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|lillipup|Rose Incense|Vital Spirit|roar,psychicfangs,gigaimpact,snore|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|lillipup|Spell Tag|Run Away|gigaimpact,snore,playrough,leer|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|lillipup|Mental Herb|Pickup|roar,sunnyday,psychicfangs,wildcharge|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|lillipup|Rocky Helmet|Run Away|snore,gigaimpact,facade,wildcharge|Sassy|124,132,0,0,252,0||31,31,31,31,31,0||50|
+|lillipup|Mental Herb|Pickup|rocktomb,reversal,afteryou,bite|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|lillipup|Smooth Rock|Vital Spirit|roar,snore,facade,dig|Sassy|124,132,0,0,252,0||31,31,31,31,31,0||50|
+|lillipup|Metronome|Vital Spirit|psychicfangs,leer,payback,endure|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|lillipup|Micle Berry|Vital Spirit|endure,tackle,payback,retaliate|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+|lillipup|Mental Herb|Run Away|yawn,reversal,endure,round|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|lillipup|Scope Lens|Pickup|psychicfangs,endure,reversal,payback|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|lillipup|Odd Incense|Vital Spirit|endure,yawn,rocktomb,leer|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|lillipup|Spell Tag|Vital Spirit|roar,snore,reversal,sleeptalk|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|lillipup|Mental Herb|Vital Spirit|reversal,thunderfang,sleeptalk,dig|Hasty|0,28,0,228,0,252||31,31,31,31,31,31||50|
+|lillipup|Payapa Berry|Vital Spirit|reversal,sleeptalk,endure,shadowball|Adamant|0,140,0,0,252,116||31,31,31,31,31,31||50|
+|golett|Air Balloon|No Guard|shadowball,icepunch,safeguard,helpinghand|Adamant|0,228,0,0,52,228||31,31,31,31,31,31||50|
+|golett|Air Balloon|No Guard|icepunch,allyswitch,rockslide,facade|Quiet|228,0,0,252,28,0||31,31,31,31,31,0||50|
+|golett|Rocky Helmet|No Guard|safeguard,shadowball,earthpower,helpinghand|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+|golett|Hard Stone|Klutz|rest,heavyslam,allyswitch,rocktomb|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|golett|Air Balloon|No Guard|imprison,hammerarm,icepunch,drainpunch|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|golett|Pomeg Berry|Klutz|rockslide,allyswitch,hammerarm,shadowball|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|golett|Air Balloon|Iron Fist|allyswitch,endure,raindance,substitute|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|golett|Never-Melt Ice|Iron Fist|icepunch,shadowball,allyswitch,protect|Bold|196,0,252,60,0,0||31,31,31,31,31,31||50|
+|golett|Hard Stone|No Guard|fling,hammerarm,icepunch,raindance|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|golett|Kasib Berry|No Guard|astonish,icepunch,rockslide,dynamicpunch|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|golett|Rowap Berry|No Guard|raindance,fling,curse,lowsweep|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|golett|Razor Claw|Klutz|heavyslam,gyroball,rest,earthquake|Lax|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|golett|Metal Coat|Klutz|rocktomb,dig,heavyslam,drainpunch|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|golett|Hard Stone|Klutz|rest,fling,heavyslam,gyroball|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|golett|Hard Stone|Klutz|curse,icebeam,pound,rest|Brave|36,100,28,252,92,0||31,31,31,31,31,0||50|
+|golett|Wave Incense|Klutz|curse,fling,rest,nightshade|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|golett|Misty Seed|Klutz|dig,fling,stompingtantrum,megapunch|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|golett|Maranga Berry|Iron Fist|rest,curse,heavyslam,superpower|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|golett|Cheri Berry|Iron Fist|rockslide,nightshade,icepunch,defensecurl|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|golett|Hard Stone|Klutz|rest,gyroball,heavyslam,fling|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|corphish|Figy Berry|Adaptability|endure,bubblebeam,nightslash,doublehit|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|corphish|Choice Scarf|Adaptability|raindance,slash,snore,taunt|Serious|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|corphish|Luminous Moss|Shell Armor|raindance,nightslash,guillotine,slash|Relaxed|252,0,4,252,0,0||31,31,31,31,31,0||50|
+|corphish|Choice Scarf|Adaptability|doubleedge,guillotine,raindance,bubblebeam|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|corphish|Lansat Berry|Adaptability|doubleedge,icebeam,nightslash,dig|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|
+|corphish|Metal Coat|Shell Armor|bubblebeam,falseswipe,raindance,hydropump|Calm|76,0,52,44,252,84||31,0,31,31,31,31||50|
+|corphish|Choice Scarf|Adaptability|rockslide,brickbreak,whirlpool,metalclaw|Brave|116,140,0,0,252,0||31,31,31,31,31,0||50|
+|corphish|Choice Scarf|Shell Armor|falseswipe,raindance,whirlpool,icywind|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|corphish|Poison Barb|Adaptability|bubblebeam,nightslash,crunch,xscissor|Jolly|0,0,12,0,244,252||31,31,31,31,31,31||50|
+|corphish|Jaboca Berry|Hyper Cutter|rest,nightslash,doubleedge,hydropump|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|corphish|Charcoal|Adaptability|endure,guillotine,icebeam,knockoff|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|corphish|Charcoal|Shell Armor|doublehit,snore,dig,blizzard|Jolly|4,252,124,0,68,60||31,31,31,31,31,31||50|
+|corphish|Lagging Tail|Shell Armor|guillotine,rest,slash,hydropump|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|corphish|Kelpsy Berry|Hyper Cutter|guillotine,razorshell,doubleedge,payback|Lax|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|corphish|Rindo Berry|Adaptability|rest,icebeam,doubleedge,substitute|Quiet|0,0,0,252,252,4||31,31,31,31,31,0||50|
+|corphish|Charcoal|Adaptability|fling,guillotine,doubleedge,metalclaw|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|corphish|Throat Spray|Hyper Cutter|doubleedge,guillotine,icebeam,blizzard|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|
+|corphish|Custap Berry|Hyper Cutter|rest,guillotine,icebeam,xscissor|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|
+|corphish|Mago Berry|Adaptability|doublehit,doubleedge,guillotine,icebeam|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|
+|corphish|Persim Berry|Adaptability|xscissor,guillotine,icebeam,whirlpool|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|

@@ -1,0 +1,100 @@
+44.04683642198162|scorbunny|Enigma Berry|Libero|reversal,electroball,lowkick,doubleedge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+41.568973263082846|scorbunny|Black Belt|Libero|flamethrower,blazekick,megakick,protect|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+39.87174660582088|scorbunny|Maranga Berry|Blaze|quickattack,overheat,reversal,batonpass|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+39.11950042312165|scorbunny|Silk Scarf|Blaze|firefang,doubleedge,workup,substitute|Gentle|76,76,0,252,52,52||31,31,31,31,31,31||50|
+38.045184480539454|scorbunny|Payapa Berry|Libero|lowkick,headbutt,growl,assurance|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+37.77946833464741|scorbunny|Wiki Berry|Libero|blazekick,headbutt,sunnyday,endure|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+36.650514089079934|scorbunny||Blaze|blazekick,attract,lowsweep,flamecharge|Quiet|12,92,156,196,52,0||31,31,31,31,31,0||50|
+36.27381255401651|scorbunny|Payapa Berry|Blaze|facade,overheat,lowsweep,bounce|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+35.192596266097404|scorbunny|Smooth Rock|Blaze|firefang,flamethrower,doublekick,growl|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+34.39884537195109|scorbunny|Maranga Berry|Blaze|suckerpunch,bounce,mudshot,electroball|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+33.72376723977263|scorbunny|Normal Gem|Blaze|sandattack,sunnyday,bounce,counter|Careful|180,124,0,0,204,0||31,31,31,31,31,31||50|
+32.11489861384584|scorbunny|Oran Berry|Libero|sleeptalk,attract,flamethrower,gunkshot|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+31.183997475073653|scorbunny|Salac Berry|Libero|quickattack,highjumpkick,lowsweep,heatwave|Impish|0,84,252,0,0,172||31,31,31,31,31,31||50|
+30.676383628099483|scorbunny|Red Card|Blaze|firefang,fireblast,rest,overheat|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+28.01438538714098|scorbunny|Protective Pads|Libero|headbutt,highjumpkick,gunkshot,acrobatics|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.003269333891794|scorbunny|Oran Berry|Blaze|blazekick,reversal,acrobatics,highjumpkick|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.89226588476624|scorbunny|Miracle Seed|Blaze|assurance,mudshot,endure,substitute|Lax|188,0,68,252,0,0||31,31,31,31,31,31||50|
+23.602941790873242|scorbunny|Chople Berry|Libero|superfang,workup,sleeptalk,ember|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+22.298442980777818|scorbunny|Flame Orb|Blaze|quickattack,mudshot,doubleedge,sleeptalk|Calm|92,0,108,108,180,20||31,0,31,31,31,31||50|
+19.767947072874485|scorbunny|Light Clay|Blaze|ember,gunkshot,mudshot,electroball|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+34.4194788887084|munna|Pecha Berry|Telepathy|allyswitch,substitute,raindance,shadowball|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+25.72028603033519|munna|Grepa Berry|Forewarn|hypnosis,defensecurl,expandingforce,gyroball|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+24.77343515456062|munna|Wise Glasses|Synchronize|psychic,trick,defensecurl,moonblast|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.325606285899678|munna|Sharp Beak|Synchronize|expandingforce,trick,helpinghand,shadowball|Adamant|188,252,68,0,0,0||31,31,31,31,31,31||50|
+22.847817246682762|munna|Miracle Seed|Telepathy|trickroom,guardswap,expandingforce,psychic|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+22.40789211644436|munna|Qualot Berry|Synchronize|hypnosis,dazzlinggleam,rocktomb,calmmind|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
+21.881240547967206|munna|Focus Sash|Synchronize|imprison,endure,futuresight,psychic|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+21.36327177539709|munna|Grassy Seed|Forewarn|calmmind,dazzlinggleam,curse,moonlight|Bold|0,0,252,0,252,4||31,0,31,31,31,31||50|
+20.100793366699|munna|Normal Gem|Synchronize|dazzlinggleam,round,shadowball,reflect|Serious|4,0,252,0,252,0||31,31,31,31,31,31||50|
+19.822947543852635|munna|Cheri Berry|Forewarn|curse,protect,attract,gyroball|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+19.37436808322946|munna|Safety Goggles|Forewarn|safeguard,rockslide,facade,shadowball|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+16.161385093041062|munna|Pixie Plate|Synchronize|facade,round,futuresight,substitute|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+14.745743312082935|munna|Black Glasses|Telepathy|storedpower,lightscreen,dazzlinggleam,allyswitch|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+14.739140281285449|munna|Chesto Berry|Synchronize|snore,storedpower,rest,moonlight|Bold|252,0,4,0,0,252||31,0,31,31,31,31||50|
+14.600612398516299|munna|Eject Button|Telepathy|dreameater,rest,expandingforce,amnesia|Hasty|0,0,0,228,28,252||31,31,31,31,31,31||50|
+14.362520342381872|munna|Grip Claw|Forewarn|reflect,safeguard,wonderroom,moonlight|Brave|12,148,36,132,180,0||31,31,31,31,31,31||50|
+13.70484298844708|munna|Psychic Seed|Telepathy|swift,healingwish,defensecurl,dreameater|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+12.4622045506355|munna|Red Card|Telepathy|trickroom,facade,dreameater,attract|Timid|20,0,28,236,172,52||31,0,31,31,31,31||50|
+11.882419094574539|munna|Absorb Bulb|Telepathy|substitute,protect,yawn,powerswap|Serious|252,0,4,0,0,252||31,31,31,31,31,31||50|
+11.750936870699132|munna|Roseli Berry|Synchronize|lightscreen,imprison,protect,raindance|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+38.51462053199366|inkay|Heat Rock|Contrary|faketears,protect,slash,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+35.146698097614|inkay|Silver Powder|Contrary|superpower,endure,faketears,fling|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+32.90861834731623|inkay|Petaya Berry|Suction Cups|lashout,payback,batonpass,thunderbolt|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+30.304311162111777|inkay|Destiny Knot|Infiltrator|rockslide,foulplay,superpower,payback|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+30.040910934066872|inkay|Muscle Band|Contrary|thief,round,darkpulse,rockslide|Careful|28,124,132,0,84,140||31,31,31,31,31,31||50|
+29.87375445018096|inkay|Protector|Suction Cups|pluck,switcheroo,destinybond,tackle|Careful|84,140,28,0,220,36||31,31,31,31,31,31||50|
+29.751959224620617|inkay|Payapa Berry|Suction Cups|flamethrower,slash,disable,superpower|Modest|0,0,52,252,204,0||31,0,31,31,31,31||50|
+29.64920636306362|inkay|Jaboca Berry|Infiltrator|flamethrower,raindance,switcheroo,superpower|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.419974388784315|inkay|Mystic Water|Suction Cups|switcheroo,payback,liquidation,expandingforce|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+28.407828800568666|inkay|Micle Berry|Suction Cups|sleeptalk,endure,peck,trickroom|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+27.775165430950754|inkay|Scope Lens|Infiltrator|sleeptalk,superpower,substitute,psychic|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+27.556899863265777|inkay|Red Card|Contrary|nightslash,expandingforce,slash,calmmind|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+26.97096473342753|inkay|Safety Goggles|Infiltrator|swagger,faketears,sunnyday,pluck|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.323185289569835|inkay|Safety Goggles|Infiltrator|protect,taunt,fling,peck|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+24.26408848328519|inkay|Snowball|Contrary|nightslash,hypnosis,expandingforce,attract|Sassy|84,172,0,0,252,0||31,31,31,31,31,0||50|
+22.97226010335924|inkay|Maranga Berry|Contrary|retaliate,psychocut,storedpower,faketears|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+20.1431238818954|inkay|Micle Berry|Suction Cups|rest,disable,reflect,retaliate|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
+18.59536238991391|inkay|Qualot Berry|Suction Cups|payback,lightscreen,round,nightslash|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+18.564626938554653|inkay|Silk Scarf|Contrary|disable,taunt,storedpower,swagger|Serious|252,0,0,252,0,4||31,31,31,31,31,31||50|
+18.314518616056514|inkay|Wise Glasses|Infiltrator|expandingforce,topsyturvy,psychic,lightscreen|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+37.536054484986884|impidimp|Grepa Berry|Prankster|round,revenge,thunderwave,attract|Rash|0,0,36,220,0,252||31,31,31,31,31,31||50|
+36.66572519934413|impidimp||Pickpocket|uproar,round,megapunch,faketears|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+36.65913302350422|impidimp|Focus Band|Pickpocket|faketears,confide,darkpulse,uproar|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+36.12907258278123|impidimp|Kasib Berry|Prankster|metronome,endure,thief,leechlife|Serious|252,252,4,0,0,0||31,31,31,31,31,31||50|
+35.302598437510724|impidimp|Liechi Berry|Frisk|foulplay,sleeptalk,round,fakeout|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+34.92920514361447|impidimp|Bright Powder|Frisk|sleeptalk,trick,bite,facade|Sassy|0,0,252,252,4,0||31,31,31,31,31,0||50|
+32.519329214751515|impidimp|Normal Gem|Prankster|trick,burningjealousy,metronome,fakeout|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.873150344630076|impidimp|Ring Target|Frisk|protect,nastyplot,assurance,attract|Jolly|116,0,0,0,140,252||31,31,31,31,31,31||50|
+31.216131957400176|impidimp|Soft Sand|Frisk|endure,swagger,trick,megakick|Lax|116,0,204,188,0,0||31,31,31,31,31,31||50|
+30.99219293183799|impidimp|Focus Sash|Pickpocket|dazzlinggleam,bite,suckerpunch,endure|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+29.156393479306356|impidimp|Aspear Berry|Pickpocket|snore,nastyplot,taunt,suckerpunch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.737708484715565|impidimp|Flame Orb|Frisk|facade,burningjealousy,endure,suckerpunch|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+28.39818260578172|impidimp|Lax Incense|Prankster|retaliate,endure,foulplay,playrough|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+27.60137010515285|impidimp|Yache Berry|Pickpocket|nastyplot,thief,flatter,revenge|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.506606628764395|impidimp|Qualot Berry|Prankster|rest,round,sleeptalk,torment|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.713201897297395|impidimp|King's Rock|Prankster|fakeout,flatter,suckerpunch,megapunch|Sassy|4,0,0,252,252,0||31,31,31,31,31,31||50|
+26.23978816363001|impidimp|Metal Coat|Pickpocket|nastyplot,megakick,leechlife,flatter|Relaxed|0,252,4,252,0,0||31,31,31,31,31,0||50|
+23.699681484629497|impidimp|Destiny Knot|Prankster|taunt,drainpunch,flatter,facade|Modest|212,0,0,140,156,0||31,0,31,31,31,31||50|
+22.814199162132454|impidimp|Petaya Berry|Prankster|facade,assurance,suckerpunch,confide|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+21.509241280037724|impidimp|Charcoal|Frisk|lashout,assurance,attract,megakick|Bold|252,0,4,0,252,0||31,0,31,31,31,31||50|
+9.986103708597897|gossifleur|Yache Berry|Cotton Down|rest,snore,substitute,helpinghand|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+9.226696829458971|gossifleur|Lagging Tail|Cotton Down|sleeptalk,sweetscent,lightscreen,grassyglide|Serious|0,20,156,12,68,252||31,31,31,31,31,31||50|
+7.913831466788471|gossifleur|Sticky Barb|Effect Spore|sing,sunnyday,bulletseed,gigadrain|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+7.24970136349748|gossifleur|Icy Rock|Effect Spore|sleeptalk,rest,protect,aromatherapy|Relaxed|252,252,0,0,4,0||31,31,31,31,31,0||50|
+6.061973719139655|gossifleur|Coba Berry|Effect Spore|helpinghand,attract,aromatherapy,poisonpowder|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.627517142861606|gossifleur|Razor Claw|Regenerator|pollenpuff,aromatherapy,energyball,synthesis|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+25.37278899467768|gossifleur|Rawst Berry|Cotton Down|leafstorm,facade,grassyglide,gigadrain|Lonely|44,188,0,84,60,132||31,31,31,31,31,31||50|
+25.051146351494328|gossifleur|Pixie Plate|Effect Spore|bulletseed,energyball,leafstorm,aromatherapy|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.103369482078385|gossifleur|Grepa Berry|Effect Spore|leafage,helpinghand,sing,leechseed|Relaxed|212,36,140,36,84,0||31,31,31,31,31,0||50|
+23.197288094034423|gossifleur|Kee Berry|Effect Spore|sunnyday,hypervoice,leafage,magicalleaf|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+22.922301828713|gossifleur|Odd Incense|Cotton Down|sleeptalk,leaftornado,aromatherapy,facade|Bold|0,0,204,52,0,252||31,0,31,31,31,31||50|
+21.595963047092514|gossifleur|Ring Target|Cotton Down|razorleaf,sleeppowder,facade,stunspore|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+18.504859876511027|gossifleur|Sharp Beak|Regenerator|sunnyday,leaftornado,sleeppowder,grassyglide|Impish|236,60,148,0,20,44||31,31,31,31,31,31||50|
+17.17799030518695|gossifleur|Charcoal|Cotton Down|endure,poisonpowder,charm,leaftornado|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+17.078613021231607|gossifleur|Kebia Berry|Regenerator|rapidspin,energyball,solarbeam,leafstorm|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+16.760586674063727|gossifleur|Focus Sash|Cotton Down|snore,worryseed,leaftornado,sing|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+15.82803894796298|gossifleur|Psychic Seed|Cotton Down|helpinghand,bulletseed,sleeptalk,leaftornado|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+15.02502510149407|gossifleur|Shell Bell|Effect Spore|sunnyday,endure,leafstorm,worryseed|Jolly|0,0,212,0,44,252||31,31,31,31,31,31||50|
+13.46194398583259|gossifleur|Miracle Seed|Effect Spore|sing,sweetscent,leafage,rest|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+11.434770298923972|gossifleur|Kelpsy Berry|Cotton Down|solarbeam,lightscreen,sing,snore|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|

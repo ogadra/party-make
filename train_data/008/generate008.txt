@@ -1,0 +1,100 @@
+|nickit|Rindo Berry|Stakeout|foulplay,playrough,quickguard,mudshot|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Ganlon Berry|Stakeout|mudshot,nightslash,assurance,lashout|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Spell Tag|Stakeout|mudshot,substitute,nightslash,playrough|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Ganlon Berry|Stakeout|foulplay,thief,assurance,dig|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Metronome|Stakeout|foulplay,quickguard,tailslap,substitute|Bold|0,0,4,252,252,0||31,31,31,31,31,31||50|
+|nickit|Lax Incense|Stakeout|quickguard,foulplay,assurance,playrough|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Rindo Berry|Stakeout|thief,mudshot,assurance,substitute|Relaxed|212,0,228,0,68,0||31,31,31,31,31,31||50|
+|nickit|Shed Shell|Stakeout|nastyplot,substitute,assurance,quickguard|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Wide Lens|Stakeout|nightslash,foulplay,substitute,quickguard|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|nickit|Icy Rock|Stakeout|assurance,nightslash,tailwhip,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|nickit|Hard Stone|Stakeout|foulplay,assurance,tailwhip,nastyplot|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|nickit|Soft Sand|Stakeout|nastyplot,foulplay,mudshot,substitute|Timid|28,0,220,196,36,28||31,0,31,31,31,31||50|
+|nickit|Rindo Berry|Stakeout|nightslash,mudshot,foulplay,quickguard|Bold|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|nickit|Metal Coat|Unburden|thief,assurance,quickguard,lashout|Hasty|172,244,0,0,92,0||31,31,31,31,31,31||50|
+|nickit|Grip Claw|Stakeout|mudshot,honeclaws,playrough,foulplay|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Ganlon Berry|Stakeout|assurance,foulplay,tailwhip,dig|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Full Incense|Run Away|assurance,playrough,faketears,batonpass|Brave|20,204,100,28,156,0||31,31,31,31,31,31||50|
+|nickit|Lansat Berry|Unburden|mudshot,faketears,playrough,taunt|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|nickit|Lax Incense|Stakeout|foulplay,assurance,mudshot,rest|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nickit|Utility Umbrella|Stakeout|assurance,mudshot,thief,faketears|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|minccino|Terrain Extender|Skill Link|uproar,snore,hypervoice,irontail|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|minccino|Zoom Lens|Technician|fling,gunkshot,raindance,charm|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|minccino|Custap Berry|Skill Link|knockoff,irontail,uproar,faketears|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|minccino|Enigma Berry|Technician|snore,hypervoice,fling,gunkshot|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|minccino|Protector|Technician|knockoff,raindance,uproar,safeguard|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|minccino|Silk Scarf|Technician|gunkshot,knockoff,uproar,encore|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|minccino|Custap Berry|Technician|fling,uturn,gunkshot,uproar|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|minccino|Choice Specs|Technician|fling,echoedvoice,uproar,calmmind|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|minccino|Jaboca Berry|Technician|gunkshot,fling,uturn,attract|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|minccino|Jaboca Berry|Technician|fling,knockoff,gunkshot,tailslap|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|minccino|Custap Berry|Technician|raindance,uproar,irontail,rest|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|minccino|Luminous Moss|Skill Link|raindance,irontail,gunkshot,fling|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|minccino|Utility Umbrella|Technician|raindance,uproar,irontail,fling|Serious|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|minccino|Passho Berry|Cute Charm|hypervoice,uproar,tailwhip,tailslap|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|minccino|Enigma Berry|Skill Link|hypervoice,snore,uproar,tailwhip|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|minccino|Custap Berry|Skill Link|gunkshot,irontail,fling,calmmind|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|minccino|Aspear Berry|Skill Link|uproar,knockoff,hypervoice,gunkshot|Impish|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|minccino|Utility Umbrella|Skill Link|uproar,round,irontail,sing|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|minccino|Assault Vest|Skill Link|playrough,round,uproar,thief|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|minccino|Smooth Rock|Skill Link|fling,irontail,raindance,retaliate|Sassy|252,0,0,252,4,0||31,31,31,31,31,0||50|
+|litten|Utility Umbrella|Blaze|flareblitz,rest,firefang,shadowclaw|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|litten|Assault Vest|Blaze|rest,flareblitz,workup,sunnyday|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|litten|Cheri Berry|Intimidate|protect,rest,bodyslam,bite|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|litten|Apicot Berry|Blaze|heatwave,nastyplot,swagger,workup|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|litten|Assault Vest|Blaze|heatwave,taunt,rest,flareblitz|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|litten|Assault Vest|Blaze|heatwave,bodyslam,rest,taunt|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|litten|Wave Incense|Intimidate|heatwave,nastyplot,flareblitz,firepledge|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|litten|Assault Vest|Blaze|nastyplot,flareblitz,furyswipes,substitute|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|litten|Rose Incense|Blaze|taunt,nastyplot,heatwave,firespin|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|litten|Metal Coat|Blaze|heatwave,nastyplot,rest,thrash|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|litten|Wave Incense|Blaze|thrash,firefang,flareblitz,partingshot|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|litten|Mago Berry|Blaze|flareblitz,thrash,workup,willowisp|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|litten|Choice Scarf|Blaze|flareblitz,workup,fakeout,roar|Careful|124,44,92,0,204,44||31,31,31,31,31,31||50|
+|litten|Hard Stone|Blaze|nastyplot,fakeout,heatwave,shadowclaw|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|litten|Lax Incense|Blaze|flareblitz,workup,thrash,crunch|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|litten|Lax Incense|Blaze|fakeout,rest,thrash,sleeptalk|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|litten|Dragon Scale|Blaze|flareblitz,rest,nastyplot,shadowclaw|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|litten|Hard Stone|Blaze|flareblitz,bodyslam,rest,lick|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|litten|Hard Stone|Blaze|fakeout,flareblitz,rest,attract|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|litten|Hard Stone|Blaze|lick,thrash,heatwave,firepledge|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|kirlia|Absorb Bulb|Trace|hypervoice,thunderbolt,skillswap,protect|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|kirlia|Jaboca Berry|Telepathy|thunderbolt,snore,imprison,expandingforce|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|kirlia|Yache Berry|Trace|thunderbolt,imprison,hypervoice,megakick|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Starf Berry|Telepathy|imprison,hypervoice,thunderbolt,shadowball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Absorb Bulb|Telepathy|hypervoice,helpinghand,imprison,charm|Naive|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|kirlia|Absorb Bulb|Synchronize|helpinghand,imprison,thunderbolt,thief|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Poison Barb|Telepathy|snore,hypervoice,thunderbolt,round|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|kirlia|Eject Pack|Trace|snore,hypervoice,imprison,psybeam|Gentle|0,0,0,4,252,252||31,31,31,31,31,31||50|
+|kirlia|Kelpsy Berry|Telepathy|imprison,thunderbolt,calmmind,futuresight|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|kirlia|Hondew Berry|Telepathy|thunderbolt,round,hypervoice,dreameater|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Yache Berry|Trace|psyshock,hypervoice,imprison,psybeam|Timid|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|kirlia|Petaya Berry|Trace|allyswitch,thunderbolt,megakick,thief|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Psychic Seed|Telepathy|hypervoice,thief,allyswitch,shadowball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Yache Berry|Synchronize|attract,imprison,allyswitch,expandingforce|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Absorb Bulb|Telepathy|helpinghand,thunderbolt,imprison,sunnyday|Naughty|252,36,0,0,0,220||31,31,31,31,31,31||50|
+|kirlia|Yache Berry|Synchronize|hypervoice,thunderbolt,imprison,thunderpunch|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Absorb Bulb|Synchronize|imprison,hypervoice,thunderbolt,fling|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|kirlia|Absorb Bulb|Telepathy|imprison,attract,thunderbolt,round|Impish|0,0,252,0,44,212||31,31,31,31,31,31||50|
+|kirlia|Eject Button|Trace|hypervoice,allyswitch,imprison,thunderbolt|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|kirlia|Absorb Bulb|Trace|round,allyswitch,imprison,reflect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|delibird|Life Orb|Hustle|drillpeck,iciclespear,memento,thief|Careful|92,20,44,0,100,252||31,31,31,31,31,31||50|
+|delibird|Life Orb|Hustle|iciclespear,tripleaxel,swift,snore|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Yache Berry|Hustle|tripleaxel,megapunch,weatherball,brutalswing|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Spell Tag|Vital Spirit|weatherball,tripleaxel,iciclespear,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|delibird|Grassy Seed|Hustle|tripleaxel,drillpeck,snore,auroraveil|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|delibird|Black Belt|Vital Spirit|memento,iciclespear,tripleaxel,avalanche|Careful|92,20,44,0,100,252||31,31,31,31,31,31||50|
+|delibird|Figy Berry|Hustle|iciclespear,tripleaxel,freezedry,aurorabeam|Brave|0,252,140,116,0,0||31,31,31,31,31,0||50|
+|delibird|Wide Lens|Hustle|tripleaxel,memento,iciclespear,auroraveil|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Choice Band|Hustle|drillpeck,memento,quickattack,icebeam|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Electric Seed|Hustle|memento,tripleaxel,drillpeck,freezedry|Naive|220,36,0,0,0,252||31,31,31,31,31,31||50|
+|delibird|Life Orb|Hustle|memento,snore,drillpeck,drillrun|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|delibird|Tanga Berry|Hustle|drillpeck,iciclespear,megapunch,raindance|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Tanga Berry|Vital Spirit|megapunch,iciclespear,agility,destinybond|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|delibird|Apicot Berry|Hustle|memento,megapunch,drillpeck,snore|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Mago Berry|Hustle|weatherball,dualwingbeat,snore,protect|Brave|140,116,196,12,44,0||31,31,31,31,31,0||50|
+|delibird|Tanga Berry|Hustle|drillpeck,dualwingbeat,megapunch,tripleaxel|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Rock Incense|Vital Spirit|dualwingbeat,megapunch,snore,iciclespear|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Tanga Berry|Vital Spirit|quickattack,snore,drillpeck,round|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|delibird|Life Orb|Hustle|drillpeck,memento,tripleaxel,protect|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|delibird|Wave Incense|Hustle|megapunch,drillpeck,snore,helpinghand|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|

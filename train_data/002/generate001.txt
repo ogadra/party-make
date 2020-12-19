@@ -1,0 +1,100 @@
+|skrelp|Rawst Berry|Poison Point|aquatail,haze,substitute,round|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|skrelp|Liechi Berry|Poison Point|dragonpulse,doubleteam,sleeptalk,haze|Serious|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|skrelp|Rawst Berry|Poison Point|thunderbolt,sleeptalk,facade,poisontail|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|skrelp|Misty Seed|Adaptability|dragonpulse,sleeptalk,substitute,shadowball|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|skrelp|Rawst Berry|Adaptability|thunderbolt,flipturn,sludgewave,hydropump|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|skrelp|Rawst Berry|Poison Point|sludgewave,dragonpulse,thunderbolt,surf|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|skrelp|Wide Lens|Poison Touch|snore,substitute,sludgewave,thunderbolt|Serious|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|skrelp|Shed Shell|Poison Point|sleeptalk,dragonpulse,substitute,bounce|Serious|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|skrelp|Hard Stone|Poison Point|thunderbolt,flipturn,substitute,playrough|Serious|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|skrelp|Rawst Berry|Poison Point|sleeptalk,gunkshot,dragonpulse,doubleteam|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|
+|skrelp|White Herb|Poison Touch|tailwhip,dragontail,round,venoshock|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|
+|skrelp|Hard Stone|Poison Point|doubleteam,sludgewave,dragontail,dragonpulse|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|skrelp|Rose Incense|Adaptability|doubleteam,hydropump,dragontail,dragonpulse|Calm|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|skrelp|Shuca Berry|Poison Point|aquatail,dragontail,tailwhip,hail|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|skrelp|Aguav Berry|Poison Point|watergun,scaleshot,dragontail,sleeptalk|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|skrelp|Liechi Berry|Poison Point|dragontail,round,tailwhip,protect|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|skrelp|Liechi Berry|Poison Point|watergun,flipturn,scaleshot,dragonpulse|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|skrelp|Rawst Berry|Poison Point|doubleteam,dragontail,thunderbolt,acid|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|skrelp|Room Service|Poison Touch|dragontail,venoshock,aquatail,shadowball|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|skrelp|Aguav Berry|Poison Point|poisontail,outrage,doubleteam,dragonpulse|Careful|116,0,0,0,252,140||31,31,31,31,31,31||50|
+|nidoranm|Wise Glasses|Hustle|icebeam,furyattack,poisonjab,confusion|Quiet|4,36,124,252,92,0||31,31,31,31,31,0||50|
+|nidoranm|Dragon Fang|Rivalry|leer,drillrun,substitute,thunderbolt|Rash|20,12,28,252,0,196||31,31,31,31,31,31||50|
+|nidoranm|Eject Button|Rivalry|leer,substitute,supersonic,amnesia|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nidoranm|Kelpsy Berry|Hustle|headsmash,dig,substitute,thunder|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nidoranm|Metronome|Hustle|thrash,substitute,round,suckerpunch|Relaxed|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|nidoranm|Eject Button|Hustle|raindance,leer,poisonjab,rest|Careful|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|nidoranm|Lax Incense|Poison Point|leer,thrash,substitute,sleeptalk|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|nidoranm|Kee Berry|Hustle|substitute,takedown,headsmash,peck|Quiet|0,148,0,236,124,0||31,31,31,31,31,0||50|
+|nidoranm|Chesto Berry|Poison Point|horndrill,raindance,icebeam,sludgebomb|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|nidoranm|Dragon Scale|Poison Point|round,drillrun,poisonjab,focusenergy|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|nidoranm|Yache Berry|Poison Point|icebeam,round,blizzard,furyattack|Timid|36,0,0,220,0,252||31,31,31,31,31,31||50|
+|nidoranm|Muscle Band|Poison Point|dig,flatter,sunnyday,blizzard|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|nidoranm|Eject Button|Hustle|blizzard,icebeam,horndrill,drillrun|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nidoranm|Psychic Seed|Hustle|beatup,furyattack,blizzard,snore|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|nidoranm|Petaya Berry|Poison Point|furyattack,blizzard,horndrill,reflect|Timid|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|nidoranm|Icy Rock|Rivalry|icebeam,drillrun,supersonic,substitute|Modest|84,0,52,124,4,244||31,0,31,31,31,31||50|
+|nidoranm|Yache Berry|Poison Point|drillrun,icebeam,raindance,thunder|Timid|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|nidoranm|Air Balloon|Poison Point|round,furyattack,blizzard,headsmash|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nidoranm|Utility Umbrella|Poison Point|leer,drillrun,horndrill,facade|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|nidoranm|Wide Lens|Rivalry|drillrun,blizzard,confusion,reflect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|goldeen|Pecha Berry|Water Veil|acupressure,headbutt,smartstrike,whirlpool|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goldeen|Scope Lens|Lightning Rod|waterfall,soak,headbutt,bounce|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|goldeen|Jaboca Berry|Water Veil|drillrun,headbutt,hydropump,tailwhip|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|goldeen|Room Service|Water Veil|acupressure,scaleshot,megahorn,waterpulse|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goldeen|Luminous Moss|Lightning Rod|waterfall,raindance,megahorn,snore|Adamant|196,252,60,0,0,0||31,31,31,31,31,31||50|
+|goldeen|Pecha Berry|Lightning Rod|waterfall,rest,headbutt,quickattack|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|goldeen|Liechi Berry|Water Veil|bounce,headbutt,megahorn,haze|Hasty|0,140,0,116,252,0||31,31,31,31,31,31||50|
+|goldeen|Air Balloon|Lightning Rod|hydropump,megahorn,headbutt,hornattack|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|goldeen|Choice Band|Lightning Rod|megahorn,waterfall,headbutt,surf|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|goldeen|Red Card|Lightning Rod|headbutt,rest,acupressure,waterpulse|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goldeen|Pecha Berry|Lightning Rod|headbutt,soak,megahorn,peck|Gentle|0,252,0,252,4,0||31,31,31,31,31,31||50|
+|goldeen|Shed Shell|Water Veil|icebeam,muddywater,soak,smartstrike|Serious|0,116,252,140,0,0||31,31,31,31,31,31||50|
+|goldeen|Qualot Berry|Water Veil|rest,scaleshot,headbutt,surf|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goldeen|Maranga Berry|Water Veil|agility,acupressure,soak,muddywater|Quiet|0,0,28,252,228,0||31,31,31,31,31,0||50|
+|goldeen|Liechi Berry|Water Veil|acupressure,icebeam,haze,round|Careful|0,252,0,0,4,252||31,31,31,31,31,31||50|
+|goldeen|Pecha Berry|Water Veil|waterfall,headbutt,megahorn,mudshot|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|goldeen|Pecha Berry|Lightning Rod|bounce,soak,headbutt,rest|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|goldeen|Pecha Berry|Lightning Rod|soak,megahorn,headbutt,whirlpool|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|goldeen|Toxic Orb|Water Veil|acupressure,scaleshot,icebeam,bounce|Serious|252,4,0,0,0,252||31,31,31,31,31,31||50|
+|goldeen|Pecha Berry|Water Veil|scaleshot,acupressure,headbutt,aquatail|Calm|252,0,4,252,0,0||31,0,31,31,31,31||50|
+|cherubi|Rawst Berry|Chlorophyll|grassyglide,grassknot,petalblizzard,helpinghand|Quiet|0,100,156,252,0,0||31,31,31,31,31,0||50|
+|cherubi|Leppa Berry|Chlorophyll|drainingkiss,petalblizzard,rollout,sunnyday|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cherubi|Magnet|Chlorophyll|energyball,drainingkiss,morningsun,sunnyday|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|cherubi|Apicot Berry|Chlorophyll|takedown,morningsun,pollenpuff,defensecurl|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|cherubi|Sitrus Berry|Chlorophyll|petalblizzard,takedown,seedbomb,safeguard|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|cherubi|Mago Berry|Chlorophyll|sweetscent,takedown,morningsun,solarbeam|Gentle|76,0,0,252,180,0||31,31,31,31,31,31||50|
+|cherubi|Aguav Berry|Chlorophyll|solarbeam,grassyglide,energyball,helpinghand|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cherubi|Grip Claw|Chlorophyll|drainingkiss,takedown,pollenpuff,razorleaf|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|cherubi|Rawst Berry|Chlorophyll|drainingkiss,razorleaf,morningsun,swordsdance|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|cherubi|Rawst Berry|Chlorophyll|healpulse,rollout,petalblizzard,tackle|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|cherubi|Absorb Bulb|Chlorophyll|healpulse,attract,takedown,growth|Quiet|0,100,156,252,0,0||31,31,31,31,31,0||50|
+|cherubi|Expert Belt|Chlorophyll|energyball,healpulse,rollout,grassyterrain|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|cherubi|Rawst Berry|Chlorophyll|attract,healpulse,morningsun,grassknot|Impish|0,0,252,0,132,124||31,31,31,31,31,31||50|
+|cherubi|Flame Orb|Chlorophyll|attract,pollenpuff,leafage,dazzlinggleam|Modest|36,0,84,108,52,228||31,31,31,31,31,31||50|
+|cherubi|Shell Bell|Chlorophyll|pollenpuff,attract,grassyglide,substitute|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|cherubi|Rawst Berry|Chlorophyll|attract,energyball,morningsun,dazzlinggleam|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cherubi|Wave Incense|Chlorophyll|tickle,rollout,healpulse,takedown|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|cherubi|Grip Claw|Chlorophyll|safeguard,round,helpinghand,takedown|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|cherubi|Damp Rock|Chlorophyll|attract,energyball,razorleaf,swordsdance|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|cherubi|Liechi Berry|Chlorophyll|attract,healpulse,rollout,takedown|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|baltoy|Roseli Berry|Levitate|grassknot,psychic,imprison,reflect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|baltoy|Metal Coat|Levitate|psyshock,substitute,imprison,ancientpower|Gentle|252,0,0,0,220,36||31,31,31,31,31,31||50|
+|baltoy|Grip Claw|Levitate|earthpower,ancientpower,confusion,lightscreen|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|baltoy|Grip Claw|Levitate|imprison,extrasensory,snore,raindance|Calm|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|baltoy|Coba Berry|Levitate|rocktomb,confusion,extrasensory,psybeam|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|baltoy|Yache Berry|Levitate|shadowball,endure,substitute,rapidspin|Sassy|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|baltoy|Float Stone|Levitate|confusion,substitute,rocktomb,cosmicpower|Calm|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|baltoy|Wave Incense|Levitate|substitute,shadowball,rest,grassknot|Timid|148,0,0,108,0,252||31,0,31,31,31,31||50|
+|baltoy|Dragon Fang|Levitate|rocktomb,eerieimpulse,extrasensory,earthpower|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|baltoy|Dragon Scale|Levitate|safeguard,confusion,extrasensory,rocktomb|Calm|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|baltoy|Coba Berry|Levitate|shadowball,psyshock,scorchingsands,harden|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|baltoy|Kasib Berry|Levitate|rest,earthpower,grassknot,snore|Impish|0,0,252,0,156,100||31,31,31,31,31,31||50|
+|baltoy|White Herb|Levitate|rockslide,substitute,confusion,sunnyday|Calm|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|baltoy|King's Rock|Levitate|grassknot,shadowball,icebeam,substitute|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|baltoy|Coba Berry|Levitate|psyshock,scorchingsands,shadowball,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|baltoy|Roseli Berry|Levitate|round,imprison,psychic,rockslide|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|baltoy|Never-Melt Ice|Levitate|extrasensory,shadowball,grassknot,rockslide|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|baltoy|Focus Band|Levitate|shadowball,rockslide,extrasensory,drillrun|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|baltoy|Poison Barb|Levitate|shadowball,grassknot,rockslide,rocktomb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|baltoy|Binding Band|Levitate|rockslide,ancientpower,grassknot,rapidspin|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|

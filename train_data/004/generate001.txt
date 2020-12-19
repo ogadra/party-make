@@ -1,0 +1,100 @@
+|rockruff|Red Card|Vital Spirit|leer,rockslide,rocktomb,howl|Serious|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Metronome|Own Tempo|rockslide,rocktomb,irondefense,snarl|Serious|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Normal Gem|Own Tempo|rocktomb,swordsdance,rockslide,taunt|Serious|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|rockruff|White Herb|Vital Spirit|irontail,rest,lastresort,endeavor|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|rockruff|Normal Gem|Steadfast|rockslide,rocktomb,leer,firefang|Bold|0,0,252,196,60,0||31,0,31,31,31,31||50|
+|rockruff|Normal Gem|Vital Spirit|rocktomb,endure,leer,protect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|rockruff|Occa Berry|Own Tempo|irondefense,irontail,rocktomb,crunch|Calm|0,0,0,12,252,244||31,0,31,31,31,31||50|
+|rockruff|Normal Gem|Own Tempo|endure,hypervoice,snore,roar|Naive|0,252,20,0,0,236||31,31,31,31,31,31||50|
+|rockruff|Normal Gem|Vital Spirit|tackle,attract,rocktomb,endure|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|rockruff|Spell Tag|Vital Spirit|stompingtantrum,playrough,irontail,scaryface|Serious|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Electric Seed|Own Tempo|hypervoice,stompingtantrum,playrough,endeavor|Hasty|0,44,0,0,212,252||31,31,31,31,31,31||50|
+|rockruff|Cell Battery|Own Tempo|irondefense,stompingtantrum,hypervoice,endeavor|Serious|60,76,252,20,100,0||31,31,31,31,31,31||50|
+|rockruff|Wave Incense|Vital Spirit|earthpower,playrough,roar,tackle|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|rockruff|Twisted Spoon|Keen Eye|stompingtantrum,rocktomb,irontail,bite|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|rockruff|Payapa Berry|Own Tempo|playrough,irontail,hypervoice,leer|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|rockruff|Blunder Policy|Own Tempo|swordsdance,howl,playrough,endeavor|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|rockruff|Haban Berry|Own Tempo|stompingtantrum,taunt,playrough,stoneedge|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|rockruff|Choice Scarf|Keen Eye|stoneedge,rockslide,snore,roar|Hasty|0,44,0,0,212,252||31,31,31,31,31,31||50|
+|rockruff|Normal Gem|Own Tempo|irontail,hypervoice,rockslide,tackle|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|rockruff|King's Rock|Steadfast|playrough,tackle,irontail,thunderfang|Brave|252,28,228,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Eviolite|Technician|nastyplot,flatter,payday,taunt|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Twisted Spoon|Technician|sunnyday,flatter,substitute,gunkshot|Timid|252,0,0,116,140,0||31,0,31,31,31,31||50|
+|meowthalola|Eviolite|Technician|shadowclaw,sunnyday,furyswipes,nastyplot|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|meowthalola|Scope Lens|Technician|swift,nastyplot,sunnyday,hypervoice|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|meowthalola|Qualot Berry|Rattled|sunnyday,swift,nastyplot,scratch|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|meowthalola|Ganlon Berry|Technician|uturn,nastyplot,flatter,sunnyday|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|meowthalola|Pomeg Berry|Technician|payback,hypervoice,sunnyday,icywind|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Luminous Moss|Technician|rest,swift,screech,payday|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Sea Incense|Technician|furyswipes,flatter,nastyplot,gunkshot|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|meowthalola|Sea Incense|Technician|foulplay,assurance,flatter,payback|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|payday,payback,screech,nightslash|Relaxed|68,244,84,76,36,0||31,31,31,31,31,0||50|
+|meowthalola|Roseli Berry|Rattled|partingshot,rest,slash,scratch|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Eviolite|Pickup|swift,sunnyday,payback,feint|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|meowthalola|Choice Band|Rattled|payday,partingshot,hypervoice,workup|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|meowthalola|Lagging Tail|Technician|sunnyday,hypervoice,uturn,icywind|Adamant|196,204,0,0,0,108||31,31,31,31,31,31||50|
+|meowthalola|Cell Battery|Rattled|swift,growl,nightslash,payback|Calm|0,0,0,124,252,132||31,31,31,31,31,31||50|
+|meowthalola|Choice Band|Pickup|foulplay,growl,hypervoice,uturn|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Power Herb|Pickup|payday,growl,uturn,toxic|Gentle|0,0,0,4,252,252||31,31,31,31,31,31||50|
+|meowthalola|White Herb|Pickup|uturn,hypervoice,payback,dig|Adamant|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|meowthalola|Eject Pack|Rattled|uturn,assurance,hypervoice,growl|Adamant|0,252,180,0,76,0||31,31,31,31,31,31||50|
+|drilbur|Charcoal|Sand Rush|earthquake,furyswipes,poisonjab,snore|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Payapa Berry|Mold Breaker|xscissor,scratch,earthquake,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Never-Melt Ice|Mold Breaker|attract,rockslide,swordsdance,sandtomb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|drilbur|Lax Incense|Mold Breaker|attract,earthquake,scratch,fissure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Light Clay|Mold Breaker|attract,earthquake,scratch,scorchingsands|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|drilbur|Payapa Berry|Sand Rush|honeclaws,scratch,brickbreak,earthquake|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|drilbur|White Herb|Mold Breaker|scratch,earthquake,attract,dig|Lax|228,36,244,0,0,0||31,31,31,31,31,31||50|
+|drilbur|Quick Claw|Mold Breaker|attract,earthpower,earthquake,xscissor|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|drilbur|Chople Berry|Mold Breaker|earthquake,sludgebomb,xscissor,swordsdance|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|King's Rock|Mold Breaker|scorchingsands,submission,earthquake,sandstorm|Impish|0,220,252,0,0,36||31,31,31,31,31,31||50|
+|drilbur|Occa Berry|Mold Breaker|sludgebomb,drillrun,earthquake,protect|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|drilbur|Occa Berry|Mold Breaker|earthpower,honeclaws,drillrun,bulldoze|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|drilbur|Kasib Berry|Mold Breaker|swordsdance,rockslide,earthpower,irondefense|Bold|4,0,204,124,132,44||31,31,31,31,31,31||50|
+|drilbur|King's Rock|Sand Rush|irondefense,earthpower,metalsound,poisonjab|Brave|0,172,0,108,228,0||31,31,31,31,31,31||50|
+|drilbur|Micle Berry|Sand Force|furyswipes,drillrun,facade,rapidspin|Brave|0,172,0,108,228,0||31,31,31,31,31,31||50|
+|drilbur|Psychic Seed|Sand Rush|rockslide,drillrun,irondefense,fissure|Brave|0,172,0,108,228,0||31,31,31,31,31,31||50|
+|drilbur|Chesto Berry|Mold Breaker|drillrun,irondefense,scratch,furyswipes|Timid|0,0,68,0,188,252||31,0,31,31,31,31||50|
+|drilbur|Charcoal|Mold Breaker|furyswipes,poisonjab,protect,rest|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|drilbur|Occa Berry|Mold Breaker|irondefense,poisonjab,drillrun,round|Brave|0,172,0,108,228,0||31,31,31,31,31,31||50|
+|drilbur|Occa Berry|Sand Rush|drillrun,earthpower,earthquake,metalsound|Brave|0,172,0,108,228,0||31,31,31,31,31,31||50|
+|croagunk|Cell Battery|Anticipation|sleeptalk,icepunch,encore,bulldoze|Careful|100,0,0,0,252,156||31,31,31,31,31,31||50|
+|croagunk|Razor Claw|Poison Touch|megapunch,bulletpunch,attract,shadowball|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|croagunk|Lum Berry|Poison Touch|attract,icepunch,dynamicpunch,bulldoze|Calm|0,0,204,252,0,52||31,31,31,31,31,31||50|
+|croagunk|Assault Vest|Poison Touch|sleeptalk,gunkshot,icepunch,rockslide|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|croagunk|Muscle Band|Dry Skin|sleeptalk,venoshock,fling,headbutt|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|croagunk|Rawst Berry|Anticipation|megapunch,icepunch,sleeptalk,sludgebomb|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|croagunk|Razor Claw|Poison Touch|sleeptalk,megapunch,attract,icywind|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|croagunk|Coba Berry|Anticipation|sleeptalk,gunkshot,megapunch,darkpulse|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|croagunk|Shed Shell|Dry Skin|bounce,drainpunch,attract,bulletpunch|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|croagunk|Razor Claw|Poison Touch|belch,sunnyday,megakick,sludgebomb|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|croagunk|Assault Vest|Anticipation|sleeptalk,sunnyday,gunkshot,vacuumwave|Calm|0,0,204,252,0,52||31,31,31,31,31,31||50|
+|croagunk|Assault Vest|Anticipation|sunnyday,sleeptalk,bounce,workup|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|croagunk|Razor Claw|Anticipation|megapunch,sunnyday,sleeptalk,darkpulse|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|croagunk|Cell Battery|Anticipation|bounce,shadowball,sleeptalk,drainpunch|Rash|0,252,0,156,0,100||31,31,31,31,31,31||50|
+|croagunk|Wacan Berry|Anticipation|gunkshot,sleeptalk,screech,venomdrench|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|croagunk|Leftovers|Dry Skin|dynamicpunch,suckerpunch,gunkshot,revenge|Serious|252,204,52,0,0,0||31,31,31,31,31,31||50|
+|croagunk|Assault Vest|Dry Skin|thunderpunch,sleeptalk,sunnyday,fling|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|croagunk|Grip Claw|Poison Touch|suckerpunch,poisonjab,sleeptalk,fling|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|croagunk|Binding Band|Poison Touch|crosschop,gunkshot,megakick,raindance|Careful|52,132,228,0,60,36||31,31,31,31,31,31||50|
+|croagunk|Assault Vest|Poison Touch|sunnyday,sleeptalk,shadowball,fling|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Odd Incense|Rough Skin|raindance,aquajet,takedown,screech|Adamant|0,252,212,0,44,0||31,31,31,31,31,31||50|
+|carvanha|Jaboca Berry|Speed Boost|screech,whirlpool,scald,raindance|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|carvanha|Choice Specs|Rough Skin|scald,thrash,agility,psychicfangs|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Cheri Berry|Speed Boost|raindance,takedown,sleeptalk,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Cheri Berry|Speed Boost|thrash,psychicfangs,snarl,brine|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|carvanha|Cheri Berry|Speed Boost|uproar,agility,retaliate,rest|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|carvanha|Cheri Berry|Rough Skin|ancientpower,scald,icebeam,assurance|Gentle|36,52,0,4,252,164||31,31,31,31,31,31||50|
+|carvanha|Safety Goggles|Speed Boost|round,whirlpool,focusenergy,snarl|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|carvanha|Cheri Berry|Rough Skin|thrash,scald,scaleshot,protect|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|carvanha|Cheri Berry|Speed Boost|icebeam,raindance,scald,attract|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Chople Berry|Rough Skin|scaleshot,payback,thief,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Cheri Berry|Rough Skin|whirlpool,crunch,sleeptalk,protect|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Normal Gem|Rough Skin|sleeptalk,crunch,takedown,brine|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|carvanha|Normal Gem|Speed Boost|whirlpool,raindance,sleeptalk,scald|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|carvanha|Qualot Berry|Rough Skin|payback,scaleshot,waterfall,taunt|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|carvanha|Apicot Berry|Speed Boost|takedown,scald,crunch,liquidation|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Occa Berry|Rough Skin|scald,sleeptalk,icefang,scaryface|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|carvanha|Wise Glasses|Rough Skin|hydropump,blizzard,takedown,snore|Timid|0,0,0,148,108,252||31,0,31,31,31,31||50|
+|carvanha|Leppa Berry|Rough Skin|thief,aquajet,protect,screech|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|carvanha|Razor Claw|Rough Skin|sleeptalk,scald,crunch,snore|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|

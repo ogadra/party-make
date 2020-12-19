@@ -1,0 +1,100 @@
+30.29382269166691|nickit|Coba Berry|Run Away|rest,mudshot,foulplay,nightslash|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+30.04184298348437|nickit|Payapa Berry|Stakeout|suckerpunch,round,tailwhip,taunt|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+29.971328267085077|nickit|Snowball|Run Away|foulplay,tailwhip,nightslash,snore|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+27.52265100832038|nickit|Aspear Berry|Unburden|tailwhip,nightslash,snore,agility|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+27.074667219599796|nickit|Heat Rock|Unburden|foulplay,facade,assurance,honeclaws|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+26.784511922664716|nickit|Snowball|Unburden|facade,foulplay,tailwhip,attract|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+25.267951078952922|nickit|Power Herb|Unburden|tailwhip,snore,nightslash,protect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.84008386969889|nickit|Pixie Plate|Unburden|lashout,snore,snarl,playrough|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+24.72940885556676|nickit|Light Clay|Stakeout|nightslash,suckerpunch,beatup,snore|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+24.43419046331148|nickit|Iron Ball|Run Away|nightslash,foulplay,rest,round|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+22.62371993561016|nickit|Starf Berry|Stakeout|tailwhip,assurance,nightslash,facade|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+22.145058586863794|nickit|Leppa Berry|Unburden|snore,assurance,foulplay,nightslash|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+21.05477892869747|nickit|Occa Berry|Stakeout|rest,facade,tailwhip,playrough|Lax|0,252,252,4,0,0||31,31,31,31,31,31||50|
+20.51185749436069|nickit|Leppa Berry|Stakeout|assurance,tailwhip,snore,protect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+20.487018469407435|nickit|Leppa Berry|Stakeout|snore,nightslash,rest,sleeptalk|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+17.97720133843405|nickit|Wave Incense|Run Away|tailwhip,rest,knockoff,quickguard|Serious|0,4,252,0,0,252||31,31,31,31,31,31||50|
+17.89256824536183|nickit|Occa Berry|Run Away|assurance,snore,rest,lashout|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+17.549792202628705|nickit|Wave Incense|Stakeout|assurance,snore,tailwhip,attract|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+14.925310975785527|nickit|Rawst Berry|Run Away|suckerpunch,nightslash,snore,swift|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+13.957506832097833|nickit|Cheri Berry|Run Away|snore,rest,round,tailslap|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+38.0926786255266|minccino|Custap Berry|Technician|thunderwave,uproar,hypervoice,seedbomb|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+34.199394165939204|minccino|Choice Scarf|Technician|retaliate,safeguard,afteryou,faketears|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+33.53622783698388|minccino|Grepa Berry|Cute Charm|playrough,rest,grassknot,hypervoice|Modest|252,0,52,36,164,4||31,0,31,31,31,31||50|
+32.84892786498076|minccino|Cheri Berry|Cute Charm|uproar,pound,thunderbolt,raindance|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+31.12946050946563|minccino|Quick Claw|Cute Charm|babydolleyes,uproar,pound,sing|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+29.498847734628434|minccino|Bright Powder|Skill Link|sunnyday,hypervoice,thunderbolt,round|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+29.491944584036695|minccino|Bright Powder|Cute Charm|facade,babydolleyes,uproar,calmmind|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+29.36174771526078|minccino|Haban Berry|Technician|playrough,hypervoice,charm,uproar|Lonely|220,0,0,36,252,0||31,31,31,31,31,31||50|
+28.20209776908325|minccino|Mago Berry|Skill Link|charm,playrough,facade,flail|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+26.79298858597357|minccino|Silver Powder|Technician|retaliate,babydolleyes,pound,thunderbolt|Careful|252,0,0,0,4,252||31,31,31,31,31,31||50|
+24.763192779477418|minccino|Destiny Knot|Technician|pound,safeguard,uproar,thunderbolt|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.68845227696861|minccino|Bright Powder|Cute Charm|thunderbolt,thunderwave,pound,sleeptalk|Lonely|220,196,0,0,0,92||31,31,31,31,31,31||50|
+23.421545478433885|minccino|Bright Powder|Technician|round,thunderwave,safeguard,uturn|Lonely|220,196,0,0,0,92||31,31,31,31,31,31||50|
+22.163385800552874|minccino|Roseli Berry|Technician|uproar,playrough,rest,safeguard|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.450900902047326|minccino|Wave Incense|Technician|workup,playrough,grassknot,uturn|Timid|12,0,116,36,124,220||31,0,31,31,31,31||50|
+20.684743064085755|minccino|Bright Powder|Cute Charm|thunderwave,pound,babydolleyes,workup|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+20.151188672125688|minccino|Focus Sash|Cute Charm|uproar,thunderbolt,rest,knockoff|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+19.34064224521012|minccino|Grepa Berry|Technician|substitute,facade,retaliate,tripleaxel|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+17.033254418676698|minccino|Grepa Berry|Skill Link|round,safeguard,uproar,workup|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+13.30872089699664|minccino|Mago Berry|Skill Link|rest,playrough,charm,raindance|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+41.064032103298004|litten|Silk Scarf|Intimidate|bodyslam,payday,flamethrower,uturn|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+37.71325358344615|litten|White Herb|Intimidate|payday,flareblitz,protect,furyswipes|Timid|252,0,0,0,76,180||31,31,31,31,31,31||50|
+35.95551227926367|litten|Charcoal|Blaze|attract,flamethrower,protect,substitute|Calm|132,0,124,0,252,0||31,31,31,31,31,31||50|
+35.85550206278618|litten|Lax Incense|Blaze|firepledge,flareblitz,furyswipes,payday|Timid|252,0,0,0,76,180||31,31,31,31,31,31||50|
+35.70708271615122|litten|Red Card|Intimidate|protect,payday,flamethrower,taunt|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+34.43357518950821|litten|Muscle Band|Intimidate|protect,flareblitz,bodyslam,fakeout|Careful|0,0,196,0,252,60||31,31,31,31,31,31||50|
+33.342408939673525|litten|Muscle Band|Intimidate|firepledge,protect,fakeout,flamethrower|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+32.461409736124274|litten|Muscle Band|Intimidate|furyswipes,payday,nastyplot,fireblast|Careful|0,0,196,0,252,60||31,31,31,31,31,31||50|
+31.455244953504153|litten|Charcoal|Blaze|protect,flamethrower,attract,revenge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.063777234000078|litten|Big Root|Intimidate|revenge,attract,flamethrower,flareblitz|Timid|252,0,0,0,76,180||31,31,31,31,31,31||50|
+30.517976755503724|litten|Charcoal|Intimidate|flareblitz,bodyslam,willowisp,snore|Careful|0,0,196,0,252,60||31,31,31,31,31,31||50|
+29.713242407421305|litten|Quick Claw|Intimidate|willowisp,protect,revenge,thrash|Jolly|68,0,0,0,188,252||31,31,31,31,31,31||50|
+29.611560719255394|litten|Petaya Berry|Intimidate|protect,fakeout,payday,flareblitz|Careful|0,0,196,0,252,60||31,31,31,31,31,31||50|
+28.58468545949588|litten|Weakness Policy|Intimidate|flareblitz,payday,flamethrower,crunch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.523188341724886|litten|Weakness Policy|Intimidate|revenge,attract,nastyplot,round|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+25.23004417419842|litten|Muscle Band|Blaze|payday,furyswipes,flareblitz,outrage|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+22.24934399480435|litten|White Herb|Blaze|attract,ember,protect,flamethrower|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+18.99360595463099|litten|Salac Berry|Intimidate|payday,furyswipes,bodyslam,rest|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+12.218561656572138|litten|White Herb|Blaze|payday,protect,furyswipes,growl|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+8.246274529981905|litten|Salac Berry|Intimidate|protect,attract,willowisp,nastyplot|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+34.084583421590374|kirlia|Eviolite|Synchronize|psyshock,growl,teleport,megakick|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.05437222675399|kirlia|Wacan Berry|Trace|growl,psyshock,taunt,thunderwave|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.67288063711243|kirlia|Sharp Beak|Telepathy|helpinghand,hypervoice,substitute,doubleteam|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+27.69198164855766|kirlia|Metronome|Telepathy|helpinghand,hypervoice,skillswap,trickroom|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+27.663188802097174|kirlia|Wacan Berry|Telepathy|helpinghand,charm,hypervoice,substitute|Serious|252,4,252,0,0,0||31,31,31,31,31,31||50|
+26.63755335963609|kirlia|Black Glasses|Trace|helpinghand,psyshock,hypervoice,thunderpunch|Quiet|252,188,68,0,0,0||31,31,31,31,31,0||50|
+26.091402106691795|kirlia|Choice Scarf|Telepathy|psyshock,substitute,firepunch,magicroom|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+25.386435590697698|kirlia|Full Incense|Trace|teleport,psyshock,megapunch,magicroom|Serious|252,4,252,0,0,0||31,31,31,31,31,31||50|
+24.10980788441778|kirlia|Jaboca Berry|Synchronize|charm,teleport,psyshock,grassknot|Serious|252,4,252,0,0,0||31,31,31,31,31,31||50|
+23.764442440450203|kirlia|Luminous Moss|Synchronize|helpinghand,psyshock,hypervoice,imprison|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.75134131573272|kirlia|Wacan Berry|Synchronize|teleport,hypervoice,psyshock,hypnosis|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+23.48524051708682|kirlia|Jaboca Berry|Trace|swift,growl,megapunch,skillswap|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+23.184004350505152|kirlia|Snowball|Trace|megapunch,charm,teleport,bodyslam|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.15458177319254|kirlia|Haban Berry|Trace|psyshock,icepunch,confusion,sunnyday|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.006781191249097|kirlia|Mago Berry|Synchronize|charm,megapunch,confusion,thunderwave|Serious|252,4,252,0,0,0||31,31,31,31,31,31||50|
+20.5757806737451|kirlia|Choice Specs|Trace|confusion,megapunch,charm,psyshock|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.10956556148868|kirlia|Pecha Berry|Trace|helpinghand,confusion,skillswap,willowisp|Serious|252,4,252,0,0,0||31,31,31,31,31,31||50|
+16.64576397424389|kirlia|Absorb Bulb|Telepathy|megapunch,helpinghand,hypervoice,fling|Serious|252,4,252,0,0,0||31,31,31,31,31,31||50|
+13.11977459660697|kirlia|Wacan Berry|Telepathy|helpinghand,firepunch,hypervoice,skillswap|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+7.843352159478044|kirlia|Muscle Band|Telepathy|growl,taunt,charm,teleport|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.412295384398647|delibird||Hustle|agility,substitute,iciclespear,thief|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+28.33050073488334|delibird|Rose Incense|Hustle|snore,drillpeck,weatherball,blizzard|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+26.831195742024295|delibird|Odd Incense|Hustle|agility,iciclespear,freezedry,drillpeck|Bold|252,0,252,0,0,4||31,31,31,31,31,31||50|
+26.71772281851382|delibird|Custap Berry|Hustle|agility,snore,drillpeck,assurance|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+26.39768075736004|delibird|Rose Incense|Hustle|drillpeck,endure,aurorabeam,agility|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+26.111134051052247|delibird|Normal Gem|Hustle|iciclespear,seedbomb,dualwingbeat,megapunch|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.0031567334183|delibird|Iapapa Berry|Hustle|iciclespear,drillpeck,sleeptalk,rest|Lax|44,84,252,28,0,100||31,31,31,31,31,31||50|
+25.738994459541864|delibird|Expert Belt|Hustle|substitute,weatherball,drillpeck,sleeptalk|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+25.397267246492817|delibird|Protector|Hustle|iciclespear,drillpeck,dualwingbeat,raindance|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.530759414387425|delibird|Assault Vest|Hustle|tripleaxel,agility,sleeptalk,substitute|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+24.34480519846781|delibird|Choice Band|Hustle|tripleaxel,freezedry,drillpeck,memento|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.61965818523376|delibird|Yache Berry|Hustle|drillpeck,aurorabeam,substitute,destinybond|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+23.565760217219125|delibird|Jaboca Berry|Hustle|agility,substitute,tripleaxel,seedbomb|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+23.468656810666733|delibird||Hustle|iciclespear,dualwingbeat,agility,helpinghand|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+23.444052990541696|delibird|Yache Berry|Hustle|substitute,dualwingbeat,aurorabeam,icepunch|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+23.18069329485497|delibird|Chople Berry|Vital Spirit|weatherball,freezedry,snore,seedbomb|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+23.081056782701335|delibird|Assault Vest|Hustle|freezedry,substitute,agility,attract|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+21.78952687297727|delibird|Assault Vest|Hustle|snore,aurorabeam,blizzard,endure|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+21.08810106706935|delibird|Yache Berry|Hustle|aurorabeam,dualwingbeat,weatherball,drillpeck|Serious|0,0,12,244,252,0||31,31,31,31,31,31||50|
+13.296060684864788|delibird|Assault Vest|Hustle|substitute,freezedry,aurorabeam,drillpeck|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|

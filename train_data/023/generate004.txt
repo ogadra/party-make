@@ -1,0 +1,100 @@
+|woobat|Eviolite|Klutz|psyshock,speedswap,gust,allyswitch|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|woobat|Eviolite|Simple|airslash,gigadrain,simplebeam,calmmind|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|woobat|Hondew Berry|Simple|airslash,endeavor,gigadrain,skillswap|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|woobat|Eviolite|Simple|gust,gigadrain,endeavor,zenheadbutt|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|woobat|Poison Barb|Simple|gigadrain,speedswap,airslash,energyball|Calm|0,0,84,0,252,172||31,0,31,31,31,31||50|
+|woobat|Eviolite|Klutz|gigadrain,airslash,endeavor,thunderwave|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|woobat|Roseli Berry|Simple|airslash,endeavor,speedswap,steelwing|Calm|252,0,4,252,0,0||31,0,31,31,31,31||50|
+|woobat|Eviolite|Simple|gigadrain,nastyplot,endeavor,heatwave|Timid|100,0,212,0,0,196||31,0,31,31,31,31||50|
+|woobat|Charcoal|Simple|protect,thunderwave,airslash,psychocut|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|woobat|Miracle Seed|Simple|airslash,psyshock,facade,speedswap|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|woobat|Eviolite|Simple|protect,gyroball,psyshock,swift|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|woobat|Assault Vest|Klutz|gigadrain,nastyplot,safeguard,dualwingbeat|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|woobat|Eviolite|Unaware|safeguard,airslash,gust,psychoshift|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|woobat|Eviolite|Klutz|airslash,nastyplot,safeguard,protect|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|woobat|Icy Rock|Simple|psyshock,gust,simplebeam,airslash|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|woobat|Destiny Knot|Simple|airslash,taunt,psyshock,imprison|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|woobat|Icy Rock|Simple|psyshock,gust,protect,facade|Jolly|116,44,28,0,68,252||31,31,31,31,31,31||50|
+|woobat|Starf Berry|Simple|gigadrain,airslash,protect,trickroom|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|woobat|Kelpsy Berry|Simple|endure,gust,protect,nastyplot|Brave|0,212,44,0,252,0||31,31,31,31,31,31||50|
+|woobat|Eviolite|Unaware|gust,protect,airslash,endeavor|Relaxed|0,0,220,252,36,0||31,31,31,31,31,0||50|
+|vulpixalola|Terrain Extender|Snow Cloak|darkpulse,icebeam,dig,sleeptalk|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|vulpixalola|Rowap Berry|Snow Cloak|swift,babydolleyes,hail,darkpulse|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|vulpixalola|Full Incense|Snow Warning|darkpulse,confuseray,icebeam,drainingkiss|Serious|60,0,252,196,0,0||31,31,31,31,31,31||50|
+|vulpixalola|Dragon Fang|Snow Cloak|darkpulse,swift,icebeam,weatherball|Relaxed|0,252,4,252,0,0||31,31,31,31,31,0||50|
+|vulpixalola|Power Herb|Snow Cloak|raindance,imprison,swift,confuseray|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|vulpixalola|Sitrus Berry|Snow Cloak|icebeam,confuseray,darkpulse,powerswap|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|vulpixalola|Tanga Berry|Snow Cloak|darkpulse,babydolleyes,icebeam,hail|Serious|60,0,252,196,0,0||31,31,31,31,31,31||50|
+|vulpixalola|Passho Berry|Snow Cloak|hail,swift,icebeam,reflect|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|vulpixalola|Binding Band|Snow Cloak|icebeam,confuseray,swift,babydolleyes|Serious|60,0,252,196,0,0||31,31,31,31,31,31||50|
+|vulpixalola|Chople Berry|Snow Cloak|darkpulse,icebeam,auroraveil,toxic|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|vulpixalola|Tamato Berry|Snow Cloak|icebeam,hypnosis,confuseray,attract|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|vulpixalola|Power Herb|Snow Cloak|confuseray,icebeam,powerswap,spite|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|vulpixalola|Zoom Lens|Snow Cloak|confuseray,icebeam,babydolleyes,reflect|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|vulpixalola|Petaya Berry|Snow Cloak|hail,hypnosis,icebeam,blizzard|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|vulpixalola|Ganlon Berry|Snow Cloak|babydolleyes,confuseray,hypnosis,tailslap|Calm|244,0,52,0,212,0||31,0,31,31,31,31||50|
+|vulpixalola|Black Sludge|Snow Cloak|iceshard,confuseray,icebeam,auroraveil|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|vulpixalola|Power Herb|Snow Cloak|icebeam,darkpulse,hypnosis,powerswap|Modest|100,0,0,252,156,0||31,0,31,31,31,31||50|
+|vulpixalola|Qualot Berry|Snow Cloak|babydolleyes,hypnosis,icebeam,raindance|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|vulpixalola|Ganlon Berry|Snow Cloak|hypnosis,icebeam,babydolleyes,iceshard|Lax|132,60,252,52,0,12||31,31,31,31,31,31||50|
+|vulpixalola|Petaya Berry|Snow Cloak|babydolleyes,confuseray,hypnosis,irontail|Quiet|92,4,28,244,140,0||31,31,31,31,31,31||50|
+|stunky|Mystic Water|Keen Eye|throatchop,nastyplot,corrosivegas,tailslap|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|stunky|Rocky Helmet|Keen Eye|flamethrower,throatchop,nastyplot,leer|Relaxed|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|stunky|Blunder Policy|Keen Eye|throatchop,nastyplot,sunnyday,acidspray|Gentle|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|throatchop,venoshock,belch,darkpulse|Sassy|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|stunky|Misty Seed|Keen Eye|flamethrower,nastyplot,venoshock,thief|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|stunky|Sitrus Berry|Keen Eye|venoshock,sunnyday,belch,corrosivegas|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|stunky|Iapapa Berry|Aftermath|venoshock,belch,sunnyday,scratch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|nastyplot,belch,sunnyday,attract|Sassy|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|sunnyday,throatchop,bite,focusenergy|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|stunky|Iapapa Berry|Aftermath|fireblast,corrosivegas,focusenergy,swift|Serious|204,252,0,0,0,52||31,31,31,31,31,31||50|
+|stunky|Black Glasses|Keen Eye|scaryface,explosion,fireblast,payback|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|stunky|Payapa Berry|Keen Eye|scratch,explosion,hex,dig|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|belch,hex,throatchop,doubleedge|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|stunky|Safety Goggles|Keen Eye|throatchop,scratch,hex,astonish|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|hex,explosion,scratch,venomdrench|Relaxed|0,68,252,0,188,0||31,31,31,31,31,31||50|
+|stunky|Iapapa Berry|Keen Eye|venoshock,throatchop,hex,haze|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|venoshock,hex,explosion,scratch|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|throatchop,belch,payback,assurance|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|stunky|Ganlon Berry|Stench|scratch,smog,throatchop,darkpulse|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|stunky|Lansat Berry|Keen Eye|scaryface,explosion,snore,playrough|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|salandit|Leppa Berry|Oblivious|fling,fireblast,smog,sludgebomb|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|salandit|Cell Battery|Oblivious|sandattack,flamethrower,scaleshot,rest|Brave|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|salandit|Leppa Berry|Oblivious|nastyplot,sludgewave,rest,round|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|salandit|Black Sludge|Oblivious|sandattack,fireblast,fling,poisonjab|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|salandit|Payapa Berry|Oblivious|sludgewave,poisonfang,sandattack,thunderwave|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+|salandit|Leppa Berry|Oblivious|fling,smog,sludgewave,heatwave|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|salandit|Leppa Berry|Corrosion|fling,dragonpulse,scaleshot,sludgewave|Gentle|0,28,0,228,252,0||31,31,31,31,31,31||50|
+|salandit|Leppa Berry|Corrosion|smog,scaleshot,dragonpulse,venomdrench|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|salandit|Leppa Berry|Oblivious|endeavor,fireblast,sludgewave,smog|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|salandit|Metal Coat|Oblivious|fireblast,scaleshot,sludgewave,poisongas|Brave|0,252,252,0,0,4||31,31,31,31,31,0||50|
+|salandit|Chilan Berry|Oblivious|sludgewave,thunderwave,overheat,snore|Impish|0,12,252,0,0,244||31,31,31,31,31,31||50|
+|salandit|Snowball|Oblivious|overheat,scaleshot,flamethrower,gunkshot|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|salandit|Rindo Berry|Corrosion|overheat,sandattack,scaleshot,round|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|salandit|Toxic Orb|Corrosion|flamethrower,sludgewave,scaleshot,dragonpulse|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|salandit|Damp Rock|Corrosion|overheat,fireblast,scaleshot,venomdrench|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|salandit|Focus Sash|Oblivious|overheat,nastyplot,flamethrower,poisonjab|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|salandit|Muscle Band|Corrosion|scaleshot,overheat,nastyplot,endure|Calm|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|salandit|Enigma Berry|Corrosion|sandattack,nastyplot,thunderwave,dragonclaw|Relaxed|252,0,0,4,252,0||31,31,31,31,31,31||50|
+|salandit|Flame Orb|Oblivious|flamethrower,overheat,nastyplot,venomdrench|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|salandit|Flame Orb|Corrosion|smog,flamethrower,sludgewave,poisongas|Bold|52,0,252,204,0,0||31,0,31,31,31,31||50|
+|cubchoo|Smooth Rock|Rattled|avalanche,thrash,dig,hail|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|cubchoo|Misty Seed|Rattled|dig,yawn,avalanche,thrash|Modest|0,0,236,252,0,20||31,0,31,31,31,31||50|
+|cubchoo|Lum Berry|Rattled|icywind,avalanche,yawn,dig|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Eject Pack|Rattled|yawn,thrash,avalanche,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Apicot Berry|Rattled|thrash,yawn,avalanche,icywind|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|cubchoo|Lum Berry|Rattled|thrash,avalanche,attract,substitute|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|cubchoo|Rocky Helmet|Slush Rush|dig,icywind,avalanche,fling|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Absorb Bulb|Rattled|avalanche,nightslash,yawn,icepunch|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Lum Berry|Snow Cloak|thrash,avalanche,brine,facade|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Lum Berry|Rattled|dig,thrash,brine,growl|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Apicot Berry|Snow Cloak|protect,yawn,avalanche,endure|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|cubchoo|Wacan Berry|Slush Rush|protect,icebeam,round,lowkick|Jolly|92,0,0,0,252,164||31,31,31,31,31,31||50|
+|cubchoo|Wacan Berry|Slush Rush|playnice,avalanche,protect,icywind|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Big Root|Snow Cloak|avalanche,protect,brine,charm|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|cubchoo|Shell Bell|Snow Cloak|icywind,protect,playnice,furyswipes|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cubchoo|Cell Battery|Slush Rush|yawn,thrash,dig,brine|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Wacan Berry|Snow Cloak|playnice,protect,avalanche,blizzard|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Wacan Berry|Slush Rush|brine,thrash,protect,round|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|cubchoo|Leftovers|Snow Cloak|avalanche,dig,brine,facade|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cubchoo|Shuca Berry|Snow Cloak|snore,avalanche,yawn,grassknot|Rash|0,0,244,164,0,100||31,31,31,31,31,31||50|

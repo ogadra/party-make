@@ -53,7 +53,6 @@ def evalBattle(path, matchCount=18):
 
     p = Pool(core)
     p.map(wrapper, que)
-
     # print((time()-s)/(matchCount * cnt // 2))
     # print(time()-s)
 
@@ -76,4 +75,3 @@ def evalBattle(path, matchCount=18):
     dataSet = ['|'.join(i) for i in dataSet]
 
     return dataSet
-    

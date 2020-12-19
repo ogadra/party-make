@@ -1,0 +1,100 @@
+35.83336549790688|skorupi|Choice Scarf|Sniper|acupressure,crunch,sunnyday,shadowball|Mild|164,228,0,116,0,0||31,31,31,31,31,31||50|
+31.907546885938597|skorupi|Eject Pack|Sniper|knockoff,shadowball,crosspoison,facade|Mild|164,228,0,116,0,0||31,31,31,31,31,31||50|
+31.172723749492878|skorupi|Choice Scarf|Sniper|crunch,shadowball,pinmissile,sludgebomb|Mild|164,228,0,116,0,0||31,31,31,31,31,31||50|
+29.350087424698607|skorupi|Quick Claw|Battle Armor|shadowball,crosspoison,attract,round|Mild|164,228,0,116,0,0||31,31,31,31,31,31||50|
+29.264380592081277|skorupi|Kasib Berry|Sniper|crunch,pinmissile,knockoff,bugbuzz|Bold|148,0,0,0,188,172||31,31,31,31,31,31||50|
+28.802222986776833|skorupi|Charti Berry|Battle Armor|knockoff,crunch,shadowball,sleeptalk|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+28.462739600570515|skorupi|Starf Berry|Sniper|knockoff,shadowball,poisonjab,sleeptalk|Serious|252,0,164,0,0,92||31,31,31,31,31,31||50|
+28.12328541896324|skorupi|Charti Berry|Battle Armor|brickbreak,knockoff,bugbuzz,facade|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+27.56239384998068|skorupi|Rose Incense|Sniper|agility,knockoff,slash,irontail|Mild|164,228,0,116,0,0||31,31,31,31,31,31||50|
+27.263936739106214|skorupi|Wiki Berry|Sniper|payback,crunch,poisonjab,whirlwind|Serious|0,0,0,4,252,252||31,31,31,31,31,31||50|
+26.763726255530084|skorupi|Dragon Fang|Battle Armor|acupressure,crunch,xscissor,substitute|Quiet|0,140,116,252,0,0||31,31,31,31,31,31||50|
+26.175042780465162|skorupi|Terrain Extender|Battle Armor|brickbreak,knockoff,crosspoison,shadowball|Mild|164,228,0,116,0,0||31,31,31,31,31,31||50|
+25.822460570954718|skorupi|Pecha Berry|Sniper|knockoff,round,shadowball,raindance|Bold|252,0,44,36,12,164||31,31,31,31,31,31||50|
+25.404250696154183|skorupi|Sticky Barb|Battle Armor|crunch,brickbreak,knockoff,scaryface|Serious|0,4,0,252,0,252||31,31,31,31,31,31||50|
+24.597296664530617|skorupi|Haban Berry|Battle Armor|crunch,knockoff,brickbreak,taunt|Timid|148,0,172,0,0,188||31,0,31,31,31,31||50|
+24.230499666135792|skorupi|Light Clay|Battle Armor|brickbreak,confuseray,knockoff,darkpulse|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.89682288424012|skorupi|Ring Target|Keen Eye|attract,confuseray,crosspoison,endure|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+23.324037643081766|skorupi|Light Clay|Keen Eye|brickbreak,substitute,attract,crosspoison|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+23.0541812909523|skorupi|Red Card|Keen Eye|poisonjab,xscissor,attract,toxicspikes|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+21.624909131160376|skorupi|Spell Tag|Battle Armor|knockoff,agility,attract,rocktomb|Calm|44,0,92,12,132,228||31,0,31,31,31,31||50|
+29.12108111023555|shedinja|Focus Sash|Wonder Guard|furyswipes,poltergeist,phantomforce,skittersmack|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+28.684532566181286|shedinja|Focus Sash|Wonder Guard|metalclaw,xscissor,dig,shadowball|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+26.781178874943077|shedinja|Focus Sash|Wonder Guard|furyswipes,poltergeist,scratch,agility|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+25.867404959922144|shedinja|Haban Berry|Wonder Guard|poltergeist,substitute,xscissor,shadowclaw|Relaxed|0,140,116,252,0,0||31,31,31,31,31,0||50|
+25.59960933959014|shedinja|Wiki Berry|Wonder Guard|phantomforce,shadowsneak,xscissor,protect|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+25.4229134583494|shedinja|Focus Sash|Wonder Guard|substitute,xscissor,poltergeist,allyswitch|Quiet|0,0,124,172,212,0||31,31,31,31,31,31||50|
+23.8268292118805|shedinja|Focus Sash|Wonder Guard|furyswipes,substitute,xscissor,confuseray|Lax|60,132,60,220,0,36||31,31,31,31,31,31||50|
+23.571104312949753|shedinja|Chople Berry|Wonder Guard|phantomforce,xscissor,substitute,thief|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+23.022003431161608|shedinja|Snowball|Wonder Guard|xscissor,furyswipes,phantomforce,snore|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.568233905055727|shedinja|Colbur Berry|Wonder Guard|snore,thief,phantomforce,allyswitch|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.55746211528168|shedinja|Normal Gem|Wonder Guard|furyswipes,sandattack,phantomforce,xscissor|Careful|0,0,28,0,244,236||31,31,31,31,31,31||50|
+22.320919467585075|shedinja|Bright Powder|Wonder Guard|phantomforce,xscissor,metalclaw,rest|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.316669184542768|shedinja|Icy Rock|Wonder Guard|shadowsneak,furyswipes,xscissor,phantomforce|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+21.756319268083256|shedinja|Eviolite|Wonder Guard|dig,snore,xscissor,agility|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+21.487712513050745|shedinja|Icy Rock|Wonder Guard|hex,scratch,shadowsneak,metalclaw|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+21.285896439568337|shedinja|Coba Berry|Wonder Guard|phantomforce,furyswipes,dig,shadowball|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+21.228952351397933|shedinja|Rawst Berry|Wonder Guard|hex,shadowsneak,hyperbeam,xscissor|Lonely|36,220,0,252,0,0||31,31,31,31,31,31||50|
+20.757503974307305|shedinja|Assault Vest|Wonder Guard|substitute,hyperbeam,poltergeist,grudge|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+17.94403942873283|shedinja|Liechi Berry|Wonder Guard|xscissor,substitute,furyswipes,trick|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+15.795906005817452|shedinja|Babiri Berry|Wonder Guard|protect,hyperbeam,xscissor,facade|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+39.98670394798038|natu|Choice Specs|Synchronize|airslash,grassknot,psychic,powerswap|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+37.71015809625449|natu|Kasib Berry|Synchronize|airslash,snore,simplebeam,dazzlinggleam|Jolly|84,4,44,0,148,228||31,31,31,31,31,31||50|
+37.18580403677926|natu|Rose Incense|Early Bird|airslash,snore,peck,teleport|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+36.241663047147284|natu|Binding Band|Early Bird|snore,featherdance,airslash,allyswitch|Lax|0,220,252,36,0,0||31,31,31,31,31,31||50|
+35.93230051243262|natu|Binding Band|Synchronize|uturn,airslash,swift,dazzlinggleam|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+35.22769226968571|natu|Rose Incense|Magic Bounce|attract,airslash,featherdance,suckerpunch|Jolly|84,4,44,0,148,228||31,31,31,31,31,31||50|
+34.580840229465224|natu|Odd Incense|Synchronize|snore,swift,uturn,heatwave|Jolly|84,4,44,0,148,228||31,31,31,31,31,31||50|
+33.98403467407594|natu|Roseli Berry|Synchronize|airslash,uturn,grassknot,storedpower|Impish|0,0,172,0,252,84||31,31,31,31,31,31||50|
+33.92020683245145|natu|Binding Band|Magic Bounce|airslash,attract,featherdance,gigadrain|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+33.37115652388196|natu|Pomeg Berry|Synchronize|uturn,snore,airslash,psychoshift|Serious|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.54694092151559|natu|Spell Tag|Magic Bounce|airslash,snore,peck,sunnyday|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+30.087990600729334|natu|Binding Band|Early Bird|airslash,snore,swift,powerswap|Serious|252,252,0,4,0,0||31,31,31,31,31,31||50|
+28.531174155835846|natu|Binding Band|Synchronize|grassknot,simplebeam,psychic,magicroom|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+26.442322474360818|natu|Eviolite|Early Bird|uturn,simplebeam,grassknot,snore|Impish|0,0,172,0,252,84||31,31,31,31,31,31||50|
+26.32699026293452|natu|Binding Band|Early Bird|peck,airslash,attract,calmmind|Lonely|0,244,0,132,0,132||31,31,31,31,31,31||50|
+25.81092684650144|natu|Weakness Policy|Early Bird|snore,uturn,peck,substitute|Jolly|84,4,44,0,148,228||31,31,31,31,31,31||50|
+25.194280182279392|natu|Binding Band|Early Bird|attract,simplebeam,grassknot,psychic|Impish|0,0,172,0,252,84||31,31,31,31,31,31||50|
+23.549958156593583|natu|Chilan Berry|Early Bird|uturn,simplebeam,swift,batonpass|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+23.51928597951235|natu|Weakness Policy|Magic Bounce|peck,swift,snore,futuresight|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+23.241915508540416|natu|Binding Band|Early Bird|peck,swift,heatwave,thief|Impish|0,0,172,0,252,84||31,31,31,31,31,31||50|
+31.574946082589065|gothita|Scope Lens|Competitive|psychic,thief,confusion,torment|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+30.269654464822292|gothita|Salac Berry|Frisk|round,psyshock,darkpulse,nastyplot|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+29.862428639004744|gothita|Razor Claw|Frisk|round,psybeam,foulplay,charm|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.890321026662985|gothita|Expert Belt|Frisk|psyshock,darkpulse,foulplay,sleeptalk|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.211594193640366|gothita|Misty Seed|Competitive|foulplay,darkpulse,confusion,hypnosis|Relaxed|252,0,4,252,0,0||31,31,31,31,31,31||50|
+28.140253606732767|gothita|Kasib Berry|Competitive|round,foulplay,darkpulse,safeguard|Quiet|132,0,0,252,124,0||31,31,31,31,31,31||50|
+27.5483657851245|gothita|Maranga Berry|Shadow Tag|foulplay,safeguard,endure,darkpulse|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+27.54529708448719|gothita|Mystic Water|Competitive|attract,psybeam,psyshock,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.79650798470621|gothita|Misty Seed|Competitive|thief,healpulse,psyshock,psybeam|Calm|164,0,92,0,252,0||31,0,31,31,31,31||50|
+26.663161244336763|gothita|Scope Lens|Frisk|psyshock,psychic,round,guardswap|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+26.275231550908796|gothita|Misty Seed|Competitive|thief,skillswap,confusion,taunt|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+25.062965008581234|gothita|Misty Seed|Competitive|healpulse,psybeam,thief,storedpower|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+24.99233423133458|gothita|Chesto Berry|Frisk|foulplay,psyshock,rocktomb,pound|Serious|252,0,0,4,0,252||31,31,31,31,31,31||50|
+24.67119636594139|gothita|Kasib Berry|Competitive|round,psyshock,charm,expandingforce|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+23.497960680476346|gothita|Wise Glasses|Competitive|thief,confusion,healpulse,shadowball|Calm|164,0,92,0,252,0||31,0,31,31,31,31||50|
+23.05251680246046|gothita|Twisted Spoon|Frisk|safeguard,expandingforce,psyshock,mirrorcoat|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.007469210862357|gothita|Odd Incense|Frisk|thief,round,psyshock,uproar|Careful|0,0,204,0,252,52||31,31,31,31,31,31||50|
+22.518829347147342|gothita|Kee Berry|Frisk|thunderbolt,darkpulse,psybeam,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.219106718035526|gothita|Light Clay|Frisk|foulplay,flatter,charm,healpulse|Quiet|132,0,0,252,124,0||31,31,31,31,31,31||50|
+13.326454749904348|gothita|Life Orb|Competitive|endure,safeguard,mirrorcoat,pound|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.67253185722504|cottonee|Petaya Berry|Prankster|beatup,swift,encore,grassyglide|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+24.568082450861105|cottonee|Payapa Berry|Infiltrator|swift,stunspore,endeavor,beatup|Relaxed|252,4,0,252,0,0||31,31,31,31,31,31||50|
+24.39092690387828|cottonee|Kasib Berry|Infiltrator|beatup,swift,grassyterrain,rest|Impish|0,4,0,0,252,252||31,31,31,31,31,31||50|
+23.60768665057747|cottonee|Eviolite|Chlorophyll|swift,switcheroo,leechseed,attract|Relaxed|252,4,0,252,0,0||31,31,31,31,31,31||50|
+23.006402112429534|cottonee|Scope Lens|Infiltrator|beatup,encore,swift,megadrain|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+22.71953715171175|cottonee|Oran Berry|Prankster|attract,swift,stunspore,solarbeam|Timid|0,0,108,0,220,180||31,0,31,31,31,31||50|
+21.895234225045822|cottonee|Protective Pads|Chlorophyll|leechseed,attract,naturepower,growth|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+21.255069833606424|cottonee|Rose Incense|Prankster|beatup,encore,swift,cottonguard|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+20.688545167869787|cottonee|Protective Pads|Chlorophyll|leechseed,switcheroo,faketears,grassyglide|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+20.53517629955963|cottonee|Eviolite|Infiltrator|switcheroo,naturepower,leechseed,round|Bold|76,0,148,28,116,140||31,0,31,31,31,31||50|
+20.452712537966892|cottonee|Eviolite|Chlorophyll|leechseed,beatup,stunspore,safeguard|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+20.270655600510633|cottonee|Rose Incense|Chlorophyll|helpinghand,encore,swift,endeavor|Relaxed|252,4,0,252,0,0||31,31,31,31,31,31||50|
+19.829755717385908|cottonee|Shell Bell|Chlorophyll|beatup,stunspore,switcheroo,grassyglide|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+17.986615539654036|cottonee|Eviolite|Infiltrator|facade,helpinghand,leechseed,swift|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+17.269667986691978|cottonee|Payapa Berry|Prankster|helpinghand,swift,leechseed,sunnyday|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+15.908619681617576|cottonee|Rawst Berry|Infiltrator|stunspore,grassyterrain,encore,swift|Adamant|0,252,76,0,0,180||31,31,31,31,31,31||50|
+14.942151484120169|cottonee|Protective Pads|Chlorophyll|leechseed,naturepower,faketears,snore|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+12.968486240938747|cottonee||Infiltrator|helpinghand,gigadrain,encore,stunspore|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+12.487110321990707|cottonee|Grepa Berry|Infiltrator|switcheroo,leechseed,tickle,grassknot|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+9.66702823614819|cottonee|Grassy Seed|Prankster|stunspore,encore,helpinghand,snore|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|

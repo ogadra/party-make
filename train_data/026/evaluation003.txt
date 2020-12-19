@@ -1,0 +1,100 @@
+30.90241600850386|yamaskgalar|Pomeg Berry|Wandering Spirit|hex,darkpulse,sandstorm,imprison|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+30.51687401910595|yamaskgalar|Colbur Berry|Wandering Spirit|poltergeist,protect,hex,rest|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+30.03178054349822|yamaskgalar|Pomeg Berry|Wandering Spirit|earthpower,sandstorm,destinybond,curse|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+28.383143950445515|yamaskgalar|Pomeg Berry|Wandering Spirit|hex,rocktomb,earthpower,curse|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+28.315889151976148|yamaskgalar|Grip Claw|Wandering Spirit|hex,protect,earthquake,astonish|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.971310672400104|yamaskgalar|Dragon Scale|Wandering Spirit|earthpower,hex,sandstorm,faketears|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.798042446122157|yamaskgalar|Kelpsy Berry|Wandering Spirit|hex,powersplit,earthpower,haze|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.785327860970057|yamaskgalar|Grip Claw|Wandering Spirit|rocktomb,poltergeist,sandstorm,skillswap|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.20575590637948|yamaskgalar|Aspear Berry|Wandering Spirit|rocktomb,hex,disable,curse|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+24.80838511749167|yamaskgalar|Focus Sash|Wandering Spirit|haze,protect,powersplit,earthpower|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.516347298257944|yamaskgalar|Iron Ball|Wandering Spirit|poltergeist,protect,destinybond,skillswap|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.50823124576515|yamaskgalar|Dragon Scale|Wandering Spirit|rocktomb,darkpulse,earthpower,protect|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+23.61157261484289|yamaskgalar|Wacan Berry|Wandering Spirit|protect,energyball,earthpower,powersplit|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.497058461583052|yamaskgalar|Sharp Beak|Wandering Spirit|powersplit,poltergeist,raindance,substitute|Calm|28,0,92,12,252,124||31,31,31,31,31,31||50|
+22.71562628342608|yamaskgalar|Charcoal|Wandering Spirit|earthpower,powersplit,haze,allyswitch|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.929747077550218|yamaskgalar|Kelpsy Berry|Wandering Spirit|hex,rocktomb,energyball,irondefense|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+20.5336223633235|yamaskgalar|Grip Claw|Wandering Spirit|haze,rocktomb,powersplit,rockslide|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+18.57715396499711|yamaskgalar|Utility Umbrella|Wandering Spirit|rocktomb,haze,protect,energyball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+12.75423779065599|yamaskgalar|Grip Claw|Wandering Spirit|haze,protect,powersplit,raindance|Calm|0,0,252,0,4,252||31,0,31,31,31,31||50|
+8.07396073642068|yamaskgalar|Grip Claw|Wandering Spirit|powersplit,destinybond,haze,protect|Impish|0,180,0,0,76,252||31,31,31,31,31,31||50|
+33.01846855835612|sandygast|Cell Battery|Water Compaction|shadowball,bulldoze,swallow,sandtomb|Bold|0,0,4,0,252,252||31,0,31,31,31,31||50|
+32.652214223805444|sandygast|Grepa Berry|Sand Veil|brine,shadowball,gigadrain,skillswap|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+30.25372414143048|sandygast|Power Herb|Sand Veil|irondefense,brine,shadowball,energyball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.204786952451382|sandygast|Grepa Berry|Sand Veil|earthquake,sleeptalk,poltergeist,shadowball|Bold|4,0,252,36,4,212||31,31,31,31,31,31||50|
+30.112038180708335|sandygast|Power Herb|Water Compaction|sandstorm,shadowball,rest,curse|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.087473477051642|sandygast|Wide Lens|Water Compaction|rest,irondefense,shadowball,bulldoze|Adamant|0,188,252,0,0,68||31,31,31,31,31,31||50|
+28.332523977837575|sandygast|Power Herb|Water Compaction|gigadrain,sandstorm,spitup,stockpile|Careful|140,0,116,0,252,0||31,31,31,31,31,31||50|
+28.17075164700969|sandygast|Scope Lens|Water Compaction|sleeptalk,trick,poltergeist,amnesia|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+27.89983956491559|sandygast|Pomeg Berry|Sand Veil|spitup,poltergeist,gigadrain,shoreup|Adamant|0,188,252,0,0,68||31,31,31,31,31,31||50|
+27.741010801101652|sandygast|Power Herb|Sand Veil|shadowball,irondefense,brine,attract|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.94762952973024|sandygast|Wide Lens|Sand Veil|mudshot,brine,spitup,earthquake|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+26.887570567221246|sandygast|Throat Spray|Sand Veil|spitup,brine,poltergeist,gigadrain|Adamant|0,188,252,0,0,68||31,31,31,31,31,31||50|
+26.589836349880304|sandygast|Power Herb|Water Compaction|skillswap,shadowball,rest,sandstorm|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.38045750123819|sandygast|Focus Sash|Sand Veil|poltergeist,sandattack,gigadrain,rockslide|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+25.59101595077288|sandygast|Float Stone|Water Compaction|mudshot,rest,sandstorm,curse|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+25.127766813038274|sandygast|Miracle Seed|Sand Veil|spitup,brine,gigadrain,poltergeist|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+19.22745696968336|sandygast|Assault Vest|Water Compaction|swallow,sandstorm,irondefense,stoneedge|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+15.344658920730005|sandygast|Throat Spray|Water Compaction|rest,sandstorm,sandattack,irondefense|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+13.491815070424837|sandygast|Leppa Berry|Sand Veil|irondefense,rest,sandstorm,stealthrock|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+11.77158891428812|sandygast|Hard Stone|Water Compaction|rest,irondefense,spitup,absorb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+29.85948978741907|marill|Aspear Berry|Sap Sipper|encore,watergun,irontail,brickbreak|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+29.210284010039313|marill|Cell Battery|Huge Power|scald,waterfall,brutalswing,rest|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.044735759968923|marill|Apicot Berry|Thick Fat|faketears,icebeam,playrough,endure|Relaxed|220,52,0,236,0,0||31,31,31,31,31,0||50|
+25.540386742984026|marill|Mago Berry|Huge Power|round,scald,icebeam,bounce|Jolly|0,52,252,0,0,204||31,31,31,31,31,31||50|
+25.25036033876228|marill|Oran Berry|Thick Fat|mudshot,round,protect,scald|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+25.135733791144446|marill|Grip Claw|Sap Sipper|protect,facade,waterfall,irontail|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+25.09162553911502|marill|Toxic Orb|Huge Power|icebeam,round,encore,protect|Sassy|0,4,0,252,252,0||31,31,31,31,31,0||50|
+23.403452767928577|marill|Power Herb|Huge Power|watergun,aquaring,encore,bounce|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.381328269371505|marill|Rocky Helmet|Thick Fat|protect,mudshot,watergun,tickle|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+22.080687822439838|marill|Kebia Berry|Thick Fat|icebeam,encore,surf,megakick|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+21.943363541428322|marill|Binding Band|Huge Power|encore,playrough,aquaring,megakick|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+21.26384748675635|marill|Cheri Berry|Thick Fat|round,icebeam,mudshot,bubblebeam|Sassy|4,252,0,0,252,0||31,31,31,31,31,31||50|
+20.488226302931054|marill|Mago Berry|Thick Fat|brickbreak,encore,waterfall,uproar|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+20.082997490041485|marill|Binding Band|Thick Fat|watergun,encore,round,protect|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+19.812554415884474|marill|Colbur Berry|Thick Fat|scald,encore,round,rest|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+19.141436774400532|marill|Quick Claw|Thick Fat|surf,icebeam,encore,perishsong|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+19.04246642265021|marill|Chople Berry|Sap Sipper|round,waterfall,mudshot,muddywater|Bold|0,0,252,244,0,12||31,0,31,31,31,31||50|
+19.029307143441883|marill|Apicot Berry|Huge Power|protect,waterfall,faketears,playrough|Relaxed|220,52,0,236,0,0||31,31,31,31,31,0||50|
+18.824963065461404|marill|Binding Band|Thick Fat|mudshot,round,encore,mistyterrain|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+18.143622004864785|marill|Qualot Berry|Sap Sipper|watergun,round,brutalswing,dig|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+32.90961120275032|bronzor|Assault Vest|Heatproof|psychic,lightscreen,skillswap,substitute|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.54008291828437|bronzor|Grassy Seed|Heavy Metal|psychic,skillswap,rocktomb,extrasensory|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.14818266444073|bronzor|King's Rock|Heatproof|facade,hex,psychic,rockslide|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.092979056321486|bronzor|Assault Vest|Heatproof|snore,gyroball,expandingforce,trick|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+31.035887412234157|bronzor|Never-Melt Ice|Heatproof|snore,rocktomb,speedswap,extrasensory|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+30.51264132732799|bronzor|Assault Vest|Heatproof|snore,psychic,skillswap,stealthrock|Gentle|0,0,0,252,252,4||31,31,31,31,31,31||50|
+30.45917632126046|bronzor|Charcoal|Levitate|psychic,sandstorm,rocktomb,gyroball|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+30.298652481602232|bronzor|Sharp Beak|Levitate|gyroball,bulldoze,extrasensory,imprison|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+28.402725998197226|bronzor|Chople Berry|Heatproof|psychic,gyroball,snore,imprison|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.784202487017584|bronzor|Assault Vest|Heatproof|gyroball,psychic,skillswap,rocktomb|Serious|4,252,0,0,252,0||31,31,31,31,31,31||50|
+27.437812895059277|bronzor|Oran Berry|Heatproof|rocktomb,snore,expandingforce,gyroball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.65116505752651|bronzor|Pixie Plate|Heatproof|expandingforce,confusion,rocktomb,rockslide|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+26.384401473119237|bronzor|Assault Vest|Heatproof|gyroball,confusion,snore,heavyslam|Careful|0,252,0,0,204,52||31,31,31,31,31,31||50|
+25.12600706296581|bronzor|Flame Orb|Levitate|expandingforce,bulldoze,snore,steelbeam|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+24.890556055719372|bronzor|Ring Target|Heatproof|snore,expandingforce,rocktomb,sandstorm|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.650762515895703|bronzor|Utility Umbrella|Heatproof|expandingforce,rocktomb,snore,endure|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+24.424943193165067|bronzor|Heat Rock|Heavy Metal|expandingforce,snore,gyroball,wonderroom|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+24.257929173138116|bronzor|Silver Powder|Heatproof|skillswap,psychic,endure,tackle|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.37850155091652|bronzor|Flame Orb|Heatproof|sunnyday,endure,rocktomb,raindance|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.274721512645538|bronzor|Persim Berry|Heatproof|sunnyday,skillswap,endure,rocktomb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.914578663578013|azurill|Chilan Berry|Huge Power|copycat,substitute,supersonic,brutalswing|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+28.894377477908684|azurill|Aguav Berry|Huge Power|protect,icebeam,irontail,charm|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+28.150821422891926|azurill|Aguav Berry|Huge Power|watergun,icebeam,irontail,protect|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+28.06120428875892|azurill|Eviolite|Huge Power|icebeam,copycat,workup,facade|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+24.53318651004817|azurill|Aguav Berry|Huge Power|watergun,supersonic,muddywater,slam|Sassy|0,4,252,0,252,0||31,31,31,31,31,0||50|
+24.33598205553229|azurill|Aguav Berry|Huge Power|brutalswing,perishsong,bodyslam,sing|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+23.793715709432103|azurill|Soft Sand|Sap Sipper|snore,supersonic,icebeam,present|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+23.39568435079236|azurill|Ring Target|Sap Sipper|protect,icebeam,irontail,uproar|Lax|4,0,252,252,0,0||31,31,31,31,31,31||50|
+22.277768197081276|azurill|Aguav Berry|Sap Sipper|icebeam,soak,brutalswing,copycat|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+22.17977316819101|azurill|Soft Sand|Huge Power|muddywater,brutalswing,irontail,endure|Lax|4,0,252,252,0,0||31,31,31,31,31,31||50|
+21.6627338967009|azurill|Lax Incense|Huge Power|muddywater,blizzard,icebeam,sleeptalk|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+21.569413910817783|azurill|Soft Sand|Sap Sipper|soak,icebeam,present,raindance|Timid|204,0,164,0,0,140||31,0,31,31,31,31||50|
+20.56560730710833|azurill|Wacan Berry|Huge Power|brutalswing,supersonic,tailwhip,waterfall|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+20.35244686020995|azurill|Shuca Berry|Huge Power|substitute,irontail,workup,brutalswing|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+18.760181756569917|azurill|Aguav Berry|Huge Power|irontail,protect,icebeam,muddywater|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.440011536908006|azurill|Aguav Berry|Huge Power|supersonic,perishsong,brutalswing,lightscreen|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+17.295460513466626|azurill|Soft Sand|Huge Power|present,protect,whirlpool,attract|Timid|204,0,164,0,0,140||31,0,31,31,31,31||50|
+17.240710050511996|azurill|Soft Sand|Sap Sipper|whirlpool,protect,snore,attract|Relaxed|0,0,252,252,4,0||31,31,31,31,31,0||50|
+16.235663012417636|azurill|Aguav Berry|Huge Power|soak,sleeptalk,supersonic,protect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+8.240910130300563|azurill|Aguav Berry|Huge Power|soak,perishsong,watergun,copycat|Timid|4,0,252,0,0,252||31,31,31,31,31,31||50|

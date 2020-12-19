@@ -1,0 +1,100 @@
+31.89302909679307|popplio|Throat Spray|Torrent|dive,aquaring,uproar,whirlpool|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+31.76524770708977|popplio|Choice Scarf|Liquid Voice|scald,icebeam,waterfall,irontail|Modest|4,0,0,252,252,0||31,31,31,31,31,31||50|
+30.735453865483187|popplio|Mystic Water|Liquid Voice|hypervoice,hydropump,icebeam,growl|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+30.020853119887406|popplio||Torrent|aquaring,uproar,bubblebeam,perishsong|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+29.750669840959347|popplio|Silver Powder|Torrent|uproar,waterfall,icebeam,mistyterrain|Calm|0,0,116,252,140,0||31,0,31,31,31,31||50|
+29.52190129229629|popplio|Silver Powder|Torrent|uproar,waterfall,dive,aquaring|Modest|116,0,68,172,12,140||31,0,31,31,31,31||50|
+29.392915033530993|popplio|Lansat Berry|Torrent|icebeam,uproar,raindance,bubblebeam|Calm|0,0,116,252,140,0||31,0,31,31,31,31||50|
+29.19723468385389|popplio|Shuca Berry|Liquid Voice|rest,uproar,hail,amnesia|Modest|28,0,0,244,0,236||31,31,31,31,31,31||50|
+28.416432145582736|popplio|Terrain Extender|Liquid Voice|raindance,icebeam,hydropump,charm|Calm|0,0,116,252,140,0||31,0,31,31,31,31||50|
+28.210115559252827|popplio|Weakness Policy|Liquid Voice|raindance,uproar,icebeam,helpinghand|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.25645940174637|popplio|Rowap Berry|Liquid Voice|uproar,icebeam,encore,round|Gentle|252,0,0,0,252,4||31,31,31,31,31,31||50|
+27.00019978215298|popplio|Absorb Bulb|Torrent|raindance,dive,uproar,pound|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+25.981735282997803|popplio|Flame Orb|Torrent|icebeam,waterfall,rest,dive|Calm|0,0,116,252,140,0||31,0,31,31,31,31||50|
+24.118603072144186|popplio|Absorb Bulb|Liquid Voice|uproar,bubblebeam,hydropump,encore|Lax|0,196,252,60,0,0||31,31,31,31,31,31||50|
+23.446165371315736|popplio|Absorb Bulb|Torrent|hydropump,waterfall,uproar,tripleaxel|Calm|0,0,116,252,140,0||31,0,31,31,31,31||50|
+23.354317549534017|popplio|Absorb Bulb|Liquid Voice|waterfall,uproar,hydropump,protect|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+21.721146114370413|popplio|Snowball|Liquid Voice|waterfall,scald,encore,facade|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+20.85038150621016|popplio|Leppa Berry|Torrent|waterfall,hydropump,aquaring,flipturn|Modest|116,0,68,172,12,140||31,0,31,31,31,31||50|
+15.743427657623842|popplio|Full Incense|Torrent|perishsong,aquaring,bubblebeam,wonderroom|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+7.271246451491056|popplio|Lansat Berry|Liquid Voice|babydolleyes,perishsong,aquaring,bubblebeam|Modest|116,0,68,172,12,140||31,0,31,31,31,31||50|
+28.181281181813347|fletchling|Mago Berry|Gale Wings|fly,uturn,thief,aerialace|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+27.672715021463596|fletchling|Lansat Berry|Gale Wings|sunnyday,fly,facade,dualwingbeat|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+26.891048758657554|fletchling|Mago Berry|Gale Wings|overheat,fly,growl,aerialace|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+26.31256006980278|fletchling|Sitrus Berry|Gale Wings|fly,facade,sunnyday,protect|Adamant|148,212,4,0,76,68||31,31,31,31,31,31||50|
+25.444471850094903|fletchling|Metal Coat|Big Pecks|dualwingbeat,endure,fly,workup|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+24.97672967522037|fletchling|Mago Berry|Gale Wings|dualwingbeat,attract,thief,round|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+24.930261699215357|fletchling|Float Stone|Gale Wings|fly,dualwingbeat,growl,overheat|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+24.467489749673494|fletchling|Poison Barb|Gale Wings|thief,growl,protect,fly|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+24.100697742656877|fletchling|Assault Vest|Gale Wings|thief,fly,peck,tailwind|Bold|140,0,116,252,0,0||31,31,31,31,31,31||50|
+23.81090213731562|fletchling|Kebia Berry|Gale Wings|substitute,dualwingbeat,rest,flamecharge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.66453520120116|fletchling|Haban Berry|Gale Wings|heatwave,fly,thief,substitute|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+23.657327908106733|fletchling|Eject Pack|Gale Wings|thief,snore,uturn,fly|Gentle|0,252,0,0,4,252||31,31,31,31,31,31||50|
+22.771448303322348|fletchling|Mago Berry|Gale Wings|thief,facade,uturn,substitute|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+21.660642657458776|fletchling|Poison Barb|Big Pecks|fly,facade,overheat,peck|Impish|252,0,4,0,0,252||31,31,31,31,31,31||50|
+20.768271288763675|fletchling|Poison Barb|Big Pecks|fly,quickguard,facade,workup|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.328663128540384|fletchling|Sitrus Berry|Gale Wings|facade,substitute,dualwingbeat,willowisp|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+16.8850656620028|fletchling|Sitrus Berry|Big Pecks|protect,dualwingbeat,facade,heatwave|Careful|0,0,252,0,4,252||31,31,31,31,31,31||50|
+16.63260022027409|fletchling|Sitrus Berry|Gale Wings|facade,uturn,dualwingbeat,thief|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+12.390137744908154|fletchling|Rawst Berry|Gale Wings|dualwingbeat,substitute,facade,overheat|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+9.634286525037192|fletchling|Metal Coat|Gale Wings|peck,facade,quickattack,roost|Sassy|0,0,252,4,252,0||31,31,31,31,31,31||50|
+36.23369695553156|eevee|Mago Berry|Adaptability|hypervoice,attract,doubleedge,focusenergy|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+34.57329996143175|eevee|Rose Incense|Adaptability|raindance,hypervoice,flail,swift|Timid|0,0,0,100,156,252||31,0,31,31,31,31||50|
+31.890533064064723|eevee|Payapa Berry|Adaptability|hypervoice,raindance,growl,endure|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+30.803403710494532|eevee|Bright Powder|Adaptability|batonpass,hypervoice,sandattack,dig|Sassy|0,0,4,252,252,0||31,31,31,31,31,31||50|
+29.725688353576754|eevee|Soft Sand|Adaptability|hypervoice,tackle,doubleedge,celebrate|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+28.585873756431656|eevee|Metal Coat|Adaptability|dig,raindance,hypervoice,faketears|Serious|0,36,220,0,252,0||31,31,31,31,31,31||50|
+27.46900522711293|eevee|Payapa Berry|Anticipation|mudslap,hypervoice,tackle,takedown|Gentle|0,0,0,252,4,252||31,31,31,31,31,31||50|
+25.700283030225577|eevee|Starf Berry|Adaptability|tackle,dig,toxic,weatherball|Jolly|52,212,52,0,20,172||31,31,31,31,31,31||50|
+25.233847341651675|eevee|Throat Spray|Adaptability|hypervoice,flail,dig,headbutt|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+25.20967351490713|eevee|Starf Berry|Run Away|growl,toxic,attract,hypervoice|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+24.756285668227736|eevee|Absorb Bulb|Adaptability|attract,doubleedge,sunnyday,hypervoice|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+24.24459715522736|eevee|Mental Herb|Adaptability|dig,flail,substitute,facade|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+23.568103282038493|eevee|Iapapa Berry|Adaptability|hypervoice,growl,tackle,doublekick|Adamant|4,252,172,0,76,4||31,31,31,31,31,31||50|
+23.357613119964224|eevee|Metal Coat|Anticipation|dig,flail,hypervoice,raindance|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.158801887690135|eevee|Poison Barb|Run Away|sandattack,attract,doubleedge,batonpass|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+19.53922157220342|eevee|Payapa Berry|Adaptability|raindance,toxic,substitute,dig|Sassy|36,92,252,12,116,0||31,31,31,31,31,31||50|
+18.33413222900511|eevee|Mago Berry|Anticipation|attract,tackle,hypervoice,doublekick|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+16.3366295828422|eevee|Snowball|Adaptability|tackle,doublekick,attract,retaliate|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+9.850054060709107|eevee|Cell Battery|Adaptability|batonpass,hypervoice,dig,storedpower|Sassy|0,0,4,252,252,0||31,31,31,31,31,31||50|
+9.750384732541418|eevee|Blunder Policy|Adaptability|raindance,substitute,toxic,flail|Sassy|0,0,4,252,252,0||31,31,31,31,31,31||50|
+30.873614645783352|clefairy|Mago Berry|Cute Charm|mysticalfire,dig,rest,protect|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+29.112853308721956|clefairy|Lax Incense|Friend Guard|mysticalfire,thunderbolt,rest,cosmicpower|Modest|0,0,0,172,204,132||31,31,31,31,31,31||50|
+28.784736915189036|clefairy|Rocky Helmet|Cute Charm|allyswitch,irontail,thunderbolt,toxic|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.45811367586037|clefairy|Custap Berry|Friend Guard|irontail,mysticalfire,growl,gravity|Timid|0,0,84,172,0,252||31,0,31,31,31,31||50|
+26.524540407915218|clefairy|Cheri Berry|Friend Guard|dig,irontail,mysticalfire,growl|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.50388202432802|clefairy|Cheri Berry|Friend Guard|allyswitch,mistyterrain,mysticalfire,bounce|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+25.56190766928188|clefairy|Cheri Berry|Friend Guard|mysticalfire,rest,allyswitch,uproar|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+25.096515033679765|clefairy|Cheri Berry|Friend Guard|dazzlinggleam,irontail,mysticalfire,gravity|Modest|0,0,0,252,204,52||31,0,31,31,31,31||50|
+24.23524008574358|clefairy|Mago Berry|Magic Guard|mysticalfire,dig,thunderpunch,calmmind|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+23.97213829345352|clefairy|Focus Sash|Friend Guard|mysticalfire,dazzlinggleam,allyswitch,dig|Naughty|0,100,0,228,0,180||31,31,31,31,31,31||50|
+22.3508505872121|clefairy|Binding Band|Magic Guard|irontail,dazzlinggleam,allyswitch,snore|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+22.32733206222273|clefairy|Charcoal|Magic Guard|dig,irontail,allyswitch,playrough|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+22.191201171012008|clefairy|Maranga Berry|Friend Guard|rest,playrough,irontail,dig|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+21.920001849145088|clefairy|Absorb Bulb|Friend Guard|dig,mysticalfire,allyswitch,firepunch|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+21.173982980434076|clefairy|Lax Incense|Friend Guard|solarbeam,encore,irontail,facade|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+20.332567872514847|clefairy|Mago Berry|Magic Guard|allyswitch,irontail,rest,mysticalfire|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+19.98348170383589|clefairy|Big Root|Friend Guard|thunderbolt,zenheadbutt,dig,teleport|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+18.749009076211205|clefairy|Cheri Berry|Friend Guard|dig,allyswitch,wonderroom,sing|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+12.719509860476228|clefairy|Occa Berry|Cute Charm|allyswitch,rest,dazzlinggleam,copycat|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+12.293067327479632|clefairy|Poison Barb|Cute Charm|irontail,dazzlinggleam,rest,lightscreen|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.616976077051476|axew|Light Clay|Unnerve|crunch,xscissor,dualchop,fling|Jolly|124,252,0,0,0,132||31,31,31,31,31,31||50|
+26.326789526975546|axew|Protective Pads|Mold Breaker|swordsdance,breakingswipe,xscissor,scaleshot|Jolly|148,12,36,0,252,60||31,31,31,31,31,31||50|
+25.904415897690694|axew|Utility Umbrella|Rivalry|xscissor,dualchop,sunnyday,dragondance|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.833237885273398|axew|Never-Melt Ice|Rivalry|dualchop,swordsdance,sunnyday,endure|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+25.2014364054583|axew|Wise Glasses|Unnerve|crunch,rocktomb,scaleshot,dualchop|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+25.09336284629207|axew|Occa Berry|Unnerve|swordsdance,breakingswipe,rocktomb,dracometeor|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.842537366623283|axew|Protective Pads|Rivalry|protect,crunch,breakingswipe,assurance|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.437243435210313|axew|Kelpsy Berry|Unnerve|superpower,dualchop,scaleshot,reversal|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.630496913187777|axew|Protective Pads|Unnerve|swordsdance,breakingswipe,rocktomb,nightslash|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.353577841643162|axew|Mago Berry|Unnerve|crunch,scaleshot,swordsdance,harden|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.773694698717637|axew|Utility Umbrella|Unnerve|rocktomb,scaleshot,xscissor,leer|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.656366278351413|axew|Flame Orb|Unnerve|xscissor,scaleshot,dig,swordsdance|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.294891654507637|axew|Twisted Spoon|Unnerve|crunch,swordsdance,xscissor,endeavor|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+20.737772038517083|axew|Room Service|Unnerve|rocktomb,scaleshot,crunch,round|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.511907412872745|axew|Iron Ball|Unnerve|rocktomb,breakingswipe,dig,sleeptalk|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+20.340757113987856|axew|Destiny Knot|Unnerve|sleeptalk,scaleshot,dualchop,slash|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.184117965048525|axew|Wise Glasses|Unnerve|scaleshot,rocktomb,swordsdance,leer|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+19.935757662755613|axew|Protective Pads|Unnerve|dualchop,scaleshot,rocktomb,superpower|Gentle|0,0,0,4,252,252||31,31,31,31,31,31||50|
+19.523925626613384|axew|Wise Glasses|Unnerve|rocktomb,scaleshot,dualchop,sunnyday|Timid|0,0,220,0,36,252||31,31,31,31,31,31||50|
+18.322117814632627|axew|Protective Pads|Unnerve|scaleshot,crunch,rocktomb,breakingswipe|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|

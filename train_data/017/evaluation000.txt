@@ -1,0 +1,100 @@
+32.50043550227907|zigzagoon|Jaboca Berry|Gluttony|irontail,flail,doubleedge,covet|Adamant|252,204,0,0,0,52||31,31,31,31,31,31||50|
+29.037692234362083|zigzagoon|Toxic Orb|Gluttony|grassknot,doubleedge,thunderwave,simplebeam|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+28.7685877952514|zigzagoon|Mental Herb|Gluttony|swift,gunkshot,shadowball,charm|Modest|36,0,0,220,252,0||31,0,31,31,31,31||50|
+25.647121376029236|zigzagoon|Mental Herb|Pickup|doubleedge,facade,blizzard,irontail|Calm|28,0,28,148,252,52||31,0,31,31,31,31||50|
+22.47057814952147|zigzagoon|Sticky Barb|Gluttony|pinmissile,round,snore,tailslap|Rash|252,0,4,252,0,0||31,31,31,31,31,31||50|
+22.238749200418525|zigzagoon|Kebia Berry|Gluttony|thunderbolt,tailslap,helpinghand,grassknot|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.155046063122104|zigzagoon|Black Sludge|Pickup|helpinghand,icebeam,extremespeed,thunderbolt|Brave|132,0,0,252,124,0||31,31,31,31,31,31||50|
+21.469438263106788|zigzagoon|Quick Claw|Pickup|shadowball,grassknot,tickle,substitute|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+21.103678391430662|zigzagoon|Air Balloon|Pickup|thunderwave,workup,sleeptalk,dig|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+20.78650987054326|zigzagoon|Magnet|Quick Feet|pinmissile,helpinghand,icebeam,thunderwave|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+19.701941168778113|zigzagoon|Choice Band|Gluttony|thunderwave,mudshot,icywind,workup|Bold|252,0,228,28,0,0||31,0,31,31,31,31||50|
+19.402570305635304|zigzagoon|Rowap Berry|Pickup|thunder,thunderbolt,sandattack,facade|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+18.846525938745497|zigzagoon|Soft Sand|Gluttony|blizzard,icywind,protect,simplebeam|Gentle|0,252,0,252,4,0||31,31,31,31,31,31||50|
+18.45361904034351|zigzagoon|Twisted Spoon|Quick Feet|round,blizzard,bellydrum,whirlpool|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+17.427318991326498|zigzagoon|Spell Tag|Gluttony|gunkshot,sleeptalk,irontail,takedown|Quiet|252,4,0,252,0,0||31,31,31,31,31,0||50|
+15.364906824647536|zigzagoon|Blunder Policy|Pickup|surf,helpinghand,endure,takedown|Modest|0,0,84,172,252,0||31,31,31,31,31,31||50|
+14.21004479932106|zigzagoon|Shed Shell|Pickup|mudshot,endure,thunderbolt,babydolleyes|Relaxed|252,4,252,0,0,0||31,31,31,31,31,0||50|
+13.673147174231854|zigzagoon|Destiny Knot|Quick Feet|snore,attract,hypervoice,mudshot|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+11.632035564860944|zigzagoon|Apicot Berry|Gluttony|grassknot,irontail,simplebeam,snore|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+10.992747904294475|zigzagoon|Charcoal|Gluttony|growl,tickle,substitute,whirlpool|Naive|36,20,100,252,0,100||31,31,31,31,31,31||50|
+32.82525999409574|slowpoke|Electric Seed|Oblivious|psychicterrain,triattack,bulldoze,mudshot|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+31.485229328461692|slowpoke|Lax Incense|Regenerator|dig,attract,toxic,waterpulse|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
+29.566385900941004|slowpoke|Damp Rock|Own Tempo|imprison,healpulse,headbutt,dig|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.251327597532427|slowpoke|Shed Shell|Oblivious|scald,hail,psychic,dive|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+28.71765969558797|slowpoke|Charcoal|Own Tempo|zenheadbutt,flamethrower,mudshot,attract|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+28.47482360872672|slowpoke|Payapa Berry|Regenerator|zenheadbutt,hail,confusion,psychicterrain|Careful|252,0,252,0,0,4||31,31,31,31,31,31||50|
+28.42763204656792|slowpoke|Mental Herb|Regenerator|dig,calmmind,tackle,slackoff|Brave|188,252,68,0,0,0||31,31,31,31,31,0||50|
+28.154982723100733|slowpoke|Jaboca Berry|Own Tempo|curse,triattack,dive,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.841537176762657|slowpoke|Coba Berry|Regenerator|triattack,disable,amnesia,bellydrum|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+26.667278547604603|slowpoke|Liechi Berry|Own Tempo|trickroom,flamethrower,expandingforce,zenheadbutt|Bold|0,0,252,4,0,252||31,31,31,31,31,31||50|
+26.090447857707066|slowpoke|White Herb|Oblivious|shadowball,icywind,tackle,facade|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+25.33846643069496|slowpoke|Power Herb|Own Tempo|dive,growl,confusion,safeguard|Calm|0,0,252,0,4,252||31,0,31,31,31,31||50|
+22.732079339081203|slowpoke|Pixie Plate|Regenerator|bellydrum,dive,bulldoze,block|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+22.21797391665326|slowpoke|Focus Sash|Regenerator|icywind,fireblast,healpulse,zenheadbutt|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+19.84477445019769|slowpoke|Salac Berry|Regenerator|lightscreen,dive,sleeptalk,earthquake|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.636637071875573|slowpoke|Maranga Berry|Regenerator|mudshot,belch,earthquake,storedpower|Bold|60,0,252,4,124,68||31,0,31,31,31,31||50|
+16.18366140986024|slowpoke|Kebia Berry|Oblivious|trick,waterpulse,sunnyday,liquidation|Calm|0,0,0,4,252,252||31,31,31,31,31,31||50|
+15.694618446468903|slowpoke|Big Root|Regenerator|facade,tackle,hydropump,dreameater|Modest|0,0,0,252,124,132||31,0,31,31,31,31||50|
+11.26749697889054|slowpoke|Lum Berry|Regenerator|waterpulse,reflect,triattack,icebeam|Impish|60,140,12,0,252,44||31,31,31,31,31,31||50|
+9.026858091996733|slowpoke|Damp Rock|Own Tempo|psychicterrain,wonderroom,disable,trickroom|Calm|20,0,116,116,252,4||31,0,31,31,31,31||50|
+36.66058113809102|sizzlipede|Damp Rock|White Smoke|bite,coil,skittersmack,scald|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+36.41256442810077|sizzlipede|Payapa Berry|Flash Fire|bugbite,endure,attract,leechlife|Lax|0,252,252,0,0,4||31,31,31,31,31,31||50|
+35.529387784169124|sizzlipede|Toxic Orb|Flash Fire|snore,venoshock,leechlife,attract|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+35.04052326739978|sizzlipede|Air Balloon|Flash Fire|facade,snore,brutalswing,bugbuzz|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+34.279103160203995|sizzlipede|Choice Specs|Flame Body|wrap,sleeptalk,heatwave,bugbite|Relaxed|252,0,4,252,0,0||31,31,31,31,31,31||50|
+32.02206254894158|sizzlipede|Sea Incense|Flash Fire|crunch,firelash,flamewheel,rest|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.295133802876915|sizzlipede|Rose Incense|Flame Body|bugbuzz,crunch,defensecurl,knockoff|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+27.804491472270215|sizzlipede|Sitrus Berry|Flash Fire|bite,firespin,substitute,scald|Naive|164,0,252,0,0,92||31,31,31,31,31,31||50|
+27.535082737786023|sizzlipede|Blunder Policy|Flash Fire|scald,round,rollout,rest|Careful|236,0,20,0,252,0||31,31,31,31,31,31||50|
+27.21226539371406|sizzlipede|Eject Button|White Smoke|flamewheel,slam,powerwhip,snore|Gentle|44,44,0,188,180,52||31,31,31,31,31,31||50|
+26.647031673671112|sizzlipede|Salac Berry|White Smoke|strugglebug,wrap,protect,endure|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.611792862275205|sizzlipede|Aguav Berry|White Smoke|brutalswing,slam,bugbuzz,burnup|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+26.441551857819004|sizzlipede|Leppa Berry|White Smoke|coil,crunch,rollout,firespin|Gentle|4,252,0,0,252,0||31,31,31,31,31,31||50|
+26.14543853434701|sizzlipede|Grip Claw|Flash Fire|rest,crunch,heatwave,round|Lax|0,252,252,4,0,0||31,31,31,31,31,31||50|
+24.25698732598282|sizzlipede|Metal Coat|Flash Fire|burnup,lunge,wrap,venoshock|Rash|60,148,76,164,0,60||31,31,31,31,31,31||50|
+24.147311103352017|sizzlipede|Toxic Orb|Flash Fire|lunge,sleeptalk,flamewheel,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+23.66416130499056|sizzlipede|Yache Berry|White Smoke|smokescreen,bugbite,flamewheel,slam|Modest|252,0,4,252,0,0||31,0,31,31,31,31||50|
+23.4578431407888|sizzlipede|Eject Pack|Flash Fire|powerwhip,ember,smokescreen,firelash|Jolly|140,0,212,0,0,156||31,31,31,31,31,31||50|
+22.36538134733116|sizzlipede|Pecha Berry|Flame Body|coil,defensecurl,facade,protect|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+15.540530733620033|sizzlipede|Black Sludge|Flash Fire|smokescreen,burnup,bugbuzz,rest|Bold|156,0,252,0,100,0||31,31,31,31,31,31||50|
+34.35413042562021|shelmet|Custap Berry|Shell Armor|leechlife,acid,mindreader,rest|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+32.3438258312083|shelmet|Float Stone|Overcoat|doubleedge,mindreader,protect,bugbuzz|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.759624379422107|shelmet|Dragon Fang|Shell Armor|bodyslam,skittersmack,energyball,feint|Careful|84,4,252,0,156,12||31,31,31,31,31,31||50|
+30.998886285742284|shelmet|Roseli Berry|Hydration|energyball,bugbuzz,finalgambit,substitute|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|
+30.22677785486516|shelmet|Passho Berry|Hydration|guardswap,acidarmor,bodyslam,yawn|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.357349815393093|shelmet|Ring Target|Shell Armor|substitute,yawn,bugbuzz,finalgambit|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.322518600879196|shelmet|Yache Berry|Shell Armor|strugglebug,batonpass,finalgambit,rest|Hasty|4,0,0,0,252,252||31,31,31,31,31,31||50|
+27.086119418517157|shelmet|Life Orb|Overcoat|venoshock,acidarmor,snore,absorb|Quiet|0,0,36,252,220,0||31,31,31,31,31,31||50|
+24.114079226124964|shelmet|Electric Seed|Overcoat|mindreader,doubleedge,mudshot,guardswap|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+23.222341275185787|shelmet|Ganlon Berry|Shell Armor|finalgambit,endure,rest,mudshot|Bold|0,0,252,4,252,0||31,31,31,31,31,31||50|
+22.75605045857664|shelmet|Binding Band|Hydration|leechlife,toxicspikes,doubleedge,sleeptalk|Lonely|0,212,0,124,0,172||31,31,31,31,31,31||50|
+18.74403288136908|shelmet|Choice Band|Shell Armor|attract,gigadrain,sleeptalk,acid|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.416639635884035|shelmet|Charcoal|Shell Armor|curse,round,sleeptalk,endure|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+17.798067445754675|shelmet|Cell Battery|Shell Armor|mudshot,megadrain,guardsplit,substitute|Careful|0,252,0,0,244,12||31,31,31,31,31,31||50|
+16.334089753217878|shelmet|Petaya Berry|Shell Armor|bodyslam,toxicspikes,encore,megadrain|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+15.048676828688754|shelmet|Black Sludge|Overcoat|doubleedge,bodyslam,guardswap,mudshot|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+13.871316004689117|shelmet|Grassy Seed|Overcoat|raindance,attract,endure,gigadrain|Serious|0,252,0,252,4,0||31,31,31,31,31,31||50|
+12.058900449541593|shelmet|Iron Ball|Overcoat|snore,toxicspikes,mudshot,curse|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+9.445729726797165|shelmet|Sharp Beak|Overcoat|curse,acidarmor,encore,finalgambit|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+7.006868647375117|shelmet|Lax Incense|Overcoat|mindreader,encore,curse,snore|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+36.47453073906312|deino|Heat Rock|Hustle|dracometeor,thief,rest,sunnyday|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+34.51950303074034|deino|Hard Stone|Hustle|doublehit,astonish,dragonbreath,earthpower|Impish|0,0,252,0,172,84||31,31,31,31,31,31||50|
+33.99844497315446|deino|Leftovers|Hustle|dracometeor,attract,doublehit,facade|Calm|252,0,0,252,0,4||31,0,31,31,31,31||50|
+31.7450763660111|deino|Mystic Water|Hustle|firefang,headsmash,headbutt,roar|Hasty|28,252,0,12,4,212||31,31,31,31,31,31||50|
+31.45264917790814|deino|Smooth Rock|Hustle|roar,uproar,hypervoice,endure|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+29.62239544796771|deino|Rowap Berry|Hustle|scaryface,slam,facade,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+28.72700849765939|deino|Poison Barb|Hustle|protect,bite,rest,endure|Adamant|20,180,148,0,116,44||31,31,31,31,31,31||50|
+28.583762728599606|deino|Sitrus Berry|Hustle|substitute,bite,earthpower,raindance|Timid|4,0,0,0,252,252||31,0,31,31,31,31||50|
+28.548402520043744|deino|Binding Band|Hustle|icefang,darkpulse,bite,firefang|Lonely|220,188,0,100,0,0||31,31,31,31,31,31||50|
+28.446286587700992|deino|Eject Button|Hustle|thunderfang,scaryface,taunt,focusenergy|Timid|140,0,84,4,28,252||31,31,31,31,31,31||50|
+27.703377261851696|deino|Full Incense|Hustle|crunch,substitute,scaryface,zenheadbutt|Relaxed|0,0,252,252,4,0||31,31,31,31,31,31||50|
+27.693269000734382|deino|Wacan Berry|Hustle|nastyplot,icefang,workup,round|Adamant|0,188,100,0,0,220||31,31,31,31,31,31||50|
+27.557965399172335|deino||Hustle|substitute,thunderwave,facade,sunnyday|Lonely|20,244,0,60,52,132||31,31,31,31,31,31||50|
+26.16001027939805|deino|Oran Berry|Hustle|superpower,zenheadbutt,thunderfang,focusenergy|Careful|0,140,0,0,140,228||31,31,31,31,31,31||50|
+26.0985334915014|deino|Kee Berry|Hustle|slam,assurance,protect,raindance|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+20.718060467684566|deino|Roseli Berry|Hustle|crunch,icefang,superpower,bite|Timid|92,0,116,228,20,52||31,0,31,31,31,31||50|
+20.470332304462364|deino|Utility Umbrella|Hustle|darkpulse,firefang,bite,hypervoice|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+20.198350892981708|deino|Odd Incense|Hustle|assurance,rest,doublehit,firefang|Bold|4,0,252,0,0,252||31,31,31,31,31,31||50|
+8.42819236019636|deino|Spell Tag|Hustle|endure,sunnyday,snore,raindance|Sassy|0,124,132,0,252,0||31,31,31,31,31,31||50|
+5.64698285034868|deino|Shuca Berry|Hustle|sleeptalk,rest,sunnyday,raindance|Bold|0,0,252,4,0,252||31,31,31,31,31,31||50|

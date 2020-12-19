@@ -1,0 +1,100 @@
+42.43689071664541|trubbish|Shuca Berry|Stench|explosion,recycle,rollout,sandattack|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+42.042085279223734|trubbish|Eject Button|Stench|attract,sludgewave,seedbomb,venoshock|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+41.72748216068864|trubbish|Luminous Moss|Aftermath|attract,toxic,acidspray,protect|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+36.70768892099869|trubbish|Aspear Berry|Sticky Hold|sludgewave,venoshock,poisongas,corrosivegas|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+32.837521016260276|trubbish|Luminous Moss|Aftermath|venomdrench,acidspray,toxic,venoshock|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+32.48207961393034|trubbish|Petaya Berry|Aftermath|venoshock,haze,sunnyday,painsplit|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+31.68845757507247|trubbish|Room Service|Aftermath|selfdestruct,venoshock,toxicspikes,gunkshot|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+31.416243861171257|trubbish|Tanga Berry|Aftermath|venoshock,toxic,attract,gigadrain|Lax|252,0,4,0,0,252||31,31,31,31,31,31||50|
+31.402229101221774|trubbish|Protector|Sticky Hold|clearsmog,venoshock,thief,sleeptalk|Lax|252,0,4,0,0,252||31,31,31,31,31,31||50|
+31.326051545865944|trubbish|Life Orb|Sticky Hold|thief,acidspray,attract,seedbomb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.79185279339815|trubbish|Leppa Berry|Aftermath|darkpulse,sandattack,toxic,painsplit|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.734943949902853|trubbish|Yache Berry|Stench|rockblast,thief,darkpulse,rest|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.037125441906838|trubbish|Charti Berry|Sticky Hold|rockblast,poisongas,toxic,sandattack|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.34948050171974|trubbish|Black Sludge|Sticky Hold|toxicspikes,stockpile,haze,darkpulse|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+26.254709894322787|trubbish|Hard Stone|Aftermath|poisongas,venoshock,toxic,spikes|Lax|252,0,4,0,0,252||31,31,31,31,31,31||50|
+25.96305877513967|trubbish|Terrain Extender|Sticky Hold|recycle,attract,rollout,substitute|Timid|0,0,92,172,0,244||31,0,31,31,31,31||50|
+21.995477781582153|trubbish|Tanga Berry|Stench|poisongas,toxic,amnesia,thief|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+15.110845005929633|trubbish|Tanga Berry|Stench|poisongas,toxicspikes,seedbomb,drainpunch|Sassy|252,0,4,0,252,0||31,31,31,31,31,31||50|
+11.62773782222662|trubbish|Tanga Berry|Stench|poisongas,snore,sandattack,painsplit|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+4.8295238383184875|trubbish|Hondew Berry|Sticky Hold|attract,sunnyday,stockpile,haze|Modest|92,0,252,164,0,0||31,0,31,31,31,31||50|
+31.163866048606046|morelull||Illuminate|ingrain,energyball,round,snore|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+30.709000848768955|morelull|Ganlon Berry|Effect Spore|grassknot,solarbeam,round,strengthsap|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+29.813144950323267|morelull|Shell Bell|Illuminate|round,solarbeam,energyball,grassknot|Calm|172,0,0,252,0,84||31,0,31,31,31,31||50|
+29.28751347159012|morelull|Mago Berry|Illuminate|ingrain,round,solarbeam,seedbomb|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.478946677474678|morelull|Icy Rock|Illuminate|round,solarbeam,megadrain,wonderroom|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+27.877787687506252|morelull|Shell Bell|Illuminate|round,moonlight,grassknot,absorb|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+27.66127148238219|morelull|Cheri Berry|Illuminate|protect,solarbeam,round,absorb|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+27.319387599344182|morelull|Shell Bell|Rain Dish|ingrain,energyball,round,wonderroom|Calm|0,0,0,4,252,252||31,31,31,31,31,31||50|
+27.068244210306943|morelull|Mago Berry|Illuminate|solarbeam,confuseray,rest,dazzlinggleam|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+26.521184566879384|morelull|Heat Rock|Illuminate|energyball,ingrain,solarbeam,wonderroom|Serious|4,0,0,0,252,252||31,31,31,31,31,31||50|
+26.10329725558696|morelull|Roseli Berry|Illuminate|solarbeam,rest,energyball,strengthsap|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+24.933444277836596|morelull|Babiri Berry|Illuminate|round,solarbeam,ingrain,substitute|Calm|44,0,212,0,252,0||31,0,31,31,31,31||50|
+24.268200180225357|morelull|Rose Incense|Effect Spore|solarbeam,round,rest,substitute|Gentle|236,92,0,92,68,20||31,31,31,31,31,31||50|
+23.94567368938778|morelull|Shell Bell|Illuminate|round,megadrain,energyball,moonlight|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+23.288601168624528|morelull|Silver Powder|Illuminate|solarbeam,ingrain,thunderwave,moonlight|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+22.506751702325122|morelull|Normal Gem|Rain Dish|seedbomb,ingrain,solarbeam,wonderroom|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+19.334889335821874|morelull|Sea Incense|Illuminate|energyball,ingrain,round,moonlight|Adamant|0,252,124,0,0,132||31,31,31,31,31,31||50|
+15.856882805383936|morelull|Protective Pads|Effect Spore|dreameater,round,ingrain,attract|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+12.353451486268419|morelull|Kebia Berry|Effect Spore|round,thunderwave,ingrain,dreameater|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+6.715003918971512|morelull|Shell Bell|Effect Spore|moonlight,thunderwave,ingrain,protect|Jolly|0,132,124,0,0,252||31,31,31,31,31,31||50|
+29.522867871504708|grookey|Muscle Band|Grassy Surge|attract,uproar,slam,grasspledge|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+29.158767195526284|grookey|Muscle Band|Grassy Surge|knockoff,drainpunch,assurance,facade|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.861046182003413|grookey|Ring Target|Overgrow|facade,grassknot,falseswipe,naturepower|Adamant|0,204,52,0,252,0||31,31,31,31,31,31||50|
+28.257056668847433|grookey|Cheri Berry|Overgrow|rest,substitute,acrobatics,solarblade|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.9987597068338|grookey|Life Orb|Grassy Surge|round,acrobatics,substitute,falseswipe|Jolly|36,164,44,0,12,252||31,31,31,31,31,31||50|
+27.786725725807713|grookey|Enigma Berry|Overgrow|rest,drainpunch,megakick,woodhammer|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.35655361531008|grookey|Muscle Band|Grassy Surge|acrobatics,round,assurance,magicalleaf|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+20.95076372451914|grookey|Life Orb|Grassy Surge|assurance,acrobatics,fakeout,razorleaf|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+19.130774758661993|grookey|Petaya Berry|Overgrow|grassknot,facade,substitute,falseswipe|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
+18.320095400582353|grookey|Ring Target|Grassy Surge|round,facade,fakeout,razorleaf|Jolly|36,164,44,0,12,252||31,31,31,31,31,31||50|
+16.23157706659032|grookey|Salac Berry|Grassy Surge|slam,assurance,uproar,woodhammer|Serious|252,0,252,4,0,0||31,31,31,31,31,31||50|
+15.366907941155644|grookey|Black Sludge|Grassy Surge|uproar,razorleaf,drainpunch,lowkick|Timid|100,0,84,60,12,252||31,0,31,31,31,31||50|
+13.39292418530769|grookey|Air Balloon|Grassy Surge|drainpunch,round,fakeout,fling|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+13.229833003433901|grookey|Expert Belt|Grassy Surge|falseswipe,round,substitute,growth|Jolly|36,164,44,0,12,252||31,31,31,31,31,31||50|
+12.703364751551701|grookey|Life Orb|Grassy Surge|grassyglide,fling,round,focusenergy|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+11.649725990499542|grookey|Eject Pack|Grassy Surge|fakeout,substitute,growl,drainpunch|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+11.350273200040538|grookey|Rowap Berry|Overgrow|focusenergy,swift,rest,endure|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+8.792670858163117|grookey|Protective Pads|Overgrow|workup,rest,attract,drainpunch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+8.679108203888962|grookey|Electric Seed|Overgrow|grassknot,substitute,falseswipe,endure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+8.449842184714777|grookey|Silver Powder|Overgrow|fakeout,falseswipe,round,facade|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+38.19557680689556|dratini|Pecha Berry|Shed Skin|hydropump,icebeam,slam,brutalswing|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+33.76680119534714|dratini|Assault Vest|Shed Skin|hydropump,waterpulse,headbutt,irontail|Adamant|0,228,28,0,252,0||31,31,31,31,31,31||50|
+32.95621325954082|dratini|Mago Berry|Shed Skin|breakingswipe,hyperbeam,headbutt,hydropump|Adamant|0,236,212,0,0,60||31,31,31,31,31,31||50|
+32.72020610251673|dratini|Occa Berry|Shed Skin|icebeam,thunderwave,twister,protect|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+32.059598933243365|dratini|Pecha Berry|Marvel Scale|attract,icebeam,dragonbreath,waterpulse|Adamant|0,228,28,0,252,0||31,31,31,31,31,31||50|
+31.683842684845708|dratini|Flame Orb|Marvel Scale|dragonbreath,attract,fireblast,hail|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+30.89222329663206|dratini|Black Belt|Marvel Scale|sleeptalk,attract,flamethrower,protect|Bold|0,0,4,0,252,252||31,31,31,31,31,31||50|
+30.592503240283346|dratini|Mago Berry|Shed Skin|breakingswipe,hyperbeam,thunderwave,swift|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+29.955447514382705|dratini|Room Service|Marvel Scale|attract,hydropump,thunderbolt,irontail|Adamant|0,196,124,0,0,188||31,31,31,31,31,31||50|
+29.583508022791477|dratini|Cell Battery|Shed Skin|dragontail,waterpulse,icywind,scaleshot|Calm|0,0,12,244,252,0||31,0,31,31,31,31||50|
+29.49497583735682|dratini|Roseli Berry|Marvel Scale|waterpulse,attract,slam,fireblast|Jolly|172,0,0,0,124,212||31,31,31,31,31,31||50|
+29.197724883329638|dratini|Flame Orb|Marvel Scale|fireblast,dragonbreath,outrage,twister|Lax|188,0,84,236,0,0||31,31,31,31,31,31||50|
+28.447208404276587|dratini|Cheri Berry|Marvel Scale|dragonbreath,attract,sunnyday,outrage|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+27.604909663860358|dratini|Flame Orb|Shed Skin|dragonbreath,waterpulse,sunnyday,bodyslam|Timid|0,0,0,108,148,252||31,0,31,31,31,31||50|
+27.201409508416383|dratini|Salac Berry|Shed Skin|dragonpulse,twister,hydropump,thunderwave|Sassy|0,4,0,252,252,0||31,31,31,31,31,0||50|
+25.600166905371857|dratini|Cheri Berry|Shed Skin|firespin,raindance,thunderwave,dragontail|Timid|0,0,0,108,148,252||31,0,31,31,31,31||50|
+22.10813419084283|dratini|Leppa Berry|Shed Skin|protect,breakingswipe,headbutt,twister|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+21.640003075683566|dratini|Rocky Helmet|Shed Skin|protect,headbutt,hyperbeam,brutalswing|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+20.310230695016052|dratini|Flame Orb|Marvel Scale|twister,dragonbreath,thunderwave,dragonrush|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+20.12520459952113|dratini|Pecha Berry|Shed Skin|raindance,hydropump,twister,gigaimpact|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+23.568412784953363|caterpie|Magnet|Run Away|stringshot,bugbite,electroweb,tackle|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.671619286053744|caterpie|King's Rock|Run Away|stringshot,electroweb,bugbite,tackle|Serious|252,252,0,0,4,0||31,31,31,31,31,31||50|
+22.66146490026944|caterpie|Electric Seed|Shield Dust|bugbite,electroweb,tackle,stringshot|Lonely|196,252,0,60,0,0||31,31,31,31,31,31||50|
+21.65185619955255|caterpie|Grepa Berry|Shield Dust|bugbite,stringshot,electroweb,tackle|Lonely|196,252,0,60,0,0||31,31,31,31,31,31||50|
+21.595615212331705|caterpie|Chilan Berry|Shield Dust|stringshot,tackle,bugbite,electroweb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.548724605707548|caterpie|Absorb Bulb|Shield Dust|stringshot,bugbite,tackle,electroweb|Lonely|196,252,0,60,0,0||31,31,31,31,31,31||50|
+21.3410686426723|caterpie|Payapa Berry|Shield Dust|electroweb,tackle,stringshot,bugbite|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+21.12919372760752|caterpie|Poison Barb|Run Away|stringshot,bugbite,tackle,electroweb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.66263894239486|caterpie|Soft Sand|Shield Dust|electroweb,tackle,stringshot,bugbite|Naive|204,252,0,0,0,52||31,31,31,31,31,31||50|
+20.60404613005274|caterpie|Maranga Berry|Shield Dust|stringshot,electroweb,tackle,bugbite|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.46980506579769|caterpie|Big Root|Run Away|bugbite,stringshot,electroweb,tackle|Lax|20,164,244,52,0,28||31,31,31,31,31,31||50|
+19.669457414691035|caterpie|Electric Seed|Shield Dust|stringshot,tackle,electroweb,bugbite|Rash|236,92,0,0,0,180||31,31,31,31,31,31||50|
+18.851477961054723|caterpie|Electric Seed|Run Away|electroweb,bugbite,stringshot,tackle|Lonely|196,252,0,60,0,0||31,31,31,31,31,31||50|
+17.702120291477666|caterpie|Kasib Berry|Shield Dust|tackle,stringshot,bugbite,electroweb|Impish|252,0,4,0,252,0||31,31,31,31,31,31||50|
+15.728859695452412|caterpie|Rindo Berry|Run Away|electroweb,tackle,bugbite,stringshot|Mild|0,188,0,244,76,0||31,31,31,31,31,31||50|
+15.419724383286962|caterpie|Big Root|Shield Dust|stringshot,bugbite,tackle,electroweb|Mild|236,0,0,212,60,0||31,31,31,31,31,31||50|
+14.874982692592456|caterpie|Toxic Orb|Run Away|bugbite,tackle,electroweb,stringshot|Sassy|4,0,0,252,252,0||31,31,31,31,31,0||50|
+13.649585336761037|caterpie|Persim Berry|Shield Dust|electroweb,bugbite,tackle,stringshot|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+12.986371038461233|caterpie|Silk Scarf|Shield Dust|electroweb,bugbite,tackle,stringshot|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+11.421403550917516|caterpie|Electric Seed|Shield Dust|electroweb,stringshot,tackle,bugbite|Mild|236,0,0,212,60,0||31,31,31,31,31,31||50|

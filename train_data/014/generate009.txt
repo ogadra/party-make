@@ -1,0 +1,100 @@
+|tyrogue|Terrain Extender|Vital Spirit|substitute,protect,lowkick,sunnyday|Naughty|252,236,20,0,0,0||31,31,31,31,31,31||50|
+|tyrogue|Cheri Berry|Vital Spirit|rest,earthquake,lowkick,attract|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|tyrogue|Eject Button|Guts|protect,lowkick,machpunch,bulletpunch|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|tyrogue|Leftovers|Vital Spirit|machpunch,brickbreak,lowkick,protect|Naughty|252,236,20,0,0,0||31,31,31,31,31,31||50|
+|tyrogue|Cheri Berry|Guts|brickbreak,machpunch,bulkup,protect|Naughty|252,236,20,0,0,0||31,31,31,31,31,31||50|
+|tyrogue|Big Root|Vital Spirit|machpunch,protect,focusenergy,uproar|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|tyrogue|Red Card|Vital Spirit|earthquake,protect,machpunch,bulletpunch|Lax|148,108,252,0,0,0||31,31,31,31,31,31||50|
+|tyrogue|Black Belt|Vital Spirit|sunnyday,earthquake,brickbreak,megapunch|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|tyrogue|Big Root|Guts|lowkick,megakick,protect,workup|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|tyrogue|Rawst Berry|Vital Spirit|brickbreak,machpunch,sunnyday,bulletpunch|Naughty|252,236,20,0,0,0||31,31,31,31,31,31||50|
+|tyrogue|Misty Seed|Guts|uproar,sleeptalk,lowkick,facade|Modest|76,0,172,172,52,36||31,31,31,31,31,31||50|
+|tyrogue|Leftovers|Vital Spirit|lowkick,protect,uproar,bulletpunch|Careful|228,76,28,0,92,84||31,31,31,31,31,31||50|
+|tyrogue|Oran Berry|Vital Spirit|brickbreak,earthquake,sleeptalk,rapidspin|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|tyrogue|Leftovers|Vital Spirit|uproar,rest,earthquake,lowsweep|Careful|228,76,28,0,92,84||31,31,31,31,31,31||50|
+|tyrogue|Bright Powder|Vital Spirit|sleeptalk,earthquake,lowkick,endure|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|tyrogue|Leftovers|Vital Spirit|earthquake,uproar,megakick,rapidspin|Serious|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|tyrogue|Rawst Berry|Vital Spirit|lowkick,sleeptalk,earthquake,bulkup|Careful|4,68,100,0,252,84||31,31,31,31,31,31||50|
+|tyrogue|Iron Ball|Vital Spirit|brickbreak,earthquake,uproar,attract|Careful|228,76,28,0,92,84||31,31,31,31,31,31||50|
+|tyrogue|Terrain Extender|Vital Spirit|lowkick,earthquake,protect,megakick|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|tyrogue|Cheri Berry|Vital Spirit|earthquake,lowkick,sleeptalk,bulkup|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|pidove|Occa Berry|Super Luck|raindance,airslash,agility,gust|Careful|0,252,28,0,228,0||31,31,31,31,31,31||50|
+|pidove|Kasib Berry|Big Pecks|airslash,protect,raindance,attract|Relaxed|252,252,0,4,0,0||31,31,31,31,31,0||50|
+|pidove|Eject Button|Big Pecks|sleeptalk,attract,airslash,raindance|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Rock Incense|Big Pecks|sleeptalk,dualwingbeat,raindance,workup|Adamant|0,252,52,0,204,0||31,31,31,31,31,31||50|
+|pidove|Binding Band|Big Pecks|airslash,dualwingbeat,attract,defog|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|pidove|Eject Button|Big Pecks|leer,sleeptalk,workup,roost|Sassy|0,0,180,252,76,0||31,31,31,31,31,0||50|
+|pidove|Rocky Helmet|Super Luck|raindance,agility,attract,substitute|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Kasib Berry|Big Pecks|raindance,airslash,swift,dualwingbeat|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Eject Button|Rivalry|detect,raindance,swagger,tailwind|Adamant|236,44,4,0,204,20||31,31,31,31,31,31||50|
+|pidove|Float Stone|Super Luck|airslash,raindance,workup,tailwind|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Mago Berry|Rivalry|swagger,detect,raindance,heatwave|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Wacan Berry|Super Luck|facade,leer,dualwingbeat,taunt|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Red Card|Big Pecks|sleeptalk,swift,workup,aircutter|Relaxed|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|pidove|Eject Button|Big Pecks|workup,dualwingbeat,raindance,agility|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Miracle Seed|Rivalry|snore,airslash,leer,workup|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Twisted Spoon|Big Pecks|agility,fly,workup,endure|Impish|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|pidove|Bright Powder|Big Pecks|raindance,swift,workup,morningsun|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|pidove|Eject Button|Rivalry|airslash,raindance,workup,tailwind|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|pidove|Pomeg Berry|Rivalry|leer,workup,agility,steelwing|Sassy|252,0,0,252,4,0||31,31,31,31,31,0||50|
+|pidove|Toxic Orb|Big Pecks|airslash,swift,dualwingbeat,rest|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|ferroseed|Oran Berry|Iron Barbs|thunderbolt,gravity,payback,solarbeam|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|ferroseed|Qualot Berry|Iron Barbs|thunderbolt,pinmissile,gigadrain,ingrain|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+|ferroseed|Eject Button|Iron Barbs|thunderbolt,payback,gigadrain,thunderwave|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|ferroseed|Qualot Berry|Iron Barbs|pinmissile,payback,leechseed,ingrain|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|ferroseed|Choice Band|Iron Barbs|thunderbolt,payback,leechseed,facade|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+|ferroseed|Charcoal|Iron Barbs|thunderbolt,ingrain,leechseed,facade|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|ferroseed|Metronome|Iron Barbs|thunderbolt,payback,pinmissile,metalclaw|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|ferroseed|Room Service|Iron Barbs|harden,payback,thunderbolt,toxic|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+|ferroseed|Wide Lens|Iron Barbs|pinmissile,gigadrain,leechseed,sunnyday|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|ferroseed|Binding Band|Iron Barbs|ingrain,poisonjab,payback,metalclaw|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|ferroseed|Qualot Berry|Iron Barbs|endure,gravity,rest,harden|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+|ferroseed|Kee Berry|Iron Barbs|thunderbolt,curse,payback,gravity|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+|ferroseed|Starf Berry|Iron Barbs|selfdestruct,ingrain,payback,sunnyday|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+|ferroseed|Qualot Berry|Iron Barbs|knockoff,gigadrain,selfdestruct,steelroller|Serious|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|ferroseed|Electric Seed|Iron Barbs|pinmissile,knockoff,payback,leechseed|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|ferroseed|Qualot Berry|Iron Barbs|selfdestruct,thunderbolt,round,acidspray|Naive|76,0,180,0,0,252||31,31,31,31,31,31||50|
+|ferroseed|Shed Shell|Iron Barbs|payback,ingrain,thunderbolt,steelroller|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|ferroseed|King's Rock|Iron Barbs|pinmissile,curse,harden,toxic|Bold|52,0,20,220,100,116||31,0,31,31,31,31||50|
+|ferroseed|Qualot Berry|Iron Barbs|pinmissile,payback,thunderbolt,steelroller|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|ferroseed|Qualot Berry|Iron Barbs|selfdestruct,gravity,pinmissile,ironhead|Relaxed|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|exeggcute|Misty Seed|Chlorophyll|curse,facade,seedbomb,bulletseed|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|exeggcute|Misty Seed|Chlorophyll|ancientpower,grassknot,psychic,confusion|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|exeggcute|Throat Spray|Harvest|seedbomb,ancientpower,selfdestruct,rest|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|exeggcute|Metal Coat|Chlorophyll|curse,grassknot,facade,sleeppowder|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|exeggcute|Misty Seed|Harvest|seedbomb,curse,facade,poisonpowder|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|exeggcute|Misty Seed|Chlorophyll|ingrain,curse,seedbomb,powerswap|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|exeggcute|Misty Seed|Harvest|psychic,curse,selfdestruct,grassyglide|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|exeggcute|Hard Stone|Harvest|powerswap,grassknot,facade,protect|Lonely|204,180,0,84,12,28||31,31,31,31,31,31||50|
+|exeggcute|Custap Berry|Harvest|ancientpower,barrage,selfdestruct,grassyterrain|Bold|180,0,252,0,76,0||31,0,31,31,31,31||50|
+|exeggcute|Misty Seed|Harvest|selfdestruct,seedbomb,curse,solarbeam|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|exeggcute|Focus Sash|Chlorophyll|barrage,seedbomb,dreameater,sludgebomb|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|exeggcute|Pecha Berry|Chlorophyll|psychic,dreameater,seedbomb,psybeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|exeggcute|Spell Tag|Chlorophyll|worryseed,psychic,seedbomb,headbutt|Adamant|76,252,180,0,0,0||31,31,31,31,31,31||50|
+|exeggcute|Throat Spray|Chlorophyll|seedbomb,psychic,dreameater,round|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|exeggcute|Aspear Berry|Chlorophyll|psychic,ingrain,seedbomb,barrage|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|exeggcute|Throat Spray|Harvest|facade,seedbomb,dreameater,snore|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|exeggcute|Misty Seed|Chlorophyll|ancientpower,psychic,dreameater,attract|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|exeggcute|Throat Spray|Chlorophyll|dreameater,psychic,solarbeam,ancientpower|Sassy|4,0,0,252,252,0||31,31,31,31,31,0||50|
+|exeggcute|Safety Goggles|Chlorophyll|dreameater,psychic,curse,rest|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|exeggcute|Apicot Berry|Chlorophyll|psychic,grassknot,worryseed,moonlight|Rash|28,0,0,252,0,228||31,31,31,31,31,31||50|
+|chinchou|Wave Incense|Illuminate|aquaring,icebeam,waterfall,dive|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|chinchou|Icy Rock|Volt Absorb|scald,aquaring,thunderwave,bounce|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|chinchou|Float Stone|Water Absorb|bubblebeam,blizzard,dive,confuseray|Relaxed|4,0,252,252,0,0||31,31,31,31,31,0||50|
+|chinchou|Charti Berry|Water Absorb|substitute,icebeam,thunderwave,blizzard|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|chinchou|Grepa Berry|Water Absorb|icebeam,aquaring,dive,amnesia|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|chinchou|Psychic Seed|Illuminate|icebeam,blizzard,dive,bubblebeam|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|chinchou|Aguav Berry|Illuminate|aquaring,dive,blizzard,waterpulse|Bold|0,0,252,252,4,0||31,31,31,31,31,31||50|
+|chinchou|Charti Berry|Water Absorb|icebeam,thunderwave,scald,takedown|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+|chinchou|Wave Incense|Illuminate|dive,blizzard,icebeam,round|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|chinchou|Wave Incense|Illuminate|watergun,bubblebeam,dive,amnesia|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|chinchou|Shell Bell|Illuminate|icebeam,scald,waterfall,rest|Adamant|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|chinchou|Big Root|Illuminate|icebeam,scald,sleeptalk,charge|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|
+|chinchou|Charcoal|Illuminate|icebeam,waterfall,watergun,substitute|Jolly|156,4,52,0,44,252||31,31,31,31,31,31||50|
+|chinchou|Silver Powder|Illuminate|waterfall,takedown,icebeam,voltswitch|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|
+|chinchou|Charcoal|Illuminate|icebeam,rest,bubblebeam,endure|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|chinchou|Psychic Seed|Illuminate|waterfall,dive,icebeam,facade|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|
+|chinchou|Yache Berry|Illuminate|watergun,rest,dive,raindance|Adamant|108,172,124,0,100,4||31,31,31,31,31,31||50|
+|chinchou|Psychic Seed|Illuminate|thunderwave,rest,substitute,supersonic|Adamant|196,196,44,0,28,44||31,31,31,31,31,31||50|
+|chinchou|Charcoal|Illuminate|waterfall,bubblebeam,icebeam,sleeptalk|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|
+|chinchou|Psychic Seed|Illuminate|bubblebeam,dive,watergun,waterfall|Bold|252,0,252,0,0,4||31,0,31,31,31,31||50|

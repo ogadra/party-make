@@ -1,0 +1,100 @@
+31.34937800088839|wooper|Never-Melt Ice|Water Absorb|facade,protect,bodyslam,blizzard|Naughty|20,172,4,252,0,60||31,31,31,31,31,31||50|
+29.693600558989786|wooper|Apicot Berry|Water Absorb|bodyslam,icebeam,swallow,acidspray|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+26.74015278579127|wooper|Destiny Knot|Water Absorb|bodyslam,rest,blizzard,stockpile|Relaxed|0,4,252,252,0,0||31,31,31,31,31,31||50|
+25.531713513536523|wooper|Electric Seed|Unaware|stompingtantrum,whirlpool,protect,ancientpower|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+25.48053789150042|wooper|Focus Band|Unaware|icywind,eerieimpulse,watergun,tailwhip|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+25.455794237399115|wooper|Chople Berry|Damp|ancientpower,blizzard,stockpile,haze|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+25.01705596020086|wooper|Focus Band|Unaware|rest,amnesia,muddywater,sludgewave|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.12955009322158|wooper|Passho Berry|Unaware|dive,stockpile,blizzard,facade|Quiet|0,196,0,212,100,0||31,31,31,31,31,0||50|
+23.72679202486404|wooper|Focus Band|Water Absorb|ancientpower,bodyslam,protect,blizzard|Timid|252,0,140,0,0,116||31,0,31,31,31,31||50|
+22.740507986002633|wooper|Focus Band|Water Absorb|protect,eerieimpulse,icywind,waterfall|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.367560256664813|wooper|Ring Target|Unaware|tailwhip,whirlpool,stockpile,icywind|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+20.523380565066358|wooper|Chople Berry|Water Absorb|ancientpower,tailwhip,icywind,aquatail|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+20.02505586879763|wooper|Qualot Berry|Water Absorb|ancientpower,rest,amnesia,slam|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+19.806940966411513|wooper||Damp|bodyslam,protect,ancientpower,curse|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+19.63435299883654|wooper|Life Orb|Unaware|bodyslam,ancientpower,swallow,afteryou|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+19.354437594670806|wooper|Micle Berry|Water Absorb|stompingtantrum,tailwhip,icywind,rest|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+18.245334934634272|wooper|Chople Berry|Unaware|bodyslam,stockpile,ancientpower,round|Mild|116,4,0,252,20,116||31,31,31,31,31,31||50|
+15.9774793130151|wooper|Focus Band|Damp|stompingtantrum,icywind,tailwhip,aquatail|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+15.272228103411305|wooper|Kelpsy Berry|Water Absorb|stompingtantrum,icywind,muddywater,waterfall|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+10.82796337194913|wooper|Wise Glasses|Water Absorb|snore,recover,sludgebomb,stockpile|Serious|0,0,252,0,252,4||31,31,31,31,31,31||50|
+33.28761401073233|wooloo|Snowball|Fluffy|payback,round,endure,agility|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+31.666833584940296|wooloo|Mago Berry|Bulletproof|payback,stomp,copycat,guardswap|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.323690240748608|wooloo|Throat Spray|Fluffy|headbutt,substitute,payback,electroball|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+30.030864353224477|wooloo|Rowap Berry|Fluffy|substitute,headbutt,doubleedge,sleeptalk|Relaxed|252,0,4,0,252,0||31,31,31,31,31,0||50|
+28.397552541012573|wooloo|Wise Glasses|Run Away|headbutt,tackle,copycat,facade|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+28.055273290355405|wooloo|Liechi Berry|Run Away|guardswap,round,doublekick,swagger|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.66554617695769|wooloo|Pixie Plate|Run Away|agility,stomp,copycat,protect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+27.07178770903448|wooloo|Protector|Run Away|counter,headbutt,tackle,agility|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.8942817597882|wooloo|Soft Sand|Fluffy|agility,round,doublekick,endure|Hasty|52,68,0,92,44,252||31,31,31,31,31,31||50|
+25.94911368628838|wooloo|Wise Glasses|Fluffy|counter,cottonguard,attract,agility|Careful|116,164,0,0,228,0||31,31,31,31,31,31||50|
+25.481877974741625|wooloo|Grip Claw|Run Away|doubleedge,counter,endure,swagger|Sassy|252,0,252,0,4,0||31,31,31,31,31,0||50|
+22.997627612308122|wooloo|Wise Glasses|Fluffy|counter,substitute,tackle,guardsplit|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+22.2715255103513|wooloo|Rindo Berry|Fluffy|reversal,thunderwave,endure,takedown|Hasty|52,68,0,92,44,252||31,31,31,31,31,31||50|
+22.057538013454852|wooloo|Oran Berry|Fluffy|round,takedown,doublekick,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+16.539132614090676|wooloo|Flame Orb|Fluffy|doubleedge,endure,doublekick,takedown|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+15.617327955633327|wooloo|Petaya Berry|Run Away|rest,counter,thunderwave,protect|Brave|92,156,84,132,44,0||31,31,31,31,31,0||50|
+15.281684271821772|wooloo|Life Orb|Run Away|tackle,rest,headbutt,grassyglide|Timid|132,0,4,44,180,148||31,31,31,31,31,31||50|
+14.617904272051584|wooloo|Petaya Berry|Bulletproof|rest,guardsplit,counter,grassyglide|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+11.009006927813006|wooloo|Kebia Berry|Run Away|copycat,tackle,counter,headbutt|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+10.493488739319103|wooloo|Sea Incense|Run Away|tackle,payback,doubleedge,agility|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+35.81512449439861|roggenrola|Sitrus Berry|Sturdy|sandtomb,attract,stoneedge,facade|Careful|0,252,0,0,4,252||31,31,31,31,31,31||50|
+35.301358548790795|roggenrola|Weakness Policy|Sand Force|rest,rocktomb,heavyslam,headbutt|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+33.896558553166265|roggenrola|Rowap Berry|Sand Force|mudslap,sandtomb,endure,stoneedge|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+32.224833461726526|roggenrola|Tamato Berry|Sturdy|earthquake,mudslap,rest,protect|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+32.10521131439417|roggenrola|Sitrus Berry|Sturdy|stoneedge,sandtomb,mudslap,earthquake|Calm|60,0,252,0,0,196||31,0,31,31,31,31||50|
+31.52388613032395|roggenrola|Aguav Berry|Sand Force|heavyslam,mudslap,bodypress,stoneedge|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+31.41387493861436|roggenrola|Float Stone|Sturdy|sandtomb,mudslap,irondefense,round|Careful|252,172,0,0,0,84||31,31,31,31,31,31||50|
+30.514743305994003|roggenrola|Sitrus Berry|Sturdy|stoneedge,sandtomb,endure,substitute|Calm|60,0,252,0,0,196||31,0,31,31,31,31||50|
+30.324713623765426|roggenrola|Float Stone|Sand Force|smackdown,mudslap,heavyslam,sandstorm|Careful|252,172,0,0,0,84||31,31,31,31,31,31||50|
+30.26064697203896|roggenrola|Sitrus Berry|Sturdy|sandtomb,smackdown,endure,bodypress|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+28.341103755108016|roggenrola|Pixie Plate|Sand Force|mudslap,smackdown,irondefense,earthpower|Careful|252,172,0,0,0,84||31,31,31,31,31,31||50|
+28.073297860840366|roggenrola|Room Service|Weak Armor|rest,rocktomb,sleeptalk,explosion|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+27.3330401608927|roggenrola|Aguav Berry|Sturdy|stoneedge,tackle,irondefense,flashcannon|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+26.850781176990502|roggenrola|Bright Powder|Sturdy|rest,smackdown,snore,attract|Sassy|228,0,52,0,228,0||31,31,31,31,31,0||50|
+26.178635463817653|roggenrola|Iron Ball|Sturdy|gravity,sandtomb,attract,protect|Gentle|4,0,0,0,252,252||31,31,31,31,31,31||50|
+24.93560250440019|roggenrola|Sitrus Berry|Sturdy|takedown,sandtomb,endure,irondefense|Gentle|4,0,0,0,252,252||31,31,31,31,31,31||50|
+21.82367223959994|roggenrola|Shuca Berry|Sand Force|mudslap,endure,rocktomb,meteorbeam|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+20.846290718887886|roggenrola|Eject Button|Sturdy|mudslap,rest,attract,round|Calm|60,0,252,0,0,196||31,0,31,31,31,31||50|
+15.320017771157614|roggenrola|Bright Powder|Sand Force|snore,sandtomb,mudslap,heavyslam|Quiet|252,0,124,132,0,0||31,31,31,31,31,0||50|
+10.150802887741023|roggenrola|Toxic Orb|Sturdy|sleeptalk,endure,mudslap,irondefense|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+41.14539931792872|psyduck|Eject Button|Cloud Nine|amnesia,psychic,rest,confusion|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+38.53570231332044|psyduck|Aguav Berry|Damp|tailwhip,whirlpool,confuseray,psybeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+37.482888180722234|psyduck|Iapapa Berry|Damp|tailwhip,whirlpool,hydropump,icywind|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+37.36754096757819|psyduck|Metal Coat|Swift Swim|hydropump,rest,psychic,soak|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+32.8222830151329|psyduck|Never-Melt Ice|Damp|icywind,confuseray,swift,soak|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+32.330689216431026|psyduck|Qualot Berry|Swift Swim|attract,psyshock,clearsmog,furyswipes|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+31.798066791926303|psyduck|Aguav Berry|Damp|tailwhip,zenheadbutt,watergun,protect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.12441641448615|psyduck|Persim Berry|Damp|icywind,zenheadbutt,watergun,seismictoss|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+30.377050388915897|psyduck|Poison Barb|Damp|icywind,swift,watergun,futuresight|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+29.34549871003084|psyduck|Choice Scarf|Cloud Nine|rest,whirlpool,tailwhip,zenheadbutt|Sassy|4,252,0,0,252,0||31,31,31,31,31,31||50|
+28.59353861191637|psyduck|Scope Lens|Cloud Nine|waterfall,whirlpool,zenheadbutt,raindance|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.77345930203373|psyduck|Aguav Berry|Damp|hydropump,confuseray,waterfall,amnesia|Sassy|4,252,0,0,252,0||31,31,31,31,31,31||50|
+27.480050402740908|psyduck|Black Glasses|Damp|psyshock,confuseray,whirlpool,seismictoss|Careful|100,116,116,0,164,12||31,31,31,31,31,31||50|
+26.27715003398107|psyduck|Persim Berry|Damp|icywind,tailwhip,confuseray,snore|Brave|204,116,0,0,188,0||31,31,31,31,31,0||50|
+24.576477296098517|psyduck|Persim Berry|Damp|hydropump,clearsmog,zenheadbutt,rest|Bold|0,0,148,0,228,132||31,0,31,31,31,31||50|
+24.543192135317764|psyduck|Payapa Berry|Damp|swift,whirlpool,clearsmog,sleeptalk|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+24.2376848623232|psyduck|Metal Coat|Damp|icywind,psybeam,hydropump,watergun|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.91226832527884|psyduck|Persim Berry|Damp|tailwhip,zenheadbutt,clearsmog,rest|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+23.6240461501254|psyduck|Power Herb|Swift Swim|psyshock,whirlpool,waterfall,lightscreen|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+19.680792309046616|psyduck|Room Service|Damp|raindance,tailwhip,clearsmog,yawn|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+35.297927594927515|foongus|King's Rock|Regenerator|attract,facade,payback,sludgebomb|Serious|0,4,252,252,0,0||31,31,31,31,31,31||50|
+29.87563004653671|foongus|Silk Scarf|Regenerator|synthesis,sludgebomb,round,defensecurl|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+29.856210831962713|foongus|Lax Incense|Effect Spore|foulplay,raindance,rest,sleeptalk|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+29.577418907105983|foongus|Silk Scarf|Regenerator|round,sludgebomb,astonish,megadrain|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+27.15519709538253|foongus|Choice Scarf|Effect Spore|bodyslam,sunnyday,growth,defensecurl|Relaxed|252,0,252,0,4,0||31,31,31,31,31,0||50|
+26.89360654415758|foongus|Choice Scarf|Regenerator|payback,attract,protect,sweetscent|Relaxed|252,0,252,0,4,0||31,31,31,31,31,0||50|
+25.427650920492624|foongus|Lax Incense|Regenerator|megadrain,round,energyball,ragepowder|Bold|92,0,252,0,164,0||31,0,31,31,31,31||50|
+25.248256638483458|foongus|Destiny Knot|Regenerator|round,protect,venoshock,foulplay|Bold|92,0,252,0,164,0||31,0,31,31,31,31||50|
+25.20797161295851|foongus|Room Service|Effect Spore|protect,growth,payback,astonish|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+24.606871731572713|foongus|Black Sludge|Effect Spore|defensecurl,rest,facade,attract|Jolly|244,140,124,0,0,0||31,31,31,31,31,31||50|
+24.393852625804822|foongus|Choice Scarf|Effect Spore|facade,growth,venoshock,spore|Relaxed|252,0,252,0,4,0||31,31,31,31,31,0||50|
+22.730753838724777|foongus|Rawst Berry|Regenerator|defensecurl,round,poisonpowder,rest|Bold|92,0,252,0,164,0||31,0,31,31,31,31||50|
+20.627052264427903|foongus|Choice Scarf|Regenerator|rollout,facade,payback,bodyslam|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+20.3952925313535|foongus|Charti Berry|Effect Spore|facade,protect,growth,sunnyday|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+19.346435444846232|foongus|Choice Scarf|Regenerator|protect,defensecurl,facade,rest|Relaxed|252,0,252,0,4,0||31,31,31,31,31,0||50|
+18.914605966067363|foongus|Blunder Policy|Regenerator|payback,facade,bodyslam,grassknot|Careful|252,0,0,0,4,252||31,31,31,31,31,31||50|
+12.281040628365334|foongus|Lax Incense|Regenerator|growth,protect,defensecurl,attract|Bold|92,0,252,0,164,0||31,0,31,31,31,31||50|
+11.81023578588632|foongus|Twisted Spoon|Effect Spore|growth,absorb,attract,astonish|Serious|0,4,252,252,0,0||31,31,31,31,31,31||50|
+10.391824371836982|foongus|Soft Sand|Regenerator|growth,sunnyday,attract,snore|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+7.2835636093574045|foongus|Cheri Berry|Regenerator|stunspore,defensecurl,growth,energyball|Bold|92,0,252,0,164,0||31,0,31,31,31,31||50|

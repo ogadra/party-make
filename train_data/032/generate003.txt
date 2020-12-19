@@ -1,0 +1,100 @@
+|silicobra|Dragon Scale|Sand Veil|dig,earthpower,poisontail,minimize|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|silicobra|Salac Berry|Sand Veil|dig,substitute,earthpower,snore|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|silicobra|Tanga Berry|Sand Veil|brutalswing,sandattack,drillrun,sandstorm|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|silicobra|Red Card|Sand Veil|drillrun,earthpower,dragonrush,brutalswing|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|silicobra|Coba Berry|Sand Veil|earthpower,dig,dragonrush,scaleshot|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|silicobra|Chilan Berry|Shed Skin|earthpower,drillrun,poisontail,bulldoze|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|silicobra|Leftovers|Shed Skin|drillrun,brutalswing,mudslap,facade|Relaxed|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|silicobra|Coba Berry|Sand Veil|slam,sandattack,dragonrush,headbutt|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|silicobra|Leftovers|Sand Spit|dig,earthpower,substitute,endure|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|silicobra|Poison Barb|Sand Veil|headbutt,dig,drillrun,wrap|Modest|0,0,148,252,108,0||31,0,31,31,31,31||50|
+|silicobra|Coba Berry|Sand Veil|dig,earthpower,drillrun,skittersmack|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|silicobra|Oran Berry|Shed Skin|dig,drillrun,poisontail,mudslap|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|silicobra|Leftovers|Sand Veil|drillrun,earthpower,poisontail,headbutt|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|silicobra|Dragon Fang|Shed Skin|glare,drillrun,dig,protect|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|silicobra|Lansat Berry|Sand Veil|drillrun,headbutt,earthpower,skittersmack|Modest|0,0,148,252,108,0||31,0,31,31,31,31||50|
+|silicobra|Coba Berry|Shed Skin|scorchingsands,dig,poisontail,drillrun|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|silicobra|Poison Barb|Sand Spit|substitute,dig,drillrun,minimize|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|silicobra|Black Glasses|Shed Skin|dig,drillrun,earthpower,facade|Modest|0,0,148,252,108,0||31,0,31,31,31,31||50|
+|silicobra|Roseli Berry|Sand Veil|drillrun,dig,glare,minimize|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|silicobra|Roseli Berry|Shed Skin|drillrun,brutalswing,earthpower,protect|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|seedot|Float Stone|Early Bird|swordsdance,absorb,tackle,synthesis|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|seedot|Dragon Fang|Early Bird|selfdestruct,tackle,foulplay,synthesis|Gentle|252,0,0,252,4,0||31,31,31,31,31,31||50|
+|seedot|Razor Claw|Early Bird|grassyterrain,selfdestruct,absorb,facade|Adamant|0,244,164,0,0,100||31,31,31,31,31,31||50|
+|seedot|Starf Berry|Pickpocket|selfdestruct,megadrain,absorb,solarbeam|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|seedot|Cell Battery|Early Bird|astonish,payback,tackle,round|Sassy|76,4,164,204,60,0||31,31,31,31,31,0||50|
+|seedot|Jaboca Berry|Early Bird|payback,foulplay,selfdestruct,sunnyday|Gentle|252,0,0,252,4,0||31,31,31,31,31,31||50|
+|seedot|Micle Berry|Early Bird|absorb,synthesis,selfdestruct,takedown|Impish|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|seedot|Dragon Scale|Chlorophyll|tackle,absorb,megadrain,nastyplot|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|seedot|Shed Shell|Early Bird|selfdestruct,tackle,seedbomb,swordsdance|Calm|0,0,0,4,252,252||31,31,31,31,31,31||50|
+|seedot|Mago Berry|Early Bird|astonish,payback,synthesis,dig|Impish|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|seedot|Oran Berry|Early Bird|round,takedown,payback,grassyglide|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|seedot|Quick Claw|Chlorophyll|takedown,megadrain,grassyglide,amnesia|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|seedot|Quick Claw|Early Bird|selfdestruct,takedown,explosion,astonish|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|seedot|Absorb Bulb|Pickpocket|payback,solarbeam,round,energyball|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|seedot|Yache Berry|Chlorophyll|absorb,megadrain,round,nastyplot|Impish|0,0,252,0,52,204||31,31,31,31,31,31||50|
+|seedot|Never-Melt Ice|Chlorophyll|explosion,energyball,payback,falseswipe|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|seedot|Quick Claw|Early Bird|absorb,payback,takedown,suckerpunch|Brave|0,68,252,0,188,0||31,31,31,31,31,0||50|
+|seedot|Micle Berry|Early Bird|round,absorb,astonish,dig|Lonely|0,252,0,0,212,44||31,31,31,31,31,31||50|
+|seedot|Kasib Berry|Chlorophyll|seedbomb,explosion,payback,naturepower|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+|seedot|Aguav Berry|Early Bird|absorb,round,explosion,nastyplot|Calm|20,0,124,4,156,204||31,0,31,31,31,31||50|
+|sandshrewalola|Damp Rock|Slush Rush|bide,xscissor,headbutt,irontail|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|sandshrewalola|Weakness Policy|Slush Rush|sunnyday,irontail,xscissor,workup|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sandshrewalola|Colbur Berry|Slush Rush|irontail,curse,shadowclaw,tripleaxel|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+|sandshrewalola|Binding Band|Slush Rush|xscissor,shadowclaw,irontail,workup|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|sandshrewalola|Kee Berry|Slush Rush|xscissor,sunnyday,shadowclaw,counter|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+|sandshrewalola|Assault Vest|Slush Rush|curse,rocktomb,irontail,leechlife|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|sandshrewalola|Throat Spray|Slush Rush|shadowclaw,irontail,xscissor,blizzard|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sandshrewalola|Damp Rock|Slush Rush|xscissor,irontail,bulldoze,stealthrock|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|sandshrewalola|Babiri Berry|Slush Rush|shadowclaw,irontail,bulldoze,irondefense|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|sandshrewalola|Passho Berry|Slush Rush|xscissor,icepunch,shadowclaw,hail|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|sandshrewalola|Air Balloon|Slush Rush|headbutt,endure,metalclaw,bide|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|sandshrewalola|Sharp Beak|Slush Rush|headbutt,xscissor,irontail,scratch|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sandshrewalola|Weakness Policy|Slush Rush|xscissor,irontail,sunnyday,mirrorcoat|Timid|204,0,0,52,0,252||31,0,31,31,31,31||50|
+|sandshrewalola|Room Service|Slush Rush|headbutt,xscissor,irontail,earthquake|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|sandshrewalola|Soft Sand|Slush Rush|irontail,rocktomb,xscissor,iciclespear|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandshrewalola|Oran Berry|Slush Rush|endure,headbutt,bide,slash|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandshrewalola|Damp Rock|Slush Rush|xscissor,irontail,bide,iceshard|Lax|244,0,252,12,0,0||31,31,31,31,31,31||50|
+|sandshrewalola|Choice Band|Snow Cloak|irontail,amnesia,tripleaxel,steelbeam|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandshrewalola|Utility Umbrella|Slush Rush|icepunch,bide,headbutt,bulldoze|Calm|0,0,0,76,252,180||31,0,31,31,31,31||50|
+|sandshrewalola|Weakness Policy|Slush Rush|rockslide,bide,irontail,shadowclaw|Careful|172,0,0,0,252,84||31,31,31,31,31,31||50|
+|mimejr|Power Herb|Filter|mimic,drainpunch,magicroom,trick|Sassy|4,116,252,60,76,0||31,31,31,31,31,31||50|
+|mimejr|Kelpsy Berry|Filter|shadowball,helpinghand,allyswitch,substitute|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|mimejr|Life Orb|Soundproof|endure,shadowball,mimic,teeterdance|Bold|252,0,4,0,252,0||31,0,31,31,31,31||50|
+|mimejr|Kee Berry|Filter|drainpunch,mimic,attract,lightscreen|Sassy|4,116,252,60,76,0||31,31,31,31,31,31||50|
+|mimejr|Iron Ball|Soundproof|safeguard,shadowball,psyshock,confuseray|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|mimejr|Jaboca Berry|Soundproof|endure,drainpunch,safeguard,tickle|Gentle|196,0,0,252,60,0||31,31,31,31,31,31||50|
+|mimejr|Chople Berry|Soundproof|endure,mimic,rest,substitute|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|mimejr|Life Orb|Filter|drainpunch,trickroom,mimic,copycat|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|mimejr|Custap Berry|Filter|shadowball,mimic,helpinghand,thunderbolt|Lax|0,188,252,68,0,0||31,31,31,31,31,31||50|
+|mimejr|Hard Stone|Filter|mimic,psyshock,drainpunch,brickbreak|Adamant|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|mimejr|Kelpsy Berry|Technician|mimic,helpinghand,allyswitch,safeguard|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+|mimejr|Big Root|Technician|shadowball,thief,trickroom,snore|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+|mimejr|Smooth Rock|Soundproof|mimic,shadowball,uproar,skillswap|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+|mimejr|Eviolite|Technician|mimic,helpinghand,shadowball,psyshock|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+|mimejr|Cheri Berry|Filter|endure,drainpunch,nastyplot,psyshock|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+|mimejr|Big Root|Filter|powersplit,shadowball,mimic,roleplay|Careful|0,108,228,0,172,0||31,31,31,31,31,31||50|
+|mimejr|Ganlon Berry|Technician|helpinghand,mimic,psyshock,dazzlinggleam|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+|mimejr|Eviolite|Soundproof|thief,thunder,mimic,snore|Bold|252,0,4,0,252,0||31,0,31,31,31,31||50|
+|mimejr|Eviolite|Soundproof|psyshock,thief,mimic,sleeptalk|Calm|0,0,180,132,196,0||31,31,31,31,31,31||50|
+|mimejr|Sitrus Berry|Filter|thief,shadowball,helpinghand,thunderbolt|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+|diglett|Air Balloon|Arena Trap|workup,ancientpower,thief,stompingtantrum|Bold|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|diglett|Air Balloon|Arena Trap|toxic,headbutt,stompingtantrum,substitute|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|diglett|Silk Scarf|Arena Trap|ancientpower,shadowclaw,dig,facade|Bold|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|diglett|Air Balloon|Sand Force|earthpower,toxic,ancientpower,reversal|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|diglett|Expert Belt|Sand Veil|ancientpower,thief,honeclaws,workup|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|diglett|Air Balloon|Arena Trap|headbutt,sleeptalk,toxic,round|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|diglett|Expert Belt|Arena Trap|toxic,workup,ancientpower,protect|Relaxed|100,244,36,36,92,0||31,31,31,31,31,0||50|
+|diglett|Air Balloon|Arena Trap|dig,ancientpower,toxic,mudslap|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|diglett|Air Balloon|Arena Trap|ancientpower,honeclaws,earthpower,sunnyday|Naive|108,36,28,172,0,164||31,31,31,31,31,31||50|
+|diglett|Pecha Berry|Arena Trap|dig,thief,sludgebomb,earthquake|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|diglett|Black Sludge|Sand Veil|workup,earthpower,round,sleeptalk|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|diglett|Kelpsy Berry|Arena Trap|earthpower,sandattack,shadowclaw,stompingtantrum|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|diglett|Iapapa Berry|Sand Veil|workup,thief,dig,stompingtantrum|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+|diglett|Blunder Policy|Sand Veil|earthpower,thief,sludgebomb,agility|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|diglett|Enigma Berry|Sand Force|shadowclaw,dig,sludgebomb,headbutt|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|diglett|Salac Berry|Sand Veil|sludgebomb,dig,workup,scratch|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|diglett|Terrain Extender|Arena Trap|rockslide,earthpower,sludgebomb,stompingtantrum|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|diglett|Heat Rock|Sand Veil|dig,workup,reversal,sandattack|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|diglett|Air Balloon|Sand Veil|workup,stompingtantrum,earthpower,scratch|Serious|252,76,0,44,4,132||31,31,31,31,31,31||50|
+|diglett|Air Balloon|Sand Veil|shadowclaw,earthpower,reversal,toxic|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|

@@ -1,0 +1,100 @@
+|swinub|Lansat Berry|Thick Fat|curse,freezedry,facade,bite|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+|swinub|Choice Specs|Thick Fat|curse,iciclecrash,facade,avalanche|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|swinub|Liechi Berry|Thick Fat|mist,freezedry,iciclecrash,raindance|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|swinub|Pomeg Berry|Thick Fat|freezedry,substitute,iciclecrash,bodyslam|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|swinub|Choice Specs|Thick Fat|iciclecrash,mist,freezedry,sandstorm|Impish|236,0,252,0,20,0||31,31,31,31,31,31||50|
+|swinub|Hard Stone|Thick Fat|curse,freezedry,mist,earthquake|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|swinub|Kee Berry|Thick Fat|freezedry,curse,flail,ancientpower|Lax|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|swinub|Choice Band|Thick Fat|mist,takedown,freezedry,scaryface|Calm|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|swinub|Safety Goggles|Thick Fat|curse,mist,iciclecrash,doubleedge|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|swinub|Expert Belt|Thick Fat|rest,substitute,mist,blizzard|Impish|236,0,252,0,20,0||31,31,31,31,31,31||50|
+|swinub|Rocky Helmet|Thick Fat|mist,freezedry,dig,ancientpower|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|swinub|Assault Vest|Thick Fat|dig,freezedry,facade,bulldoze|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|swinub|Dragon Fang|Thick Fat|freezedry,dig,mist,avalanche|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|swinub|Iron Ball|Thick Fat|mist,dig,freezedry,round|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|swinub|Pomeg Berry|Thick Fat|ancientpower,rocktomb,dig,mudshot|Careful|0,0,212,0,252,44||31,31,31,31,31,31||50|
+|swinub|Choice Specs|Thick Fat|facade,freezedry,flail,mudslap|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|swinub|Choice Specs|Thick Fat|flail,freezedry,facade,stealthrock|Calm|0,0,180,0,252,76||31,0,31,31,31,31||50|
+|swinub|Shuca Berry|Oblivious|bodyslam,freezedry,dig,attract|Calm|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|swinub|Choice Band|Thick Fat|earthpower,freezedry,dig,hail|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|swinub|Coba Berry|Oblivious|takedown,freezedry,mist,bulldoze|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sobble|Petaya Berry|Torrent|workup,snore,muddywater,round|Timid|0,0,44,0,212,252||31,0,31,31,31,31||50|
+|sobble|Qualot Berry|Torrent|substitute,muddywater,mist,uturn|Modest|4,0,20,196,252,36||31,0,31,31,31,31||50|
+|sobble|Misty Seed|Torrent|endure,mist,workup,weatherball|Timid|0,0,44,0,212,252||31,0,31,31,31,31||50|
+|sobble|Leppa Berry|Torrent|endure,soak,muddywater,aquaring|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|sobble|Misty Seed|Torrent|endure,soak,mudshot,surf|Bold|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|sobble|Damp Rock|Sniper|workup,safeguard,liquidation,mudshot|Careful|44,0,0,0,252,212||31,31,31,31,31,31||50|
+|sobble|Misty Seed|Torrent|muddywater,mudshot,soak,mist|Timid|0,0,44,0,212,252||31,0,31,31,31,31||50|
+|sobble|Binding Band|Torrent|endure,mist,aquajet,bind|Bold|244,0,236,28,0,0||31,0,31,31,31,31||50|
+|sobble|Misty Seed|Torrent|mist,muddywater,soak,bind|Relaxed|0,44,212,252,0,0||31,31,31,31,31,31||50|
+|sobble|Spell Tag|Torrent|mist,safeguard,soak,raindance|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sobble|Soft Sand|Torrent|mudshot,endure,watergun,weatherball|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|sobble|Qualot Berry|Torrent|substitute,mist,endure,iceshard|Modest|4,0,20,196,252,36||31,0,31,31,31,31||50|
+|sobble|Qualot Berry|Sniper|substitute,mist,endure,mudshot|Modest|4,0,20,196,252,36||31,0,31,31,31,31||50|
+|sobble|Qualot Berry|Torrent|weatherball,rest,mudshot,swift|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|sobble|Iapapa Berry|Torrent|substitute,endure,watergun,liquidation|Relaxed|0,44,212,252,0,0||31,31,31,31,31,31||50|
+|sobble|Damp Rock|Torrent|endure,liquidation,aquajet,haze|Adamant|0,188,252,0,0,68||31,31,31,31,31,31||50|
+|sobble|Figy Berry|Sniper|watergun,endure,liquidation,reflect|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|sobble|Smooth Rock|Torrent|watergun,endure,substitute,iceshard|Modest|4,0,20,196,252,36||31,0,31,31,31,31||50|
+|sobble|Qualot Berry|Torrent|muddywater,mist,workup,weatherball|Timid|0,0,44,0,212,252||31,0,31,31,31,31||50|
+|sobble|Lax Incense|Torrent|substitute,watergun,surf,workup|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|noibat|Throat Spray|Telepathy|aircutter,absorb,airslash,gust|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|noibat|Choice Scarf|Telepathy|thief,airslash,uproar,agility|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|noibat|Wave Incense|Telepathy|superfang,leechlife,aircutter,fly|Jolly|0,252,68,0,0,188||31,31,31,31,31,31||50|
+|noibat|Passho Berry|Telepathy|dragonpulse,leechlife,thief,psychic|Modest|116,0,140,252,0,0||31,0,31,31,31,31||50|
+|noibat|Enigma Berry|Frisk|steelwing,airslash,thief,xscissor|Calm|92,0,164,0,252,0||31,0,31,31,31,31||50|
+|noibat|Shell Bell|Infiltrator|leechlife,aircutter,thief,doubleteam|Calm|92,0,164,0,252,0||31,0,31,31,31,31||50|
+|noibat|Protector|Telepathy|roost,agility,thief,leechlife|Calm|92,0,164,0,252,0||31,0,31,31,31,31||50|
+|noibat|Roseli Berry|Telepathy|airslash,dragonpulse,aircutter,wingattack|Calm|92,0,164,0,252,0||31,0,31,31,31,31||50|
+|noibat|Shell Bell|Telepathy|airslash,leechlife,aircutter,thief|Calm|92,0,164,0,252,0||31,0,31,31,31,31||50|
+|noibat|Shell Bell|Telepathy|airslash,agility,leechlife,acrobatics|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|noibat|Shell Bell|Frisk|thief,rest,dracometeor,xscissor|Sassy|0,124,0,132,252,0||31,31,31,31,31,31||50|
+|noibat|Safety Goggles|Infiltrator|dracometeor,rest,shadowball,dualwingbeat|Relaxed|0,124,132,0,252,0||31,31,31,31,31,31||50|
+|noibat|Custap Berry|Frisk|shadowball,agility,dracometeor,outrage|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|noibat|Leppa Berry|Frisk|wildcharge,shadowball,irontail,rest|Relaxed|0,124,132,0,252,0||31,31,31,31,31,31||50|
+|noibat|Shell Bell|Frisk|irontail,dragonpulse,superfang,shadowclaw|Bold|92,0,76,68,108,164||31,0,31,31,31,31||50|
+|noibat|Metronome|Frisk|absorb,rest,dracometeor,uproar|Lax|108,76,220,28,0,76||31,31,31,31,31,31||50|
+|noibat|Hondew Berry|Frisk|absorb,thief,shadowball,aircutter|Calm|92,0,164,0,252,0||31,0,31,31,31,31||50|
+|noibat|Black Sludge|Frisk|agility,absorb,dragonpulse,round|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|noibat|Rose Incense|Telepathy|shadowball,steelwing,wildcharge,aircutter|Relaxed|0,124,132,0,252,0||31,31,31,31,31,31||50|
+|noibat|Mago Berry|Frisk|psychic,dracometeor,steelwing,snore|Relaxed|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|magnemite|Full Incense|Sturdy|screech,steelbeam,magnetrise,facade|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|magnemite|Eviolite|Sturdy|magnetrise,wildcharge,protect,discharge|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|magnemite|Eviolite|Sturdy|lockon,rest,flashcannon,headbutt|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|magnemite|Focus Band|Sturdy|screech,sleeptalk,protect,irondefense|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|magnemite|Grip Claw|Magnet Pull|round,raindance,steelbeam,gyroball|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|magnemite|Sitrus Berry|Analytic|lockon,flashcannon,screech,spark|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|magnemite|Eviolite|Sturdy|protect,screech,flashcannon,sleeptalk|Jolly|0,252,12,0,0,244||31,31,31,31,31,31||50|
+|magnemite|Chilan Berry|Magnet Pull|lockon,round,screech,swift|Impish|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|magnemite|Micle Berry|Sturdy|flashcannon,protect,screech,rest|Jolly|0,252,12,0,0,244||31,31,31,31,31,31||50|
+|magnemite|Starf Berry|Sturdy|protect,flashcannon,round,sonicboom|Sassy|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|magnemite|Poison Barb|Magnet Pull|round,flashcannon,headbutt,magnetrise|Calm|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|magnemite|Air Balloon|Magnet Pull|thunderwave,headbutt,screech,raindance|Sassy|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|magnemite|Wave Incense|Magnet Pull|magnetrise,round,headbutt,raindance|Sassy|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|magnemite|Liechi Berry|Magnet Pull|protect,screech,headbutt,thunderwave|Sassy|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|magnemite|Eviolite|Sturdy|thunderwave,protect,round,wildcharge|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|magnemite|Choice Scarf|Sturdy|flashcannon,screech,headbutt,risingvoltage|Sassy|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|magnemite|Eviolite|Magnet Pull|toxic,screech,round,headbutt|Bold|252,0,0,252,4,0||31,0,31,31,31,31||50|
+|magnemite|Grip Claw|Sturdy|headbutt,thunderwave,round,reflect|Timid|100,0,140,28,52,188||31,0,31,31,31,31||50|
+|magnemite|Electric Seed|Magnet Pull|tackle,headbutt,round,facade|Sassy|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|magnemite|Eviolite|Sturdy|screech,thunderwave,round,teleport|Sassy|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|magikarp|Eject Button|Swift Swim|flail,bounce,hydropump,splash|Naughty|0,252,164,0,0,92||31,31,31,31,31,31||50|
+|magikarp|Eject Button|Rattled|bounce,splash,hydropump,tackle|Naughty|0,252,164,0,0,92||31,31,31,31,31,31||50|
+|magikarp|Tamato Berry|Swift Swim|bounce,splash,hydropump,tackle|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|magikarp|Muscle Band|Rattled|hydropump,splash,tackle,bounce|Brave|68,188,0,252,0,0||31,31,31,31,31,0||50|
+|magikarp|Assault Vest|Swift Swim|tackle,splash,flail,bounce|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|magikarp|Wacan Berry|Rattled|tackle,hydropump,bounce,splash|Naughty|0,252,164,0,0,92||31,31,31,31,31,31||50|
+|magikarp|Chilan Berry|Swift Swim|flail,splash,bounce,hydropump|Quiet|0,188,0,252,68,0||31,31,31,31,31,31||50|
+|magikarp|Kasib Berry|Swift Swim|tackle,bounce,splash,hydropump|Quiet|0,188,0,252,68,0||31,31,31,31,31,31||50|
+|magikarp|Eject Button|Rattled|splash,flail,bounce,tackle|Naughty|0,252,164,0,0,92||31,31,31,31,31,31||50|
+|magikarp|Eject Button|Rattled|tackle,hydropump,splash,flail|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|magikarp|Silver Powder|Rattled|flail,splash,bounce,hydropump|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|magikarp|Wiki Berry|Rattled|splash,tackle,bounce,hydropump|Quiet|0,188,0,252,68,0||31,31,31,31,31,31||50|
+|magikarp|Spell Tag|Rattled|flail,bounce,splash,hydropump|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|magikarp|Absorb Bulb|Swift Swim|hydropump,flail,bounce,tackle|Quiet|0,188,0,252,68,0||31,31,31,31,31,31||50|
+|magikarp|Tamato Berry|Rattled|flail,bounce,splash,tackle|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|magikarp|Jaboca Berry|Rattled|tackle,flail,hydropump,splash|Lax|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|magikarp|Kasib Berry|Rattled|bounce,tackle,splash,flail|Gentle|0,252,0,0,4,252||31,31,31,31,31,31||50|
+|magikarp|Wacan Berry|Swift Swim|hydropump,splash,flail,bounce|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|magikarp|Charcoal|Rattled|splash,tackle,hydropump,bounce|Careful|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|magikarp|Tamato Berry|Rattled|bounce,hydropump,tackle,flail|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|

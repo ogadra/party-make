@@ -1,0 +1,100 @@
+|zorua|Eviolite|Illusion|hex,revenge,sludgebomb,skittersmack|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|zorua|Apicot Berry|Illusion|nightdaze,leer,dig,copycat|Sassy|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|zorua|Air Balloon|Illusion|hex,sludgebomb,dig,counter|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|zorua|Air Balloon|Illusion|sludgebomb,hex,fling,snore|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|zorua|Air Balloon|Illusion|nightdaze,hex,scaryface,furyswipes|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|zorua|Rose Incense|Illusion|leer,dig,swordsdance,facade|Calm|124,0,252,0,132,0||31,31,31,31,31,31||50|
+|zorua|Air Balloon|Illusion|hex,nightdaze,hypervoice,payback|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|zorua|Sitrus Berry|Illusion|nightdaze,leer,hex,swift|Bold|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|zorua|Shell Bell|Illusion|leer,nightdaze,hex,foulplay|Calm|124,0,252,0,132,0||31,31,31,31,31,31||50|
+|zorua|Air Balloon|Illusion|sunnyday,leer,nightdaze,round|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|zorua|Air Balloon|Illusion|nightdaze,protect,foulplay,grassknot|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|zorua|Rowap Berry|Illusion|hypervoice,detect,nightdaze,skittersmack|Hasty|12,0,0,252,0,244||31,31,31,31,31,31||50|
+|zorua|Rose Incense|Illusion|protect,nightdaze,hex,foulplay|Mild|108,20,0,220,140,20||31,31,31,31,31,31||50|
+|zorua|Throat Spray|Illusion|revenge,sludgebomb,dig,fling|Bold|0,0,252,4,0,252||31,31,31,31,31,31||50|
+|zorua|Grassy Seed|Illusion|memento,snore,foulplay,payback|Calm|124,0,252,0,132,0||31,31,31,31,31,31||50|
+|zorua|Sitrus Berry|Illusion|nastyplot,uproar,swordsdance,raindance|Calm|124,0,252,0,132,0||31,31,31,31,31,31||50|
+|zorua|Rose Incense|Illusion|nightdaze,detect,protect,nastyplot|Adamant|76,12,252,0,44,124||31,31,31,31,31,31||50|
+|zorua|Iapapa Berry|Illusion|swordsdance,detect,skittersmack,attract|Hasty|12,0,0,252,0,244||31,31,31,31,31,31||50|
+|zorua|Mago Berry|Illusion|revenge,swordsdance,sludgebomb,counter|Hasty|12,0,0,252,0,244||31,31,31,31,31,31||50|
+|zorua|Room Service|Illusion|nightdaze,protect,detect,dig|Calm|124,0,252,0,132,0||31,31,31,31,31,31||50|
+|timburr|Assault Vest|Guts|revenge,drainpunch,lowkick,firepunch|Impish|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|timburr|Cheri Berry|Iron Fist|coaching,drainpunch,revenge,firepunch|Impish|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|timburr|Heat Rock|Guts|revenge,scaryface,drainpunch,lowsweep|Impish|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|timburr|Bright Powder|Guts|revenge,drainpunch,substitute,counter|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|timburr|Psychic Seed|Guts|stoneedge,lowsweep,revenge,firepunch|Impish|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|timburr|Throat Spray|Guts|drainpunch,lowsweep,revenge,retaliate|Impish|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|timburr||Iron Fist|revenge,scaryface,drainpunch,lowsweep|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Enigma Berry|Guts|lowsweep,scaryface,substitute,revenge|Careful|252,4,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Dragon Scale|Guts|reversal,revenge,lowsweep,superpower|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Heat Rock|Guts|attract,drainpunch,revenge,lowsweep|Impish|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|timburr|Silk Scarf|Guts|reversal,lowsweep,helpinghand,superpower|Relaxed|252,228,0,28,0,0||31,31,31,31,31,31||50|
+|timburr|Metronome|Guts|drainpunch,revenge,substitute,lowsweep|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Throat Spray|Sheer Force|substitute,lowsweep,lowkick,round|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|timburr|Throat Spray|Guts|drainpunch,revenge,substitute,scaryface|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Power Herb|Guts|lowkick,revenge,lowsweep,detect|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Sticky Barb|Iron Fist|substitute,lowkick,drainpunch,brutalswing|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|timburr|Protective Pads|Guts|revenge,reversal,lowkick,dynamicpunch|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Light Clay|Guts|revenge,lowsweep,substitute,wideguard|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|timburr|Psychic Seed|Guts|revenge,substitute,lowkick,grassknot|Bold|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|timburr|Cell Battery|Guts|drainpunch,lowsweep,lowkick,rockslide|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Babiri Berry|Moxie|torment,darkpulse,rockslide,thief|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|sandile|Icy Rock|Intimidate|beatup,torment,honeclaws,earthquake|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Electric Seed|Intimidate|scaryface,earthquake,torment,scorchingsands|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Absorb Bulb|Intimidate|darkpulse,earthquake,scaryface,assurance|Hasty|44,124,0,100,188,52||31,31,31,31,31,31||50|
+|sandile|Pomeg Berry|Intimidate|earthquake,stoneedge,scaryface,bite|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Room Service|Moxie|scaryface,sandtomb,torment,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Babiri Berry|Moxie|stoneedge,earthquake,scaryface,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Lum Berry|Intimidate|scaryface,crunch,torment,snore|Adamant|60,252,0,0,196,0||31,31,31,31,31,31||50|
+|sandile|Ganlon Berry|Intimidate|scaryface,torment,sandtomb,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Babiri Berry|Intimidate|earthquake,beatup,scaryface,focusenergy|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Tamato Berry|Anger Point|doubleedge,stoneedge,earthquake,scaryface|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Cheri Berry|Intimidate|torment,round,thrash,snarl|Lonely|244,0,0,0,12,252||31,31,31,31,31,31||50|
+|sandile|Oran Berry|Intimidate|earthquake,crunch,torment,sandstorm|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Aspear Berry|Intimidate|torment,stoneedge,sandtomb,thunderfang|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Black Glasses|Intimidate|earthquake,torment,round,skittersmack|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Payapa Berry|Intimidate|beatup,torment,scaryface,bulldoze|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|sandile|Wave Incense|Intimidate|scaryface,thief,rocktomb,uproar|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Cheri Berry|Moxie|scaryface,earthquake,stoneedge,earthpower|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Metronome|Intimidate|earthquake,focusenergy,stoneedge,torment|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandile|Oran Berry|Intimidate|crunch,sandtomb,earthquake,spite|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|remoraid|Twisted Spoon|Hustle|icebeam,helpinghand,endure,focusenergy|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|remoraid|Twisted Spoon|Moody|icebeam,watergun,endure,bulletseed|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|remoraid|White Herb|Moody|haze,supersonic,endure,bulletseed|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|remoraid|Room Service|Moody|watergun,helpinghand,haze,hyperbeam|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|remoraid|Micle Berry|Moody|waterfall,haze,watergun,whirlpool|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|remoraid|Snowball|Moody|icebeam,supersonic,haze,thief|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|remoraid|Twisted Spoon|Moody|supersonic,haze,helpinghand,protect|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+|remoraid|Micle Berry|Moody|icebeam,helpinghand,haze,substitute|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|remoraid|Scope Lens|Moody|watergun,supersonic,icebeam,surf|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|remoraid|Twisted Spoon|Moody|surf,haze,helpinghand,gunkshot|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|remoraid|Focus Band|Moody|round,icebeam,watergun,supersonic|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|remoraid|Leppa Berry|Hustle|psychic,waterfall,round,waterpulse|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|remoraid|Starf Berry|Hustle|icebeam,waterfall,helpinghand,facade|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|remoraid|Colbur Berry|Moody|watergun,waterfall,icebeam,waterspout|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|remoraid|Quick Claw|Hustle|icebeam,psychic,endure,mudshot|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|remoraid|Grassy Seed|Hustle|watergun,icebeam,supersonic,raindance|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|remoraid|Colbur Berry|Moody|psychic,waterfall,icebeam,substitute|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|remoraid|Micle Berry|Hustle|round,icebeam,supersonic,hyperbeam|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|remoraid|Micle Berry|Hustle|icebeam,helpinghand,haze,soak|Serious|0,0,0,252,252,4||31,31,31,31,31,31||50|
+|remoraid|Shuca Berry|Hustle|helpinghand,supersonic,hydropump,psychic|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|krabby|Rawst Berry|Sheer Force|watergun,headbutt,substitute,leer|Timid|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|krabby|Grepa Berry|Shell Armor|attract,bubblebeam,substitute,guillotine|Relaxed|44,172,252,12,28,0||31,31,31,31,31,0||50|
+|krabby|Grip Claw|Hyper Cutter|substitute,nightslash,xscissor,metalclaw|Calm|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|krabby|Lum Berry|Hyper Cutter|substitute,guillotine,headbutt,raindance|Relaxed|44,172,252,12,28,0||31,31,31,31,31,0||50|
+|krabby|Tanga Berry|Hyper Cutter|substitute,slam,dive,bubble|Relaxed|44,172,252,12,28,0||31,31,31,31,31,0||50|
+|krabby|Mental Herb|Sheer Force|attract,guillotine,substitute,thief|Relaxed|44,172,252,12,28,0||31,31,31,31,31,0||50|
+|krabby|Grepa Berry|Hyper Cutter|attract,headbutt,guillotine,visegrip|Lonely|188,252,0,4,60,4||31,31,31,31,31,31||50|
+|krabby|Destiny Knot|Hyper Cutter|dive,headbutt,attract,razorshell|Lonely|188,252,0,4,60,4||31,31,31,31,31,31||50|
+|krabby|Sitrus Berry|Hyper Cutter|headbutt,xscissor,guillotine,razorshell|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|krabby|Oran Berry|Shell Armor|guillotine,bubblebeam,superpower,agility|Adamant|4,252,196,0,20,36||31,31,31,31,31,31||50|
+|krabby|Cheri Berry|Hyper Cutter|hail,endure,superpower,bubblebeam|Lax|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|krabby|Light Clay|Shell Armor|attract,endure,superpower,rocktomb|Brave|0,252,0,0,252,4||31,31,31,31,31,0||50|
+|krabby|Shed Shell|Hyper Cutter|attract,bubble,xscissor,hail|Lax|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|krabby|Sitrus Berry|Hyper Cutter|xscissor,bubble,headbutt,attract|Relaxed|44,172,252,12,28,0||31,31,31,31,31,0||50|
+|krabby|Toxic Orb|Hyper Cutter|endure,attract,bubble,thief|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|krabby|Grepa Berry|Sheer Force|endure,thief,xscissor,mudshot|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|krabby|Choice Band|Hyper Cutter|attract,bubble,endure,icywind|Bold|0,0,244,180,84,0||31,0,31,31,31,31||50|
+|krabby|Haban Berry|Hyper Cutter|attract,endure,superpower,xscissor|Relaxed|44,172,252,12,28,0||31,31,31,31,31,0||50|
+|krabby|Grepa Berry|Hyper Cutter|attract,dive,superpower,amnesia|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|krabby|Chesto Berry|Sheer Force|attract,superpower,watergun,razorshell|Relaxed|252,252,4,0,0,0||31,31,31,31,31,0||50|

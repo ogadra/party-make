@@ -1,0 +1,100 @@
+|yamaskgalar|Grip Claw|Wandering Spirit|hex,protect,earthquake,astonish|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|yamaskgalar|Sharp Beak|Wandering Spirit|powersplit,poltergeist,raindance,substitute|Calm|28,0,92,12,252,124||31,31,31,31,31,31||50|
+|yamaskgalar|Grip Claw|Wandering Spirit|powersplit,destinybond,haze,protect|Impish|0,180,0,0,76,252||31,31,31,31,31,31||50|
+|yamaskgalar|Utility Umbrella|Wandering Spirit|rocktomb,haze,protect,energyball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|yamaskgalar|Charcoal|Wandering Spirit|earthpower,powersplit,haze,allyswitch|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Colbur Berry|Wandering Spirit|poltergeist,protect,hex,rest|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|yamaskgalar|Focus Sash|Wandering Spirit|haze,protect,powersplit,earthpower|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Iron Ball|Wandering Spirit|poltergeist,protect,destinybond,skillswap|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Grip Claw|Wandering Spirit|haze,protect,powersplit,raindance|Calm|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|yamaskgalar|Wacan Berry|Wandering Spirit|protect,energyball,earthpower,powersplit|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|yamaskgalar|Pomeg Berry|Wandering Spirit|hex,rocktomb,earthpower,curse|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|yamaskgalar|Pomeg Berry|Wandering Spirit|earthpower,sandstorm,destinybond,curse|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|yamaskgalar|Aspear Berry|Wandering Spirit|rocktomb,hex,disable,curse|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+|yamaskgalar|Pomeg Berry|Wandering Spirit|hex,darkpulse,sandstorm,imprison|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+|yamaskgalar|Kelpsy Berry|Wandering Spirit|hex,rocktomb,energyball,irondefense|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|yamaskgalar|Kelpsy Berry|Wandering Spirit|hex,powersplit,earthpower,haze|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|yamaskgalar|Grip Claw|Wandering Spirit|haze,rocktomb,powersplit,rockslide|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|yamaskgalar|Dragon Scale|Wandering Spirit|rocktomb,darkpulse,earthpower,protect|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+|yamaskgalar|Dragon Scale|Wandering Spirit|earthpower,hex,sandstorm,faketears|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|yamaskgalar|Grip Claw|Wandering Spirit|rocktomb,poltergeist,sandstorm,skillswap|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|sandygast|Power Herb|Water Compaction|skillswap,shadowball,rest,sandstorm|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Power Herb|Sand Veil|shadowball,irondefense,brine,attract|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Assault Vest|Water Compaction|swallow,sandstorm,irondefense,stoneedge|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Leppa Berry|Sand Veil|irondefense,rest,sandstorm,stealthrock|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Power Herb|Water Compaction|sandstorm,shadowball,rest,curse|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|sandygast|Throat Spray|Water Compaction|rest,sandstorm,sandattack,irondefense|Calm|252,0,0,252,4,0||31,0,31,31,31,31||50|
+|sandygast|Hard Stone|Water Compaction|rest,irondefense,spitup,absorb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Wide Lens|Water Compaction|rest,irondefense,shadowball,bulldoze|Adamant|0,188,252,0,0,68||31,31,31,31,31,31||50|
+|sandygast|Float Stone|Water Compaction|mudshot,rest,sandstorm,curse|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Miracle Seed|Sand Veil|spitup,brine,gigadrain,poltergeist|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Focus Sash|Sand Veil|poltergeist,sandattack,gigadrain,rockslide|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Wide Lens|Sand Veil|mudshot,brine,spitup,earthquake|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|sandygast|Pomeg Berry|Sand Veil|spitup,poltergeist,gigadrain,shoreup|Adamant|0,188,252,0,0,68||31,31,31,31,31,31||50|
+|sandygast|Grepa Berry|Sand Veil|earthquake,sleeptalk,poltergeist,shadowball|Bold|4,0,252,36,4,212||31,31,31,31,31,31||50|
+|sandygast|Cell Battery|Water Compaction|shadowball,bulldoze,swallow,sandtomb|Bold|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|sandygast|Power Herb|Sand Veil|irondefense,brine,shadowball,energyball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|sandygast|Grepa Berry|Sand Veil|brine,shadowball,gigadrain,skillswap|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|sandygast|Power Herb|Water Compaction|gigadrain,sandstorm,spitup,stockpile|Careful|140,0,116,0,252,0||31,31,31,31,31,31||50|
+|sandygast|Throat Spray|Sand Veil|spitup,brine,poltergeist,gigadrain|Adamant|0,188,252,0,0,68||31,31,31,31,31,31||50|
+|sandygast|Scope Lens|Water Compaction|sleeptalk,trick,poltergeist,amnesia|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|marill|Mago Berry|Thick Fat|brickbreak,encore,waterfall,uproar|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|marill|Apicot Berry|Thick Fat|faketears,icebeam,playrough,endure|Relaxed|220,52,0,236,0,0||31,31,31,31,31,0||50|
+|marill|Grip Claw|Sap Sipper|protect,facade,waterfall,irontail|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|marill|Rocky Helmet|Thick Fat|protect,mudshot,watergun,tickle|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|marill|Chople Berry|Sap Sipper|round,waterfall,mudshot,muddywater|Bold|0,0,252,244,0,12||31,0,31,31,31,31||50|
+|marill|Oran Berry|Thick Fat|mudshot,round,protect,scald|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|marill|Mago Berry|Huge Power|round,scald,icebeam,bounce|Jolly|0,52,252,0,0,204||31,31,31,31,31,31||50|
+|marill|Cell Battery|Huge Power|scald,waterfall,brutalswing,rest|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|marill|Apicot Berry|Huge Power|protect,waterfall,faketears,playrough|Relaxed|220,52,0,236,0,0||31,31,31,31,31,0||50|
+|marill|Quick Claw|Thick Fat|surf,icebeam,encore,perishsong|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|marill|Qualot Berry|Sap Sipper|watergun,round,brutalswing,dig|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|marill|Kebia Berry|Thick Fat|icebeam,encore,surf,megakick|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|marill|Colbur Berry|Thick Fat|scald,encore,round,rest|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|marill|Binding Band|Thick Fat|watergun,encore,round,protect|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|marill|Power Herb|Huge Power|watergun,aquaring,encore,bounce|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|marill|Cheri Berry|Thick Fat|round,icebeam,mudshot,bubblebeam|Sassy|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|marill|Binding Band|Thick Fat|mudshot,round,encore,mistyterrain|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|marill|Binding Band|Huge Power|encore,playrough,aquaring,megakick|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|marill|Toxic Orb|Huge Power|icebeam,round,encore,protect|Sassy|0,4,0,252,252,0||31,31,31,31,31,0||50|
+|marill|Aspear Berry|Sap Sipper|encore,watergun,irontail,brickbreak|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|bronzor|Charcoal|Levitate|psychic,sandstorm,rocktomb,gyroball|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|bronzor|Pixie Plate|Heatproof|expandingforce,confusion,rocktomb,rockslide|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|bronzor|Assault Vest|Heatproof|gyroball,confusion,snore,heavyslam|Careful|0,252,0,0,204,52||31,31,31,31,31,31||50|
+|bronzor|Heat Rock|Heavy Metal|expandingforce,snore,gyroball,wonderroom|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|bronzor|Chople Berry|Heatproof|psychic,gyroball,snore,imprison|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bronzor|Utility Umbrella|Heatproof|expandingforce,rocktomb,snore,endure|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+|bronzor|Flame Orb|Levitate|expandingforce,bulldoze,snore,steelbeam|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|bronzor|Ring Target|Heatproof|snore,expandingforce,rocktomb,sandstorm|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bronzor|Sharp Beak|Levitate|gyroball,bulldoze,extrasensory,imprison|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+|bronzor|Never-Melt Ice|Heatproof|snore,rocktomb,speedswap,extrasensory|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+|bronzor|Assault Vest|Heatproof|snore,psychic,skillswap,stealthrock|Gentle|0,0,0,252,252,4||31,31,31,31,31,31||50|
+|bronzor|Assault Vest|Heatproof|snore,gyroball,expandingforce,trick|Modest|44,0,0,252,0,212||31,0,31,31,31,31||50|
+|bronzor|Silver Powder|Heatproof|skillswap,psychic,endure,tackle|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bronzor|Assault Vest|Heatproof|gyroball,psychic,skillswap,rocktomb|Serious|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|bronzor|Oran Berry|Heatproof|rocktomb,snore,expandingforce,gyroball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bronzor|Flame Orb|Heatproof|sunnyday,endure,rocktomb,raindance|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bronzor|Grassy Seed|Heavy Metal|psychic,skillswap,rocktomb,extrasensory|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bronzor|King's Rock|Heatproof|facade,hex,psychic,rockslide|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bronzor|Assault Vest|Heatproof|psychic,lightscreen,skillswap,substitute|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bronzor|Persim Berry|Heatproof|sunnyday,skillswap,endure,rocktomb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|watergun,supersonic,muddywater,slam|Sassy|0,4,252,0,252,0||31,31,31,31,31,0||50|
+|azurill|Lax Incense|Huge Power|muddywater,blizzard,icebeam,sleeptalk|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|supersonic,perishsong,brutalswing,lightscreen|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|azurill|Aguav Berry|Sap Sipper|icebeam,soak,brutalswing,copycat|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|soak,sleeptalk,supersonic,protect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|brutalswing,perishsong,bodyslam,sing|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|azurill|Chilan Berry|Huge Power|copycat,substitute,supersonic,brutalswing|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|azurill|Soft Sand|Sap Sipper|soak,icebeam,present,raindance|Timid|204,0,164,0,0,140||31,0,31,31,31,31||50|
+|azurill|Wacan Berry|Huge Power|brutalswing,supersonic,tailwhip,waterfall|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|azurill|Soft Sand|Sap Sipper|snore,supersonic,icebeam,present|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|azurill|Shuca Berry|Huge Power|substitute,irontail,workup,brutalswing|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|azurill|Soft Sand|Sap Sipper|whirlpool,protect,snore,attract|Relaxed|0,0,252,252,4,0||31,31,31,31,31,0||50|
+|azurill|Soft Sand|Huge Power|present,protect,whirlpool,attract|Timid|204,0,164,0,0,140||31,0,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|soak,perishsong,watergun,copycat|Timid|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|azurill|Ring Target|Sap Sipper|protect,icebeam,irontail,uproar|Lax|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|irontail,protect,icebeam,muddywater|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|azurill|Soft Sand|Huge Power|muddywater,brutalswing,irontail,endure|Lax|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|azurill|Eviolite|Huge Power|icebeam,copycat,workup,facade|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|watergun,icebeam,irontail,protect|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|azurill|Aguav Berry|Huge Power|protect,icebeam,irontail,charm|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|

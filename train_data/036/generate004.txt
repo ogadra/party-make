@@ -1,0 +1,100 @@
+|nidoranf|Hondew Berry|Poison Point|focusenergy,endure,bite,poisonjab|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|nidoranf|Big Root|Rivalry|helpinghand,raindance,bite,poisonjab|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|nidoranf|Micle Berry|Hustle|raindance,helpinghand,bite,beatup|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nidoranf|Focus Band|Poison Point|earthpower,bite,raindance,helpinghand|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|nidoranf|Throat Spray|Hustle|earthpower,bite,helpinghand,poisonjab|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nidoranf|Hondew Berry|Poison Point|endure,helpinghand,earthpower,headbutt|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nidoranf|Hondew Berry|Poison Point|raindance,counter,endure,round|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|nidoranf|Hondew Berry|Rivalry|raindance,earthpower,helpinghand,round|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|nidoranf|Hondew Berry|Hustle|bite,endure,helpinghand,facade|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nidoranf|Chople Berry|Rivalry|raindance,helpinghand,sunnyday,furyswipes|Careful|60,28,156,0,252,12||31,31,31,31,31,31||50|
+|nidoranf|Binding Band|Poison Point|helpinghand,thunder,earthpower,icebeam|Lonely|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|nidoranf|Sitrus Berry|Rivalry|bite,earthpower,thunder,rest|Hasty|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|nidoranf|Roseli Berry|Hustle|counter,bite,round,raindance|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|nidoranf|Rindo Berry|Hustle|earthpower,thunder,raindance,helpinghand|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|nidoranf|Lax Incense|Hustle|raindance,bite,poisonjab,sludgebomb|Quiet|0,252,68,188,0,0||31,31,31,31,31,0||50|
+|nidoranf|Float Stone|Poison Point|helpinghand,endure,earthpower,raindance|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|nidoranf|Colbur Berry|Hustle|earthpower,thunder,bite,thief|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|nidoranf|Micle Berry|Hustle|helpinghand,thunderbolt,earthpower,takedown|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|nidoranf|Safety Goggles|Rivalry|helpinghand,thunder,raindance,skullbash|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|nidoranf|Lax Incense|Poison Point|thunder,raindance,counter,sludgebomb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie|Iapapa Berry|Regenerator|bite,poisonjab,spitup,raindance|Jolly|148,244,0,0,116,0||31,31,31,31,31,31||50|
+|mareanie|Leftovers|Regenerator|blizzard,recover,bite,round|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|mareanie|Shell Bell|Regenerator|poisonjab,bite,swallow,recover|Jolly|148,244,0,0,116,0||31,31,31,31,31,31||50|
+|mareanie|Smooth Rock|Regenerator|scald,recover,protect,payback|Quiet|84,0,0,252,172,0||31,31,31,31,31,31||50|
+|mareanie|Haban Berry|Regenerator|bite,recover,spitup,snore|Jolly|148,244,0,0,116,0||31,31,31,31,31,31||50|
+|mareanie|Shell Bell|Regenerator|bite,surf,recover,facade|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie|Leftovers|Regenerator|protect,recover,spitup,wideguard|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|mareanie|Petaya Berry|Merciless|substitute,recover,protect,poisonjab|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|mareanie|Cheri Berry|Limber|blizzard,recover,brine,irondefense|Jolly|148,244,0,0,116,0||31,31,31,31,31,31||50|
+|mareanie|Light Clay|Merciless|spitup,sleeptalk,surf,toxicspikes|Jolly|148,244,0,0,116,0||31,31,31,31,31,31||50|
+|mareanie|Leftovers|Regenerator|surf,brine,bite,haze|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie|Wave Incense|Regenerator|recover,bite,sleeptalk,safeguard|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie|Leftovers|Regenerator|brine,sleeptalk,bite,wideguard|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie|Payapa Berry|Merciless|recover,surf,brine,icebeam|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+|mareanie|Leftovers|Regenerator|sleeptalk,spitup,recover,bite|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie|Micle Berry|Regenerator|surf,swallow,recover,sleeptalk|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie||Merciless|recover,bite,surf,blizzard|Jolly|148,244,0,0,116,0||31,31,31,31,31,31||50|
+|mareanie|Leftovers|Limber|sleeptalk,recover,surf,venomdrench|Jolly|148,244,0,0,116,0||31,31,31,31,31,31||50|
+|mareanie|Custap Berry|Regenerator|bite,sleeptalk,brine,recover|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|mareanie|Jaboca Berry|Merciless|bite,scald,protect,liquidation|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|gastly|Scope Lens|Levitate|megadrain,skittersmack,payback,smog|Impish|156,0,252,0,100,0||31,31,31,31,31,31||50|
+|gastly|Lansat Berry|Levitate|trick,skillswap,poisongas,thunderbolt|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|gastly|Focus Sash|Levitate|poisongas,shadowball,megadrain,meanlook|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|gastly|Pecha Berry|Levitate|dreameater,payback,psychic,poisongas|Naughty|0,92,0,164,0,252||31,31,31,31,31,31||50|
+|gastly|Chople Berry|Levitate|megadrain,perishsong,poisongas,thief|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|gastly|Pecha Berry|Levitate|megadrain,psychic,poisongas,grudge|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|gastly|Chople Berry|Levitate|poisongas,shadowball,megadrain,thunderbolt|Sassy|0,76,0,180,252,0||31,31,31,31,31,0||50|
+|gastly|Colbur Berry|Levitate|megadrain,attract,payback,curse|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|gastly|Expert Belt|Levitate|poisongas,payback,megadrain,darkpulse|Bold|36,0,220,108,4,140||31,0,31,31,31,31||50|
+|gastly|Scope Lens|Levitate|shadowball,payback,darkpulse,selfdestruct|Naughty|0,92,0,164,0,252||31,31,31,31,31,31||50|
+|gastly|Scope Lens|Levitate|darkpulse,skittersmack,trick,round|Impish|156,0,252,0,100,0||31,31,31,31,31,31||50|
+|gastly|Pecha Berry|Levitate|trick,scaryface,skittersmack,thunderpunch|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|gastly|Hondew Berry|Levitate|attract,payback,shadowball,hex|Serious|252,4,0,0,0,252||31,31,31,31,31,31||50|
+|gastly|Wise Glasses|Levitate|endure,scaryface,shadowball,nightshade|Impish|156,0,252,0,100,0||31,31,31,31,31,31||50|
+|gastly|Scope Lens|Levitate|payback,trick,sunnyday,facade|Timid|0,0,76,0,252,180||31,31,31,31,31,31||50|
+|gastly|Never-Melt Ice|Levitate|psychic,scaryface,payback,willowisp|Impish|156,0,252,0,100,0||31,31,31,31,31,31||50|
+|gastly|Focus Sash|Levitate|trick,payback,skittersmack,sludgewave|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|gastly|Scope Lens|Levitate|payback,skittersmack,megadrain,trickroom|Calm|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|gastly|Choice Specs|Levitate|shadowball,payback,skittersmack,megadrain|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|gastly|Scope Lens|Levitate|megadrain,shadowball,skittersmack,poisongas|Impish|156,0,252,0,100,0||31,31,31,31,31,31||50|
+|dreepy|Black Belt|Infiltrator|bite,substitute,suckerpunch,astonish|Naughty|12,20,84,252,0,140||31,31,31,31,31,31||50|
+|dreepy|Magnet|Infiltrator|rest,snore,bite,infestation|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|dreepy|Bright Powder|Infiltrator|substitute,batonpass,suckerpunch,protect|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|dreepy|Colbur Berry|Infiltrator|substitute,protect,dracometeor,bite|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|dreepy|Choice Band|Infiltrator|snore,substitute,attract,protect|Modest|0,0,0,164,92,252||31,31,31,31,31,31||50|
+|dreepy|Colbur Berry|Infiltrator|quickattack,rest,substitute,helpinghand|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|dreepy|Salac Berry|Clear Body|substitute,dracometeor,suckerpunch,grudge|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|dreepy|Sticky Barb|Infiltrator|bite,substitute,attract,quickattack|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|dreepy|Assault Vest|Infiltrator|snore,bite,suckerpunch,astonish|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|dreepy|King's Rock|Cursed Body|dracometeor,suckerpunch,helpinghand,infestation|Calm|0,0,4,252,252,0||31,31,31,31,31,31||50|
+|dreepy|Black Sludge|Infiltrator|snore,substitute,dracometeor,confuseray|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|dreepy|Pecha Berry|Clear Body|dracometeor,rest,substitute,attract|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|dreepy|Bright Powder|Clear Body|substitute,swift,grudge,protect|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|dreepy|Lagging Tail|Cursed Body|substitute,rest,dracometeor,confuseray|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|dreepy|Apicot Berry|Infiltrator|substitute,suckerpunch,attract,rest|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|dreepy|Sticky Barb|Infiltrator|substitute,bite,dracometeor,astonish|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dreepy|Soft Sand|Infiltrator|dracometeor,astonish,bite,batonpass|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|dreepy|Air Balloon|Cursed Body|substitute,curse,quickattack,sleeptalk|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|dreepy|Bright Powder|Infiltrator|grudge,astonish,rest,dracometeor|Relaxed|0,252,252,4,0,0||31,31,31,31,31,0||50|
+|dreepy|Mental Herb|Clear Body|curse,rest,suckerpunch,snore|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|cufant|Power Herb|Sheer Force|dig,brutalswing,irondefense,fissure|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|cufant|Blunder Policy|Sheer Force|dig,stompingtantrum,screech,protect|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|cufant|Kelpsy Berry|Heavy Metal|dig,attract,brutalswing,fling|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cufant|Payapa Berry|Heavy Metal|irondefense,dig,stompingtantrum,playrough|Adamant|44,212,0,0,0,252||31,31,31,31,31,31||50|
+|cufant|Iron Ball|Sheer Force|brickbreak,rocksmash,irondefense,rockblast|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|cufant|Toxic Orb|Heavy Metal|whirlwind,dig,brutalswing,endure|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|cufant|Quick Claw|Heavy Metal|dig,stompingtantrum,irondefense,bulldoze|Timid|0,0,0,236,20,252||31,0,31,31,31,31||50|
+|cufant|Wave Incense|Heavy Metal|dig,workup,stompingtantrum,curse|Calm|164,0,140,52,124,28||31,0,31,31,31,31||50|
+|cufant|Iron Ball|Sheer Force|stompingtantrum,dig,brutalswing,workup|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cufant|Leftovers|Sheer Force|stompingtantrum,dig,screech,sleeptalk|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|cufant|Soft Sand|Sheer Force|brutalswing,rocksmash,dig,swagger|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cufant|Ring Target|Heavy Metal|ironhead,dig,whirlwind,stomp|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|cufant|Protective Pads|Sheer Force|dig,whirlwind,ironhead,fling|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cufant|Leftovers|Heavy Metal|ironhead,dig,whirlwind,zenheadbutt|Serious|252,252,0,0,4,0||31,31,31,31,31,31||50|
+|cufant|Utility Umbrella|Sheer Force|ironhead,dig,whirlwind,facade|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cufant|Black Belt|Sheer Force|whirlwind,workup,megakick,stealthrock|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cufant|Toxic Orb|Heavy Metal|swagger,screech,ironhead,snore|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|cufant|Mystic Water|Heavy Metal|ironhead,attract,dig,whirlwind|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cufant|Rock Incense|Heavy Metal|whirlwind,tackle,screech,rest|Careful|84,0,244,0,180,0||31,31,31,31,31,31||50|
+|cufant|Soft Sand|Heavy Metal|ironhead,powerwhip,swagger,rocksmash|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|

@@ -1,0 +1,100 @@
+35.5275937097687|venipede|Aspear Berry|Swarm|sludgebomb,poisontail,irondefense,doubleedge|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+32.90201184994499|venipede|Absorb Bulb|Poison Point|sludgebomb,irondefense,agility,payback|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+29.495288471164784|venipede|Razor Claw|Swarm|defensecurl,poisonjab,furycutter,sunnyday|Adamant|0,0,252,0,244,12||31,31,31,31,31,31||50|
+28.247216769842215|venipede|Terrain Extender|Swarm|doubleedge,defensecurl,steelroller,poisonjab|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+27.950106407925308|venipede|Never-Melt Ice|Poison Point|agility,poisonjab,venoshock,sludgebomb|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+27.665775145408382|venipede|Lum Berry|Swarm|doubleedge,venoshock,defensecurl,solarbeam|Careful|0,4,0,0,252,252||31,31,31,31,31,31||50|
+27.520463605169425|venipede|King's Rock|Poison Point|snore,agility,endure,skittersmack|Impish|100,52,252,0,12,92||31,31,31,31,31,31||50|
+26.56079607909253|venipede|Razor Claw|Swarm|irondefense,skittersmack,endure,sunnyday|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+25.89656158108183|venipede|Zoom Lens|Swarm|irondefense,venoshock,agility,pinmissile|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+25.830256948853833|venipede|Coba Berry|Poison Point|snore,doubleedge,skittersmack,rest|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+25.668236984334392|venipede|Silver Powder|Poison Point|agility,steelroller,defensecurl,skittersmack|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+25.634815885355714|venipede|Yache Berry|Poison Point|toxic,irondefense,rollout,rest|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+25.393946013729227|venipede|Ring Target|Swarm|steelroller,sludgebomb,defensecurl,irondefense|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+24.21887878220451|venipede|Never-Melt Ice|Poison Point|steelroller,venoshock,sludgebomb,rollout|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+22.009058011632955|venipede|Dragon Scale|Poison Point|agility,poisonsting,irondefense,sunnyday|Serious|0,0,252,252,4,0||31,31,31,31,31,31||50|
+21.551974002150935|venipede|Flame Orb|Swarm|furycutter,endure,poisonsting,facade|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+19.036470649867656|venipede|King's Rock|Swarm|venoshock,irondefense,doubleedge,agility|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+18.847712394666885|venipede|Never-Melt Ice|Poison Point|defensecurl,sludgebomb,irondefense,spikes|Careful|0,228,28,0,252,0||31,31,31,31,31,31||50|
+17.402057232566882|venipede|Expert Belt|Swarm|steelroller,endure,venoshock,round|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+7.400756066069264|venipede|Life Orb|Swarm|snore,endure,defensecurl,irondefense|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+41.486721995132115|sinistea|Poison Barb|Cursed Body|shellsmash,darkpulse,shadowball,memento|Adamant|252,0,220,0,36,0||31,31,31,31,31,31||50|
+40.38351559633966|sinistea|Wise Glasses|Weak Armor|psychic,snore,gigadrain,nastyplot|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+39.58074103088176|sinistea|Chople Berry|Weak Armor|darkpulse,hex,foulplay,poltergeist|Impish|60,0,252,0,0,196||31,31,31,31,31,31||50|
+39.38016028166234|sinistea|Tamato Berry|Weak Armor|shadowball,gigadrain,psychic,darkpulse|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+39.260297188637956|sinistea|Metronome|Cursed Body|psychic,round,shellsmash,suckerpunch|Bold|252,0,252,0,0,4||31,31,31,31,31,31||50|
+38.5127320527536|sinistea|Rose Incense|Cursed Body|psychic,round,wonderroom,phantomforce|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+38.23777356427883|sinistea|Aguav Berry|Weak Armor|wonderroom,endure,psychic,darkpulse|Brave|0,252,0,0,252,4||31,31,31,31,31,0||50|
+37.27756500710545|sinistea|Rowap Berry|Cursed Body|endure,aromaticmist,foulplay,shellsmash|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+37.05103363543493|sinistea|Cell Battery|Cursed Body|endure,psychic,darkpulse,aromaticmist|Impish|60,0,252,0,0,196||31,31,31,31,31,31||50|
+36.227773621144166|sinistea|Icy Rock|Cursed Body|snore,poltergeist,darkpulse,psyshock|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+35.269171571773946|sinistea|Rawst Berry|Weak Armor|psychic,foulplay,phantomforce,payback|Timid|172,0,0,84,0,252||31,0,31,31,31,31||50|
+34.66658169807512|sinistea|Silk Scarf|Weak Armor|endure,psychic,darkpulse,willowisp|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+33.53940822240089|sinistea|Tamato Berry|Cursed Body|shadowball,round,memento,sleeptalk|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+32.45538318019349|sinistea|Tamato Berry|Cursed Body|psychic,snore,darkpulse,hex|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+31.89320869490457|sinistea|Colbur Berry|Weak Armor|foulplay,endure,substitute,shellsmash|Impish|60,0,252,0,0,196||31,31,31,31,31,31||50|
+31.580935988422162|sinistea|Eject Button|Cursed Body|willowisp,psychic,memento,foulplay|Careful|4,252,44,0,68,140||31,31,31,31,31,31||50|
+31.187818758539873|sinistea|Rindo Berry|Weak Armor|foulplay,megadrain,psychic,substitute|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.541334800216184|sinistea|Poison Barb|Cursed Body|willowisp,shadowball,psychic,phantomforce|Impish|0,132,156,0,0,220||31,31,31,31,31,31||50|
+30.105563373638077|sinistea|Black Glasses|Weak Armor|darkpulse,gigadrain,poltergeist,aromatherapy|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+29.247303546533125|sinistea|Tamato Berry|Weak Armor|gigadrain,darkpulse,snore,trick|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+37.308946677481615|machop|Aguav Berry|Guts|retaliate,toxic,payback,icepunch|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+35.89511526189354|machop|Poison Barb|Steadfast|knockoff,firepunch,poisonjab,rest|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+34.82989509254401|machop|Liechi Berry|Steadfast|coaching,payback,brickbreak,quickguard|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+31.892228330325956|machop|Ring Target|Steadfast|payback,leer,knockoff,revenge|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+31.23148613927588|machop|Rowap Berry|Steadfast|fling,sunnyday,flamethrower,attract|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+31.09852855297072|machop|Liechi Berry|Guts|retaliate,payback,fling,protect|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.087014582236787|machop|Damp Rock|Guts|dig,coaching,firepunch,payback|Brave|0,252,36,220,0,0||31,31,31,31,31,0||50|
+30.791596965051824|machop|Snowball|Steadfast|retaliate,knockoff,headbutt,substitute|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+30.6594898229649|machop|Rowap Berry|Guts|coaching,doubleedge,payback,facade|Gentle|0,0,0,252,4,252||31,31,31,31,31,31||50|
+30.190006039791765|machop|Choice Scarf|Steadfast|lowsweep,leer,doubleedge,strength|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+29.816310378362253|machop|Electric Seed|Steadfast|leer,poisonjab,firepunch,sleeptalk|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.75291336265868|machop|Expert Belt|Steadfast|payback,lowsweep,doubleedge,knockoff|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+29.4073324585793|machop|Light Clay|No Guard|knockoff,payback,brickbreak,rockslide|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+29.294510586570528|machop|Liechi Berry|Steadfast|revenge,flamethrower,knockoff,bodyslam|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.768358737517744|machop|Rindo Berry|Steadfast|payback,retaliate,headbutt,rocktomb|Mild|172,100,0,236,0,0||31,31,31,31,31,31||50|
+28.650483016747003|machop|Shuca Berry|Steadfast|heavyslam,leer,brickbreak,fling|Adamant|140,252,116,0,0,0||31,31,31,31,31,31||50|
+28.611776693193505|machop|Kebia Berry|Guts|flamethrower,sunnyday,coaching,megakick|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+28.605422106773904|machop|Haban Berry|Steadfast|tickle,knockoff,headbutt,payback|Quiet|84,0,252,172,0,0||31,31,31,31,31,0||50|
+26.283472829025907|machop|Rowap Berry|Steadfast|leer,retaliate,payback,coaching|Sassy|4,252,252,0,0,0||31,31,31,31,31,31||50|
+10.758288553309908|machop|Room Service|Guts|knockoff,payback,retaliate,lightscreen|Brave|252,180,76,0,0,0||31,31,31,31,31,31||50|
+29.358641825276898|bounsweet|Petaya Berry|Oblivious|rest,bounce,substitute,attract|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+27.185667235356938|bounsweet|Payapa Berry|Oblivious|rest,bounce,attract,helpinghand|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+25.370598428261093|bounsweet|Qualot Berry|Oblivious|energyball,grassknot,sleeptalk,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.130634989322292|bounsweet|Leftovers|Oblivious|magicalleaf,facade,sweetscent,playrough|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+14.820145591854809|bounsweet|Utility Umbrella|Oblivious|sleeptalk,flail,attract,grassknot|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+13.746468122900223|bounsweet|Leftovers|Sweet Veil|attract,magicalleaf,sweetscent,endeavor|Hasty|36,92,0,4,124,252||31,31,31,31,31,31||50|
+13.528905289258155|bounsweet|Twisted Spoon|Oblivious|energyball,grassknot,attract,playnice|Sassy|0,252,0,4,252,0||31,31,31,31,31,0||50|
+13.47890247434402|bounsweet|Leftovers|Oblivious|sweetscent,energyball,attract,grassknot|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+12.075318332620851|bounsweet|Aspear Berry|Oblivious|sleeptalk,grassknot,energyball,grassyglide|Modest|52,0,116,188,28,124||31,0,31,31,31,31||50|
+11.964483269118201|bounsweet|Soft Sand|Oblivious|flail,sunnyday,energyball,drainingkiss|Modest|52,0,116,188,28,124||31,0,31,31,31,31||50|
+11.82687171199779|bounsweet|Absorb Bulb|Oblivious|flail,energyball,sleeptalk,reflect|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+11.504037211410546|bounsweet|Leftovers|Leaf Guard|rest,sweetscent,attract,flail|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+10.522645865295637|bounsweet|Qualot Berry|Leaf Guard|sleeptalk,energyball,substitute,acupressure|Sassy|140,140,44,84,100,0||31,31,31,31,31,0||50|
+10.503333223794577|bounsweet|Iapapa Berry|Sweet Veil|rest,flail,energyball,grassknot|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+8.88402149830061|bounsweet|Snowball|Oblivious|attract,lightscreen,bounce,aromatherapy|Serious|0,252,0,252,4,0||31,31,31,31,31,31||50|
+8.069665386090806|bounsweet|Leftovers|Oblivious|sleeptalk,attract,flail,sweetscent|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+7.677919778981487|bounsweet|Snowball|Oblivious|grassknot,lightscreen,energyball,attract|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+6.477979709244641|bounsweet|Qualot Berry|Oblivious|lightscreen,flail,sleeptalk,facade|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+6.2422943273873495|bounsweet|Snowball|Oblivious|rest,lightscreen,sleeptalk,grassknot|Bold|220,0,132,140,12,4||31,0,31,31,31,31||50|
+4.850242153851451|bounsweet|Chesto Berry|Sweet Veil|sleeptalk,attract,rest,aromatherapy|Modest|52,0,116,188,28,124||31,0,31,31,31,31||50|
+24.968813878096555|blipbug|Protective Pads|Swarm|strugglebug,recover,infestation,supersonic|Sassy|0,4,0,252,252,0||31,31,31,31,31,31||50|
+24.500242667918247|blipbug|Qualot Berry|Compound Eyes|supersonic,strugglebug,infestation,recover|Modest|228,0,0,180,0,100||31,0,31,31,31,31||50|
+22.104027898462615|blipbug|Luminous Moss|Compound Eyes|strugglebug,infestation,recover,supersonic|Sassy|0,4,0,252,252,0||31,31,31,31,31,31||50|
+21.978259195758316|blipbug|Zoom Lens|Compound Eyes|strugglebug,infestation,recover,supersonic|Sassy|0,4,0,252,252,0||31,31,31,31,31,31||50|
+21.895807990224057|blipbug|Soft Sand|Telepathy|recover,strugglebug,supersonic,infestation|Sassy|0,4,0,252,252,0||31,31,31,31,31,31||50|
+20.532311465406835|blipbug|Protector|Compound Eyes|strugglebug,stickyweb,infestation,recover|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+20.266340564730143|blipbug|Psychic Seed|Compound Eyes|infestation,strugglebug,supersonic,recover|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+19.806194161117418|blipbug|Utility Umbrella|Compound Eyes|recover,stickyweb,infestation,supersonic|Timid|4,0,252,0,0,252||31,31,31,31,31,31||50|
+18.806594554668095|blipbug|Damp Rock|Compound Eyes|infestation,supersonic,strugglebug,recover|Modest|68,0,188,252,0,0||31,0,31,31,31,31||50|
+18.327002897859728|blipbug|Twisted Spoon|Compound Eyes|stickyweb,supersonic,infestation,strugglebug|Timid|0,0,60,196,0,252||31,0,31,31,31,31||50|
+17.933859898644148|blipbug|Never-Melt Ice|Swarm|strugglebug,infestation,stickyweb,recover|Timid|0,0,60,196,0,252||31,0,31,31,31,31||50|
+17.717589161356656|blipbug|Wide Lens|Compound Eyes|recover,stickyweb,infestation,strugglebug|Timid|0,0,60,196,0,252||31,0,31,31,31,31||50|
+17.09707311843622|blipbug|Black Glasses|Swarm|supersonic,infestation,recover,stickyweb|Gentle|4,0,0,0,252,252||31,31,31,31,31,31||50|
+16.90697393611723|blipbug|Quick Claw|Compound Eyes|supersonic,strugglebug,recover,stickyweb|Sassy|0,4,0,252,252,0||31,31,31,31,31,31||50|
+15.63096767718564|blipbug|Sticky Barb|Compound Eyes|infestation,strugglebug,supersonic,stickyweb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+15.315624804865614|blipbug|Maranga Berry|Compound Eyes|infestation,strugglebug,recover,supersonic|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+14.069583101919434|blipbug|Soft Sand|Compound Eyes|stickyweb,strugglebug,supersonic,recover|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+14.057860291279711|blipbug|Metal Coat|Compound Eyes|supersonic,infestation,stickyweb,recover|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+13.289943791019159|blipbug|Soft Sand|Compound Eyes|strugglebug,infestation,stickyweb,recover|Sassy|0,4,0,252,252,0||31,31,31,31,31,31||50|
+12.226504952934842|blipbug|Soft Sand|Compound Eyes|supersonic,infestation,recover,strugglebug|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|

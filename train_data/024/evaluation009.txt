@@ -1,0 +1,100 @@
+29.102815017081475|zigzagoongalar|Life Orb|Gluttony|pinmissile,hypervoice,thunder,seedbomb|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+28.560558387554448|zigzagoongalar|Absorb Bulb|Gluttony|pinmissile,hypervoice,protect,trick|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.952397570395668|zigzagoongalar|Air Balloon|Gluttony|mudshot,lashout,trick,quickguard|Mild|28,172,0,236,60,12||31,31,31,31,31,31||50|
+27.706091312728844|zigzagoongalar|Protective Pads|Quick Feet|pinmissile,hypervoice,snore,attract|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+27.182070472154813|zigzagoongalar|Kasib Berry|Quick Feet|trick,doubleedge,lashout,sandattack|Mild|28,172,0,236,60,12||31,31,31,31,31,31||50|
+26.879774578327858|zigzagoongalar|Terrain Extender|Quick Feet|facade,thief,thunder,lashout|Bold|0,0,252,4,0,252||31,31,31,31,31,31||50|
+26.612447132324977|zigzagoongalar|Psychic Seed|Quick Feet|mudshot,trick,lashout,seedbomb|Mild|28,172,0,236,60,12||31,31,31,31,31,31||50|
+26.451907273414538|zigzagoongalar|Life Orb|Quick Feet|facade,pinmissile,mudshot,irontail|Mild|28,172,0,236,60,12||31,31,31,31,31,31||50|
+26.284238684086574|zigzagoongalar|Luminous Moss|Quick Feet|pinmissile,facade,trick,fling|Mild|28,172,0,236,60,12||31,31,31,31,31,31||50|
+26.182273684205352|zigzagoongalar|Luminous Moss|Quick Feet|facade,pinmissile,lashout,irontail|Gentle|252,252,0,0,4,0||31,31,31,31,31,31||50|
+25.915915827946222|zigzagoongalar|Protective Pads|Gluttony|doubleedge,snore,hypervoice,leer|Naughty|0,92,0,236,0,180||31,31,31,31,31,31||50|
+25.455068014199252|zigzagoongalar|Rawst Berry|Quick Feet|pinmissile,thunder,doubleedge,counter|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+25.356328489284497|zigzagoongalar|Throat Spray|Gluttony|protect,doubleedge,snore,round|Timid|252,0,0,0,12,244||31,31,31,31,31,31||50|
+25.00318443444859|zigzagoongalar|Babiri Berry|Quick Feet|mudshot,headbutt,doubleedge,takedown|Mild|28,172,0,236,60,12||31,31,31,31,31,31||50|
+20.965087097099982|zigzagoongalar|Silk Scarf|Quick Feet|protect,lashout,doubleedge,assurance|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+18.37271440961986|zigzagoongalar|Life Orb|Quick Feet|mudshot,thief,headbutt,takedown|Timid|36,0,92,164,12,204||31,31,31,31,31,31||50|
+18.170339448472753|zigzagoongalar|Wave Incense|Gluttony|snore,pinmissile,trick,scaryface|Gentle|252,252,0,0,4,0||31,31,31,31,31,31||50|
+17.70209847514858|zigzagoongalar|Mago Berry|Gluttony|snore,trick,pinmissile,grassknot|Impish|124,252,132,0,0,0||31,31,31,31,31,31||50|
+15.171152307805581|zigzagoongalar|Grip Claw|Gluttony|snore,lashout,mudshot,doubleedge|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+15.057549783322212|zigzagoongalar|Choice Band|Quick Feet|thunder,pinmissile,snore,takedown|Mild|28,172,0,236,60,12||31,31,31,31,31,31||50|
+34.657677525018|wingull|Aguav Berry|Keen Eye|aircutter,twister,swift,watergun|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+34.15739762938867|wingull|Icy Rock|Keen Eye|swift,rest,endure,hurricane|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+31.951969733927317|wingull|Wiki Berry|Rain Dish|hurricane,swift,thief,attract|Calm|36,0,220,0,252,0||31,0,31,31,31,31||50|
+31.698129423268078|wingull|Charti Berry|Keen Eye|wideguard,endure,hurricane,swift|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+30.589848961923618|wingull|Lax Incense|Keen Eye|hurricane,thief,aircutter,agility|Careful|180,0,0,0,252,76||31,31,31,31,31,31||50|
+29.46086331950353|wingull|Sea Incense|Keen Eye|hurricane,thief,rest,attract|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+29.23101190577301|wingull|Wiki Berry|Keen Eye|hurricane,thief,swift,agility|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+28.98097162204384|wingull|Icy Rock|Hydration|hurricane,liquidation,rest,icywind|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.42191905760373|wingull|Absorb Bulb|Keen Eye|swift,aircutter,endure,blizzard|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.094832920524198|wingull|Focus Sash|Rain Dish|aircutter,thief,swift,uturn|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+27.727011894306745|wingull|Wiki Berry|Keen Eye|hurricane,wideguard,thief,blizzard|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.37814363238022|wingull|Psychic Seed|Hydration|swift,thief,aircutter,soak|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+26.365924142816883|wingull|Safety Goggles|Keen Eye|hurricane,thief,swift,aircutter|Naughty|204,116,36,12,0,140||31,31,31,31,31,31||50|
+26.293037244326904|wingull|Kelpsy Berry|Hydration|swift,aircutter,brine,airslash|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+26.181373741925736|wingull|Big Root|Keen Eye|thief,aircutter,hurricane,roost|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+24.480264011982634|wingull|Cheri Berry|Keen Eye|swift,aircutter,endure,facade|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+24.345780559091516|wingull|Icy Rock|Keen Eye|brine,swift,rest,agility|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+23.426243446605977|wingull|Charti Berry|Keen Eye|swift,rest,endure,brine|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+22.757586747838563|wingull|Choice Band|Rain Dish|swift,aircutter,hurricane,brine|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+20.237148648928567|wingull|Icy Rock|Hydration|rest,swift,aircutter,dualwingbeat|Sassy|0,252,164,92,0,0||31,31,31,31,31,0||50|
+34.83556160873657|spheal|Kasib Berry|Thick Fat|waterpulse,rockslide,attract,protect|Relaxed|0,4,252,0,252,0||31,31,31,31,31,0||50|
+34.40554407615489|spheal|Utility Umbrella|Ice Body|bodyslam,facade,waterpulse,rockslide|Sassy|20,140,4,92,252,0||31,31,31,31,31,0||50|
+34.003633305195194|spheal|Aguav Berry|Ice Body|rockslide,curse,waterpulse,hail|Timid|0,0,132,124,0,252||31,31,31,31,31,31||50|
+33.97138230524019|spheal|Pomeg Berry|Ice Body|bodyslam,encore,snore,bulldoze|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+31.79569462204294|spheal|Iapapa Berry|Ice Body|encore,rockslide,curse,brine|Bold|4,0,252,0,0,252||31,31,31,31,31,31||50|
+31.407263057882016|spheal|Iapapa Berry|Ice Body|waterpulse,encore,curse,whirlpool|Modest|188,0,0,252,0,68||31,31,31,31,31,31||50|
+29.84974410611397|spheal|Sitrus Berry|Oblivious|rest,waterpulse,rockslide,bulldoze|Calm|0,0,0,156,252,100||31,0,31,31,31,31||50|
+29.579518619470733|spheal|Bright Powder|Ice Body|attract,curse,sheercold,rollout|Serious|0,180,76,252,0,0||31,31,31,31,31,31||50|
+29.346309937177573|spheal|Iapapa Berry|Oblivious|encore,icebeam,snore,bodyslam|Careful|0,0,12,0,252,244||31,31,31,31,31,31||50|
+29.321841617526314|spheal|Mago Berry|Ice Body|waterpulse,encore,attract,whirlpool|Sassy|20,140,4,92,252,0||31,31,31,31,31,0||50|
+29.263531362604443|spheal|Babiri Berry|Ice Body|attract,bodyslam,snore,rockslide|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.780947450326845|spheal|Luminous Moss|Ice Body|waterpulse,bodyslam,rockslide,fissure|Mild|28,236,0,172,28,44||31,31,31,31,31,31||50|
+26.59575550464651|spheal|Iapapa Berry|Ice Body|waterpulse,bodyslam,spitup,icywind|Impish|0,252,20,0,236,0||31,31,31,31,31,31||50|
+24.22799180482943|spheal|Iapapa Berry|Ice Body|encore,waterpulse,rockslide,icywind|Impish|0,252,20,0,236,0||31,31,31,31,31,31||50|
+23.95476239861198|spheal|Aguav Berry|Thick Fat|curse,waterpulse,raindance,whirlpool|Bold|0,0,252,252,4,0||31,31,31,31,31,31||50|
+20.386404592576106|spheal|Sitrus Berry|Thick Fat|curse,sheercold,waterpulse,growl|Calm|0,0,0,156,252,100||31,0,31,31,31,31||50|
+19.316864116913862|spheal|Binding Band|Ice Body|snore,encore,rockslide,attract|Impish|0,252,20,0,236,0||31,31,31,31,31,31||50|
+17.69874499517491|spheal|Soft Sand|Ice Body|snore,encore,waterpulse,aquaring|Lax|140,0,252,0,0,116||31,31,31,31,31,31||50|
+16.858393681256967|spheal|Iapapa Berry|Ice Body|attract,waterpulse,snore,swallow|Sassy|20,140,4,92,252,0||31,31,31,31,31,0||50|
+15.694030612883452|spheal|Sea Incense|Thick Fat|curse,sheercold,attract,stockpile|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+37.741064080479674|snorunt|Eviolite|Moody|bodyslam,faketears,substitute,facade|Jolly|196,0,68,0,0,244||31,31,31,31,31,31||50|
+36.489144089590674|snorunt|Grassy Seed|Ice Body|hex,avalanche,substitute,disable|Brave|228,252,0,0,28,0||31,31,31,31,31,0||50|
+35.96707083616467|snorunt|Sitrus Berry|Ice Body|bodyslam,substitute,avalanche,icefang|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+35.0073871530444|snorunt|Chople Berry|Ice Body|substitute,avalanche,snore,hex|Brave|228,252,0,0,28,0||31,31,31,31,31,0||50|
+34.85802426241652|snorunt|Focus Band|Moody|disable,bodyslam,avalanche,bite|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+34.100939596212896|snorunt|Cell Battery|Ice Body|shadowball,bodyslam,avalanche,protect|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+31.867016456482478|snorunt|Life Orb|Moody|substitute,avalanche,snore,bite|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+31.15316957156121|snorunt|Big Root|Moody|substitute,avalanche,hail,bite|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+31.072997754709988|snorunt|Sitrus Berry|Moody|round,substitute,avalanche,switcheroo|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+31.01198720559176|snorunt|Sitrus Berry|Inner Focus|faketears,iceshard,substitute,icefang|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+30.9722572388187|snorunt|Focus Sash|Ice Body|protect,avalanche,substitute,endure|Naughty|0,244,12,252,0,0||31,31,31,31,31,31||50|
+30.75418363854963|snorunt|Big Root|Moody|avalanche,snore,substitute,protect|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+29.073310139344528|snorunt|Big Root|Moody|avalanche,snore,substitute,hex|Sassy|0,4,0,252,252,0||31,31,31,31,31,0||50|
+26.35089541550069|snorunt|Sitrus Berry|Moody|rollout,disable,substitute,avalanche|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+25.775222079332032|snorunt|Charcoal|Moody|substitute,bite,avalanche,bodyslam|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+25.162825181641185|snorunt|Big Root|Moody|substitute,faketears,bite,headbutt|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+24.114507974350857|snorunt||Inner Focus|blizzard,substitute,avalanche,rest|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+23.725803328172223|snorunt|Odd Incense|Ice Body|bite,round,bodyslam,powdersnow|Sassy|252,0,4,0,252,0||31,31,31,31,31,31||50|
+19.3933561860187|snorunt|Quick Claw|Moody|snore,substitute,hex,switcheroo|Brave|148,252,44,4,60,0||31,31,31,31,31,31||50|
+17.36081158122429|snorunt|Big Root|Ice Body|snore,hex,substitute,switcheroo|Impish|164,84,132,0,60,68||31,31,31,31,31,31||50|
+9.75307738896457|pichu|Sticky Barb|Lightning Rod|fling,rest,endure,charm|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+8.323477801512109|pichu|Toxic Orb|Lightning Rod|nastyplot,snore,voltswitch,flail|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+8.209952386657216|pichu|Toxic Orb|Lightning Rod|snore,endure,helpinghand,nastyplot|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+7.139553077957178|pichu|Toxic Orb|Static|tailwhip,fling,voltswitch,wish|Relaxed|0,4,252,0,252,0||31,31,31,31,31,31||50|
+6.338188579670068|pichu|Toxic Orb|Lightning Rod|endure,voltswitch,snore,thunder|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.895430216409412|pichu|Room Service|Static|voltswitch,electricterrain,tailwhip,sleeptalk|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+25.10276367900176|pichu|Toxic Orb|Static|voltswitch,endure,fling,rest|Relaxed|0,4,252,0,252,0||31,31,31,31,31,31||50|
+23.233338078368238|pichu|Toxic Orb|Static|voltswitch,helpinghand,fling,wish|Relaxed|0,4,252,0,252,0||31,31,31,31,31,31||50|
+21.34675182768295|pichu|Salac Berry|Lightning Rod|electricterrain,raindance,sleeptalk,megapunch|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.568727090111906|pichu|Toxic Orb|Lightning Rod|sleeptalk,electricterrain,fling,swift|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+16.24388867385464|pichu|Silk Scarf|Lightning Rod|fling,helpinghand,tailwhip,nuzzle|Serious|0,0,4,252,252,0||31,31,31,31,31,31||50|
+15.150133913195916|pichu|Protective Pads|Lightning Rod|sleeptalk,fling,helpinghand,charge|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+13.462630630114452|pichu|Protective Pads|Static|sleeptalk,fling,tailwhip,thunderpunch|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+13.298882712450403|pichu|Toxic Orb|Lightning Rod|protect,snore,voltswitch,irontail|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+13.237187643571241|pichu|Toxic Orb|Lightning Rod|protect,helpinghand,snore,voltswitch|Relaxed|0,4,252,0,252,0||31,31,31,31,31,31||50|
+12.520153087066893|pichu|Protective Pads|Static|tailwhip,sleeptalk,snore,grassknot|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+12.281003431487939|pichu|Cheri Berry|Lightning Rod|endure,tailwhip,helpinghand,nastyplot|Quiet|252,0,0,236,20,0||31,31,31,31,31,0||50|
+12.14673391267542|pichu|Starf Berry|Static|fling,tailwhip,protect,electroweb|Impish|4,0,252,0,0,252||31,31,31,31,31,31||50|
+11.01771508787217|pichu|Protective Pads|Static|sleeptalk,rest,tailwhip,snore|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+10.96754195170765|pichu|Cheri Berry|Static|tailwhip,rest,fling,thunderwave|Relaxed|0,4,252,0,252,0||31,31,31,31,31,31||50|

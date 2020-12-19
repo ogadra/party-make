@@ -1,0 +1,100 @@
+33.144114310438944|treecko|Colbur Berry|Unburden|leafstorm,grassyglide,bulletseed,endure|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+28.891715227973386|treecko|Occa Berry|Overgrow|grassyglide,grasspledge,megadrain,doubleteam|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+27.65429860880989|treecko|Colbur Berry|Unburden|bodyslam,attract,bulletseed,leechseed|Relaxed|252,0,196,60,0,0||31,31,31,31,31,0||50|
+27.065087239675705|treecko|Haban Berry|Unburden|leechseed,facade,dig,leafstorm|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+26.53552792506894|treecko|Haban Berry|Overgrow|slam,leechseed,drainpunch,swordsdance|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+26.273733646837254|treecko|Occa Berry|Unburden|facade,drainpunch,brickbreak,swift|Impish|0,252,0,0,204,52||31,31,31,31,31,31||50|
+26.237789941138498|treecko|Rocky Helmet|Overgrow|grasspledge,grassyglide,megadrain,agility|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+26.21462790241574|treecko|Colbur Berry|Overgrow|crunch,bulletseed,facade,agility|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+26.044257749879563|treecko|Absorb Bulb|Overgrow|grassyglide,megadrain,grasspledge,sunnyday|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+26.025821132401386|treecko|Colbur Berry|Overgrow|grassyglide,grasspledge,megadrain,rest|Bold|116,0,196,196,0,0||31,0,31,31,31,31||50|
+25.48279642779996|treecko|Colbur Berry|Unburden|bulletseed,grasspledge,crunch,dragonbreath|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
+25.002044242432024|treecko|Pixie Plate|Unburden|brickbreak,facade,crunch,nightslash|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+22.15798970285271|treecko|Colbur Berry|Overgrow|megadrain,crunch,brickbreak,facade|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+22.12920738957671|treecko|King's Rock|Overgrow|bodyslam,swift,screech,facade|Sassy|252,0,0,252,4,0||31,31,31,31,31,31||50|
+21.718113652274916|treecko|Colbur Berry|Unburden|slam,grasspledge,megadrain,crunch|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+20.039476548414534|treecko|Quick Claw|Unburden|grassyglide,bulletseed,brickbreak,leechseed|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+18.33790570100962|treecko|Occa Berry|Overgrow|crunch,facade,bulletseed,leafstorm|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+16.266998564914964|treecko|Figy Berry|Unburden|megadrain,grassyglide,quickattack,endure|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+14.705190204325339|treecko|Occa Berry|Unburden|screech,quickattack,megadrain,snore|Calm|0,0,252,4,252,0||31,31,31,31,31,31||50|
+12.645927094685863|treecko|Qualot Berry|Overgrow|screech,rocktomb,crunch,rockslide|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+30.09391531871341|toxel|Apicot Berry|Static|endeavor,facade,acid,round|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.93852802502766|toxel|Petaya Berry|Rattled|tearfullook,belch,poweruppunch,substitute|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+26.063138175565044|toxel|Zoom Lens|Klutz|acid,belch,rest,encore|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+24.08772704664309|toxel|Silk Scarf|Static|facade,belch,poweruppunch,nuzzle|Careful|0,0,228,0,252,28||31,31,31,31,31,31||50|
+24.028008837563906|toxel|Smooth Rock|Static|acid,facade,growl,substitute|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+23.311496963410864|toxel|Pecha Berry|Klutz|poweruppunch,encore,rest,facade|Sassy|4,252,0,0,252,0||31,31,31,31,31,0||50|
+22.940344225728772|toxel|Metal Coat|Static|endure,acid,poweruppunch,round|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+21.783004471513514|toxel|Iron Ball|Rattled|acid,poweruppunch,belch,rest|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+21.493311989415506|toxel|Smooth Rock|Static|facade,tearfullook,rest,poweruppunch|Bold|180,0,76,0,0,252||31,31,31,31,31,31||50|
+21.192444072826543|toxel|Black Belt|Static|belch,encore,acid,nuzzle|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+19.709792864577096|toxel|Tanga Berry|Static|growl,belch,facade,metalsound|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+19.569224176091883|toxel|Mental Herb|Rattled|acid,metalsound,snore,attract|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+19.153304455456336|toxel|Eject Pack|Klutz|sleeptalk,facade,metalsound,protect|Quiet|0,84,172,252,0,0||31,31,31,31,31,0||50|
+16.1210956584416|toxel|Coba Berry|Static|rest,poweruppunch,belch,nuzzle|Bold|84,0,116,68,156,84||31,31,31,31,31,31||50|
+15.673836025087658|toxel|Blunder Policy|Static|belch,acid,encore,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+13.499886089312424|toxel|Shell Bell|Rattled|belch,poweruppunch,growl,snore|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+13.089063911038327|toxel|Rocky Helmet|Static|protect,belch,growl,rest|Bold|252,0,0,0,4,252||31,0,31,31,31,31||50|
+11.745795479669075|toxel|Jaboca Berry|Klutz|rest,growl,belch,snore|Jolly|4,0,0,0,252,252||31,31,31,31,31,31||50|
+11.31714753787158|toxel|Wide Lens|Static|encore,belch,growl,substitute|Sassy|4,252,0,0,252,0||31,31,31,31,31,0||50|
+6.295602346439726|toxel|Light Clay|Static|belch,encore,rest,endure|Sassy|4,252,0,0,252,0||31,31,31,31,31,0||50|
+31.823306111841855|poliwag|Qualot Berry|Damp|bubble,blizzard,hydropump,psychic|Jolly|188,52,4,0,44,220||31,31,31,31,31,31||50|
+29.903661711927175|poliwag|Rock Incense|Damp|watergun,doubleedge,psychic,attract|Calm|0,0,60,252,196,0||31,0,31,31,31,31||50|
+29.46552068442528|poliwag|Shell Bell|Swift Swim|doubleslap,blizzard,watergun,endure|Calm|0,0,60,252,196,0||31,0,31,31,31,31||50|
+29.028513327468538|poliwag|Utility Umbrella|Damp|watergun,doubleedge,scald,substitute|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+28.429412684526497|poliwag|Protector|Damp|watergun,encore,psychic,dive|Calm|0,0,60,252,196,0||31,0,31,31,31,31||50|
+27.484337741650815|poliwag|Aguav Berry|Water Absorb|sleeptalk,doubleedge,mist,mudshot|Gentle|252,0,0,4,252,0||31,31,31,31,31,31||50|
+26.39666937950547|poliwag|Choice Band|Water Absorb|blizzard,raindance,watergun,haze|Relaxed|116,0,228,164,0,0||31,31,31,31,31,0||50|
+26.335033498781026|poliwag|Silk Scarf|Water Absorb|doubleedge,earthpower,attract,icebeam|Brave|0,252,252,0,0,4||31,31,31,31,31,0||50|
+25.663497098781775|poliwag|Big Root|Damp|doubleedge,mudshot,muddywater,rest|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+25.38936297804595|poliwag|Choice Band|Damp|psychic,bodyslam,doubleslap,attract|Calm|0,0,60,252,196,0||31,0,31,31,31,31||50|
+25.190027212224976|poliwag|Protective Pads|Water Absorb|bubble,blizzard,watergun,helpinghand|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+24.646956289915373|poliwag|Bright Powder|Swift Swim|bubble,psychic,blizzard,doubleedge|Jolly|188,52,4,0,44,220||31,31,31,31,31,31||50|
+24.53287336230786|poliwag|Figy Berry|Damp|watergun,scald,doubleedge,hail|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+23.04923754022897|poliwag|Choice Band|Damp|sleeptalk,psychic,scald,doubleedge|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.61552602060692|poliwag|Choice Band|Damp|psychic,mudshot,attract,helpinghand|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+22.044208004585826|poliwag|Figy Berry|Damp|waterpulse,scald,attract,helpinghand|Brave|0,252,252,0,0,4||31,31,31,31,31,0||50|
+21.652892535534345|poliwag|Figy Berry|Damp|mudshot,facade,snore,hail|Bold|0,0,164,252,0,92||31,0,31,31,31,31||50|
+20.728463344015914|poliwag|Shell Bell|Swift Swim|bubble,blizzard,earthpower,raindance|Timid|76,0,0,0,204,228||31,0,31,31,31,31||50|
+17.368408069936756|poliwag|Dragon Scale|Water Absorb|substitute,mudshot,doubleedge,thief|Impish|228,20,156,0,68,36||31,31,31,31,31,31||50|
+12.9823158009078|poliwag|Coba Berry|Water Absorb|raindance,scald,bubble,hydropump|Brave|0,252,252,0,0,4||31,31,31,31,31,0||50|
+33.77359966848471|petilil|Big Root|Chlorophyll|pollenpuff,sleeptalk,ingrain,helpinghand|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+31.865037963842838|petilil|Payapa Berry|Leaf Guard|pollenpuff,attract,synthesis,magicalleaf|Jolly|12,0,244,0,0,252||31,31,31,31,31,31||50|
+31.428420584537704|petilil|Shed Shell|Chlorophyll|pollenpuff,stunspore,sleeptalk,absorb|Sassy|252,4,252,0,0,0||31,31,31,31,31,0||50|
+28.012698089436228|petilil|Big Root|Own Tempo|megadrain,round,growth,entrainment|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.926723112700653|petilil|Float Stone|Own Tempo|megadrain,seedbomb,grassknot,sleeppowder|Bold|252,0,4,252,0,0||31,0,31,31,31,31||50|
+27.496126202760664|petilil|Safety Goggles|Own Tempo|megadrain,healingwish,seedbomb,gigadrain|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.744607614721424|petilil|Throat Spray|Own Tempo|round,pollenpuff,attract,growth|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+26.324054087981295|petilil|Leppa Berry|Own Tempo|solarbeam,pollenpuff,sleeptalk,worryseed|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+26.212497628705165|petilil|Persim Berry|Chlorophyll|rest,solarbeam,stunspore,pollenpuff|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+25.59206626171533|petilil|Big Root|Own Tempo|seedbomb,round,growth,solarbeam|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.108190579045292|petilil|Spell Tag|Chlorophyll|solarbeam,rest,gigadrain,growth|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+23.63953080078251|petilil|Wiki Berry|Chlorophyll|growth,pollenpuff,round,ingrain|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.103085543812384|petilil|Tamato Berry|Chlorophyll|healingwish,grassknot,pollenpuff,charm|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+20.896823894165106|petilil|Big Root|Own Tempo|megadrain,growth,pollenpuff,energyball|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.371256091534814|petilil|Sharp Beak|Own Tempo|solarbeam,ingrain,sleeptalk,facade|Bold|0,0,252,4,0,252||31,0,31,31,31,31||50|
+17.201605592609813|petilil|Rose Incense|Own Tempo|healingwish,endure,round,solarbeam|Adamant|108,188,44,0,92,76||31,31,31,31,31,31||50|
+14.894833860476597|petilil|Big Root|Own Tempo|ingrain,growth,sleeptalk,attract|Bold|252,0,4,252,0,0||31,0,31,31,31,31||50|
+12.128698482571966|petilil|Razor Claw|Own Tempo|ingrain,megadrain,aromatherapy,healingwish|Bold|4,0,252,0,0,252||31,0,31,31,31,31||50|
+10.750632975774439|petilil|Spell Tag|Own Tempo|growth,healingwish,safeguard,megadrain|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+8.383631037743532|petilil|Twisted Spoon|Own Tempo|rest,sleeptalk,attract,helpinghand|Bold|0,0,108,0,148,252||31,31,31,31,31,31||50|
+35.26117704476497|hippopotas|Choice Specs|Sand Force|attract,spitup,bodyslam,revenge|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+34.59828240810532|hippopotas|Pecha Berry|Sand Force|highhorsepower,spitup,swallow,substitute|Impish|0,156,252,0,100,0||31,31,31,31,31,31||50|
+34.18623191713086|hippopotas|Persim Berry|Sand Stream|highhorsepower,attract,dig,endure|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+32.89909592584714|hippopotas|Oran Berry|Sand Stream|attract,crunch,whirlwind,sandattack|Timid|60,0,148,84,84,132||31,31,31,31,31,31||50|
+32.4157566719747|hippopotas|Utility Umbrella|Sand Stream|attract,doubleedge,highhorsepower,crunch|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+32.37652186230944|hippopotas|Absorb Bulb|Sand Force|crunch,whirlwind,sandattack,sunnyday|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.773134671295978|hippopotas|Pecha Berry|Sand Force|highhorsepower,crunch,attract,doubleedge|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+31.36057018455985|hippopotas|Salac Berry|Sand Force|attract,highhorsepower,doubleedge,earthquake|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+30.616418232697608|hippopotas|Soft Sand|Sand Force|sandattack,whirlwind,bulldoze,curse|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.733317184953997|hippopotas|Shell Bell|Sand Stream|dig,stockpile,whirlwind,substitute|Gentle|220,12,0,52,100,124||31,31,31,31,31,31||50|
+29.58809512579863|hippopotas|Kebia Berry|Sand Stream|whirlwind,doubleedge,spitup,round|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+29.491388692175704|hippopotas|Pecha Berry|Sand Force|spitup,sandattack,crunch,bulldoze|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+29.47522812782861|hippopotas|Snowball|Sand Stream|crunch,dig,bulldoze,swallow|Timid|60,0,148,84,84,132||31,31,31,31,31,31||50|
+27.736108896843003|hippopotas|Absorb Bulb|Sand Stream|dig,doubleedge,whirlwind,roar|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+27.57686860499964|hippopotas|Pecha Berry|Sand Force|dig,attract,sleeptalk,rest|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+25.52356654103209|hippopotas|Absorb Bulb|Sand Stream|bulldoze,sandattack,whirlwind,takedown|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+24.44773935781595|hippopotas|Weakness Policy|Sand Force|crunch,bodyslam,amnesia,swallow|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+20.671185993877156|hippopotas|Absorb Bulb|Sand Stream|attract,crunch,highhorsepower,takedown|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+16.979819845916545|hippopotas|Absorb Bulb|Sand Stream|slackoff,swallow,whirlwind,amnesia|Calm|252,0,0,4,252,0||31,31,31,31,31,31||50|
+8.896112864425454|hippopotas|Grip Claw|Sand Force|sunnyday,spitup,attract,protect|Relaxed|36,236,76,156,4,0||31,31,31,31,31,0||50|

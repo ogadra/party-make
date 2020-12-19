@@ -1,0 +1,100 @@
+|trubbish|Oran Berry|Stench|drainpunch,explosion,takedown,recycle|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Magnet|Stench|amnesia,selfdestruct,explosion,protect|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Grip Claw|Stench|acidspray,amnesia,belch,payback|Careful|156,0,0,0,124,228||31,31,31,31,31,31||50|
+|trubbish|Metronome|Stench|drainpunch,amnesia,takedown,payback|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|trubbish|Custap Berry|Stench|explosion,selfdestruct,drainpunch,amnesia|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Poison Barb|Stench|amnesia,selfdestruct,drainpunch,rockblast|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|trubbish|Magnet|Stench|raindance,explosion,recycle,rollout|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Oran Berry|Stench|explosion,selfdestruct,drainpunch,seedbomb|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|trubbish|Heat Rock|Stench|corrosivegas,selfdestruct,rollout,pound|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Choice Scarf|Stench|amnesia,acidspray,drainpunch,payback|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Oran Berry|Sticky Hold|explosion,selfdestruct,recycle,takedown|Calm|92,0,212,92,108,4||31,0,31,31,31,31||50|
+|trubbish|Occa Berry|Sticky Hold|selfdestruct,explosion,raindance,poisongas|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|trubbish|Magnet|Stench|recycle,explosion,selfdestruct,amnesia|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Absorb Bulb|Sticky Hold|curse,recycle,explosion,corrosivegas|Gentle|0,4,0,252,252,0||31,31,31,31,31,31||50|
+|trubbish|Magnet|Sticky Hold|raindance,rollout,facade,darkpulse|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Rose Incense|Aftermath|explosion,selfdestruct,raindance,gigadrain|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Heat Rock|Sticky Hold|recycle,rollout,acidspray,facade|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Metronome|Sticky Hold|explosion,recycle,takedown,endure|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Magnet|Sticky Hold|recycle,toxic,amnesia,swallow|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|trubbish|Razor Claw|Stench|raindance,explosion,recycle,autotomize|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|morelull|Wide Lens|Effect Spore|strengthsap,protect,substitute,megadrain|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|morelull|Quick Claw|Rain Dish|moonblast,sludgebomb,strengthsap,round|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|morelull|Persim Berry|Illuminate|substitute,protect,sludgebomb,poisonpowder|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|morelull|Choice Band|Illuminate|protect,pollenpuff,moonblast,megadrain|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|morelull|Scope Lens|Illuminate|protect,grassknot,moonblast,attract|Modest|236,0,0,244,28,0||31,31,31,31,31,31||50|
+|morelull|Never-Melt Ice|Effect Spore|magicroom,moonlight,safeguard,dazzlinggleam|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|morelull|Silk Scarf|Rain Dish|protect,moonlight,sludgebomb,rest|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|morelull|Silk Scarf|Illuminate|sludgebomb,substitute,safeguard,moonlight|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|morelull|Electric Seed|Illuminate|substitute,strengthsap,energyball,astonish|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|morelull|Oran Berry|Illuminate|megadrain,sludgebomb,strengthsap,facade|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|morelull|Miracle Seed|Illuminate|poisonpowder,grassknot,protect,wonderroom|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|morelull|Power Herb|Illuminate|sludgebomb,protect,megadrain,drainingkiss|Impish|0,28,228,0,252,0||31,31,31,31,31,31||50|
+|morelull|Psychic Seed|Rain Dish|protect,grassknot,strengthsap,growth|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|morelull|Power Herb|Effect Spore|protect,grassknot,sludgebomb,astonish|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|morelull|Rawst Berry|Illuminate|safeguard,grassknot,sludgebomb,stunspore|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|morelull|Float Stone|Illuminate|poisonpowder,moonlight,sludgebomb,seedbomb|Relaxed|0,0,252,252,4,0||31,31,31,31,31,0||50|
+|morelull|Power Herb|Illuminate|poisonpowder,grassknot,sludgebomb,pollenpuff|Quiet|92,28,12,252,124,0||31,31,31,31,31,31||50|
+|morelull|Power Herb|Illuminate|grassknot,poisonpowder,sludgebomb,rest|Sassy|0,252,0,252,4,0||31,31,31,31,31,0||50|
+|morelull|Life Orb|Effect Spore|moonblast,megadrain,pollenpuff,astonish|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|morelull|Silk Scarf|Illuminate|poisonpowder,substitute,grassknot,ingrain|Calm|236,0,20,252,0,0||31,0,31,31,31,31||50|
+|grookey|Mystic Water|Overgrow|solarblade,branchpoke,megakick,scratch|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|grookey|Metronome|Overgrow|screech,endure,hammerarm,endeavor|Modest|252,0,0,164,0,92||31,31,31,31,31,31||50|
+|grookey|Choice Band|Grassy Surge|leechseed,swordsdance,acrobatics,sleeptalk|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|grookey|Micle Berry|Grassy Surge|branchpoke,solarblade,strength,rest|Hasty|116,0,0,140,0,252||31,31,31,31,31,31||50|
+|grookey|Choice Band|Overgrow|endure,solarblade,acrobatics,hammerarm|Relaxed|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|grookey|Choice Specs|Overgrow|screech,hammerarm,swordsdance,taunt|Impish|60,0,196,0,252,0||31,31,31,31,31,31||50|
+|grookey|Choice Band|Grassy Surge|branchpoke,megakick,swordsdance,scratch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|grookey|Weakness Policy|Overgrow|swordsdance,acrobatics,screech,woodhammer|Careful|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|grookey|Choice Band|Overgrow|acrobatics,assurance,screech,megakick|Relaxed|0,0,252,4,252,0||31,31,31,31,31,0||50|
+|grookey|Wise Glasses|Grassy Surge|woodhammer,swordsdance,solarblade,workup|Relaxed|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|grookey|Choice Band|Overgrow|acrobatics,swordsdance,hammerarm,magicalleaf|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|grookey|Oran Berry|Overgrow|acrobatics,hammerarm,assurance,falseswipe|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|grookey|Choice Band|Overgrow|swordsdance,acrobatics,solarblade,branchpoke|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|grookey|Choice Band|Grassy Surge|leechseed,screech,megakick,fling|Careful|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|grookey|Spell Tag|Grassy Surge|leechseed,swordsdance,strength,razorleaf|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|grookey|Jaboca Berry|Overgrow|strength,swordsdance,acrobatics,magicalleaf|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|grookey|Choice Band|Overgrow|acrobatics,strength,hammerarm,endure|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|grookey|Kasib Berry|Overgrow|strength,swordsdance,hammerarm,magicalleaf|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|grookey|Pixie Plate|Grassy Surge|acrobatics,swordsdance,megakick,energyball|Relaxed|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|grookey|Weakness Policy|Grassy Surge|acrobatics,swordsdance,leechseed,drainpunch|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|dratini|Tanga Berry|Shed Skin|breakingswipe,dracometeor,headbutt,flamethrower|Modest|140,0,0,156,212,0||31,0,31,31,31,31||50|
+|dratini|Kelpsy Berry|Shed Skin|facade,headbutt,flamethrower,swift|Modest|140,0,0,156,212,0||31,0,31,31,31,31||50|
+|dratini|Micle Berry|Shed Skin|headbutt,sleeptalk,icebeam,surf|Sassy|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|dratini|Starf Berry|Shed Skin|flamethrower,headbutt,breakingswipe,facade|Modest|140,0,0,156,212,0||31,0,31,31,31,31||50|
+|dratini|Rindo Berry|Marvel Scale|substitute,aquatail,icywind,waterpulse|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|dratini|Payapa Berry|Shed Skin|icebeam,facade,breakingswipe,reflect|Modest|140,0,0,156,212,0||31,0,31,31,31,31||50|
+|dratini|Assault Vest|Shed Skin|breakingswipe,flamethrower,toxic,agility|Modest|140,0,0,156,212,0||31,0,31,31,31,31||50|
+|dratini|Choice Scarf|Shed Skin|icebeam,facade,breakingswipe,waterpulse|Modest|0,0,228,252,0,28||31,0,31,31,31,31||50|
+|dratini|Chople Berry|Shed Skin|icebeam,breakingswipe,toxic,thunderwave|Careful|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|dratini|Payapa Berry|Marvel Scale|icebeam,headbutt,toxic,endure|Bold|0,0,252,0,4,252||31,31,31,31,31,31||50|
+|dratini|Colbur Berry|Marvel Scale|headbutt,icebeam,attract,flamethrower|Calm|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|dratini|Starf Berry|Shed Skin|flamethrower,breakingswipe,icebeam,rest|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|dratini|Liechi Berry|Marvel Scale|dragonpulse,icebeam,headbutt,hydropump|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dratini|Eviolite|Marvel Scale|icebeam,breakingswipe,dragonpulse,protect|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|dratini|Focus Sash|Marvel Scale|facade,headbutt,icebeam,attract|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dratini|Liechi Berry|Shed Skin|dragonpulse,icebeam,breakingswipe,wrap|Relaxed|0,0,252,252,4,0||31,31,31,31,31,0||50|
+|dratini|Liechi Berry|Shed Skin|breakingswipe,aquatail,icebeam,headbutt|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|dratini|Liechi Berry|Marvel Scale|dragonpulse,icebeam,facade,twister|Sassy|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|dratini|Grip Claw|Marvel Scale|dragonpulse,icebeam,breakingswipe,aquatail|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|dratini|Choice Scarf|Shed Skin|headbutt,breakingswipe,flamethrower,fireblast|Modest|140,0,0,156,212,0||31,0,31,31,31,31||50|
+|caterpie|Aguav Berry|Run Away|stringshot,electroweb,bugbite,tackle|Brave|188,212,108,0,0,0||31,31,31,31,31,0||50|
+|caterpie|Rocky Helmet|Shield Dust|stringshot,electroweb,bugbite,tackle|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|caterpie|Luminous Moss|Shield Dust|stringshot,tackle,electroweb,bugbite|Careful|0,0,92,0,252,164||31,31,31,31,31,31||50|
+|caterpie|Eject Button|Run Away|bugbite,tackle,stringshot,electroweb|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|caterpie|King's Rock|Run Away|electroweb,bugbite,stringshot,tackle|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|caterpie|Haban Berry|Shield Dust|stringshot,bugbite,tackle,electroweb|Brave|188,212,108,0,0,0||31,31,31,31,31,0||50|
+|caterpie|Rocky Helmet|Run Away|tackle,bugbite,electroweb,stringshot|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|caterpie|Scope Lens|Shield Dust|electroweb,tackle,bugbite,stringshot|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|caterpie|Lum Berry|Shield Dust|bugbite,tackle,electroweb,stringshot|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|caterpie|Qualot Berry|Shield Dust|electroweb,stringshot,bugbite,tackle|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|caterpie|Ring Target|Run Away|electroweb,stringshot,tackle,bugbite|Sassy|116,0,0,140,252,0||31,31,31,31,31,0||50|
+|caterpie|Leftovers|Run Away|stringshot,electroweb,tackle,bugbite|Adamant|0,196,180,0,132,0||31,31,31,31,31,31||50|
+|caterpie|Grepa Berry|Run Away|tackle,bugbite,stringshot,electroweb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|caterpie|Aspear Berry|Run Away|tackle,electroweb,bugbite,stringshot|Timid|44,0,0,212,0,252||31,31,31,31,31,31||50|
+|caterpie|Enigma Berry|Run Away|electroweb,tackle,bugbite,stringshot|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|caterpie|Dragon Scale|Run Away|tackle,bugbite,electroweb,stringshot|Brave|188,212,108,0,0,0||31,31,31,31,31,0||50|
+|caterpie|Micle Berry|Run Away|tackle,electroweb,bugbite,stringshot|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|caterpie|Sitrus Berry|Run Away|bugbite,stringshot,tackle,electroweb|Brave|188,212,108,0,0,0||31,31,31,31,31,0||50|
+|caterpie|Grepa Berry|Run Away|bugbite,stringshot,electroweb,tackle|Adamant|0,196,180,0,132,0||31,31,31,31,31,31||50|
+|caterpie|Grepa Berry|Run Away|bugbite,electroweb,stringshot,tackle|Brave|188,212,108,0,0,0||31,31,31,31,31,0||50|

@@ -1,0 +1,100 @@
+34.97537217123561|silicobra|Coba Berry|Shed Skin|brutalswing,slam,glare,drillrun|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+34.08395550112717|silicobra|Leftovers|Sand Spit|earthpower,drillrun,dig,sandstorm|Modest|0,0,148,252,108,0||31,0,31,31,31,31||50|
+32.66007131402923|silicobra|Tamato Berry|Sand Veil|sandstorm,scorchingsands,belch,rest|Naive|188,0,0,172,0,148||31,31,31,31,31,31||50|
+31.338155447238673|silicobra|Pixie Plate|Sand Spit|brutalswing,dig,earthpower,screech|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+30.689344909067316|silicobra|Poison Barb|Sand Spit|facade,headbutt,earthpower,substitute|Naive|188,0,0,172,0,148||31,31,31,31,31,31||50|
+29.36644385950769|silicobra|Leftovers|Shed Skin|dragonrush,drillrun,brutalswing,round|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+29.33150382730421|silicobra|Shuca Berry|Sand Veil|skittersmack,scorchingsands,brutalswing,snore|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+28.82180798305545|silicobra|Heat Rock|Shed Skin|drillrun,belch,scorchingsands,earthpower|Naive|188,0,0,172,0,148||31,31,31,31,31,31||50|
+28.11781902105423|silicobra|Roseli Berry|Sand Spit|brutalswing,earthpower,substitute,sandattack|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.430817971513946|silicobra|Leftovers|Sand Veil|drillrun,brutalswing,scorchingsands,wrap|Naive|188,0,0,172,0,148||31,31,31,31,31,31||50|
+27.092504718568467|silicobra|Salac Berry|Shed Skin|drillrun,belch,dragonrush,screech|Relaxed|0,4,252,252,0,0||31,31,31,31,31,0||50|
+26.99806790107801|silicobra|Tanga Berry|Shed Skin|dragonrush,scorchingsands,belch,earthpower|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+26.03743594554754|silicobra|Miracle Seed|Sand Spit|earthpower,skittersmack,drillrun,belch|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+24.713698948954175|silicobra|Custap Berry|Sand Spit|belch,screech,scorchingsands,drillrun|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+24.195101678444807|silicobra|Silver Powder|Sand Veil|substitute,sandstorm,earthpower,brutalswing|Adamant|124,92,244,0,28,20||31,31,31,31,31,31||50|
+23.54967852754052|silicobra|Heat Rock|Sand Veil|skittersmack,belch,sandattack,minimize|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.495898005476533|silicobra|Micle Berry|Sand Veil|brutalswing,glare,slam,rest|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+22.71868375895461|silicobra|Lansat Berry|Shed Skin|sandtomb,sandstorm,dragonrush,sandattack|Impish|4,204,140,0,148,12||31,31,31,31,31,31||50|
+20.599825661407444|silicobra|Custap Berry|Sand Veil|belch,skittersmack,substitute,glare|Jolly|4,0,252,0,0,252||31,31,31,31,31,31||50|
+14.457439921763244|silicobra|Leftovers|Shed Skin|dragonrush,substitute,skittersmack,endure|Calm|0,0,4,252,0,252||31,0,31,31,31,31||50|
+32.927459332471024|seedot|Absorb Bulb|Early Bird|selfdestruct,round,solarbeam,astonish|Impish|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.12773870429817|seedot|Wide Lens|Early Bird|solarbeam,round,payback,foulplay|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+25.106019810997957|seedot|Float Stone|Chlorophyll|synthesis,megadrain,absorb,energyball|Gentle|252,0,0,252,4,0||31,31,31,31,31,31||50|
+24.912757204176497|seedot|Icy Rock|Early Bird|megadrain,nightslash,rest,growth|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+24.822095322662797|seedot|Float Stone|Chlorophyll|selfdestruct,nightslash,round,explosion|Serious|0,0,252,252,0,4||31,31,31,31,31,31||50|
+23.933915601209264|seedot|Assault Vest|Chlorophyll|nightslash,round,quickattack,amnesia|Sassy|252,252,0,0,4,0||31,31,31,31,31,0||50|
+23.892101265370243|seedot|Sitrus Berry|Early Bird|synthesis,selfdestruct,nightslash,absorb|Serious|4,0,0,252,0,252||31,31,31,31,31,31||50|
+23.558009232926075|seedot|Float Stone|Chlorophyll|nightslash,payback,synthesis,seedbomb|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+22.998789613114916|seedot|Salac Berry|Early Bird|gigadrain,substitute,solarbeam,attract|Calm|4,0,108,60,252,84||31,0,31,31,31,31||50|
+22.48157354382158|seedot|Roseli Berry|Pickpocket|megadrain,payback,harden,selfdestruct|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+20.24128705286484|seedot|Salac Berry|Early Bird|attract,rest,takedown,megadrain|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+20.192906050801728|seedot|Aguav Berry|Early Bird|megadrain,takedown,synthesis,sleeptalk|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.983761575872844|seedot|Full Incense|Early Bird|round,megadrain,synthesis,quickattack|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+17.281526861211468|seedot|Magnet|Chlorophyll|powerswap,round,nightslash,megadrain|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+16.948652434645|seedot|Twisted Spoon|Early Bird|payback,round,quickattack,swordsdance|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+16.519190308287396|seedot|Salac Berry|Early Bird|grassyterrain,worryseed,quickattack,round|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+16.44022702412813|seedot|Jaboca Berry|Chlorophyll|round,quickattack,nightslash,falseswipe|Impish|252,0,4,0,0,252||31,31,31,31,31,31||50|
+12.95532191299918|seedot|Yache Berry|Early Bird|rest,solarbeam,round,naturepower|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+10.023521896878247|seedot|Salac Berry|Early Bird|solarbeam,round,quickattack,selfdestruct|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+8.056670455554245|seedot|Leppa Berry|Early Bird|round,quickattack,worryseed,bodyslam|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+34.68462984677108|sandshrewalola|Weakness Policy|Slush Rush|headbutt,xscissor,endure,irontail|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+34.13060942018883|sandshrewalola|Power Herb|Slush Rush|amnesia,icepunch,shadowclaw,rockslide|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+31.90049954704336|sandshrewalola|Never-Melt Ice|Slush Rush|xscissor,endure,bulldoze,sleeptalk|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+31.831124796539477|sandshrewalola|Float Stone|Snow Cloak|tripleaxel,metalclaw,endure,crushclaw|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.751376665633824|sandshrewalola|Absorb Bulb|Slush Rush|endure,amnesia,icepunch,dig|Timid|204,0,0,52,0,252||31,0,31,31,31,31||50|
+30.51635816300322|sandshrewalola|Hard Stone|Slush Rush|tripleaxel,endure,xscissor,irontail|Quiet|204,52,0,252,0,0||31,31,31,31,31,0||50|
+29.498023737280725|sandshrewalola|Choice Band|Slush Rush|defensecurl,slash,xscissor,headbutt|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.945029431336614|sandshrewalola|Soft Sand|Snow Cloak|xscissor,headbutt,icepunch,icywind|Sassy|4,0,0,252,252,0||31,31,31,31,31,0||50|
+27.894822788029085|sandshrewalola|Terrain Extender|Slush Rush|headbutt,blizzard,xscissor,thief|Modest|0,0,108,188,0,212||31,0,31,31,31,31||50|
+27.671504615384823|sandshrewalola|Oran Berry|Slush Rush|endure,brickbreak,leechlife,irontail|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+27.589453656498026|sandshrewalola|Kasib Berry|Slush Rush|amnesia,headbutt,icepunch,thief|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+27.520947026120275|sandshrewalola|Light Clay|Slush Rush|irontail,endure,icepunch,substitute|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.502659794763133|sandshrewalola|Kasib Berry|Slush Rush|tripleaxel,endure,irontail,stealthrock|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.94641633848953|sandshrewalola|Choice Band|Slush Rush|mist,amnesia,endure,crushclaw|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+26.526980583669165|sandshrewalola|Shell Bell|Slush Rush|slash,defensecurl,amnesia,mirrorcoat|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.368720453856508|sandshrewalola|Safety Goggles|Slush Rush|irontail,headbutt,icepunch,slash|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+26.188208209867287|sandshrewalola|Magnet|Slush Rush|counter,icepunch,headbutt,hail|Modest|0,0,108,188,0,212||31,0,31,31,31,31||50|
+26.119141534752078|sandshrewalola|Weakness Policy|Snow Cloak|rest,icepunch,headbutt,xscissor|Modest|0,0,108,188,0,212||31,0,31,31,31,31||50|
+25.99510942162486|sandshrewalola|Misty Seed|Slush Rush|defensecurl,bulldoze,irontail,shadowclaw|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+25.314425097307918|sandshrewalola|Black Glasses|Snow Cloak|headbutt,mirrorcoat,amnesia,bodyslam|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+31.86297854448773|mimejr|Snowball|Technician|shadowball,psyshock,helpinghand,mimic|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+30.852652649613763|mimejr|Big Root|Filter|shadowball,attract,magicroom,safeguard|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+30.229283794736904|mimejr|Protector|Soundproof|allyswitch,attract,uproar,trickroom|Timid|4,0,252,0,0,252||31,31,31,31,31,31||50|
+28.50705948811766|mimejr|Focus Band|Soundproof|psyshock,shadowball,powersplit,calmmind|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+26.78812635544265|mimejr|Mago Berry|Soundproof|uproar,psyshock,powersplit,copycat|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+25.87338970180538|mimejr|Life Orb|Filter|allyswitch,drainpunch,shadowball,endure|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+25.469620924831386|mimejr|Custap Berry|Soundproof|allyswitch,psyshock,rest,hypnosis|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.879039104314565|mimejr|Snowball|Filter|shadowball,confuseray,thunder,skillswap|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.830033149033383|mimejr|Babiri Berry|Filter|helpinghand,psyshock,allyswitch,powersplit|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+21.391871651138086|mimejr|Smooth Rock|Soundproof|allyswitch,copycat,uproar,rest|Sassy|0,60,196,252,0,0||31,31,31,31,31,31||50|
+21.29881598441377|mimejr|Shell Bell|Filter|helpinghand,sleeptalk,powersplit,icywind|Lax|36,188,116,76,0,92||31,31,31,31,31,31||50|
+20.95997657423913|mimejr|Black Sludge|Technician|shadowball,facade,uproar,brickbreak|Relaxed|124,60,252,68,4,0||31,31,31,31,31,31||50|
+20.908135243419082|mimejr|Starf Berry|Filter|psyshock,powersplit,uproar,confuseray|Careful|252,0,20,0,236,0||31,31,31,31,31,31||50|
+20.600569047469826|mimejr|Grepa Berry|Soundproof|uproar,shadowball,psyshock,encore|Careful|252,0,20,0,236,0||31,31,31,31,31,31||50|
+20.507103551691756|mimejr|Life Orb|Soundproof|uproar,helpinghand,powersplit,magicroom|Brave|0,172,172,164,0,0||31,31,31,31,31,31||50|
+19.326234907668457|mimejr|Silk Scarf|Soundproof|powersplit,psyshock,fling,uproar|Impish|4,252,252,0,0,0||31,31,31,31,31,31||50|
+14.08389843626412|mimejr|Mago Berry|Filter|shadowball,confusion,uproar,charm|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+13.74723264531208|mimejr|Life Orb|Filter|attract,sleeptalk,allyswitch,grassknot|Relaxed|252,4,252,0,0,0||31,31,31,31,31,31||50|
+8.100771513058874|mimejr|Hondew Berry|Soundproof|sleeptalk,sunnyday,rest,grassknot|Careful|252,0,20,0,236,0||31,31,31,31,31,31||50|
+7.398341988935663|mimejr|Light Clay|Soundproof|powersplit,helpinghand,attract,safeguard|Modest|0,0,188,252,68,0||31,0,31,31,31,31||50|
+27.7487766314752|diglett|Payapa Berry|Sand Veil|substitute,earthpower,workup,stompingtantrum|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.433357879803342|diglett|Air Balloon|Sand Veil|earthpower,dig,reversal,thief|Bold|0,0,252,0,252,4||31,31,31,31,31,31||50|
+26.168855011865688|diglett|Payapa Berry|Arena Trap|round,earthquake,snore,rockslide|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.99528883246448|diglett|Protector|Arena Trap|honeclaws,headbutt,earthpower,ancientpower|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+24.735306635290407|diglett|Metal Coat|Arena Trap|reversal,growl,earthpower,rest|Modest|100,0,132,84,84,108||31,31,31,31,31,31||50|
+23.460664750036905|diglett|Liechi Berry|Sand Veil|stompingtantrum,shadowclaw,memento,sandattack|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+23.21195696028081|diglett|Misty Seed|Arena Trap|earthquake,dig,substitute,allyswitch|Bold|252,0,0,0,4,252||31,31,31,31,31,31||50|
+22.883578492396936|diglett|Air Balloon|Sand Veil|headbutt,rest,stompingtantrum,astonish|Modest|100,0,132,84,84,108||31,31,31,31,31,31||50|
+21.740500742704096|diglett|Air Balloon|Arena Trap|stompingtantrum,dig,headbutt,rockslide|Timid|0,0,188,68,0,252||31,0,31,31,31,31||50|
+21.587227109458315|diglett|Miracle Seed|Sand Veil|substitute,earthquake,workup,beatup|Naive|0,36,0,252,0,220||31,31,31,31,31,31||50|
+20.391302050053067|diglett|Protector|Sand Veil|reversal,headbutt,attract,sandstorm|Relaxed|0,0,228,28,252,0||31,31,31,31,31,0||50|
+19.640940413966|diglett|Payapa Berry|Arena Trap|rest,substitute,dig,agility|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.62557139524808|diglett|Enigma Berry|Sand Veil|earthquake,dig,stompingtantrum,honeclaws|Calm|0,0,36,0,252,220||31,0,31,31,31,31||50|
+17.00260301038583|diglett|Payapa Berry|Arena Trap|substitute,assurance,attract,facade|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+15.129294603175282|diglett|Payapa Berry|Sand Veil|dig,reversal,stompingtantrum,assurance|Timid|0,0,188,68,0,252||31,0,31,31,31,31||50|
+14.392288912765807|diglett|Payapa Berry|Sand Veil|honeclaws,workup,substitute,rocktomb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+11.42737910155364|diglett|Hard Stone|Sand Veil|shadowclaw,stompingtantrum,earthpower,headbutt|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+9.285499630543997|diglett|Light Clay|Arena Trap|substitute,slash,workup,dig|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+7.63421105140922|diglett||Arena Trap|workup,round,snore,sludgebomb|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+6.477999177943321|diglett|Full Incense|Sand Force|rockslide,mudslap,substitute,attract|Careful|0,196,0,0,252,60||31,31,31,31,31,31||50|

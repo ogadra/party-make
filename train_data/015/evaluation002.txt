@@ -1,0 +1,100 @@
+31.42626798493599|rolycoly|Luminous Moss|Heatproof|protect,stoneedge,rockpolish,smokescreen|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+30.968585669987064|rolycoly|Rocky Helmet|Heatproof|substitute,stoneedge,selfdestruct,gyroball|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+29.2978309556889|rolycoly|Light Clay|Heatproof|mudslap,heatcrash,rockslide,ironhead|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+28.618048002441608|rolycoly|Mago Berry|Heatproof|mudslap,rocktomb,selfdestruct,block|Bold|44,0,252,212,0,0||31,31,31,31,31,31||50|
+27.115419355649408|rolycoly|Jaboca Berry|Heatproof|mudslap,gyroball,snore,ancientpower|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+25.899182709349553|rolycoly|Spell Tag|Steam Engine|heatcrash,stoneedge,rockslide,ironhead|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+25.309003946222692|rolycoly|Aguav Berry|Heatproof|gyroball,ancientpower,tackle,heatcrash|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+25.29233727831311|rolycoly|Light Clay|Flash Fire|rocktomb,heatcrash,stoneedge,rockpolish|Jolly|0,68,0,0,252,188||31,31,31,31,31,31||50|
+24.16405741459895|rolycoly|Jaboca Berry|Heatproof|rest,ancientpower,rockslide,block|Adamant|0,252,4,0,0,252||31,31,31,31,31,31||50|
+23.62572347776149|rolycoly|Eviolite|Heatproof|rest,ancientpower,rockpolish,rockblast|Adamant|0,252,4,0,0,252||31,31,31,31,31,31||50|
+21.991175036594175|rolycoly|Shuca Berry|Heatproof|snore,selfdestruct,ancientpower,protect|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+21.51006412803997|rolycoly|Heat Rock|Heatproof|ancientpower,rest,heatcrash,dig|Timid|0,0,164,92,0,252||31,0,31,31,31,31||50|
+21.200509021130266|rolycoly|Tanga Berry|Flash Fire|ancientpower,heatcrash,selfdestruct,explosion|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+20.256919910736478|rolycoly|Normal Gem|Heatproof|sandtomb,ancientpower,selfdestruct,rocktomb|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+20.2333773669095|rolycoly|Luminous Moss|Heatproof|tackle,ancientpower,stoneedge,sandtomb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.179732647945574|rolycoly|Petaya Berry|Heatproof|tackle,meteorbeam,mudslap,block|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+19.17500565372985|rolycoly|Rock Incense|Heatproof|rest,selfdestruct,ancientpower,sandstorm|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+19.023187874166375|rolycoly|Focus Band|Heatproof|stoneedge,sandtomb,protect,ironhead|Bold|0,0,4,252,0,252||31,0,31,31,31,31||50|
+15.933715695558593|rolycoly|Flame Orb|Heatproof|ancientpower,rockslide,mudslap,endure|Adamant|0,252,4,0,0,252||31,31,31,31,31,31||50|
+8.040764942714192|rolycoly|Sharp Beak|Heatproof|gyroball,snore,mudslap,willowisp|Calm|28,0,0,0,252,228||31,0,31,31,31,31||50|
+42.890743386700635|purrloin|Rocky Helmet|Prankster|protect,playrough,lashout,faketears|Relaxed|148,132,52,68,108,0||31,31,31,31,31,31||50|
+36.59551904895404|purrloin|Silk Scarf|Unburden|suckerpunch,thunderwave,faketears,encore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+34.91359816183112|purrloin|Occa Berry|Unburden|thunderwave,suckerpunch,copycat,raindance|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+33.751953262142614|purrloin|Starf Berry|Limber|trick,suckerpunch,payback,grassknot|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+32.870668412724754|purrloin|Protective Pads|Unburden|lashout,encore,rest,grassknot|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
+32.4778975789991|purrloin|Rose Incense|Prankster|copycat,encore,lashout,gunkshot|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+32.22909988805828|purrloin|Kelpsy Berry|Prankster|lashout,suckerpunch,shadowclaw,copycat|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+31.86832613116478|purrloin|Rowap Berry|Prankster|lashout,assurance,snarl,trick|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+31.82106954799145|purrloin|Figy Berry|Unburden|payback,trick,copycat,suckerpunch|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.90046841973586|purrloin|Sharp Beak|Prankster|playrough,suckerpunch,hypervoice,taunt|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.476451016213446|purrloin|Rocky Helmet|Prankster|encore,snarl,lashout,playrough|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+30.120639057352033|purrloin|Chesto Berry|Prankster|protect,snarl,faketears,covet|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+29.821541673937134|purrloin|Power Herb|Unburden|copycat,thunderwave,sleeptalk,batonpass|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+29.074573333690847|purrloin|Muscle Band|Prankster|snarl,protect,lashout,rest|Careful|188,36,132,0,148,4||31,31,31,31,31,31||50|
+28.86816474918715|purrloin|Petaya Berry|Prankster|sleeptalk,trick,irontail,scratch|Jolly|156,100,0,0,0,252||31,31,31,31,31,31||50|
+28.16400738318554|purrloin|Power Herb|Prankster|snarl,faketears,irontail,batonpass|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+25.31852197654976|purrloin|Utility Umbrella|Limber|faketears,trick,payback,gunkshot|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+23.90394054277509|purrloin|Spell Tag|Limber|copycat,snarl,rest,charm|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.600645244034663|purrloin|Petaya Berry|Unburden|irontail,protect,playrough,slash|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+13.832816240594669|purrloin|Sea Incense|Unburden|copycat,sleeptalk,thunderwave,furyswipes|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+28.11816483269483|litwick|Sea Incense|Flame Body|thief,skittersmack,haze,hex|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+27.87055087784373|litwick|Wide Lens|Infiltrator|payback,trickroom,memento,shadowball|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.03836296514107|litwick|Misty Seed|Flash Fire|payback,poltergeist,energyball,overheat|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+26.98245376765046|litwick|Mago Berry|Flash Fire|skittersmack,smog,poltergeist,trickroom|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+26.966409206539073|litwick|Mago Berry|Flame Body|thief,flamethrower,protect,ember|Bold|0,0,196,84,228,0||31,31,31,31,31,31||50|
+26.8565154394136|litwick|Haban Berry|Flash Fire|darkpulse,payback,energyball,poltergeist|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+26.69788321626079|litwick|Kasib Berry|Flame Body|fireblast,mysticalfire,imprison,calmmind|Calm|4,0,0,252,252,0||31,31,31,31,31,31||50|
+26.250309945661446|litwick|Rindo Berry|Flash Fire|rest,energyball,poltergeist,substitute|Gentle|4,252,0,0,252,0||31,31,31,31,31,31||50|
+25.912391230494407|litwick|Big Root|Flame Body|trickroom,payback,painsplit,poltergeist|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+25.243406703347024|litwick|Razor Claw|Flash Fire|mysticalfire,flamethrower,protect,fireblast|Bold|156,0,140,68,124,20||31,31,31,31,31,31||50|
+24.362709838456144|litwick|Lum Berry|Flame Body|poltergeist,memento,rest,fireblast|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+23.88402097199632|litwick|Haban Berry|Flash Fire|protect,energyball,flamethrower,memento|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+23.718823793306772|litwick|Mago Berry|Flame Body|mysticalfire,flamethrower,trickroom,confuseray|Lonely|0,252,0,140,0,116||31,31,31,31,31,31||50|
+21.862799118483107|litwick|Absorb Bulb|Flame Body|trickroom,skittersmack,energyball,mysticalfire|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+21.610665263804208|litwick|Figy Berry|Infiltrator|poltergeist,imprison,round,fireblast|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+21.609482192395284|litwick|Haban Berry|Flash Fire|trickroom,payback,energyball,taunt|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+20.28780478193084|litwick|Misty Seed|Flame Body|skittersmack,taunt,poltergeist,heatwave|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+19.526002426858064|litwick|Big Root|Flash Fire|energyball,taunt,poltergeist,substitute|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+19.02913433865408|litwick|Lagging Tail|Flame Body|skittersmack,memento,payback,curse|Careful|28,228,252,0,0,0||31,31,31,31,31,31||50|
+18.810306380502766|litwick|Mago Berry|Infiltrator|memento,skittersmack,thief,trickroom|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+34.582863533643554|duskull|Eviolite|Frisk|shadowsneak,substitute,bodyslam,sunnyday|Impish|252,0,4,0,0,252||31,31,31,31,31,31||50|
+32.62645881390637|duskull|Iapapa Berry|Levitate|wonderroom,disable,hex,revenge|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+30.170625055511483|duskull|Power Herb|Levitate|bodyslam,shadowball,thief,helpinghand|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.544609276090284|duskull|Eject Pack|Levitate|thief,bodyslam,shadowball,icebeam|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.285688866192867|duskull|Dragon Scale|Levitate|psychic,thief,substitute,futuresight|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+28.57556905268387|duskull|Aspear Berry|Levitate|painsplit,taunt,poltergeist,revenge|Adamant|100,252,20,0,100,36||31,31,31,31,31,31||50|
+27.971480829212812|duskull|Lagging Tail|Frisk|poltergeist,bodyslam,allyswitch,painsplit|Adamant|100,252,20,0,100,36||31,31,31,31,31,31||50|
+27.75225713532426|duskull|Absorb Bulb|Levitate|bodyslam,shadowsneak,attract,endure|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.72306900945881|duskull|Qualot Berry|Levitate|bodyslam,painsplit,thief,astonish|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+26.70290896839415|duskull|Binding Band|Levitate|thief,poltergeist,taunt,revenge|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+26.16835949771289|duskull|Mystic Water|Levitate|allyswitch,taunt,poltergeist,shadowball|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+25.45434086228987|duskull|Power Herb|Levitate|poltergeist,bodyslam,taunt,attract|Calm|0,0,0,252,116,140||31,0,31,31,31,31||50|
+25.324634120320354|duskull|Absorb Bulb|Levitate|bodyslam,substitute,thief,painsplit|Brave|92,252,0,0,164,0||31,31,31,31,31,0||50|
+23.95658820545141|duskull|Assault Vest|Frisk|bodyslam,thief,shadowsneak,painsplit|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+23.68238105743093|duskull|Focus Sash|Frisk|shadowball,thief,substitute,helpinghand|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+22.568263720106696|duskull|Power Herb|Frisk|grudge,bodyslam,shadowsneak,fling|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+21.727694560024716|duskull|Absorb Bulb|Frisk|disable,payback,taunt,snore|Bold|140,0,12,252,28,76||31,0,31,31,31,31||50|
+20.086800023919196|duskull|Sea Incense|Levitate|painsplit,bodyslam,thief,raindance|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+19.702042694252814|duskull|Quick Claw|Levitate|taunt,hex,disable,nightshade|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+16.40560953417667|duskull|Power Herb|Levitate|bodyslam,shadowsneak,shadowball,futuresight|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.75953095565108|diglettalola|Throat Spray|Tangling Hair|earthpower,stompingtantrum,facade,growl|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.266598117580468|diglettalola|Chesto Berry|Tangling Hair|scratch,stompingtantrum,uproar,toxic|Relaxed|0,252,4,252,0,0||31,31,31,31,31,0||50|
+26.22959967685728|diglettalola|Snowball|Tangling Hair|stompingtantrum,agility,earthpower,sludgebomb|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
+26.103679140961773|diglettalola|Chesto Berry|Sand Veil|stompingtantrum,scratch,astonish,reversal|Lax|0,0,140,156,0,212||31,31,31,31,31,31||50|
+26.082163249857782|diglettalola|Wacan Berry|Sand Veil|bulldoze,earthpower,screech,toxic|Adamant|0,228,0,0,44,236||31,31,31,31,31,31||50|
+25.64853144967279|diglettalola|Silk Scarf|Sand Force|bulldoze,dig,earthpower,reversal|Adamant|0,228,0,0,44,236||31,31,31,31,31,31||50|
+25.20271023121664|diglettalola|Chesto Berry|Sand Veil|earthpower,facade,furyswipes,dig|Adamant|0,228,0,0,44,236||31,31,31,31,31,31||50|
+25.074633629742035|diglettalola|Chesto Berry|Sand Veil|stompingtantrum,furyswipes,earthpower,ancientpower|Lax|0,0,140,156,0,212||31,31,31,31,31,31||50|
+24.590918298911912|diglettalola|Pomeg Berry|Sand Veil|stompingtantrum,facade,earthpower,thief|Bold|0,0,0,252,4,252||31,31,31,31,31,31||50|
+23.492470459464535|diglettalola|Pomeg Berry|Tangling Hair|stompingtantrum,screech,bulldoze,allyswitch|Bold|0,0,0,252,4,252||31,31,31,31,31,31||50|
+23.380988990989064|diglettalola|Zoom Lens|Sand Veil|earthpower,facade,stompingtantrum,assurance|Calm|76,0,180,0,252,0||31,0,31,31,31,31||50|
+22.949868584270916|diglettalola|Yache Berry|Tangling Hair|flashcannon,stompingtantrum,astonish,ironhead|Bold|0,0,0,252,4,252||31,31,31,31,31,31||50|
+22.283364360135774|diglettalola|Aspear Berry|Tangling Hair|facade,mudslap,astonish,scorchingsands|Sassy|0,0,252,4,252,0||31,31,31,31,31,0||50|
+22.12027287609417|diglettalola|Tamato Berry|Sand Veil|mudslap,flashcannon,earthpower,sunnyday|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+21.568987760276865|diglettalola|Chesto Berry|Tangling Hair|bulldoze,uproar,stompingtantrum,mudslap|Bold|0,0,0,252,4,252||31,31,31,31,31,31||50|
+21.410457500108752|diglettalola|Persim Berry|Sand Veil|screech,earthpower,bulldoze,endure|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+19.943320116691428|diglettalola|Liechi Berry|Sand Veil|screech,astonish,scratch,fissure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+19.9284758325884|diglettalola|Snowball|Sand Veil|bulldoze,stompingtantrum,facade,round|Bold|0,0,0,252,4,252||31,31,31,31,31,31||50|
+17.494866479300413|diglettalola|Ring Target|Tangling Hair|facade,scratch,astonish,rockslide|Lax|0,0,140,156,0,212||31,31,31,31,31,31||50|
+15.03577325097027|diglettalola|Wacan Berry|Sand Force|facade,furyswipes,scratch,astonish|Gentle|0,252,0,4,0,252||31,31,31,31,31,31||50|

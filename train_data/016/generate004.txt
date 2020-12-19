@@ -1,0 +1,100 @@
+|wimpod|Liechi Berry|Wimp Out|rollout,harden,raindance,waterfall|Adamant|44,252,0,0,0,212||31,31,31,31,31,31||50|
+|wimpod|Payapa Berry|Wimp Out|skittersmack,wideguard,leechlife,endure|Timid|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|wimpod|Cell Battery|Wimp Out|rollout,harden,wideguard,protect|Modest|44,0,204,116,60,84||31,0,31,31,31,31||50|
+|wimpod|Full Incense|Wimp Out|attract,rest,rollout,harden|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|wimpod|Qualot Berry|Wimp Out|rollout,skittersmack,facade,leechlife|Sassy|188,36,68,44,172,0||31,31,31,31,31,0||50|
+|wimpod|Liechi Berry|Wimp Out|wideguard,harden,rollout,waterfall|Adamant|44,252,0,0,0,212||31,31,31,31,31,31||50|
+|wimpod|Liechi Berry|Wimp Out|wideguard,leechlife,skittersmack,taunt|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|wimpod|Eviolite|Wimp Out|leechlife,facade,hail,taunt|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|wimpod|Liechi Berry|Wimp Out|attract,harden,rollout,substitute|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wimpod|Wave Incense|Wimp Out|leechlife,rollout,attract,sleeptalk|Adamant|44,252,0,0,0,212||31,31,31,31,31,31||50|
+|wimpod|Wave Incense|Wimp Out|rollout,attract,leechlife,harden|Hasty|0,0,0,236,68,204||31,31,31,31,31,31||50|
+|wimpod|Cell Battery|Wimp Out|skittersmack,screech,rollout,scald|Adamant|44,252,0,0,0,212||31,31,31,31,31,31||50|
+|wimpod|Wave Incense|Wimp Out|wideguard,attract,bugbuzz,spikes|Adamant|44,252,0,0,0,212||31,31,31,31,31,31||50|
+|wimpod|Absorb Bulb|Wimp Out|attract,leechlife,wideguard,harden|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|wimpod|Silk Scarf|Wimp Out|bugbuzz,wideguard,harden,aquajet|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wimpod|Cheri Berry|Wimp Out|leechlife,skittersmack,hail,taunt|Quiet|124,20,52,164,148,0||31,31,31,31,31,0||50|
+|wimpod|Muscle Band|Wimp Out|wideguard,substitute,screech,harden|Brave|28,84,12,252,132,0||31,31,31,31,31,0||50|
+|wimpod|Liechi Berry|Wimp Out|rollout,wideguard,harden,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|wimpod|Protective Pads|Wimp Out|wideguard,attract,screech,sleeptalk|Adamant|44,252,0,0,0,212||31,31,31,31,31,31||50|
+|wimpod|Razor Claw|Wimp Out|leechlife,attract,rest,round|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|hatenna|Odd Incense|Anticipation|protect,charm,psychic,psybeam|Brave|76,0,0,252,180,0||31,31,31,31,31,31||50|
+|hatenna|Grip Claw|Anticipation|calmmind,charm,aromatherapy,psyshock|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|hatenna|Ganlon Berry|Healer|charm,protect,psychic,playnice|Brave|180,76,0,252,0,0||31,31,31,31,31,0||50|
+|hatenna|Wacan Berry|Healer|magicalleaf,protect,charm,aromatherapy|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|hatenna|Roseli Berry|Anticipation|charm,psychic,protect,attract|Modest|0,0,0,228,180,100||31,31,31,31,31,31||50|
+|hatenna|Blunder Policy|Healer|drainingkiss,aromatherapy,charm,helpinghand|Brave|180,76,0,252,0,0||31,31,31,31,31,0||50|
+|hatenna|Ring Target|Healer|psychic,aromatherapy,protect,lifedew|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|hatenna|Hard Stone|Healer|aromatherapy,psychic,expandingforce,skillswap|Brave|76,0,0,252,180,0||31,31,31,31,31,31||50|
+|hatenna|Odd Incense|Healer|magicalleaf,protect,psychic,charm|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|hatenna|Metal Coat|Anticipation|magicalleaf,aromatherapy,charm,rest|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|hatenna|Metal Coat|Magic Bounce|aromaticmist,psychic,magicalleaf,drainingkiss|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|hatenna|Yache Berry|Anticipation|psychic,magicalleaf,expandingforce,afteryou|Gentle|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|hatenna|Metal Coat|Anticipation|drainingkiss,aromatherapy,psychic,healpulse|Relaxed|0,188,156,0,164,0||31,31,31,31,31,31||50|
+|hatenna|Babiri Berry|Healer|psychic,aromaticmist,magicalleaf,skillswap|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|hatenna|Full Incense|Anticipation|aromaticmist,aromatherapy,psychic,protect|Jolly|84,52,28,0,252,92||31,31,31,31,31,31||50|
+|hatenna|Big Root|Anticipation|magicalleaf,mysticalfire,calmmind,imprison|Relaxed|0,12,252,244,0,0||31,31,31,31,31,0||50|
+|hatenna|Metal Coat|Magic Bounce|aromatherapy,magicalleaf,psybeam,dazzlinggleam|Careful|76,180,196,0,20,36||31,31,31,31,31,31||50|
+|hatenna|Babiri Berry|Anticipation|aromatherapy,aromaticmist,psychic,magicalleaf|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|hatenna|Eject Button|Healer|magicalleaf,charm,aromaticmist,endure|Brave|76,0,0,252,180,0||31,31,31,31,31,31||50|
+|hatenna|King's Rock|Magic Bounce|aromatherapy,magicalleaf,psychic,aromaticmist|Brave|180,76,0,252,0,0||31,31,31,31,31,0||50|
+|grubbin|Chesto Berry|Swarm|harden,xscissor,substitute,lightscreen|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+|grubbin|Chesto Berry|Swarm|rest,wildcharge,skittersmack,bite|Adamant|220,204,0,0,0,84||31,31,31,31,31,31||50|
+|grubbin|Wave Incense|Swarm|harden,substitute,voltswitch,rest|Timid|0,0,140,252,0,116||31,31,31,31,31,31||50|
+|grubbin|Figy Berry|Swarm|skittersmack,harden,voltswitch,poisonjab|Timid|0,0,0,84,252,172||31,31,31,31,31,31||50|
+|grubbin|Life Orb|Swarm|wildcharge,poisonjab,harden,voltswitch|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|grubbin|Focus Sash|Swarm|thunderwave,stringshot,substitute,voltswitch|Modest|52,0,76,180,36,164||31,31,31,31,31,31||50|
+|grubbin|Soft Sand|Swarm|skittersmack,substitute,wildcharge,thunderwave|Careful|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|grubbin|Choice Scarf|Swarm|harden,xscissor,thunderbolt,electroweb|Impish|28,0,252,0,0,228||31,31,31,31,31,31||50|
+|grubbin|Choice Scarf|Swarm|skittersmack,xscissor,harden,attract|Impish|28,0,252,0,0,228||31,31,31,31,31,31||50|
+|grubbin|Kee Berry|Swarm|wildcharge,poisonjab,skittersmack,dig|Lonely|0,220,0,0,124,164||31,31,31,31,31,31||50|
+|grubbin|Choice Scarf|Swarm|wildcharge,rest,skittersmack,harden|Jolly|0,0,252,0,28,228||31,31,31,31,31,31||50|
+|grubbin|Qualot Berry|Swarm|wildcharge,xscissor,voltswitch,round|Jolly|0,0,252,0,28,228||31,31,31,31,31,31||50|
+|grubbin|Passho Berry|Swarm|wildcharge,xscissor,screech,discharge|Bold|0,0,252,252,4,0||31,31,31,31,31,31||50|
+|grubbin|Poison Barb|Swarm|screech,rest,wildcharge,mudshot|Impish|28,0,252,0,0,228||31,31,31,31,31,31||50|
+|grubbin|Kee Berry|Swarm|xscissor,skittersmack,wildcharge,dig|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|grubbin|Soft Sand|Swarm|stringshot,skittersmack,xscissor,risingvoltage|Jolly|0,0,252,0,28,228||31,31,31,31,31,31||50|
+|grubbin|Shuca Berry|Swarm|wildcharge,rest,thunderwave,risingvoltage|Jolly|0,0,252,0,28,228||31,31,31,31,31,31||50|
+|grubbin|Tanga Berry|Swarm|wildcharge,rest,skittersmack,poisonjab|Jolly|0,0,252,0,28,228||31,31,31,31,31,31||50|
+|grubbin|Air Balloon|Swarm|wildcharge,rest,thunderbolt,mudshot|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|grubbin|Silver Powder|Swarm|skittersmack,xscissor,voltswitch,harden|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|goomy|Float Stone|Sap Sipper|attract,absorb,substitute,outrage|Brave|0,252,0,196,60,0||31,31,31,31,31,31||50|
+|goomy|Iron Ball|Gooey|counter,attract,outrage,watergun|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goomy|Black Sludge|Hydration|counter,sludgewave,dragonbreath,dracometeor|Rash|0,0,52,252,0,204||31,31,31,31,31,31||50|
+|goomy|Light Clay|Gooey|round,dracometeor,sludgewave,counter|Gentle|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|goomy|Eject Button|Gooey|dracometeor,absorb,flail,counter|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|goomy|Light Clay|Hydration|substitute,attract,absorb,sludgebomb|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|goomy|Cell Battery|Hydration|attract,mudshot,outrage,skittersmack|Rash|0,0,52,252,0,204||31,31,31,31,31,31||50|
+|goomy|Float Stone|Gooey|round,dracometeor,attract,protect|Brave|196,252,0,60,0,0||31,31,31,31,31,31||50|
+|goomy|Light Clay|Sap Sipper|attract,absorb,dracometeor,skittersmack|Rash|0,0,52,252,0,204||31,31,31,31,31,31||50|
+|goomy|Tamato Berry|Sap Sipper|outrage,absorb,attract,watergun|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|goomy|Expert Belt|Gooey|counter,dracometeor,attract,tackle|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goomy|Kasib Berry|Hydration|outrage,tackle,dragonbreath,round|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goomy|Snowball|Hydration|substitute,tackle,attract,dragonbreath|Rash|0,0,52,252,0,204||31,31,31,31,31,31||50|
+|goomy|Choice Band|Gooey|attract,skittersmack,mudshot,sunnyday|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|goomy|Binding Band|Hydration|round,outrage,substitute,endure|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|goomy|Shuca Berry|Gooey|outrage,absorb,counter,raindance|Rash|0,0,52,252,0,204||31,31,31,31,31,31||50|
+|goomy|Charcoal|Hydration|absorb,attract,dracometeor,substitute|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|goomy|Light Clay|Gooey|dracometeor,attract,mudshot,absorb|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|goomy|Expert Belt|Gooey|attract,mudshot,dracometeor,endure|Rash|0,0,52,252,0,204||31,31,31,31,31,31||50|
+|goomy|Misty Seed|Hydration|mudshot,attract,counter,tackle|Jolly|0,28,0,0,252,228||31,31,31,31,31,31||50|
+|feebas|Passho Berry|Swift Swim|flail,scaleshot,hypnosis,brine|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|feebas|Choice Band|Swift Swim|flail,scaleshot,haze,blizzard|Adamant|44,212,252,0,0,0||31,31,31,31,31,31||50|
+|feebas|Iron Ball|Adaptability|flail,swift,hail,confuseray|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|feebas|Toxic Orb|Swift Swim|blizzard,swift,flail,surf|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|feebas|Wave Incense|Swift Swim|scaleshot,swift,hail,haze|Adamant|44,212,252,0,0,0||31,31,31,31,31,31||50|
+|feebas|Passho Berry|Swift Swim|scaleshot,swift,dragonpulse,endure|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|feebas|Rowap Berry|Swift Swim|mist,scaleshot,sleeptalk,mudshot|Serious|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|feebas|Choice Band|Swift Swim|dragonpulse,scaleshot,flail,dive|Modest|0,0,116,252,0,140||31,0,31,31,31,31||50|
+|feebas|Passho Berry|Swift Swim|scaleshot,dragonpulse,tickle,lightscreen|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|feebas|Sharp Beak|Swift Swim|flail,swift,dragonpulse,waterfall|Adamant|44,212,252,0,0,0||31,31,31,31,31,31||50|
+|feebas|Shed Shell|Swift Swim|endure,scaleshot,dragonbreath,dragonpulse|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|feebas|King's Rock|Swift Swim|endure,sleeptalk,dragonpulse,icebeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|feebas|Utility Umbrella|Swift Swim|dragonbreath,whirlpool,endure,scald|Timid|124,0,0,180,0,204||31,31,31,31,31,31||50|
+|feebas|Oran Berry|Swift Swim|tickle,flail,dragonbreath,dragonpulse|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|feebas|Hondew Berry|Swift Swim|dragonpulse,flail,protect,hypnosis|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|feebas|Utility Umbrella|Swift Swim|endure,flail,dragonpulse,attract|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|feebas|Never-Melt Ice|Swift Swim|flail,hail,dragonpulse,muddywater|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|feebas|Hondew Berry|Swift Swim|confuseray,endure,tickle,flail|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|feebas|Utility Umbrella|Oblivious|scaleshot,flail,endure,muddywater|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|feebas|Jaboca Berry|Swift Swim|mist,dragonpulse,whirlpool,facade|Serious|0,4,252,252,0,0||31,31,31,31,31,31||50|

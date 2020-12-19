@@ -1,0 +1,100 @@
+|skorupi|Silver Powder|Battle Armor|knockoff,sandattack,crunch,brickbreak|Quiet|0,140,116,252,0,0||31,31,31,31,31,31||50|
+|skorupi|Payapa Berry|Battle Armor|sandattack,sludgebomb,fling,bugbite|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|skorupi|Ganlon Berry|Battle Armor|agility,sandattack,bite,sunnyday|Bold|244,0,252,0,12,0||31,0,31,31,31,31||50|
+|skorupi|Light Clay|Battle Armor|bite,agility,brickbreak,honeclaws|Serious|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|skorupi|Safety Goggles|Keen Eye|brickbreak,agility,fling,bite|Serious|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|skorupi|Lax Incense|Battle Armor|crunch,agility,fling,leer|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|skorupi|Liechi Berry|Battle Armor|fling,thief,bugbuzz,poisonjab|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|skorupi|Lax Incense|Battle Armor|crunch,agility,sandattack,screech|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|skorupi|Yache Berry|Battle Armor|honeclaws,bite,whirlwind,sandattack|Serious|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|skorupi|Choice Scarf|Battle Armor|crunch,bugbuzz,agility,shadowball|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|skorupi|Shed Shell|Battle Armor|crosspoison,honeclaws,taunt,substitute|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|skorupi|Safety Goggles|Battle Armor|knockoff,fling,nightslash,bite|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|skorupi|Life Orb|Battle Armor|honeclaws,whirlwind,knockoff,endure|Serious|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|skorupi|Micle Berry|Sniper|taunt,shadowball,crunch,attract|Quiet|0,140,116,252,0,0||31,31,31,31,31,31||50|
+|skorupi|Silver Powder|Battle Armor|honeclaws,knockoff,bugbuzz,crunch|Calm|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|skorupi|Silver Powder|Battle Armor|knockoff,taunt,crunch,shadowball|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|skorupi|Passho Berry|Battle Armor|agility,bugbuzz,sludgebomb,crunch|Quiet|0,140,116,252,0,0||31,31,31,31,31,31||50|
+|skorupi|Silver Powder|Battle Armor|honeclaws,shadowball,crunch,venoshock|Lax|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|skorupi|Lagging Tail|Battle Armor|sandattack,bugbuzz,taunt,irontail|Quiet|0,140,116,252,0,0||31,31,31,31,31,31||50|
+|skorupi|Quick Claw|Battle Armor|crosspoison,taunt,crunch,round|Bold|0,0,4,252,252,0||31,0,31,31,31,31||50|
+|shedinja|Tanga Berry|Wonder Guard|thief,poltergeist,sunnyday,facade|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Leppa Berry|Wonder Guard|phantomforce,sunnyday,dig,poltergeist|Sassy|0,252,0,252,4,0||31,31,31,31,31,31||50|
+|shedinja|Leppa Berry|Wonder Guard|poltergeist,thief,dig,furyswipes|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|shedinja|Muscle Band|Wonder Guard|thief,phantomforce,sandattack,metalclaw|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Kasib Berry|Wonder Guard|dig,thief,sunnyday,protect|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Leppa Berry|Wonder Guard|sandattack,phantomforce,dig,poltergeist|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+|shedinja|Magnet|Wonder Guard|sunnyday,thief,poltergeist,harden|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Lax Incense|Wonder Guard|sunnyday,mindreader,poltergeist,phantomforce|Brave|0,252,0,100,156,0||31,31,31,31,31,31||50|
+|shedinja|Qualot Berry|Wonder Guard|dig,sandattack,poltergeist,xscissor|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Leppa Berry|Wonder Guard|dig,sunnyday,solarbeam,spite|Jolly|236,0,0,0,20,252||31,31,31,31,31,31||50|
+|shedinja|Muscle Band|Wonder Guard|phantomforce,sunnyday,absorb,sandattack|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|shedinja|Leppa Berry|Wonder Guard|sunnyday,dig,sleeptalk,phantomforce|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Muscle Band|Wonder Guard|sunnyday,thief,solarbeam,trick|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|shedinja|Leppa Berry|Wonder Guard|sunnyday,thief,dig,gigadrain|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|shedinja|Muscle Band|Wonder Guard|phantomforce,dig,solarbeam,grudge|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|shedinja|Sticky Barb|Wonder Guard|phantomforce,thief,dig,solarbeam|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|shedinja|Muscle Band|Wonder Guard|mindreader,sunnyday,solarbeam,rest|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Passho Berry|Wonder Guard|thief,mindreader,sunnyday,hyperbeam|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Leppa Berry|Wonder Guard|solarbeam,sunnyday,thief,agility|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|shedinja|Muscle Band|Wonder Guard|phantomforce,thief,dig,willowisp|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|natu|Damp Rock|Magic Bounce|airslash,rest,expandingforce,dazzlinggleam|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|natu|Sea Incense|Magic Bounce|skillswap,expandingforce,airslash,imprison|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|natu|Smooth Rock|Magic Bounce|skillswap,expandingforce,rest,calmmind|Quiet|0,252,180,0,76,0||31,31,31,31,31,0||50|
+|natu|Leppa Berry|Magic Bounce|expandingforce,snore,skillswap,steelwing|Brave|100,252,4,132,20,0||31,31,31,31,31,0||50|
+|natu|Zoom Lens|Magic Bounce|rest,quickattack,grassknot,magicroom|Quiet|0,252,180,0,76,0||31,31,31,31,31,0||50|
+|natu|Poison Barb|Magic Bounce|sleeptalk,grassknot,airslash,roost|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|natu|Dragon Scale|Early Bird|dazzlinggleam,expandingforce,psychoshift,uturn|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|natu|Eject Pack|Synchronize|simplebeam,expandingforce,airslash,drillpeck|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|natu|Full Incense|Magic Bounce|rest,airslash,expandingforce,psychic|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|natu|Odd Incense|Magic Bounce|rest,airslash,dazzlinggleam,expandingforce|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|natu|Kee Berry|Magic Bounce|wish,dazzlinggleam,protect,steelwing|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|natu|Magnet|Magic Bounce|trick,wish,protect,allyswitch|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|natu|Hondew Berry|Magic Bounce|airslash,skillswap,protect,psychic|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|natu|Normal Gem|Synchronize|expandingforce,wish,simplebeam,protect|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|natu|Quick Claw|Magic Bounce|suckerpunch,dazzlinggleam,protect,thief|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|natu|Odd Incense|Magic Bounce|dazzlinggleam,wish,expandingforce,grassknot|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|natu|Heat Rock|Magic Bounce|airslash,grassknot,protect,psychoshift|Modest|0,0,100,252,156,0||31,31,31,31,31,31||50|
+|natu|Air Balloon|Magic Bounce|airslash,quickattack,heatwave,allyswitch|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|natu|Rowap Berry|Magic Bounce|protect,airslash,simplebeam,gigadrain|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|natu|Hondew Berry|Magic Bounce|wish,protect,trick,rest|Timid|12,0,252,76,44,124||31,31,31,31,31,31||50|
+|gothita|Ganlon Berry|Frisk|expandingforce,grassknot,rockslide,substitute|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gothita|Coba Berry|Frisk|psybeam,thief,round,helpinghand|Timid|0,0,0,52,204,252||31,0,31,31,31,31||50|
+|gothita|Twisted Spoon|Shadow Tag|round,rockslide,psychic,psyshock|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Custap Berry|Competitive|psychic,healpulse,uproar,allyswitch|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Eject Pack|Shadow Tag|healpulse,rockslide,expandingforce,psyshock|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Metal Coat|Frisk|psyshock,round,rockslide,confusion|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Psychic Seed|Frisk|round,psychup,tickle,calmmind|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|gothita|Dragon Scale|Shadow Tag|helpinghand,psybeam,round,hypnosis|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Passho Berry|Frisk|round,psychup,foulplay,uproar|Timid|124,0,20,68,84,212||31,0,31,31,31,31||50|
+|gothita|Coba Berry|Frisk|rockslide,round,psybeam,nastyplot|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Maranga Berry|Frisk|mirrorcoat,foulplay,allyswitch,rocktomb|Modest|0,0,4,252,0,252||31,0,31,31,31,31||50|
+|gothita|Razor Claw|Competitive|healpulse,tickle,mirrorcoat,psychic|Calm|0,0,252,252,4,0||31,0,31,31,31,31||50|
+|gothita|Mago Berry|Competitive|healpulse,foulplay,psyshock,tickle|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Soft Sand|Frisk|psychic,psyshock,mirrorcoat,thief|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|gothita|Sharp Beak|Shadow Tag|healpulse,psyshock,rockslide,substitute|Lax|188,76,220,4,0,20||31,31,31,31,31,31||50|
+|gothita|Coba Berry|Frisk|psybeam,round,expandingforce,substitute|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Terrain Extender|Shadow Tag|rockslide,psybeam,round,thief|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Choice Specs|Frisk|rockslide,helpinghand,healpulse,endure|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|gothita|Lansat Berry|Frisk|playnice,healpulse,mirrorcoat,grassknot|Bold|44,0,196,12,204,52||31,0,31,31,31,31||50|
+|gothita|Mago Berry|Frisk|foulplay,psybeam,psychup,playnice|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cottonee|Blunder Policy|Infiltrator|round,stunspore,cottonguard,poisonpowder|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cottonee|Chesto Berry|Infiltrator|gigadrain,beatup,grassknot,energyball|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|cottonee|Sticky Barb|Chlorophyll|swift,taunt,cottonguard,leechseed|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|cottonee|Pomeg Berry|Chlorophyll|swift,taunt,grassknot,growth|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cottonee|Eviolite|Infiltrator|grassknot,beatup,safeguard,growth|Jolly|0,156,0,0,156,196||31,31,31,31,31,31||50|
+|cottonee|Dragon Scale|Infiltrator|grassknot,swift,beatup,stunspore|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cottonee|Custap Berry|Chlorophyll|swift,grassknot,faketears,taunt|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cottonee|Eject Pack|Infiltrator|beatup,swift,cottonguard,mistyterrain|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cottonee|Rock Incense|Chlorophyll|round,beatup,cottonguard,taunt|Jolly|12,164,52,0,68,212||31,31,31,31,31,31||50|
+|cottonee|Eject Pack|Infiltrator|taunt,beatup,round,poisonpowder|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|cottonee|Electric Seed|Prankster|round,beatup,mistyterrain,safeguard|Relaxed|252,4,0,252,0,0||31,31,31,31,31,31||50|
+|cottonee|Petaya Berry|Infiltrator|beatup,grassknot,leechseed,poisonpowder|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|cottonee|Rawst Berry|Infiltrator|cottonguard,round,taunt,sleeptalk|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|cottonee|Lax Incense|Infiltrator|round,taunt,faketears,grassyterrain|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+|cottonee|Air Balloon|Infiltrator|round,grassknot,leechseed,dazzlinggleam|Impish|252,252,4,0,0,0||31,31,31,31,31,31||50|
+|cottonee|Eviolite|Infiltrator|taunt,beatup,gigadrain,razorleaf|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|cottonee|Petaya Berry|Infiltrator|beatup,leechseed,stunspore,swift|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|cottonee|Miracle Seed|Chlorophyll|solarbeam,taunt,protect,sunnyday|Serious|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|cottonee|Petaya Berry|Chlorophyll|beatup,taunt,faketears,facade|Timid|12,0,108,172,84,132||31,0,31,31,31,31||50|
+|cottonee|Wise Glasses|Infiltrator|stunspore,leechseed,taunt,charm|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|

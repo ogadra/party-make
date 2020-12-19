@@ -1,0 +1,100 @@
+|popplio|Silver Powder|Torrent|uproar,whirlpool,mistyterrain,attract|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|popplio|Micle Berry|Torrent|aquaring,uproar,dive,amnesia|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|popplio|Cheri Berry|Torrent|aquaring,dive,whirlpool,charm|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|popplio|Big Root|Torrent|scald,aquaring,whirlpool,dive|Impish|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|popplio|Throat Spray|Liquid Voice|growl,uproar,dive,bubblebeam|Rash|0,44,0,212,0,252||31,31,31,31,31,31||50|
+|popplio|Silver Powder|Liquid Voice|whirlpool,aquaring,uproar,flipturn|Timid|76,0,36,108,60,228||31,0,31,31,31,31||50|
+|popplio|Full Incense|Torrent|dive,whirlpool,icebeam,raindance|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|popplio|Throat Spray|Torrent|dive,raindance,aquaring,mistyterrain|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|popplio|Weakness Policy|Liquid Voice|dive,icebeam,uproar,whirlpool|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|popplio|Toxic Orb|Liquid Voice|icebeam,helpinghand,whirlpool,playrough|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|popplio|Lansat Berry|Torrent|bubblebeam,uproar,raindance,perishsong|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|popplio|Sitrus Berry|Liquid Voice|icebeam,whirlpool,irontail,playrough|Gentle|132,148,0,0,228,0||31,31,31,31,31,31||50|
+|popplio|Choice Scarf|Torrent|raindance,scald,icebeam,sing|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|popplio|Silver Powder|Liquid Voice|waterfall,uproar,irontail,dive|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|popplio|Shell Bell|Torrent|waterfall,mistyterrain,scald,icebeam|Relaxed|0,0,252,252,4,0||31,31,31,31,31,0||50|
+|popplio|Muscle Band|Torrent|irontail,uproar,aquaring,hydropump|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|popplio|Blunder Policy|Liquid Voice|irontail,hydropump,raindance,dive|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|popplio|Silver Powder|Liquid Voice|icebeam,uproar,irontail,helpinghand|Modest|116,0,68,172,12,140||31,0,31,31,31,31||50|
+|popplio|Iapapa Berry|Liquid Voice|waterfall,icebeam,hail,perishsong|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|popplio|Jaboca Berry|Torrent|rest,amnesia,irontail,pound|Modest|28,0,0,244,0,236||31,31,31,31,31,31||50|
+|fletchling|Apicot Berry|Gale Wings|facade,dualwingbeat,uturn,thief|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|fletchling|Mago Berry|Big Pecks|fly,uturn,dualwingbeat,willowisp|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Safety Goggles|Big Pecks|fly,uturn,endure,swift|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Mago Berry|Gale Wings|aerialace,uturn,fly,ember|Modest|52,0,0,252,204,0||31,0,31,31,31,31||50|
+|fletchling|Sea Incense|Gale Wings|growl,aerialace,uturn,workup|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Mago Berry|Gale Wings|sunnyday,aerialace,thief,growl|Brave|0,252,0,132,124,0||31,31,31,31,31,31||50|
+|fletchling|Mago Berry|Gale Wings|thief,fly,protect,growl|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Iapapa Berry|Gale Wings|thief,overheat,fly,sleeptalk|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Never-Melt Ice|Gale Wings|aerialace,fly,overheat,dualwingbeat|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Mago Berry|Big Pecks|fly,uturn,thief,rest|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|fletchling|Chople Berry|Gale Wings|sunnyday,workup,dualwingbeat,attract|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|fletchling|Liechi Berry|Gale Wings|fly,sunnyday,thief,flamecharge|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Mago Berry|Gale Wings|fly,uturn,thief,workup|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Flame Orb|Gale Wings|peck,tailwind,fly,ember|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|fletchling|Mago Berry|Gale Wings|sunnyday,thief,attract,fly|Relaxed|164,92,0,0,252,0||31,31,31,31,31,0||50|
+|fletchling|Wide Lens|Gale Wings|dualwingbeat,sunnyday,attract,endure|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Metal Coat|Gale Wings|endure,facade,dualwingbeat,heatwave|Jolly|252,60,0,0,0,196||31,31,31,31,31,31||50|
+|fletchling|Lansat Berry|Gale Wings|dualwingbeat,facade,protect,willowisp|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|fletchling|Normal Gem|Gale Wings|facade,fly,sunnyday,agility|Adamant|148,212,4,0,76,68||31,31,31,31,31,31||50|
+|fletchling|Iapapa Berry|Gale Wings|fly,sunnyday,peck,dualwingbeat|Bold|140,0,116,252,0,0||31,31,31,31,31,31||50|
+|eevee|Mago Berry|Adaptability|faketears,raindance,hypervoice,yawn|Serious|0,36,220,0,252,0||31,31,31,31,31,31||50|
+|eevee|Wiki Berry|Adaptability|swift,flail,focusenergy,faketears|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|eevee|Mago Berry|Adaptability|focusenergy,attract,raindance,facade|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|eevee|Razor Claw|Adaptability|celebrate,doubleedge,tackle,curse|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|eevee|Mago Berry|Adaptability|hypervoice,doubleedge,dig,tailwhip|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|eevee|Terrain Extender|Adaptability|raindance,attract,hypervoice,storedpower|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|eevee|Dragon Fang|Adaptability|faketears,focusenergy,attract,facade|Calm|84,0,92,4,252,76||31,0,31,31,31,31||50|
+|eevee||Adaptability|raindance,focusenergy,hypervoice,sleeptalk|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|eevee|Rawst Berry|Adaptability|hypervoice,doubleedge,dig,helpinghand|Serious|0,36,220,0,252,0||31,31,31,31,31,31||50|
+|eevee|Lagging Tail|Adaptability|focusenergy,tackle,attract,facade|Careful|0,164,92,0,252,0||31,31,31,31,31,31||50|
+|eevee|Spell Tag|Adaptability|raindance,dig,swift,payday|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|eevee|Metal Coat|Adaptability|dig,flail,swift,tickle|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|eevee|Heat Rock|Adaptability|hypervoice,flail,headbutt,charm|Lax|252,124,132,0,0,0||31,31,31,31,31,31||50|
+|eevee|Rose Incense|Adaptability|batonpass,hypervoice,flail,storedpower|Jolly|0,252,28,0,0,228||31,31,31,31,31,31||50|
+|eevee|Rose Incense|Run Away|swift,flail,headbutt,dig|Brave|92,252,164,0,0,0||31,31,31,31,31,0||50|
+|eevee|Rose Incense|Adaptability|swift,raindance,dig,tackle|Timid|0,0,0,100,156,252||31,0,31,31,31,31||50|
+|eevee|Rose Incense|Adaptability|hypervoice,swift,flail,takedown|Relaxed|0,4,252,252,0,0||31,31,31,31,31,31||50|
+|eevee|Rose Incense|Adaptability|tackle,hypervoice,swift,celebrate|Timid|0,0,0,100,156,252||31,0,31,31,31,31||50|
+|eevee|Bright Powder|Adaptability|hypervoice,swift,raindance,helpinghand|Sassy|0,0,4,252,252,0||31,31,31,31,31,31||50|
+|eevee|Mago Berry|Adaptability|doubleedge,raindance,focusenergy,babydolleyes|Timid|0,0,0,100,156,252||31,0,31,31,31,31||50|
+|clefairy|Cheri Berry|Cute Charm|mysticalfire,dig,rest,stealthrock|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|clefairy|Choice Specs|Cute Charm|protect,dazzlinggleam,irontail,solarbeam|Modest|0,0,0,252,204,52||31,0,31,31,31,31||50|
+|clefairy|Cheri Berry|Friend Guard|protect,mysticalfire,dig,drainingkiss|Careful|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|clefairy|Mago Berry|Friend Guard|irontail,protect,dig,doubleslap|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|clefairy|Mago Berry|Cute Charm|gravity,dig,irontail,meteormash|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|clefairy|Mago Berry|Magic Guard|mysticalfire,dig,thunderpunch,healingwish|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|clefairy|Mago Berry|Friend Guard|mysticalfire,dig,rest,copycat|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|clefairy|Shell Bell|Friend Guard|mysticalfire,protect,rest,trick|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|clefairy|Mago Berry|Cute Charm|rest,mysticalfire,uproar,thunder|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|clefairy|Maranga Berry|Cute Charm|dig,mysticalfire,irontail,splash|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|clefairy|Iapapa Berry|Cute Charm|mysticalfire,rest,thunderbolt,mistyexplosion|Modest|0,0,0,172,204,132||31,31,31,31,31,31||50|
+|clefairy|Lax Incense|Friend Guard|rest,dig,irontail,drainingkiss|Modest|0,0,0,172,204,132||31,31,31,31,31,31||50|
+|clefairy|Lax Incense|Friend Guard|growl,thunderbolt,dig,dualwingbeat|Adamant|44,68,220,0,28,148||31,31,31,31,31,31||50|
+|clefairy|Lax Incense|Friend Guard|mysticalfire,cosmicpower,mistyterrain,thunderwave|Modest|0,0,0,172,204,132||31,31,31,31,31,31||50|
+|clefairy|Wide Lens|Cute Charm|cosmicpower,mysticalfire,dig,followme|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|clefairy|Wide Lens|Cute Charm|dig,protect,rest,round|Modest|0,0,0,172,204,132||31,31,31,31,31,31||50|
+|clefairy|Lax Incense|Friend Guard|mysticalfire,cosmicpower,allyswitch,minimize|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|clefairy|Mago Berry|Cute Charm|rest,dig,mysticalfire,batonpass|Modest|0,0,0,172,204,132||31,31,31,31,31,31||50|
+|clefairy|Poison Barb|Friend Guard|growl,irontail,mysticalfire,headbutt|Timid|0,0,84,172,0,252||31,0,31,31,31,31||50|
+|clefairy|Mago Berry|Cute Charm|mysticalfire,thunderbolt,dig,headbutt|Impish|108,124,92,0,4,180||31,31,31,31,31,31||50|
+|axew|Never-Melt Ice|Unnerve|xscissor,sunnyday,swordsdance,scaryface|Jolly|124,252,0,0,0,132||31,31,31,31,31,31||50|
+|axew|Binding Band|Unnerve|sunnyday,swordsdance,dualchop,payback|Modest|156,0,0,180,0,172||31,0,31,31,31,31||50|
+|axew|Kasib Berry|Unnerve|nightslash,xscissor,breakingswipe,scratch|Bold|0,0,252,148,0,108||31,0,31,31,31,31||50|
+|axew|Grip Claw|Unnerve|swordsdance,sunnyday,dualchop,taunt|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|axew|Silver Powder|Unnerve|fling,rocktomb,swordsdance,scratch|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|axew|Light Clay|Unnerve|crunch,rocktomb,fling,attract|Hasty|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|axew|Light Clay|Mold Breaker|xscissor,scaleshot,swordsdance,rest|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|axew|Leftovers|Unnerve|crunch,dualchop,dragondance,protect|Jolly|124,252,0,0,0,132||31,31,31,31,31,31||50|
+|axew|Maranga Berry|Mold Breaker|fling,dracometeor,swordsdance,reversal|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|axew|Light Clay|Rivalry|dualchop,xscissor,crunch,poisonjab|Jolly|124,252,0,0,0,132||31,31,31,31,31,31||50|
+|axew|Toxic Orb|Unnerve|xscissor,swordsdance,nightslash,dragonpulse|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|axew|Psychic Seed|Mold Breaker|breakingswipe,scaleshot,xscissor,guillotine|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|axew|Protective Pads|Mold Breaker|crunch,breakingswipe,scaleshot,rocktomb|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|axew|Charcoal|Mold Breaker|crunch,dualchop,xscissor,harden|Gentle|0,4,0,0,252,252||31,31,31,31,31,31||50|
+|axew|Light Clay|Unnerve|swordsdance,fling,breakingswipe,slash|Jolly|140,116,0,0,0,252||31,31,31,31,31,31||50|
+|axew|Never-Melt Ice|Unnerve|swordsdance,scaleshot,xscissor,raindance|Jolly|148,12,36,0,252,60||31,31,31,31,31,31||50|
+|axew|Dragon Scale|Mold Breaker|swordsdance,dualchop,scaleshot,poisonjab|Jolly|148,12,36,0,252,60||31,31,31,31,31,31||50|
+|axew|Air Balloon|Rivalry|scaleshot,superpower,xscissor,sunnyday|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|axew|Shed Shell|Mold Breaker|rocktomb,scaleshot,dracometeor,breakingswipe|Timid|108,0,132,12,4,252||31,0,31,31,31,31||50|
+|axew|Silver Powder|Rivalry|xscissor,sunnyday,swordsdance,dragonpulse|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|

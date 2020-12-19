@@ -1,0 +1,100 @@
+|venipede|Dragon Fang|Swarm|round,endure,rollout,doubleedge|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|venipede|Float Stone|Swarm|round,sludgebomb,facade,defensecurl|Relaxed|52,124,252,20,60,0||31,31,31,31,31,31||50|
+|venipede|Shell Bell|Swarm|endure,sludgebomb,facade,poisonsting|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|venipede|Kee Berry|Poison Point|sludgebomb,round,pinmissile,bugbite|Serious|0,0,252,116,140,0||31,31,31,31,31,31||50|
+|venipede|Never-Melt Ice|Swarm|sludgebomb,facade,agility,hex|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|venipede|Kee Berry|Speed Boost|facade,pinmissile,round,sludgebomb|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|venipede|Dragon Fang|Swarm|round,sludgebomb,irondefense,venoshock|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|venipede|Dragon Fang|Swarm|round,sludgebomb,facade,sunnyday|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|venipede|Magnet|Swarm|endure,snore,sludgebomb,skittersmack|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|venipede|Dragon Fang|Speed Boost|endure,round,sludgebomb,venoshock|Serious|0,4,0,252,0,252||31,31,31,31,31,31||50|
+|venipede|Shed Shell|Speed Boost|rollout,agility,snore,hex|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|venipede|Roseli Berry|Swarm|sludgebomb,rollout,snore,agility|Timid|12,0,124,212,36,124||31,0,31,31,31,31||50|
+|venipede|Mago Berry|Swarm|irondefense,snore,sludgebomb,agility|Lax|4,92,132,28,0,252||31,31,31,31,31,31||50|
+|venipede|Mago Berry|Swarm|facade,snore,sludgebomb,bite|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|venipede|Kee Berry|Swarm|snore,endure,venomdrench,facade|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|venipede|Wide Lens|Swarm|round,takedown,rollout,poisontail|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|venipede|Leppa Berry|Swarm|sludgebomb,furycutter,rollout,hex|Serious|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|venipede|Persim Berry|Poison Point|sludgebomb,snore,hex,agility|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|venipede|Pecha Berry|Swarm|snore,rollout,pinmissile,venomdrench|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|venipede|Mago Berry|Swarm|endure,snore,attract,sleeptalk|Relaxed|252,36,84,20,116,0||31,31,31,31,31,0||50|
+|sinistea|Power Herb|Weak Armor|batonpass,wonderroom,substitute,megadrain|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sinistea|Chople Berry|Cursed Body|shadowball,substitute,gigadrain,darkpulse|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sinistea|Cell Battery|Cursed Body|psychic,shadowball,allyswitch,protect|Naive|0,0,196,60,0,252||31,31,31,31,31,31||50|
+|sinistea|Damp Rock|Cursed Body|allyswitch,suckerpunch,shadowball,poltergeist|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sinistea|Damp Rock|Cursed Body|suckerpunch,wonderroom,hex,shadowball|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sinistea|Persim Berry|Cursed Body|shadowball,allyswitch,metronome,sleeptalk|Sassy|0,212,0,220,76,0||31,31,31,31,31,0||50|
+|sinistea|Damp Rock|Cursed Body|substitute,wonderroom,shadowball,trick|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sinistea|Damp Rock|Cursed Body|substitute,hex,shadowball,shellsmash|Impish|0,252,180,0,76,0||31,31,31,31,31,31||50|
+|sinistea|Assault Vest|Cursed Body|allyswitch,psychic,substitute,psyshock|Naive|0,0,196,60,0,252||31,31,31,31,31,31||50|
+|sinistea|Eviolite|Cursed Body|metronome,substitute,suckerpunch,round|Relaxed|252,4,252,0,0,0||31,31,31,31,31,0||50|
+|sinistea|Payapa Berry|Cursed Body|shadowball,wonderroom,allyswitch,poltergeist|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+|sinistea|Wave Incense|Weak Armor|shadowball,suckerpunch,wonderroom,batonpass|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|sinistea|Colbur Berry|Cursed Body|allyswitch,gigadrain,trick,payback|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|sinistea|Wise Glasses|Cursed Body|suckerpunch,psychic,allyswitch,storedpower|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|sinistea|Razor Claw|Weak Armor|protect,suckerpunch,allyswitch,willowisp|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|sinistea|Colbur Berry|Cursed Body|allyswitch,shadowball,trick,wonderroom|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|sinistea|Scope Lens|Cursed Body|shadowball,allyswitch,suckerpunch,trick|Adamant|0,252,0,0,244,12||31,31,31,31,31,31||50|
+|sinistea|Damp Rock|Cursed Body|suckerpunch,gigadrain,storedpower,wonderroom|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|sinistea|Pomeg Berry|Cursed Body|psychic,suckerpunch,shadowball,imprison|Lax|4,252,252,0,0,0||31,31,31,31,31,31||50|
+|sinistea|Haban Berry|Cursed Body|suckerpunch,gigadrain,wonderroom,psyshock|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|machop|Babiri Berry|Steadfast|thief,leer,vitalthrow,closecombat|Bold|84,0,204,92,28,100||31,0,31,31,31,31||50|
+|machop|Metronome|Steadfast|bulletpunch,leer,firepunch,thief|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|machop|Custap Berry|Guts|firepunch,fling,protect,superpower|Bold|84,0,204,92,28,100||31,0,31,31,31,31||50|
+|machop|Custap Berry|No Guard|bulletpunch,bide,firepunch,rest|Bold|84,0,204,92,28,100||31,0,31,31,31,31||50|
+|machop|Hard Stone|Steadfast|leer,rockslide,protect,thief|Impish|252,0,76,0,180,0||31,31,31,31,31,31||50|
+|machop|Magnet|Guts|metronome,rockslide,fling,coaching|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|machop|Wave Incense|Steadfast|rockslide,toxic,closecombat,sunnyday|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|machop|Rocky Helmet|Guts|leer,snore,firepunch,workup|Impish|12,0,252,0,0,244||31,31,31,31,31,31||50|
+|machop|Leftovers|Steadfast|firepunch,rockslide,leer,bodyslam|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|machop|Iron Ball|Steadfast|protect,rockslide,fling,workup|Bold|84,0,204,92,28,100||31,0,31,31,31,31||50|
+|machop|Rocky Helmet|No Guard|snore,flamethrower,bulletpunch,dynamicpunch|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|machop|Rocky Helmet|No Guard|toxic,bulletpunch,firepunch,attract|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|machop|Occa Berry|No Guard|firepunch,bide,bulletpunch,metronome|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|machop|Starf Berry|No Guard|bulletpunch,firepunch,snore,counter|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|machop|Rocky Helmet|No Guard|snore,doubleedge,submission,knockoff|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|machop|Soft Sand|No Guard|bulletpunch,rockslide,firepunch,substitute|Bold|84,0,204,92,28,100||31,0,31,31,31,31||50|
+|machop|Kasib Berry|No Guard|helpinghand,firepunch,bulletpunch,bulldoze|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|machop|Coba Berry|No Guard|firepunch,bulletpunch,snore,headbutt|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|machop|Kasib Berry|No Guard|snore,submission,protect,closecombat|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|machop|Silk Scarf|No Guard|snore,firepunch,bulletpunch,bulkup|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|bounsweet|Muscle Band|Oblivious|splash,bounce,seedbomb,razorleaf|Brave|0,252,172,84,0,0||31,31,31,31,31,0||50|
+|bounsweet|Grip Claw|Oblivious|bounce,seedbomb,attract,aromatherapy|Lonely|68,172,0,20,124,124||31,31,31,31,31,31||50|
+|bounsweet|Colbur Berry|Oblivious|zenheadbutt,rest,bounce,splash|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bounsweet|Eject Pack|Oblivious|bounce,splash,seedbomb,sunnyday|Serious|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|bounsweet|Silk Scarf|Leaf Guard|rest,helpinghand,splash,substitute|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|bounsweet|Luminous Moss|Oblivious|seedbomb,snore,sunnyday,dazzlinggleam|Sassy|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|bounsweet|Shuca Berry|Oblivious|rest,splash,endure,snore|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|bounsweet|Silk Scarf|Leaf Guard|rest,bounce,seedbomb,drainingkiss|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|bounsweet|Silk Scarf|Oblivious|seedbomb,splash,rest,substitute|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|bounsweet|Luminous Moss|Oblivious|bounce,sunnyday,seedbomb,round|Sassy|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|bounsweet|Miracle Seed|Oblivious|snore,bounce,seedbomb,sunnyday|Calm|140,0,252,0,0,116||31,31,31,31,31,31||50|
+|bounsweet|Muscle Band|Sweet Veil|bounce,rest,seedbomb,protect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bounsweet|Silk Scarf|Oblivious|seedbomb,facade,rest,round|Calm|0,0,0,252,196,60||31,31,31,31,31,31||50|
+|bounsweet|Silk Scarf|Oblivious|zenheadbutt,bounce,helpinghand,charm|Lax|0,228,252,28,0,0||31,31,31,31,31,31||50|
+|bounsweet|Payapa Berry|Oblivious|seedbomb,endure,snore,facade|Jolly|4,140,108,0,4,252||31,31,31,31,31,31||50|
+|bounsweet|Babiri Berry|Oblivious|seedbomb,facade,bounce,drainingkiss|Serious|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|bounsweet|Yache Berry|Oblivious|bounce,protect,playrough,acupressure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bounsweet|Silk Scarf|Leaf Guard|helpinghand,sunnyday,seedbomb,bounce|Lax|0,228,252,28,0,0||31,31,31,31,31,31||50|
+|bounsweet|Muscle Band|Sweet Veil|endure,bounce,seedbomb,magicalleaf|Serious|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|bounsweet|Kebia Berry|Sweet Veil|helpinghand,playrough,bounce,drainingkiss|Lonely|68,172,0,20,124,124||31,31,31,31,31,31||50|
+|blipbug|Coba Berry|Compound Eyes|infestation,supersonic,stickyweb,recover|Modest|196,0,60,252,0,0||31,0,31,31,31,31||50|
+|blipbug|Assault Vest|Compound Eyes|strugglebug,stickyweb,supersonic,recover|Modest|196,0,60,252,0,0||31,0,31,31,31,31||50|
+|blipbug|Silk Scarf|Telepathy|strugglebug,stickyweb,recover,infestation|Gentle|36,108,0,28,252,84||31,31,31,31,31,31||50|
+|blipbug|Damp Rock|Telepathy|supersonic,stickyweb,infestation,strugglebug|Modest|196,0,60,252,0,0||31,0,31,31,31,31||50|
+|blipbug|Assault Vest|Telepathy|strugglebug,infestation,supersonic,recover|Impish|252,0,148,0,108,0||31,31,31,31,31,31||50|
+|blipbug|Sticky Barb|Telepathy|stickyweb,strugglebug,recover,supersonic|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|blipbug|Assault Vest|Compound Eyes|recover,supersonic,infestation,stickyweb|Lonely|0,252,0,0,20,236||31,31,31,31,31,31||50|
+|blipbug|Assault Vest|Telepathy|stickyweb,infestation,supersonic,strugglebug|Modest|196,0,60,252,0,0||31,0,31,31,31,31||50|
+|blipbug|Utility Umbrella|Swarm|stickyweb,recover,infestation,strugglebug|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|blipbug|Assault Vest|Telepathy|stickyweb,recover,infestation,strugglebug|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|blipbug|Choice Scarf|Compound Eyes|recover,strugglebug,supersonic,infestation|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|blipbug|Electric Seed|Swarm|stickyweb,infestation,supersonic,strugglebug|Timid|0,0,0,156,100,252||31,0,31,31,31,31||50|
+|blipbug|Oran Berry|Compound Eyes|supersonic,recover,strugglebug,infestation|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|blipbug|Spell Tag|Compound Eyes|supersonic,infestation,strugglebug,stickyweb|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|blipbug|Heat Rock|Compound Eyes|stickyweb,strugglebug,supersonic,infestation|Modest|228,0,0,180,0,100||31,0,31,31,31,31||50|
+|blipbug|Chesto Berry|Swarm|strugglebug,supersonic,stickyweb,recover|Bold|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|blipbug|Sea Incense|Swarm|stickyweb,recover,strugglebug,supersonic|Rash|36,84,36,228,0,124||31,31,31,31,31,31||50|
+|blipbug|Wacan Berry|Telepathy|strugglebug,supersonic,infestation,recover|Modest|228,0,0,180,0,100||31,0,31,31,31,31||50|
+|blipbug|Sea Incense|Swarm|recover,strugglebug,stickyweb,supersonic|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|blipbug|Electric Seed|Telepathy|strugglebug,recover,supersonic,infestation|Impish|0,0,252,0,212,44||31,31,31,31,31,31||50|

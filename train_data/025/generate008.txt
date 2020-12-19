@@ -1,0 +1,100 @@
+|yamask|Petaya Berry|Mummy|shadowball,rest,raindance,endure|Calm|132,0,28,60,148,140||31,0,31,31,31,31||50|
+|yamask|Petaya Berry|Mummy|guardsplit,poltergeist,willowisp,toxicspikes|Sassy|0,252,0,252,4,0||31,31,31,31,31,31||50|
+|yamask|Eject Button|Mummy|raindance,calmmind,poltergeist,payback|Serious|0,0,0,4,252,252||31,31,31,31,31,31||50|
+|yamask|White Herb|Mummy|memento,psychic,guardsplit,willowisp|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|yamask|Qualot Berry|Mummy|payback,shadowball,poltergeist,haze|Timid|0,0,0,108,220,180||31,0,31,31,31,31||50|
+|yamask|Occa Berry|Mummy|payback,poltergeist,shadowball,allyswitch|Relaxed|0,252,4,252,0,0||31,31,31,31,31,31||50|
+|yamask|Damp Rock|Mummy|willowisp,poltergeist,shadowball,snore|Timid|0,0,0,108,220,180||31,0,31,31,31,31||50|
+|yamask|Grepa Berry|Mummy|poltergeist,shadowball,guardsplit,thief|Timid|0,0,0,108,220,180||31,0,31,31,31,31||50|
+|yamask|Petaya Berry|Mummy|shadowball,poltergeist,calmmind,guardsplit|Adamant|12,164,20,0,220,92||31,31,31,31,31,31||50|
+|yamask|Terrain Extender|Mummy|willowisp,shadowball,payback,substitute|Timid|0,0,0,108,220,180||31,0,31,31,31,31||50|
+|yamask|Twisted Spoon|Mummy|willowisp,shadowball,memento,round|Quiet|76,28,84,148,172,0||31,31,31,31,31,31||50|
+|yamask|Payapa Berry|Mummy|shadowball,poltergeist,memento,thief|Quiet|76,28,84,148,172,0||31,31,31,31,31,31||50|
+|yamask|Tanga Berry|Mummy|willowisp,guardsplit,shadowball,safeguard|Quiet|76,28,84,148,172,0||31,31,31,31,31,31||50|
+|yamask|Petaya Berry|Mummy|memento,willowisp,poltergeist,grudge|Quiet|76,28,84,148,172,0||31,31,31,31,31,31||50|
+|yamask|Figy Berry|Mummy|willowisp,memento,poltergeist,sleeptalk|Timid|0,0,0,108,220,180||31,0,31,31,31,31||50|
+|yamask|Focus Band|Mummy|guardsplit,raindance,memento,wonderroom|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|yamask|Wise Glasses|Mummy|memento,shadowball,willowisp,irondefense|Quiet|76,28,84,148,172,0||31,31,31,31,31,31||50|
+|yamask|Terrain Extender|Mummy|darkpulse,shadowball,memento,skillswap|Hasty|228,0,0,92,0,188||31,31,31,31,31,31||50|
+|yamask|Liechi Berry|Mummy|shadowball,payback,grudge,snore|Relaxed|0,252,252,0,4,0||31,31,31,31,31,0||50|
+|yamask|Petaya Berry|Mummy|memento,rest,willowisp,shadowball|Quiet|76,28,84,148,172,0||31,31,31,31,31,31||50|
+|joltik|Toxic Orb|Swarm|screech,thunderbolt,voltswitch,swift|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|joltik|Charti Berry|Compound Eyes|snore,voltswitch,electroweb,bugbuzz|Naive|0,68,188,252,0,0||31,31,31,31,31,31||50|
+|joltik|Terrain Extender|Compound Eyes|screech,leechlife,suckerpunch,sleeptalk|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|joltik|Silver Powder|Unnerve|voltswitch,pinmissile,lunge,slash|Sassy|36,68,76,252,76,0||31,31,31,31,31,31||50|
+|joltik|Choice Band|Compound Eyes|screech,voltswitch,lunge,pinmissile|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|joltik|Rock Incense|Swarm|voltswitch,raindance,electroweb,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|joltik|Choice Specs|Unnerve|voltswitch,gastroacid,raindance,risingvoltage|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|joltik|Rock Incense|Unnerve|screech,voltswitch,thunderbolt,facade|Hasty|212,44,0,252,0,0||31,31,31,31,31,31||50|
+|joltik|Rindo Berry|Swarm|voltswitch,gastroacid,thunderbolt,raindance|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|joltik|Choice Specs|Compound Eyes|raindance,gastroacid,thunderbolt,electroweb|Bold|0,0,0,180,140,188||31,31,31,31,31,31||50|
+|joltik|Pecha Berry|Unnerve|screech,lunge,facade,energyball|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|joltik|Protector|Unnerve|voltswitch,lunge,slash,bounce|Brave|92,212,100,4,100,0||31,31,31,31,31,31||50|
+|joltik|Choice Specs|Unnerve|gastroacid,slash,suckerpunch,protect|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|joltik|Leppa Berry|Unnerve|gastroacid,slash,screech,thunderbolt|Serious|0,252,0,252,0,4||31,31,31,31,31,31||50|
+|joltik|Blunder Policy|Unnerve|gastroacid,facade,lunge,swift|Adamant|84,44,228,0,20,132||31,31,31,31,31,31||50|
+|joltik|Poison Barb|Unnerve|thunderbolt,facade,lunge,substitute|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|joltik|Choice Band|Unnerve|screech,lunge,voltswitch,endure|Adamant|68,188,84,0,84,84||31,31,31,31,31,31||50|
+|joltik|Poison Barb|Swarm|gastroacid,thunderbolt,electroball,energyball|Brave|92,212,100,4,100,0||31,31,31,31,31,31||50|
+|joltik|Choice Band|Unnerve|screech,slash,facade,voltswitch|Brave|92,212,100,4,100,0||31,31,31,31,31,31||50|
+|joltik|Choice Scarf|Unnerve|lunge,screech,thunderbolt,doubleteam|Brave|92,212,100,4,100,0||31,31,31,31,31,31||50|
+|chewtle|Big Root|Strong Jaw|icefang,surf,skittersmack,assurance|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|chewtle|Big Root|Shell Armor|scaleshot,skullbash,skittersmack,headbutt|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|chewtle|Sea Incense|Strong Jaw|icefang,skittersmack,surf,headbutt|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|chewtle|Big Root|Strong Jaw|icefang,skittersmack,scaleshot,watergun|Impish|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|chewtle|Razor Claw|Strong Jaw|icefang,scaleshot,skittersmack,round|Naive|0,4,0,252,0,252||31,31,31,31,31,31||50|
+|chewtle|Big Root|Strong Jaw|skittersmack,surf,gastroacid,headbutt|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|chewtle|Leftovers|Shell Armor|jawlock,counter,skullbash,assurance|Adamant|20,156,92,0,92,148||31,31,31,31,31,31||50|
+|chewtle|Electric Seed|Strong Jaw|icefang,tackle,counter,skittersmack|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|chewtle|Rindo Berry|Strong Jaw|scaleshot,counter,gastroacid,protect|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|chewtle|Rose Incense|Strong Jaw|surf,headbutt,icefang,facade|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|chewtle|Choice Scarf|Shell Armor|raindance,jawlock,icefang,skittersmack|Jolly|100,0,0,0,156,252||31,31,31,31,31,31||50|
+|chewtle|Choice Scarf|Strong Jaw|icefang,surf,counter,gastroacid|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|chewtle|Misty Seed|Strong Jaw|jawlock,icefang,tackle,bite|Careful|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|chewtle|Utility Umbrella|Strong Jaw|tackle,jawlock,counter,skullbash|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|chewtle|Choice Scarf|Strong Jaw|icefang,surf,dragontail,assurance|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|chewtle|Misty Seed|Strong Jaw|counter,tackle,surf,round|Impish|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|chewtle|Choice Scarf|Strong Jaw|icefang,jawlock,counter,liquidation|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|chewtle|Damp Rock|Strong Jaw|surf,counter,jawlock,icefang|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|chewtle|Lax Incense|Strong Jaw|raindance,skittersmack,jawlock,bodyslam|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|chewtle|Yache Berry|Strong Jaw|icefang,scaleshot,jawlock,counter|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|budew|Terrain Extender|Poison Point|sunnyday,swift,extrasensory,stunspore|Serious|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|budew|Eject Pack|Poison Point|swift,shadowball,snore,venoshock|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Charcoal|Poison Point|raindance,swordsdance,swift,endure|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Black Glasses|Poison Point|dazzlinggleam,shadowball,sunnyday,sludgebomb|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Black Glasses|Natural Cure|extrasensory,raindance,leafstorm,sleeptalk|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Rawst Berry|Leaf Guard|swift,leafstorm,shadowball,round|Hasty|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|budew|Black Glasses|Leaf Guard|uproar,dazzlinggleam,swift,solarbeam|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|budew|Muscle Band|Poison Point|uproar,shadowball,sunnyday,stunspore|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Colbur Berry|Poison Point|shadowball,swift,sludgebomb,grassyglide|Gentle|252,4,0,0,252,0||31,31,31,31,31,31||50|
+|budew|Grepa Berry|Poison Point|swift,sunnyday,swordsdance,cottonspore|Lax|236,0,132,0,0,140||31,31,31,31,31,31||50|
+|budew|Lax Incense|Poison Point|extrasensory,absorb,leafstorm,razorleaf|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|budew|Muscle Band|Poison Point|substitute,swift,sludgebomb,bulletseed|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Utility Umbrella|Poison Point|swift,extrasensory,absorb,sunnyday|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Haban Berry|Poison Point|raindance,swordsdance,extrasensory,rest|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Air Balloon|Natural Cure|swift,extrasensory,raindance,seedbomb|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|budew|Rowap Berry|Natural Cure|raindance,swordsdance,shadowball,gigadrain|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Utility Umbrella|Natural Cure|extrasensory,swift,absorb,shadowball|Naive|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|budew|Big Root|Leaf Guard|dazzlinggleam,snore,extrasensory,razorleaf|Bold|252,0,0,0,252,4||31,0,31,31,31,31||50|
+|budew|Sitrus Berry|Poison Point|absorb,sludgebomb,grassyglide,substitute|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|budew|Rocky Helmet|Poison Point|substitute,shadowball,swift,dazzlinggleam|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|bonsly|Poison Barb|Sturdy|endure,sleeptalk,uproar,suckerpunch|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|bonsly|Poison Barb|Rattled|stealthrock,sleeptalk,sunnyday,defensecurl|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|bonsly|Poison Barb|Rock Head|lowkick,endure,stealthrock,calmmind|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|bonsly||Rock Head|rockslide,sleeptalk,suckerpunch,rollout|Sassy|4,0,0,252,252,0||31,31,31,31,31,0||50|
+|bonsly|Damp Rock|Rock Head|sleeptalk,stealthrock,endure,flail|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|bonsly|Luminous Moss|Sturdy|stompingtantrum,uproar,selfdestruct,brickbreak|Timid|4,0,252,0,0,252||31,0,31,31,31,31||50|
+|bonsly|Lagging Tail|Rock Head|rollout,sunnyday,endure,brickbreak|Bold|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|bonsly|Poison Barb|Sturdy|selfdestruct,snore,sunnyday,faketears|Calm|0,0,0,252,116,140||31,0,31,31,31,31||50|
+|bonsly|Choice Specs|Rock Head|lowkick,sleeptalk,endure,sandstorm|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|bonsly|Sea Incense|Sturdy|sunnyday,stealthrock,sleeptalk,sandstorm|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|bonsly|Grassy Seed|Sturdy|stealthrock,sunnyday,lowkick,rest|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bonsly|Iron Ball|Rock Head|suckerpunch,sunnyday,sleeptalk,tearfullook|Impish|36,212,252,0,4,4||31,31,31,31,31,31||50|
+|bonsly|Zoom Lens|Rock Head|sunnyday,rollout,lowkick,uproar|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bonsly|Luminous Moss|Rock Head|sleeptalk,dig,stealthrock,sunnyday|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bonsly|Grassy Seed|Rock Head|lowkick,sleeptalk,stealthrock,rest|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bonsly|Big Root|Rock Head|lowkick,rockslide,sleeptalk,suckerpunch|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|bonsly|Terrain Extender|Rattled|sunnyday,doubleedge,lowkick,sandstorm|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|bonsly|Grassy Seed|Rock Head|rollout,sleeptalk,sunnyday,facade|Lonely|0,0,0,252,12,244||31,31,31,31,31,31||50|
+|bonsly|Sitrus Berry|Sturdy|sleeptalk,lowkick,sunnyday,suckerpunch|Adamant|164,252,92,0,0,0||31,31,31,31,31,31||50|
+|bonsly|Razor Claw|Rock Head|lowkick,dig,sleeptalk,sunnyday|Lonely|0,0,0,252,12,244||31,31,31,31,31,31||50|

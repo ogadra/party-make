@@ -1,0 +1,100 @@
+26.03302912649812|tyrogue|Black Belt|Vital Spirit|earthquake,sleeptalk,rest,sunnyday|Naughty|252,236,20,0,0,0||31,31,31,31,31,31||50|
+25.072768178558793|tyrogue|Misty Seed|Guts|rest,earthquake,sleeptalk,lowkick|Careful|228,76,28,0,92,84||31,31,31,31,31,31||50|
+23.35320034915462|tyrogue|Full Incense|Vital Spirit|earthquake,rest,substitute,megakick|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+22.41220855511896|tyrogue|Big Root|Vital Spirit|earthquake,machpunch,brickbreak,protect|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.395017708226643|tyrogue|Wide Lens|Guts|workup,earthquake,brickbreak,rest|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+22.008609993438235|tyrogue|Wide Lens|Vital Spirit|substitute,earthquake,rest,thief|Serious|252,0,0,252,0,4||31,31,31,31,31,31||50|
+20.539895243857085|tyrogue|Kelpsy Berry|Vital Spirit|earthquake,machpunch,sleeptalk,vacuumwave|Careful|228,76,28,0,92,84||31,31,31,31,31,31||50|
+20.36661273394945|tyrogue|Metronome|Vital Spirit|rest,lowkick,retaliate,rapidspin|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+20.28096287035961|tyrogue|Luminous Moss|Vital Spirit|bulkup,substitute,rest,earthquake|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+17.941013234221842|tyrogue|Luminous Moss|Vital Spirit|retaliate,rest,bulldoze,substitute|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.673351319096966|tyrogue|Passho Berry|Vital Spirit|bulldoze,substitute,earthquake,megakick|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+16.550515486663883|tyrogue|Never-Melt Ice|Vital Spirit|counter,earthquake,retaliate,swift|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+15.586795468209646|tyrogue|Wide Lens|Steadfast|substitute,lowkick,bulldoze,vacuumwave|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+15.453721613798937|tyrogue|Leftovers|Vital Spirit|lowkick,machpunch,brickbreak,earthquake|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+14.718715098014458|tyrogue|Utility Umbrella|Vital Spirit|rest,rapidspin,thief,rockslide|Lax|0,0,252,4,0,252||31,31,31,31,31,31||50|
+14.45351237498033|tyrogue|Qualot Berry|Vital Spirit|rest,retaliate,bulldoze,swift|Careful|228,76,28,0,92,84||31,31,31,31,31,31||50|
+13.663312242699583|tyrogue|Roseli Berry|Vital Spirit|substitute,rapidspin,thief,lowkick|Lax|0,0,252,4,0,252||31,31,31,31,31,31||50|
+12.48770618449174|tyrogue|Eject Button|Vital Spirit|rest,machpunch,substitute,sleeptalk|Gentle|0,252,0,0,252,4||31,31,31,31,31,31||50|
+12.487229205545704|tyrogue|Iron Ball|Vital Spirit|substitute,rapidspin,rest,snore|Modest|0,0,28,252,0,228||31,31,31,31,31,31||50|
+12.142500161810062|tyrogue|Toxic Orb|Vital Spirit|thief,rest,retaliate,bulletpunch|Lax|0,0,252,4,0,252||31,31,31,31,31,31||50|
+29.793395004860248|pidove|Lum Berry|Super Luck|detect,airslash,leer,sleeptalk|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+29.36121520654088|pidove|Miracle Seed|Big Pecks|airslash,raindance,growl,agility|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.708088012727202|pidove|Lum Berry|Super Luck|swift,airslash,dualwingbeat,swagger|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+28.22237234894274|pidove|Eject Button|Big Pecks|swagger,aircutter,growl,raindance|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+27.52214816189792|pidove|Wacan Berry|Super Luck|airslash,dualwingbeat,sunnyday,swift|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+27.309767331746446|pidove|Lum Berry|Super Luck|airslash,detect,dualwingbeat,growl|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.856577588956192|pidove|Wacan Berry|Big Pecks|swift,growl,airslash,protect|Serious|0,252,252,0,4,0||31,31,31,31,31,31||50|
+26.63027657319213|pidove|Weakness Policy|Big Pecks|dualwingbeat,airslash,growl,heatwave|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+25.621387044945653|pidove|Aspear Berry|Super Luck|dualwingbeat,aircutter,airslash,morningsun|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+24.333222806683295|pidove|Lum Berry|Super Luck|dualwingbeat,airslash,morningsun,swagger|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.011492225866462|pidove|Hondew Berry|Super Luck|aircutter,swift,growl,airslash|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.76560914853417|pidove|Silk Scarf|Super Luck|growl,workup,skyattack,roost|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.148008536635334|pidove|Cell Battery|Big Pecks|swift,growl,swagger,sunnyday|Lonely|0,20,0,0,252,236||31,31,31,31,31,31||50|
+21.745852673507294|pidove|Psychic Seed|Big Pecks|swift,growl,leer,swagger|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+20.62297032867785|pidove|Wacan Berry|Big Pecks|sunnyday,growl,swift,sleeptalk|Impish|0,252,4,0,252,0||31,31,31,31,31,31||50|
+19.86146520385236|pidove|Psychic Seed|Big Pecks|fly,uproar,swagger,agility|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+19.39947926594875|pidove|Figy Berry|Big Pecks|aircutter,swift,airslash,tailwind|Rash|164,0,0,92,0,252||31,31,31,31,31,31||50|
+16.703713874847406|pidove|Shell Bell|Big Pecks|dualwingbeat,raindance,aircutter,skyattack|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+11.019490375251502|pidove|Aguav Berry|Super Luck|raindance,detect,sunnyday,agility|Adamant|36,252,156,0,52,12||31,31,31,31,31,31||50|
+8.929827555972958|pidove|Sea Incense|Big Pecks|leer,raindance,swagger,growl|Impish|0,164,252,0,0,92||31,31,31,31,31,31||50|
+37.880683153121495|ferroseed|Poison Barb|Iron Barbs|payback,ingrain,pinmissile,thunderbolt|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+35.80779315553031|ferroseed|Wide Lens|Iron Barbs|gigadrain,payback,endure,leechseed|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+35.58788860292041|ferroseed|Wide Lens|Iron Barbs|payback,rest,pinmissile,endure|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+35.432690241854004|ferroseed|Room Service|Iron Barbs|payback,poisonjab,ingrain,irondefense|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+35.26833453546081|ferroseed|Micle Berry|Iron Barbs|gravity,payback,poisonjab,pinmissile|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+34.45429531839113|ferroseed|Wide Lens|Iron Barbs|harden,pinmissile,knockoff,ingrain|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+32.85585071728564|ferroseed|Spell Tag|Iron Barbs|knockoff,payback,endure,solarbeam|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+32.48990129593962|ferroseed|Petaya Berry|Iron Barbs|harden,poisonjab,ingrain,bulletseed|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+31.037319064506967|ferroseed|Soft Sand|Iron Barbs|rest,payback,ingrain,ironhead|Sassy|0,156,100,0,252,0||31,31,31,31,31,0||50|
+30.38482287982259|ferroseed|Petaya Berry|Iron Barbs|ingrain,gigadrain,payback,gravity|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+28.51753428152959|ferroseed|Lax Incense|Iron Barbs|payback,ingrain,endure,snore|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.209985771654132|ferroseed|Kelpsy Berry|Iron Barbs|gigadrain,ingrain,harden,pinmissile|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|
+27.137358533711343|ferroseed|Heat Rock|Iron Barbs|payback,endure,knockoff,seedbomb|Lonely|0,156,0,140,0,212||31,31,31,31,31,31||50|
+20.91058258502927|ferroseed|Power Herb|Iron Barbs|knockoff,harden,ingrain,steelroller|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+19.558783195104155|ferroseed|Micle Berry|Iron Barbs|ingrain,knockoff,harden,toxic|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+16.186988688029444|ferroseed|Enigma Berry|Iron Barbs|ingrain,endure,gigadrain,substitute|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+14.453732653235384|ferroseed|Chilan Berry|Iron Barbs|endure,gigadrain,ingrain,gravity|Sassy|0,252,0,252,4,0||31,31,31,31,31,0||50|
+12.787100309317568|ferroseed|Ganlon Berry|Iron Barbs|gigadrain,ingrain,harden,steelbeam|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+9.735898526158163|ferroseed|Soft Sand|Iron Barbs|ingrain,endure,protect,steelroller|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+6.647847155935713|ferroseed|Roseli Berry|Iron Barbs|pinmissile,endure,payback,steelbeam|Careful|252,252,0,0,4,0||31,31,31,31,31,31||50|
+30.0740302349756|exeggcute|Throat Spray|Chlorophyll|grassknot,powerswap,selfdestruct,seedbomb|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+27.83346354870646|exeggcute|Lansat Berry|Chlorophyll|selfdestruct,powerswap,psychic,grassknot|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+27.757987485462|exeggcute|Apicot Berry|Harvest|megadrain,psychic,endure,curse|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+27.415186808428256|exeggcute|Starf Berry|Chlorophyll|psychic,barrage,grassknot,dreameater|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+27.032572624790976|exeggcute|Misty Seed|Harvest|gigadrain,ancientpower,psychic,solarbeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+26.99603546647399|exeggcute|Apicot Berry|Harvest|selfdestruct,megadrain,psychic,dreameater|Gentle|252,4,0,0,0,252||31,31,31,31,31,31||50|
+26.478939702579112|exeggcute|Apicot Berry|Chlorophyll|grassknot,megadrain,psychic,solarbeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+26.33040735791077|exeggcute|Magnet|Harvest|psychic,ancientpower,megadrain,energyball|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+26.0630176656614|exeggcute|Lansat Berry|Harvest|sludgebomb,psychic,dreameater,toxic|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+25.66486340648252|exeggcute|Lansat Berry|Harvest|energyball,psychic,powerswap,endure|Timid|12,0,60,252,4,180||31,31,31,31,31,31||50|
+25.032460022793924|exeggcute|Miracle Seed|Harvest|round,powerswap,psychic,block|Relaxed|252,4,252,0,0,0||31,31,31,31,31,0||50|
+24.959601769323204|exeggcute|Babiri Berry|Harvest|psychic,solarbeam,endure,facade|Calm|0,0,252,0,252,4||31,0,31,31,31,31||50|
+24.795114945230228|exeggcute|Rindo Berry|Chlorophyll|endure,ancientpower,grassknot,snore|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+22.33258590904063|exeggcute|Starf Berry|Chlorophyll|grassknot,powerswap,psychic,lightscreen|Calm|252,0,0,0,252,4||31,0,31,31,31,31||50|
+21.663536694112977|exeggcute|Starf Berry|Harvest|grassknot,sleeppowder,megadrain,skillswap|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+20.575464194373534|exeggcute|Metronome|Harvest|round,sleeppowder,powerswap,moonlight|Lax|252,0,4,0,0,252||31,31,31,31,31,31||50|
+17.17128720891783|exeggcute|Apicot Berry|Chlorophyll|sleeppowder,powerswap,barrage,block|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+16.847960266652045|exeggcute|Iapapa Berry|Harvest|dreameater,megadrain,psychic,grassyglide|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+9.673848150066979|exeggcute|Chesto Berry|Chlorophyll|endure,absorb,grassknot,hypnosis|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+7.480201254654441|exeggcute|Apicot Berry|Chlorophyll|dreameater,endure,selfdestruct,sunnyday|Mild|0,196,0,212,100,0||31,31,31,31,31,31||50|
+37.22125042422887|chinchou|Wave Incense|Volt Absorb|icebeam,bubblebeam,aquaring,blizzard|Bold|0,0,252,252,4,0||31,31,31,31,31,31||50|
+37.06614786613269|chinchou|Sea Incense|Illuminate|substitute,surf,aquaring,icebeam|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+36.11150242462535|chinchou|Wise Glasses|Illuminate|icebeam,substitute,waterfall,dive|Bold|0,0,252,252,4,0||31,31,31,31,31,31||50|
+32.66962822401156|chinchou|Iapapa Berry|Illuminate|icebeam,substitute,bubblebeam,blizzard|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+32.05528385721503|chinchou|Iapapa Berry|Illuminate|bubblebeam,substitute,discharge,thunderwave|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+31.269993432801588|chinchou|Haban Berry|Illuminate|icebeam,bubblebeam,watergun,icywind|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+30.35377399989734|chinchou|Iapapa Berry|Illuminate|discharge,blizzard,waterfall,icebeam|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+30.352584886162752|chinchou|Choice Specs|Volt Absorb|surf,discharge,waterpulse,watergun|Lonely|0,252,0,156,100,0||31,31,31,31,31,31||50|
+29.933650366858345|chinchou|Sitrus Berry|Illuminate|aquaring,icebeam,sleeptalk,takedown|Impish|0,0,100,0,252,156||31,31,31,31,31,31||50|
+29.838626927172907|chinchou|Rawst Berry|Illuminate|discharge,charge,scald,spark|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+29.704187707591288|chinchou|Iapapa Berry|Illuminate|icebeam,flail,blizzard,facade|Impish|0,36,252,0,0,220||31,31,31,31,31,31||50|
+29.55733616808514|chinchou|Wacan Berry|Illuminate|waterfall,substitute,icebeam,discharge|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+29.38038197609488|chinchou|Oran Berry|Illuminate|scald,blizzard,icebeam,psybeam|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.105279001757467|chinchou|Blunder Policy|Illuminate|icebeam,surf,bubblebeam,whirlpool|Serious|156,100,0,0,252,0||31,31,31,31,31,31||50|
+28.851395909116565|chinchou|Ganlon Berry|Illuminate|icebeam,blizzard,substitute,thunderwave|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+28.677725173067113|chinchou|Oran Berry|Illuminate|whirlpool,bubblebeam,surf,icebeam|Impish|252,4,0,0,252,0||31,31,31,31,31,31||50|
+28.49772954063178|chinchou|Poison Barb|Illuminate|discharge,icebeam,waterfall,surf|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+27.300646312710274|chinchou|Scope Lens|Illuminate|substitute,blizzard,surf,thunder|Lonely|0,252,0,156,100,0||31,31,31,31,31,31||50|
+16.19256654043564|chinchou|Iapapa Berry|Water Absorb|substitute,bubblebeam,discharge,endure|Timid|252,0,12,0,0,244||31,0,31,31,31,31||50|
+13.174106785861282|chinchou|Safety Goggles|Illuminate|aquaring,bubblebeam,substitute,surf|Careful|0,140,0,0,116,252||31,31,31,31,31,31||50|

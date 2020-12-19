@@ -1,0 +1,100 @@
+35.48813382265049|torchic|Choice Band|Blaze|flareblitz,dig,megapunch,swordsdance|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+32.33933662145679|torchic|Eviolite|Blaze|megapunch,flareblitz,batonpass,scratch|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+31.52286867336021|torchic|Eviolite|Speed Boost|endure,megapunch,flareblitz,willowisp|Relaxed|252,0,252,4,0,0||31,31,31,31,31,31||50|
+29.96054972369841|torchic|Power Herb|Blaze|megapunch,heatwave,flareblitz,firespin|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+29.956071582500723|torchic|Choice Band|Blaze|growl,dig,swordsdance,rockslide|Lonely|4,252,0,0,0,0||31,31,31,31,31,31||50|
+29.915133350373537|torchic|Eviolite|Blaze|flareblitz,megapunch,endure,nightslash|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.99068744715268|torchic|Pomeg Berry|Blaze|flareblitz,ember,dig,bodyslam|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+28.402799873383525|torchic|Grepa Berry|Blaze|heatwave,quickattack,megapunch,feint|Relaxed|0,236,252,0,20,0||31,31,31,31,31,0||50|
+28.00051578812799|torchic|Focus Sash|Blaze|megapunch,flareblitz,batonpass,firespin|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+27.61917970184025|torchic|Lansat Berry|Blaze|scratch,heatwave,batonpass,protect|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+26.71189986082026|torchic|Scope Lens|Blaze|dig,flareblitz,heatwave,firepledge|Careful|28,124,180,0,132,44||31,31,31,31,31,31||50|
+26.00270996752502|torchic|Lansat Berry|Blaze|firepledge,agility,megapunch,flareblitz|Gentle|92,36,0,116,140,124||31,31,31,31,31,31||50|
+25.282782041132023|torchic|Wave Incense|Blaze|scratch,agility,heatwave,sunnyday|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+25.243610652689238|torchic|Kebia Berry|Blaze|slash,swordsdance,sandattack,lowkick|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+25.16027674909589|torchic|Lansat Berry|Blaze|flareblitz,megapunch,swordsdance,growl|Brave|4,252,36,132,84,0||31,31,31,31,31,0||50|
+25.03825731520343|torchic|Grepa Berry|Speed Boost|agility,heatwave,scratch,sandattack|Relaxed|4,252,252,0,0,0||31,31,31,31,31,31||50|
+24.924815065043568|torchic|Choice Band|Blaze|megapunch,scratch,growl,swordsdance|Impish|252,0,4,0,252,0||31,31,31,31,31,31||50|
+23.27422139365161|torchic|Dragon Scale|Blaze|megapunch,scratch,flareblitz,agility|Sassy|0,0,204,132,172,0||31,31,31,31,31,0||50|
+21.85634122307951|torchic|Grip Claw|Blaze|aerialace,megapunch,shadowclaw,flareblitz|Sassy|0,0,204,132,172,0||31,31,31,31,31,0||50|
+21.052237589262266|torchic|Electric Seed|Blaze|megapunch,endure,quickattack,flamecharge|Sassy|4,36,156,60,252,0||31,31,31,31,31,31||50|
+34.731156512946995|shellos|Scope Lens|Sand Force|hail,swallow,earthpower,bodyslam|Calm|0,0,252,4,252,0||31,0,31,31,31,31||50|
+34.4301704730505|shellos|Rocky Helmet|Storm Drain|whirlpool,earthpower,mudshot,substitute|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+33.149461072397514|shellos|Black Glasses|Storm Drain|whirlpool,curse,earthpower,dive|Calm|0,0,220,36,252,0||31,31,31,31,31,31||50|
+32.570857606378134|shellos|Maranga Berry|Sand Force|whirlpool,amnesia,ancientpower,substitute|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+32.053534257529414|shellos|Haban Berry|Storm Drain|bodyslam,earthpower,brine,swallow|Careful|252,4,0,0,252,0||31,31,31,31,31,31||50|
+31.89137002851543|shellos|Misty Seed|Storm Drain|swallow,amnesia,earthpower,spitup|Calm|0,0,220,36,252,0||31,31,31,31,31,31||50|
+31.64947689985592|shellos|Heat Rock|Sand Force|whirlpool,earthpower,substitute,rest|Relaxed|252,252,4,0,0,0||31,31,31,31,31,0||50|
+31.133567839036814|shellos|Zoom Lens|Storm Drain|brine,earthpower,swallow,surf|Relaxed|28,180,52,180,68,0||31,31,31,31,31,31||50|
+30.504427809090497|shellos|Maranga Berry|Sand Force|whirlpool,ancientpower,earthpower,amnesia|Calm|0,0,220,36,252,0||31,31,31,31,31,31||50|
+30.392127810451612|shellos|Hondew Berry|Storm Drain|curse,earthpower,amnesia,sleeptalk|Calm|0,0,220,36,252,0||31,31,31,31,31,31||50|
+30.30210726676886|shellos|Utility Umbrella|Sand Force|substitute,earthpower,whirlpool,curse|Calm|0,0,220,36,252,0||31,31,31,31,31,31||50|
+28.679562239695894|shellos|Focus Sash|Storm Drain|earthpower,curse,hail,raindance|Bold|0,0,252,252,4,0||31,31,31,31,31,31||50|
+28.560823303021795|shellos|Roseli Berry|Storm Drain|curse,swallow,mudshot,yawn|Sassy|252,4,0,0,252,0||31,31,31,31,31,31||50|
+28.04215827042761|shellos|Dragon Fang|Sticky Hold|substitute,curse,earthpower,whirlpool|Brave|100,132,4,20,252,0||31,31,31,31,31,0||50|
+27.695514208897652|shellos|Petaya Berry|Sticky Hold|hail,whirlpool,mudshot,blizzard|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+27.63173525713006|shellos|Pecha Berry|Storm Drain|earthpower,curse,mudshot,attract|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.179518042507816|shellos|Normal Gem|Sand Force|ancientpower,whirlpool,substitute,watergun|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.070161983820306|shellos|Rocky Helmet|Storm Drain|whirlpool,curse,swallow,icywind|Relaxed|0,4,252,252,0,0||31,31,31,31,31,31||50|
+26.49388584803533|shellos|Maranga Berry|Sand Force|whirlpool,earthpower,raindance,mirrorcoat|Calm|0,0,220,36,252,0||31,31,31,31,31,31||50|
+23.983474711155917|shellos|Twisted Spoon|Storm Drain|mudshot,brine,whirlpool,attract|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.13057745021631|fomantis|Tamato Berry|Leaf Guard|xscissor,endure,sweetscent,furycutter|Timid|0,0,252,0,228,28||31,31,31,31,31,31||50|
+25.07764143537043|fomantis|Safety Goggles|Contrary|bulletseed,endure,energyball,solarbeam|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+24.58652212507719|fomantis|Pixie Plate|Leaf Guard|xscissor,payback,substitute,swordsdance|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+24.0277363402956|fomantis|Payapa Berry|Contrary|fling,xscissor,ingrain,magicalleaf|Relaxed|0,0,252,252,4,0||31,31,31,31,31,31||50|
+23.71574572997957|fomantis|Payapa Berry|Leaf Guard|grassknot,energyball,ingrain,payback|Impish|116,20,252,0,92,28||31,31,31,31,31,31||50|
+22.92427485595091|fomantis|Lansat Berry|Contrary|sweetscent,endure,xscissor,protect|Relaxed|0,0,252,252,4,0||31,31,31,31,31,31||50|
+21.908369716352816|fomantis|Rocky Helmet|Contrary|fling,xscissor,magicalleaf,ingrain|Naive|44,60,4,148,0,252||31,31,31,31,31,31||50|
+21.598345616163304|fomantis|Tamato Berry|Leaf Guard|endure,magicalleaf,xscissor,fling|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+21.478166264908232|fomantis|Tamato Berry|Leaf Guard|ingrain,payback,xscissor,protect|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+19.69573786841367|fomantis|Tamato Berry|Leaf Guard|xscissor,magicalleaf,bulletseed,payback|Careful|0,4,252,0,252,0||31,31,31,31,31,31||50|
+17.672458005572132|fomantis|Pixie Plate|Contrary|magicalleaf,substitute,ingrain,aromatherapy|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+15.24166359378371|fomantis|Iron Ball|Leaf Guard|round,ingrain,fling,furycutter|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+14.91807036944634|fomantis|Tamato Berry|Leaf Guard|ingrain,endure,round,payback|Impish|116,20,252,0,92,28||31,31,31,31,31,31||50|
+14.821252936002507|fomantis|Eviolite|Leaf Guard|weatherball,fling,ingrain,magicalleaf|Impish|116,20,252,0,92,28||31,31,31,31,31,31||50|
+13.80225470050621|fomantis|Rose Incense|Leaf Guard|grassyglide,protect,bulletseed,payback|Bold|0,0,60,252,196,0||31,0,31,31,31,31||50|
+13.264395824939086|fomantis|Absorb Bulb|Contrary|ingrain,round,endure,safeguard|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+12.587410077850196|fomantis|Charcoal|Leaf Guard|fling,magicalleaf,gigadrain,payback|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+10.609283625810997|fomantis|Tamato Berry|Contrary|round,grassknot,bulletseed,endure|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+8.673152891215858|fomantis|Charcoal|Leaf Guard|sunnyday,magicalleaf,gigadrain,rest|Relaxed|0,0,252,252,4,0||31,31,31,31,31,31||50|
+6.817839785379868|fomantis|Float Stone|Leaf Guard|fling,magicalleaf,ingrain,razorleaf|Impish|116,20,252,0,92,28||31,31,31,31,31,31||50|
+31.55202926221399|charmander|Smooth Rock|Blaze|sunnyday,ancientpower,megakick,willowisp|Rash|4,0,0,252,0,252||31,31,31,31,31,31||50|
+30.5593120583244|charmander|Smooth Rock|Blaze|bodyslam,megakick,dig,furyswipes|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.427380433849653|charmander|Safety Goggles|Blaze|megakick,bodyslam,sunnyday,dig|Adamant|252,204,0,0,52,0||31,31,31,31,31,31||50|
+27.934768762854482|charmander|Black Belt|Blaze|rockslide,sunnyday,bodyslam,beatup|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.924905953139366|charmander|Sitrus Berry|Blaze|bodyslam,sunnyday,bite,heatwave|Impish|0,4,252,0,0,252||31,31,31,31,31,31||50|
+25.390829698576766|charmander|Mago Berry|Blaze|dig,substitute,dragonrush,firepunch|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.95370902147536|charmander|Never-Melt Ice|Blaze|bodyslam,dig,heatwave,outrage|Adamant|68,220,44,0,108,68||31,31,31,31,31,31||50|
+24.60585234085594|charmander|Binding Band|Blaze|dragonrush,bite,bellydrum,counter|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.44018374151433|charmander|Figy Berry|Blaze|substitute,irontail,bite,firepledge|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+23.99495778456085|charmander|Sitrus Berry|Blaze|megakick,beatup,rockslide,slash|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+23.53406916643585|charmander|Lax Incense|Blaze|megakick,acrobatics,dragonrush,toxic|Adamant|252,204,0,0,52,0||31,31,31,31,31,31||50|
+23.382784496464513|charmander|Sitrus Berry|Blaze|rocktomb,ancientpower,megakick,swordsdance|Sassy|4,0,0,252,252,0||31,31,31,31,31,0||50|
+22.8429820451631|charmander|Maranga Berry|Solar Power|sunnyday,dig,substitute,outrage|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.650028084822072|charmander|Mago Berry|Blaze|irontail,bite,bellydrum,counter|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+22.273307352004306|charmander|Sitrus Berry|Blaze|sunnyday,bodyslam,megakick,heatwave|Naughty|68,212,36,172,0,20||31,31,31,31,31,31||50|
+21.896432996991305|charmander|Sharp Beak|Blaze|irontail,bite,rockslide,dragonrage|Adamant|252,204,0,0,52,0||31,31,31,31,31,31||50|
+21.827686624789283|charmander|Smooth Rock|Blaze|rocktomb,metalclaw,dragonrush,megapunch|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+21.806061460641654|charmander|Sitrus Berry|Solar Power|irontail,dig,dragonpulse,dragonrage|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.66152480810605|charmander|Full Incense|Blaze|bodyslam,dig,heatwave,dragonbreath|Naive|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.2070321335693|charmander|Sitrus Berry|Blaze|bite,dragonrush,irontail,overheat|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+33.21896081512673|abra|Light Clay|Magic Guard|raindance,psyshock,protect,snore|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|
+32.042466746554915|abra|Binding Band|Magic Guard|psyshock,raindance,firepunch,energyball|Impish|28,164,236,0,36,44||31,31,31,31,31,31||50|
+31.164627026764094|abra|Choice Band|Inner Focus|firepunch,psyshock,teleport,energyball|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+30.041268537171813|abra|Smooth Rock|Magic Guard|calmmind,round,psyshock,energyball|Impish|12,12,252,0,204,28||31,31,31,31,31,31||50|
+29.91950464939742|abra|Wave Incense|Magic Guard|psychic,teleport,metronome,shadowball|Sassy|252,0,252,4,0,0||31,31,31,31,31,0||50|
+28.922319198127102|abra|Heat Rock|Magic Guard|psychic,raindance,rest,sunnyday|Naive|36,20,132,132,0,188||31,31,31,31,31,31||50|
+28.46818712066587|abra|Binding Band|Magic Guard|guardswap,psyshock,raindance,endure|Impish|12,12,252,0,204,28||31,31,31,31,31,31||50|
+27.909616106916037|abra|Grepa Berry|Magic Guard|guardsplit,psyshock,psychicterrain,teleport|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+27.4836245575799|abra|Snowball|Inner Focus|psyshock,guardswap,raindance,magiccoat|Jolly|124,28,60,0,44,252||31,31,31,31,31,31||50|
+26.945299571921947|abra|Light Clay|Magic Guard|psyshock,teleport,raindance,facade|Lonely|4,252,0,0,0,252||31,31,31,31,31,31||50|
+25.56427982978743|abra|Choice Band|Magic Guard|firepunch,teleport,psychic,encore|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+23.19503166048013|abra|Iron Ball|Magic Guard|firepunch,psyshock,guardsplit,taunt|Impish|28,164,236,0,36,44||31,31,31,31,31,31||50|
+22.085713899006354|abra|Charcoal|Magic Guard|psyshock,guardsplit,firepunch,allyswitch|Lax|252,252,4,0,0,0||31,31,31,31,31,31||50|
+21.603809798162985|abra|Protective Pads|Magic Guard|psyshock,teleport,firepunch,wonderroom|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+21.269562268422295|abra|Hondew Berry|Magic Guard|firepunch,psyshock,psychic,lightscreen|Calm|0,0,0,4,252,252||31,0,31,31,31,31||50|
+18.592645822260394|abra|Choice Band|Magic Guard|teleport,firepunch,psychicterrain,guardsplit|Relaxed|252,0,4,0,252,0||31,31,31,31,31,0||50|
+15.640948254543757|abra|Quick Claw|Magic Guard|guardsplit,raindance,toxic,megakick|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|
+13.912209707039633|abra|Light Clay|Synchronize|calmmind,raindance,megakick,energyball|Quiet|4,100,100,252,52,0||31,31,31,31,31,31||50|
+13.607396175158629|abra|Light Clay|Magic Guard|round,calmmind,firepunch,teleport|Timid|228,0,0,0,180,100||31,0,31,31,31,31||50|
+12.818255134806506|abra|Light Clay|Inner Focus|protect,firepunch,raindance,facade|Lax|0,0,252,252,0,4||31,31,31,31,31,31||50|

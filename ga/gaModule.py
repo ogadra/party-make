@@ -28,6 +28,9 @@ def randomChoice(population, weights, ignore='False'):
 def heredityMove(dna1, dna2, species):
     moves = dna1.split(',')
     moves.extend(dna2.split(','))
+    if len(moves) < 4:
+        return ','.join(moves)
+
     moves = Counter(moves)
     moves, weight = [i for i in moves.keys()], [i for i in moves.values()]
     childMoves = []

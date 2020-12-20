@@ -1,0 +1,100 @@
+34.85498357457586|vulpix|Oran Berry|Drought|payback,mysticalfire,darkpulse,weatherball|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+28.23594444579231|vulpix|Persim Berry|Drought|snore,payback,protect,flamethrower|Calm|0,0,0,4,252,252||31,31,31,31,31,31||50|
+28.13835067638865|vulpix|Normal Gem|Drought|protect,flamethrower,snore,sleeptalk|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.099467437880776|vulpix|Sharp Beak|Drought|energyball,mysticalfire,agility,howl|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+26.039394845112138|vulpix|Utility Umbrella|Drought|flareblitz,mysticalfire,foulplay,endure|Careful|0,0,36,0,252,220||31,31,31,31,31,31||50|
+25.725810873156078|vulpix|Ganlon Berry|Drought|mysticalfire,darkpulse,fireblast,headbutt|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+24.113596431961685|vulpix|Utility Umbrella|Drought|snore,mysticalfire,flareblitz,headbutt|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+23.915959897345626|vulpix|Payapa Berry|Drought|payback,flamethrower,darkpulse,sleeptalk|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+23.59252365599298|vulpix|Red Card|Drought|darkpulse,mysticalfire,payback,foulplay|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.483462534135864|vulpix|Protector|Drought|energyball,fireblast,mysticalfire,ember|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+22.927416857853604|vulpix|Rock Incense|Drought|mysticalfire,sunnyday,fireblast,tackle|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+22.80851972996642|vulpix|Salac Berry|Drought|energyball,mysticalfire,foulplay,swift|Sassy|4,252,252,0,0,0||31,31,31,31,31,0||50|
+22.368750611205492|vulpix|Cell Battery|Drought|mysticalfire,sunnyday,payback,inferno|Lax|252,0,4,252,0,0||31,31,31,31,31,31||50|
+22.179541703563086|vulpix|Red Card|Drought|payback,darkpulse,mysticalfire,tackle|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+21.98494157168519|vulpix|Poison Barb|Drought|facade,energyball,mysticalfire,agility|Modest|0,0,0,188,68,252||31,0,31,31,31,31||50|
+21.706212504155754|vulpix|Sharp Beak|Drought|darkpulse,energyball,tackle,imprison|Impish|4,0,252,0,252,0||31,31,31,31,31,31||50|
+17.224111433072526|vulpix|Roseli Berry|Drought|foulplay,darkpulse,payback,irontail|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+16.629614489441895|vulpix|Utility Umbrella|Drought|grudge,payback,darkpulse,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+15.761582566856978|vulpix|Dragon Scale|Drought|payback,foulplay,protect,tailwhip|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+12.47768994738351|vulpix|Psychic Seed|Drought|snore,payback,energyball,flail|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+31.67381626875154|karrablast|Rose Incense|No Guard|megahorn,takedown,gigadrain,protect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+29.65142114640484|karrablast|Twisted Spoon|Swarm|takedown,megahorn,doubleedge,slash|Jolly|228,0,0,0,28,252||31,31,31,31,31,31||50|
+28.875532440276412|karrablast|Shed Shell|No Guard|takedown,bugbuzz,megahorn,endure|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+28.47557340133784|karrablast|Iapapa Berry|No Guard|takedown,swordsdance,megahorn,sleeptalk|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+28.063613570548817|karrablast|Colbur Berry|No Guard|counter,megahorn,takedown,doubleedge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+27.937451083314457|karrablast|Smooth Rock|No Guard|doubleedge,takedown,scaryface,megahorn|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+27.90739382067385|karrablast|Iapapa Berry|No Guard|takedown,scaryface,megahorn,acidspray|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+27.17241686097454|karrablast|Lagging Tail|No Guard|protect,swordsdance,megahorn,snore|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+26.93245578158475|karrablast|Snowball|No Guard|megahorn,scaryface,takedown,slash|Sassy|172,252,0,0,84,0||31,31,31,31,31,0||50|
+26.518841664173006|karrablast|Kasib Berry|Swarm|scaryface,headbutt,bugbuzz,megahorn|Bold|68,0,68,60,132,180||31,0,31,31,31,31||50|
+26.38244815559715|karrablast|Iapapa Berry|Swarm|bugbuzz,swordsdance,megahorn,gigadrain|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+25.94059949668085|karrablast|Iapapa Berry|No Guard|megahorn,doubleedge,scaryface,gigadrain|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+25.442588075518156|karrablast|Iapapa Berry|No Guard|swordsdance,bugbuzz,gigadrain,sleeptalk|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+25.34671085443205|karrablast|Iapapa Berry|No Guard|megahorn,bugbuzz,scaryface,gigadrain|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+24.382202637457024|karrablast|Silk Scarf|No Guard|takedown,megahorn,swordsdance,attract|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+23.801281996816027|karrablast|Smooth Rock|No Guard|swordsdance,bugbuzz,megahorn,nightslash|Bold|68,0,68,60,132,180||31,0,31,31,31,31||50|
+22.105653341382435|karrablast|Iapapa Berry|No Guard|counter,takedown,protect,headbutt|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+21.97406851945298|karrablast|Ganlon Berry|No Guard|endure,swordsdance,takedown,knockoff|Impish|36,68,148,0,76,180||31,31,31,31,31,31||50|
+18.847065608381705|karrablast|Smooth Rock|No Guard|takedown,swordsdance,doubleedge,raindance|Jolly|228,0,0,0,28,252||31,31,31,31,31,31||50|
+12.035300095434655|karrablast|Black Sludge|No Guard|takedown,protect,knockoff,doubleedge|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+37.85153298404817|gible|Sharp Beak|Sand Veil|facade,bulldoze,shadowclaw,mudshot|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+34.81606089828186|gible|Ring Target|Rough Skin|shadowclaw,bulldoze,irontail,bite|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+34.44597695856726|gible|Eject Button|Sand Veil|bulldoze,scaleshot,bodyslam,swift|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+32.114857507492516|gible|Full Incense|Sand Veil|bulldoze,scaleshot,bodyslam,round|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+31.995427132326917|gible|Oran Berry|Rough Skin|irontail,bodyslam,dig,earthquake|Impish|0,0,252,0,4,252||31,31,31,31,31,31||50|
+31.478222705710362|gible|Oran Berry|Sand Veil|slash,irontail,bulldoze,stoneedge|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+31.36395888546578|gible|Quick Claw|Sand Veil|irontail,bodyslam,bulldoze,sandtomb|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+31.104583263334632|gible|Odd Incense|Sand Veil|round,scaryface,slash,outrage|Calm|252,0,4,0,252,0||31,0,31,31,31,31||50|
+30.91838339579396|gible|Chilan Berry|Rough Skin|bulldoze,shadowclaw,scaryface,mudshot|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+30.75163945614206|gible|Assault Vest|Sand Veil|shadowclaw,tackle,irontail,bulldoze|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+30.57727677485696|gible|Scope Lens|Sand Veil|bulldoze,irontail,bodyslam,dragonbreath|Hasty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.567693169861236|gible|Oran Berry|Sand Veil|bulldoze,scaleshot,facade,scaryface|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+29.49261582121389|gible|Quick Claw|Sand Veil|facade,bulldoze,bodyslam,outrage|Careful|0,0,252,0,252,4||31,31,31,31,31,31||50|
+28.235152198610965|gible|Full Incense|Sand Veil|facade,bodyslam,bulldoze,stoneedge|Careful|4,0,252,0,252,0||31,31,31,31,31,31||50|
+25.930356132702812|gible|Black Sludge|Sand Veil|shadowclaw,bodyslam,scaryface,scaleshot|Calm|44,0,212,0,252,0||31,31,31,31,31,31||50|
+24.161950174388792|gible|Payapa Berry|Rough Skin|facade,bodyslam,dracometeor,metalclaw|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+23.657238364358985|gible|Float Stone|Rough Skin|sandattack,stoneedge,irontail,raindance|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+23.164565301318213|gible|Quick Claw|Sand Veil|bodyslam,irontail,shadowclaw,round|Serious|0,252,252,4,0,0||31,31,31,31,31,31||50|
+20.80258542152914|gible|Sticky Barb|Sand Veil|irontail,facade,dig,fireblast|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+12.123556567088505|gible|Aguav Berry|Rough Skin|bodyslam,scaryface,sandattack,stealthrock|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+30.90476681400312|binacle|Psychic Seed|Tough Claws|earthquake,uproar,brickbreak,dig|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+30.591073829081896|binacle|Roseli Berry|Pickpocket|earthquake,fling,withdraw,mudslap|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+29.408091565499063|binacle|Wise Glasses|Sniper|fling,earthquake,dig,snore|Impish|252,0,252,0,0,4||31,31,31,31,31,31||50|
+29.260008307571443|binacle|Cell Battery|Pickpocket|earthquake,withdraw,fling,thief|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+29.116329382040508|binacle|Rowap Berry|Tough Claws|mudshot,sludgewave,rocktomb,slash|Naughty|132,252,124,0,0,0||31,31,31,31,31,31||50|
+28.668353095755133|binacle|Coba Berry|Sniper|earthquake,mudshot,switcheroo,bulldoze|Sassy|0,84,172,252,0,0||31,31,31,31,31,0||50|
+27.699533294882148|binacle|Rose Incense|Pickpocket|withdraw,earthquake,dig,substitute|Relaxed|252,0,252,0,4,0||31,31,31,31,31,0||50|
+27.60766642435951|binacle|Metronome|Pickpocket|withdraw,mudshot,earthquake,sludgewave|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+26.406491442440636|binacle|Rose Incense|Tough Claws|mudshot,sludgewave,withdraw,dig|Timid|132,0,4,28,164,180||31,0,31,31,31,31||50|
+25.569460161160734|binacle|Soft Sand|Tough Claws|mudshot,switcheroo,sludgewave,assurance|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+25.425000328614377|binacle|Babiri Berry|Pickpocket|withdraw,earthquake,dig,endure|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+25.414028512523416|binacle|Rowap Berry|Tough Claws|earthquake,withdraw,dig,grassknot|Timid|100,0,20,28,108,252||31,0,31,31,31,31||50|
+24.29712169822547|binacle|Protective Pads|Tough Claws|switcheroo,earthquake,mudshot,razorshell|Bold|252,0,156,100,0,0||31,0,31,31,31,31||50|
+24.161081266865644|binacle|Absorb Bulb|Tough Claws|sandstorm,mudshot,dig,stoneedge|Timid|252,0,0,0,4,252||31,0,31,31,31,31||50|
+23.465393301474514|binacle|Grassy Seed|Tough Claws|taunt,earthquake,switcheroo,protect|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+21.917649858215306|binacle|Rawst Berry|Pickpocket|dig,earthquake,sludgewave,watergun|Relaxed|108,0,180,220,0,0||31,31,31,31,31,0||50|
+21.367547534073605|binacle|Kasib Berry|Tough Claws|mudshot,earthquake,sandstorm,sludgebomb|Naughty|132,252,124,0,0,0||31,31,31,31,31,31||50|
+20.356337482125053|binacle|Coba Berry|Pickpocket|sludgewave,switcheroo,earthquake,round|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+18.57669007198224|binacle|Soft Sand|Pickpocket|sludgewave,earthquake,switcheroo,sandstorm|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+18.11268956230892|binacle|Poison Barb|Pickpocket|switcheroo,earthquake,dig,stealthrock|Mild|44,76,0,44,196,148||31,31,31,31,31,31||50|
+30.798943446772235|aron|Shed Shell|Rock Head|roar,headsmash,sandstorm,bodyslam|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+29.525400093997373|aron|King's Rock|Sturdy|bodypress,headsmash,bulldoze,uproar|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+28.607249202548616|aron|Mystic Water|Sturdy|rockslide,endure,irontail,rest|Quiet|252,60,0,196,0,0||31,31,31,31,31,31||50|
+28.082583545048255|aron|Metal Coat|Rock Head|headsmash,bulldoze,bodyslam,heavyslam|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+27.085573635546567|aron|Icy Rock|Heavy Metal|rockslide,roar,endure,mudslap|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+27.03265252972791|aron|Occa Berry|Sturdy|headbutt,headsmash,bodypress,sandstorm|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+24.125977255138466|aron|Life Orb|Sturdy|irontail,headsmash,steelroller,autotomize|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+23.890419062835317|aron|Eject Pack|Rock Head|roar,irontail,steelbeam,facade|Calm|252,0,4,0,252,0||31,31,31,31,31,31||50|
+23.392511134501355|aron|Metal Coat|Sturdy|headbutt,bulldoze,endure,bodypress|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+23.341765723701005|aron|Coba Berry|Sturdy|headsmash,steelroller,steelbeam,rockslide|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+21.605100766383917|aron|Lansat Berry|Sturdy|endure,bodypress,headsmash,doubleedge|Calm|252,0,4,0,252,0||31,31,31,31,31,31||50|
+21.528135451435876|aron|Liechi Berry|Rock Head|bodypress,endure,headsmash,attract|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+21.115597893515957|aron|Metal Coat|Rock Head|dig,metalsound,bulldoze,stealthrock|Lonely|52,252,0,44,36,124||31,31,31,31,31,31||50|
+19.511780230776054|aron|Icy Rock|Sturdy|bodypress,dig,steelbeam,earthpower|Calm|0,0,0,4,252,252||31,31,31,31,31,31||50|
+18.847447471872908|aron|Chople Berry|Rock Head|endure,steelbeam,bulldoze,superpower|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+17.438306183368887|aron|Luminous Moss|Sturdy|steelroller,endure,bodypress,bodyslam|Calm|252,0,4,0,252,0||31,31,31,31,31,31||50|
+17.134972778262277|aron|Haban Berry|Rock Head|bodypress,steelroller,endure,earthquake|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+16.717546325547247|aron|Icy Rock|Rock Head|dig,bodypress,steelbeam,roar|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+15.899507440778825|aron|Chesto Berry|Sturdy|bodypress,steelbeam,rockslide,steelroller|Calm|252,0,4,0,252,0||31,31,31,31,31,31||50|
+13.868833334177351|aron|Grepa Berry|Sturdy|headbutt,steelbeam,endure,doubleedge|Calm|252,0,4,0,252,0||31,31,31,31,31,31||50|

@@ -1,0 +1,100 @@
+|dwebble|White Herb|Shell Armor|snore,shadowclaw,knockoff,smackdown|Naive|4,0,252,0,0,252||31,31,31,31,31,31||50|
+|dwebble|Misty Seed|Shell Armor|slash,spikes,rockwrecker,block|Jolly|28,28,92,0,124,236||31,31,31,31,31,31||50|
+|dwebble|Smooth Rock|Shell Armor|rockwrecker,attract,bulldoze,flail|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dwebble|Micle Berry|Weak Armor|attract,smackdown,furycutter,sleeptalk|Calm|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|dwebble|Smooth Rock|Sturdy|furycutter,rockblast,earthquake,rockwrecker|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|dwebble|Payapa Berry|Weak Armor|protect,shadowclaw,spikes,nightslash|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|dwebble|Mago Berry|Shell Armor|poisonjab,irondefense,furycutter,substitute|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|dwebble|Damp Rock|Shell Armor|rockblast,skittersmack,round,facade|Brave|0,252,36,0,220,0||31,31,31,31,31,0||50|
+|dwebble|Utility Umbrella|Shell Armor|facade,smackdown,sleeptalk,rockblast|Bold|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|dwebble|Big Root|Weak Armor|block,shadowclaw,withdraw,solarbeam|Bold|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|dwebble|Rawst Berry|Weak Armor|poisonjab,dig,round,swordsdance|Mild|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|dwebble|Float Stone|Weak Armor|irondefense,earthquake,slash,stoneedge|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dwebble|Float Stone|Shell Armor|protect,counter,xscissor,sandattack|Calm|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|dwebble|Binding Band|Sturdy|sandtomb,smackdown,furycutter,xscissor|Bold|0,0,252,252,0,4||31,31,31,31,31,31||50|
+|dwebble|Air Balloon|Sturdy|nightslash,stoneedge,sleeptalk,counter|Timid|252,0,0,52,0,204||31,0,31,31,31,31||50|
+|dwebble|Dragon Scale|Weak Armor|rockpolish,rockblast,withdraw,endure|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|dwebble|Kasib Berry|Sturdy|protect,irondefense,stoneedge,wideguard|Modest|188,0,0,0,252,68||31,31,31,31,31,31||50|
+|dwebble|Poison Barb|Weak Armor|round,sandattack,withdraw,rest|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|dwebble|Blunder Policy|Weak Armor|sandtomb,rockpolish,knockoff,furycutter|Calm|52,0,4,20,180,252||31,0,31,31,31,31||50|
+|dwebble||Weak Armor|protect,bugbite,substitute,poisonjab|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|hippopotas|Miracle Seed|Sand Force|mudshot,rest,dig,bulldoze|Serious|252,252,0,4,0,0||31,31,31,31,31,31||50|
+|hippopotas|Luminous Moss|Sand Stream|round,revenge,earthquake,spitup|Gentle|0,0,0,204,52,252||31,31,31,31,31,31||50|
+|hippopotas|Rindo Berry|Sand Force|revenge,substitute,yawn,mudshot|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|hippopotas|Scope Lens|Sand Force|substitute,fissure,revenge,sandstorm|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|hippopotas|Bright Powder|Sand Stream|bulldoze,revenge,curse,superpower|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|hippopotas|Throat Spray|Sand Force|swallow,protect,stockpile,stealthrock|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|hippopotas|Miracle Seed|Sand Stream|bite,yawn,stealthrock,earthpower|Mild|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|hippopotas|Kasib Berry|Sand Stream|bulldoze,whirlwind,crunch,stealthrock|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|hippopotas|Muscle Band|Sand Force|round,whirlwind,highhorsepower,irontail|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+|hippopotas|Persim Berry|Sand Force|stockpile,dig,weatherball,bodyslam|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|hippopotas|Tanga Berry|Sand Stream|bulldoze,slackoff,bite,doubleedge|Sassy|0,212,196,0,100,0||31,31,31,31,31,0||50|
+|hippopotas|Choice Specs|Sand Stream|bite,rockslide,amnesia,fissure|Careful|100,0,0,0,252,156||31,31,31,31,31,31||50|
+|hippopotas|Charti Berry|Sand Force|protect,stockpile,stompingtantrum,fissure|Brave|0,188,196,0,124,0||31,31,31,31,31,0||50|
+|hippopotas|Petaya Berry|Sand Force|endure,crunch,stompingtantrum,curse|Rash|196,0,0,100,0,212||31,31,31,31,31,31||50|
+|hippopotas|Bright Powder|Sand Force|spitup,doubleedge,irontail,swallow|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|hippopotas|Occa Berry|Sand Stream|weatherball,doubleedge,sandtomb,irontail|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|hippopotas|Zoom Lens|Sand Stream|rocktomb,whirlwind,scorchingsands,endure|Impish|0,252,4,0,0,252||31,31,31,31,31,31||50|
+|hippopotas|Shed Shell|Sand Force|muddywater,rocktomb,scorchingsands,round|Careful|0,0,236,0,252,20||31,31,31,31,31,31||50|
+|hippopotas|Lagging Tail|Sand Force|endure,amnesia,sandattack,fissure|Bold|0,0,252,4,252,0||31,31,31,31,31,31||50|
+|hippopotas|Rowap Berry|Sand Stream|scorchingsands,amnesia,whirlwind,roar|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|impidimp|Lansat Berry|Prankster|darkpulse,dazzlinggleam,round,protect|Sassy|0,252,4,0,252,0||31,31,31,31,31,0||50|
+|impidimp|Shell Bell|Prankster|thief,flatter,torment,uproar|Careful|140,0,0,0,252,116||31,31,31,31,31,31||50|
+|impidimp|Never-Melt Ice|Frisk|facade,lashout,megapunch,playrough|Impish|12,4,124,0,212,156||31,31,31,31,31,31||50|
+|impidimp|Power Herb|Prankster|suckerpunch,flatter,protect,rest|Lonely|0,156,0,0,204,148||31,31,31,31,31,31||50|
+|impidimp|Cell Battery|Pickpocket|megapunch,protect,trick,dazzlinggleam|Sassy|252,0,4,0,252,0||31,31,31,31,31,0||50|
+|impidimp|Spell Tag|Frisk|drainpunch,confide,dazzlinggleam,attract|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|impidimp|Roseli Berry|Frisk|foulplay,trick,flatter,protect|Relaxed|0,204,132,0,172,0||31,31,31,31,31,31||50|
+|impidimp|Wise Glasses|Frisk|uproar,drainingkiss,faketears,suckerpunch|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|impidimp|Muscle Band|Frisk|torment,dazzlinggleam,flatter,darkpulse|Naughty|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|impidimp|Damp Rock|Frisk|sleeptalk,drainpunch,thunderwave,torment|Adamant|0,252,0,0,36,220||31,31,31,31,31,31||50|
+|impidimp|Expert Belt|Prankster|snore,suckerpunch,dazzlinggleam,protect|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|impidimp|Hard Stone|Prankster|playrough,fakeout,drainpunch,substitute|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|impidimp|Metal Coat|Prankster|facade,taunt,nastyplot,metronome|Naive|0,44,252,0,0,212||31,31,31,31,31,31||50|
+|impidimp|Shuca Berry|Prankster|revenge,round,metronome,rest|Bold|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|impidimp|Coba Berry|Pickpocket|foulplay,megakick,suckerpunch,megapunch|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|impidimp|Petaya Berry|Prankster|metronome,burningjealousy,revenge,endure|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|impidimp|Salac Berry|Prankster|bite,dazzlinggleam,playrough,snore|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|impidimp|Yache Berry|Prankster|confide,thief,lowkick,metronome|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|impidimp|Tanga Berry|Pickpocket|lowkick,sleeptalk,attract,darkpulse|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|impidimp|Poison Barb|Frisk|endure,assurance,bite,lowkick|Relaxed|0,252,4,252,0,0||31,31,31,31,31,0||50|
+|klink|Red Card|Clear Body|bind,charge,protect,wildcharge|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|klink|Assault Vest|Plus|endure,steelroller,steelbeam,voltswitch|Careful|0,252,4,0,252,0||31,31,31,31,31,31||50|
+|klink|Wise Glasses|Plus|endure,sandstorm,charge,sleeptalk|Bold|4,0,252,252,0,0||31,31,31,31,31,31||50|
+|klink|Shed Shell|Plus|rest,steelbeam,geargrind,charge|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|klink|Charcoal|Minus|lockon,thundershock,facade,thunderwave|Impish|0,252,204,0,52,0||31,31,31,31,31,31||50|
+|klink|Cheri Berry|Minus|risingvoltage,sleeptalk,snore,facade|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|klink||Clear Body|visegrip,shiftgear,screech,geargrind|Calm|0,0,0,220,252,36||31,31,31,31,31,31||50|
+|klink|Mystic Water|Minus|substitute,shiftgear,irondefense,voltswitch|Bold|36,0,124,124,164,60||31,0,31,31,31,31||50|
+|klink|Leftovers|Clear Body|metalsound,rest,steelbeam,shiftgear|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|klink|Wacan Berry|Plus|voltswitch,metalsound,irondefense,protect|Gentle|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|klink|Yache Berry|Clear Body|irondefense,lockon,steelroller,discharge|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|klink|Dragon Fang|Minus|voltswitch,risingvoltage,rest,visegrip|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|klink|Wide Lens|Plus|snore,thundershock,hyperbeam,flashcannon|Gentle|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|klink|Air Balloon|Plus|facade,discharge,endure,protect|Careful|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|klink|Scope Lens|Plus|thunderbolt,snore,thundershock,thunderwave|Calm|252,0,0,60,0,196||31,31,31,31,31,31||50|
+|klink|Coba Berry|Plus|thunderwave,protect,snore,steelbeam|Lonely|0,252,0,68,188,0||31,31,31,31,31,31||50|
+|klink|Rocky Helmet|Plus|hyperbeam,autotomize,chargebeam,rest|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|klink|Wiki Berry|Clear Body|facade,discharge,flashcannon,thunderbolt|Careful|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|klink|Haban Berry|Clear Body|uproar,discharge,lockon,irondefense|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|klink|Qualot Berry|Plus|shiftgear,zapcannon,geargrind,sleeptalk|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|minccino|Passho Berry|Technician|flail,afteryou,babydolleyes,playrough|Calm|68,0,188,0,252,0||31,0,31,31,31,31||50|
+|minccino|Grip Claw|Cute Charm|sleeptalk,aquatail,babydolleyes,hypervoice|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|minccino|Power Herb|Skill Link|safeguard,tailwhip,endure,snore|Sassy|0,116,252,0,140,0||31,31,31,31,31,31||50|
+|minccino|Hondew Berry|Technician|safeguard,tripleaxel,pound,retaliate|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|minccino|Rock Incense|Cute Charm|facade,attract,grassknot,faketears|Impish|4,0,0,0,252,252||31,31,31,31,31,31||50|
+|minccino|Apicot Berry|Skill Link|thunderbolt,playrough,gunkshot,calmmind|Jolly|140,44,20,0,164,140||31,31,31,31,31,31||50|
+|minccino|King's Rock|Skill Link|thief,hypervoice,babydolleyes,retaliate|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|minccino|Razor Claw|Cute Charm|raindance,grassknot,retaliate,sunnyday|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|minccino|Ring Target|Cute Charm|afteryou,playrough,raindance,uproar|Impish|0,252,252,0,4,0||31,31,31,31,31,31||50|
+|minccino|Shell Bell|Technician|snore,swift,pound,hypervoice|Jolly|156,0,100,0,0,252||31,31,31,31,31,31||50|
+|minccino|Iron Ball|Technician|faketears,knockoff,raindance,sleeptalk|Calm|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|minccino|Electric Seed|Technician|round,safeguard,encore,gunkshot|Rash|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|minccino|Damp Rock|Skill Link|workup,knockoff,safeguard,swift|Calm|28,0,20,44,188,228||31,0,31,31,31,31||50|
+|minccino|Salac Berry|Skill Link|attract,irontail,lastresort,round|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|minccino|Rowap Berry|Technician|tailwhip,retaliate,dazzlinggleam,attract|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|minccino|Kasib Berry|Skill Link|irontail,rest,hypervoice,knockoff|Calm|252,0,0,0,252,4||31,31,31,31,31,31||50|
+|minccino|Smooth Rock|Cute Charm|babydolleyes,charm,round,hypervoice|Modest|0,0,252,204,0,52||31,31,31,31,31,31||50|
+|minccino|Enigma Berry|Cute Charm|pound,workup,slam,playrough|Careful|0,252,84,0,172,0||31,31,31,31,31,31||50|
+|minccino|King's Rock|Cute Charm|protect,faketears,fling,substitute|Naive|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|minccino|Petaya Berry|Cute Charm|protect,snore,rest,tailwhip|Impish|252,4,252,0,0,0||31,31,31,31,31,31||50|

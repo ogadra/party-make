@@ -1,0 +1,100 @@
+|scorbunny|Red Card|Libero|doubleedge,acrobatics,electroball,allyswitch|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|scorbunny|Iapapa Berry|Libero|acrobatics,snore,sandattack,overheat|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|scorbunny|Kee Berry|Libero|acrobatics,blazekick,sandattack,flamethrower|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|scorbunny|Weakness Policy|Libero|acrobatics,snore,sandattack,bounce|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Air Balloon|Libero|snore,sandattack,endure,protect|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Psychic Seed|Libero|acrobatics,blazekick,snore,assurance|Sassy|132,4,132,52,188,0||31,31,31,31,31,31||50|
+|scorbunny|Leppa Berry|Libero|acrobatics,blazekick,sandattack,taunt|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Focus Sash|Libero|acrobatics,blazekick,snore,tackle|Sassy|0,124,0,132,252,0||31,31,31,31,31,31||50|
+|scorbunny|Ganlon Berry|Libero|electroball,snore,suckerpunch,headbutt|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Weakness Policy|Blaze|blazekick,acrobatics,snore,reversal|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|scorbunny|Red Card|Libero|sandattack,quickattack,blazekick,protect|Calm|252,0,0,4,252,0||31,0,31,31,31,31||50|
+|scorbunny|Black Belt|Libero|quickattack,blazekick,sandattack,suckerpunch|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Lax Incense|Libero|suckerpunch,blazekick,quickattack,electroball|Relaxed|252,0,252,4,0,0||31,31,31,31,31,0||50|
+|scorbunny|Choice Specs|Blaze|suckerpunch,sandattack,blazekick,uturn|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Jaboca Berry|Libero|suckerpunch,quickattack,sandattack,facade|Lax|252,4,252,0,0,0||31,31,31,31,31,31||50|
+|scorbunny|Focus Sash|Libero|quickattack,sandattack,suckerpunch,mudshot|Relaxed|4,0,252,0,252,0||31,31,31,31,31,0||50|
+|scorbunny|Metal Coat|Libero|sandattack,electroball,suckerpunch,taunt|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|scorbunny|Ganlon Berry|Libero|quickattack,blazekick,workup,suckerpunch|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Ganlon Berry|Libero|blazekick,quickattack,acrobatics,firepledge|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|scorbunny|Ganlon Berry|Libero|blazekick,endure,quickattack,sandattack|Impish|252,0,252,0,4,0||31,31,31,31,31,31||50|
+|munna|Silk Scarf|Synchronize|allyswitch,dazzlinggleam,shadowball,trickroom|Bold|0,0,252,196,0,60||31,0,31,31,31,31||50|
+|munna|Wave Incense|Forewarn|allyswitch,substitute,shadowball,skillswap|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|munna|Liechi Berry|Telepathy|shadowball,curse,dazzlinggleam,psychic|Bold|0,0,252,196,0,60||31,0,31,31,31,31||50|
+|munna|Silk Scarf|Synchronize|powerswap,dazzlinggleam,allyswitch,facade|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|munna|Silk Scarf|Synchronize|dazzlinggleam,powerswap,substitute,amnesia|Bold|252,0,252,0,4,0||31,0,31,31,31,31||50|
+|munna|Silk Scarf|Synchronize|attract,skillswap,allyswitch,rockslide|Bold|0,0,252,196,0,60||31,0,31,31,31,31||50|
+|munna|Eject Button|Forewarn|dazzlinggleam,powerswap,safeguard,reflect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|munna|Silk Scarf|Telepathy|shadowball,curse,dazzlinggleam,amnesia|Modest|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|munna|Red Card|Forewarn|imprison,powerswap,shadowball,zenheadbutt|Calm|4,0,0,0,252,252||31,0,31,31,31,31||50|
+|munna|Silk Scarf|Synchronize|shadowball,rocktomb,allyswitch,rest|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|munna|Grepa Berry|Synchronize|shadowball,attract,psybeam,imprison|Calm|44,0,92,84,164,124||31,31,31,31,31,31||50|
+|munna|Silk Scarf|Synchronize|shadowball,allyswitch,amnesia,thunderwave|Bold|0,0,252,196,0,60||31,0,31,31,31,31||50|
+|munna|Electric Seed|Synchronize|shadowball,powerswap,safeguard,amnesia|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|munna|Grepa Berry|Synchronize|dazzlinggleam,powerswap,calmmind,zenheadbutt|Impish|0,0,212,0,252,44||31,31,31,31,31,31||50|
+|munna|Eject Button|Forewarn|shadowball,amnesia,rocktomb,healingwish|Relaxed|204,0,252,0,52,0||31,31,31,31,31,31||50|
+|munna|Silk Scarf|Synchronize|powerswap,shadowball,dazzlinggleam,psyshock|Relaxed|4,252,252,0,0,0||31,31,31,31,31,0||50|
+|munna|Wiki Berry|Synchronize|shadowball,attract,amnesia,expandingforce|Relaxed|204,0,252,0,52,0||31,31,31,31,31,31||50|
+|munna|Safety Goggles|Synchronize|calmmind,powerswap,shadowball,trick|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|munna|Poison Barb|Synchronize|imprison,substitute,shadowball,lightscreen|Bold|0,0,252,0,252,4||31,0,31,31,31,31||50|
+|munna|Grepa Berry|Synchronize|powerswap,shadowball,imprison,safeguard|Bold|0,0,252,196,0,60||31,0,31,31,31,31||50|
+|inkay|Magnet|Contrary|liquidation,superpower,destinybond,storedpower|Careful|12,252,4,0,212,28||31,31,31,31,31,31||50|
+|inkay|Muscle Band|Infiltrator|rockslide,thief,payback,hypnosis|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|inkay|Charcoal|Suction Cups|calmmind,swagger,taunt,faketears|Lax|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|inkay|Chilan Berry|Infiltrator|rockslide,payback,taunt,superpower|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|inkay|Muscle Band|Contrary|taunt,batonpass,liquidation,calmmind|Calm|0,0,52,220,236,0||31,31,31,31,31,31||50|
+|inkay|Maranga Berry|Suction Cups|taunt,acupressure,rockslide,lashout|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|inkay|Protector|Infiltrator|destinybond,round,batonpass,taunt|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|inkay|Kelpsy Berry|Contrary|taunt,destinybond,batonpass,facade|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|inkay|Muscle Band|Suction Cups|rockslide,darkpulse,taunt,thunderbolt|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|inkay|Muscle Band|Infiltrator|taunt,calmmind,rockslide,reflect|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|inkay|Iapapa Berry|Contrary|batonpass,payback,calmmind,acupressure|Lax|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|inkay|Choice Band|Contrary|darkpulse,liquidation,taunt,round|Gentle|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|inkay|Destiny Knot|Suction Cups|batonpass,superpower,payback,nightslash|Hasty|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|inkay|Wiki Berry|Suction Cups|rockslide,sleeptalk,payback,psychocut|Lax|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|inkay|Shell Bell|Contrary|payback,darkpulse,superpower,batonpass|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|inkay|Shell Bell|Infiltrator|payback,sleeptalk,taunt,rockslide|Lax|0,252,252,4,0,0||31,31,31,31,31,31||50|
+|inkay|Kebia Berry|Infiltrator|calmmind,liquidation,payback,taunt|Calm|0,0,0,252,4,252||31,0,31,31,31,31||50|
+|inkay|Coba Berry|Suction Cups|sleeptalk,batonpass,foulplay,faketears|Jolly|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|inkay|Magnet|Suction Cups|rockslide,darkpulse,round,acupressure|Naughty|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|inkay|Persim Berry|Contrary|batonpass,foulplay,sleeptalk,wrap|Bold|252,0,4,0,0,252||31,31,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|foulplay,assurance,playrough,sleeptalk|Hasty|44,0,0,0,252,212||31,31,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|suckerpunch,endure,attract,flatter|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|impidimp|Micle Berry|Frisk|playrough,foulplay,endure,substitute|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|foulplay,suckerpunch,fakeout,revenge|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|impidimp|Destiny Knot|Frisk|protect,playrough,foulplay,megakick|Bold|0,0,252,4,252,0||31,0,31,31,31,31||50|
+|impidimp|Sitrus Berry|Prankster|foulplay,endure,snore,sleeptalk|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|impidimp|Blunder Policy|Frisk|endure,suckerpunch,attract,dazzlinggleam|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|attract,foulplay,protect,bite|Bold|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|impidimp|Sitrus Berry|Prankster|endure,fakeout,foulplay,assurance|Bold|252,0,252,4,0,0||31,31,31,31,31,31||50|
+|impidimp|Scope Lens|Frisk|suckerpunch,playrough,foulplay,burningjealousy|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|rest,foulplay,playrough,drainingkiss|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|impidimp|Micle Berry|Frisk|foulplay,suckerpunch,fakeout,megakick|Modest|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|impidimp|Micle Berry|Frisk|fakeout,playrough,foulplay,protect|Modest|188,0,132,100,84,4||31,0,31,31,31,31||50|
+|impidimp|Metronome|Frisk|suckerpunch,playrough,flatter,endure|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|impidimp|Kasib Berry|Frisk|flatter,suckerpunch,playrough,sleeptalk|Modest|4,0,0,252,0,0||31,0,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|playrough,metronome,foulplay,suckerpunch|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|impidimp|Charcoal|Frisk|metronome,uproar,snore,assurance|Impish|100,4,252,0,12,140||31,31,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|bite,leechlife,suckerpunch,flatter|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|impidimp|Black Sludge|Prankster|suckerpunch,foulplay,fakeout,metronome|Sassy|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|impidimp|Sitrus Berry|Frisk|suckerpunch,playrough,foulplay,assurance|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|gossifleur|Damp Rock|Regenerator|magicalleaf,protect,facade,pollenpuff|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|gossifleur|Black Sludge|Cotton Down|leafage,synthesis,facade,worryseed|Adamant|4,252,0,0,0,0||31,31,31,31,31,31||50|
+|gossifleur|Damp Rock|Cotton Down|pollenpuff,leafage,sleeptalk,poisonpowder|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|gossifleur|Tamato Berry|Effect Spore|grassyglide,pollenpuff,sleeptalk,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Damp Rock|Regenerator|sunnyday,synthesis,protect,grassyglide|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|gossifleur|Damp Rock|Cotton Down|pollenpuff,facade,protect,charm|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|gossifleur|Weakness Policy|Cotton Down|sunnyday,facade,pollenpuff,worryseed|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Psychic Seed|Cotton Down|pollenpuff,protect,leafage,sunnyday|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Damp Rock|Cotton Down|pollenpuff,synthesis,sunnyday,lightscreen|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|gossifleur|Scope Lens|Cotton Down|sunnyday,leafage,pollenpuff,poisonpowder|Bold|0,0,252,252,0,4||31,0,31,31,31,31||50|
+|gossifleur|Protector|Regenerator|protect,magicalleaf,worryseed,pollenpuff|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Wiki Berry|Cotton Down|substitute,leafstorm,worryseed,razorleaf|Modest|132,0,20,108,220,28||31,31,31,31,31,31||50|
+|gossifleur|Charti Berry|Cotton Down|sleeptalk,pollenpuff,leafage,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Psychic Seed|Effect Spore|magicalleaf,sleeptalk,worryseed,growth|Calm|4,0,0,252,252,0||31,0,31,31,31,31||50|
+|gossifleur|Eviolite|Regenerator|pollenpuff,protect,sleeptalk,leaftornado|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|gossifleur|Psychic Seed|Cotton Down|pollenpuff,sleeptalk,worryseed,sing|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Leftovers|Regenerator|energyball,worryseed,magicalleaf,rapidspin|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Coba Berry|Cotton Down|pollenpuff,protect,energyball,solarbeam|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|gossifleur|Spell Tag|Cotton Down|pollenpuff,sunnyday,protect,facade|Calm|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|gossifleur|Expert Belt|Cotton Down|sleeptalk,pollenpuff,protect,helpinghand|Jolly|172,124,0,0,0,212||31,31,31,31,31,31||50|

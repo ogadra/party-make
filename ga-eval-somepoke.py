@@ -6,12 +6,12 @@ import numpy as np
 
 if __name__ == '__main__':
 
-    target =[22,23]
+    target =range(0,10)
     print(target)
     matchCount = 24
 
     for i in target:
-        path = './train_data/' + str(i).zfill(3) + '/'
+        path = './train_data01/' + str(i).zfill(3) + '/'
         print('set:',i)
         # pokemons = open(path + 'generate000.txt').read().split('\n')
         for j in range(10):

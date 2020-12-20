@@ -1,0 +1,100 @@
+|tympole|Maranga Berry|Water Absorb|bounce,sludgebomb,protect,toxic|Sassy|252,0,0,4,252,0||31,31,31,31,31,0||50|
+|tympole|Focus Sash|Water Absorb|hydropump,surf,screech,attract|Modest|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|tympole|Icy Rock|Swift Swim|sludgebomb,flail,waterpulse,acid|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|tympole|Maranga Berry|Swift Swim|bounce,raindance,protect,surf|Careful|0,252,0,0,252,4||31,31,31,31,31,31||50|
+|tympole|Babiri Berry|Swift Swim|sludgebomb,sludgewave,rest,facade|Bold|164,0,68,76,100,100||31,0,31,31,31,31||50|
+|tympole|Jaboca Berry|Hydration|bounce,venomdrench,surf,screech|Impish|0,252,252,0,0,4||31,31,31,31,31,31||50|
+|tympole|Never-Melt Ice|Swift Swim|flail,waterpulse,uproar,sleeptalk|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|tympole|Wiki Berry|Swift Swim|attract,screech,sludgewave,flail|Timid|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|tympole|Shed Shell|Swift Swim|sludgewave,rest,flail,endure|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|tympole|Icy Rock|Water Absorb|raindance,growl,attract,waterpulse|Bold|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|tympole|Rawst Berry|Water Absorb|sludgewave,waterpulse,uproar,earthpower|Careful|0,0,4,0,252,252||31,31,31,31,31,31||50|
+|tympole|Wiki Berry|Hydration|sludgebomb,endure,hydropump,weatherball|Bold|164,0,68,76,100,100||31,0,31,31,31,31||50|
+|tympole|Wiki Berry|Swift Swim|venomdrench,protect,flail,rest|Modest|156,0,36,180,124,12||31,31,31,31,31,31||50|
+|tympole|Full Incense|Swift Swim|waterpulse,raindance,sludgewave,attract|Bold|164,0,68,76,100,100||31,0,31,31,31,31||50|
+|tympole|Wiki Berry|Swift Swim|attract,flail,growl,mudslap|Bold|164,0,68,76,100,100||31,0,31,31,31,31||50|
+|tympole|Wiki Berry|Swift Swim|rest,venomdrench,sludgewave,sleeptalk|Timid|4,0,252,0,252,0||31,31,31,31,31,31||50|
+|tympole|Choice Specs|Water Absorb|attract,screech,sludgewave,uproar|Bold|164,0,68,76,100,100||31,0,31,31,31,31||50|
+|tympole|Magnet|Water Absorb|rest,surf,sludgebomb,mudshot|Careful|28,4,252,0,132,92||31,31,31,31,31,31||50|
+|tympole|Charcoal|Water Absorb|rest,sludgewave,attract,echoedvoice|Careful|252,0,4,0,252,0||31,31,31,31,31,31||50|
+|tympole|Babiri Berry|Swift Swim|waterpulse,raindance,flail,hydropump|Bold|164,0,68,76,100,100||31,0,31,31,31,31||50|
+|smoochum|Passho Berry|Forewarn|attract,facade,powdersnow,encore|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|smoochum|Scope Lens|Forewarn|psyshock,substitute,psychic,nastyplot|Mild|108,0,0,252,148,0||31,31,31,31,31,31||50|
+|smoochum|Leftovers|Forewarn|psyshock,sweetkiss,blizzard,nastyplot|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|smoochum|Rindo Berry|Oblivious|blizzard,nastyplot,substitute,round|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|smoochum|Choice Specs|Forewarn|sweetkiss,psychic,psyshock,lightscreen|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|smoochum|Poison Barb|Forewarn|blizzard,powdersnow,substitute,psyshock|Adamant|0,252,52,0,204,0||31,31,31,31,31,31||50|
+|smoochum|Grepa Berry|Forewarn|blizzard,substitute,sweetkiss,trick|Mild|4,0,0,252,0,0||31,31,31,31,31,31||50|
+|smoochum|Full Incense|Forewarn|powdersnow,rest,sweetkiss,psychic|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|smoochum|Luminous Moss|Forewarn|wonderroom,psyshock,blizzard,drainingkiss|Brave|0,0,132,124,252,0||31,31,31,31,31,31||50|
+|smoochum|Air Balloon|Forewarn|powdersnow,psyshock,sweetkiss,metronome|Calm|0,0,252,0,4,252||31,0,31,31,31,31||50|
+|smoochum|Lum Berry|Forewarn|wonderroom,snore,metronome,icywind|Adamant|36,252,220,0,0,0||31,31,31,31,31,31||50|
+|smoochum|Rindo Berry|Forewarn|psyshock,metronome,blizzard,sweetkiss|Bold|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|smoochum|Absorb Bulb|Forewarn|helpinghand,bodyslam,psychic,blizzard|Sassy|252,4,0,0,252,0||31,31,31,31,31,0||50|
+|smoochum|Absorb Bulb|Forewarn|metronome,confusion,bodyslam,drainingkiss|Bold|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|smoochum|Grassy Seed|Hydration|blizzard,metronome,snore,confusion|Mild|68,164,0,220,20,36||31,31,31,31,31,31||50|
+|smoochum|Protector|Hydration|psychic,sweetkiss,metronome,endure|Adamant|36,252,220,0,0,0||31,31,31,31,31,31||50|
+|smoochum|Absorb Bulb|Forewarn|metronome,confusion,rest,charm|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|smoochum|Electric Seed|Forewarn|facade,confusion,psychic,icebeam|Timid|4,0,0,252,0,252||31,31,31,31,31,31||50|
+|smoochum|Chesto Berry|Forewarn|confusion,psyshock,helpinghand,uproar|Bold|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|smoochum|Qualot Berry|Forewarn|helpinghand,blizzard,metronome,sing|Calm|4,0,252,0,252,0||31,0,31,31,31,31||50|
+|ralts|Bright Powder|Synchronize|knockoff,psychic,facade,helpinghand|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Tanga Berry|Synchronize|destinybond,knockoff,facade,hypervoice|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|ralts|Chilan Berry|Synchronize|psychic,charm,icepunch,disarmingvoice|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Maranga Berry|Synchronize|icepunch,magicalleaf,psychic,lifedew|Bold|252,0,252,4,0,0||31,0,31,31,31,31||50|
+|ralts|Grip Claw|Synchronize|facade,megakick,destinybond,disarmingvoice|Adamant|4,252,0,0,0,252||31,31,31,31,31,31||50|
+|ralts|Kebia Berry|Synchronize|destinybond,memento,psychic,dreameater|Relaxed|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|ralts|Micle Berry|Trace|icepunch,magicalleaf,psychic,trickroom|Impish|0,204,252,0,52,0||31,31,31,31,31,31||50|
+|ralts|Tanga Berry|Synchronize|magicalleaf,megakick,icepunch,psybeam|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Dragon Scale|Trace|psychic,icepunch,magicalleaf,reflect|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Float Stone|Trace|megakick,thunderpunch,destinybond,shadowball|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Twisted Spoon|Synchronize|icepunch,psychic,destinybond,fling|Adamant|4,252,0,0,252,0||31,31,31,31,31,31||50|
+|ralts|Bright Powder|Synchronize|facade,magicalleaf,knockoff,raindance|Relaxed|0,4,252,0,252,0||31,31,31,31,31,31||50|
+|ralts|Chilan Berry|Synchronize|knockoff,charm,facade,psychic|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Chilan Berry|Synchronize|grassknot,psychic,destinybond,thunderbolt|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Choice Scarf|Synchronize|disarmingvoice,facade,meanlook,psychic|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Bright Powder|Synchronize|charm,grassknot,facade,trick|Modest|4,0,252,252,0,0||31,0,31,31,31,31||50|
+|ralts|Bright Powder|Synchronize|destinybond,facade,psychic,dreameater|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Bright Powder|Synchronize|facade,grassknot,psychic,expandingforce|Timid|0,0,0,92,164,252||31,0,31,31,31,31||50|
+|ralts|Bright Powder|Synchronize|facade,psychic,meanlook,healpulse|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|ralts|Kasib Berry|Trace|psychic,magicalleaf,facade,helpinghand|Bold|4,0,0,252,252,0||31,31,31,31,31,31||50|
+|hoothoot|Wiki Berry|Tinted Lens|psychoshift,swift,hypervoice,screech|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|hoothoot|Wiki Berry|Insomnia|psychoshift,hurricane,imprison,airslash|Sassy|92,0,0,252,164,0||31,31,31,31,31,0||50|
+|hoothoot|Sitrus Berry|Tinted Lens|hypervoice,fly,psychoshift,hurricane|Careful|0,236,0,0,20,252||31,31,31,31,31,31||50|
+|hoothoot|Wiki Berry|Insomnia|whirlwind,hypervoice,psychoshift,roost|Sassy|92,0,0,252,164,0||31,31,31,31,31,0||50|
+|hoothoot|Room Service|Tinted Lens|airslash,hurricane,hypervoice,storedpower|Relaxed|0,0,228,52,228,0||31,31,31,31,31,31||50|
+|hoothoot|Wiki Berry|Tinted Lens|hurricane,attract,hypervoice,featherdance|Sassy|92,0,0,252,164,0||31,31,31,31,31,0||50|
+|hoothoot|Cell Battery|Tinted Lens|attract,imprison,calmmind,protect|Sassy|92,0,0,252,164,0||31,31,31,31,31,0||50|
+|hoothoot|Air Balloon|Tinted Lens|psychoshift,growl,hurricane,wingattack|Sassy|92,0,0,252,164,0||31,31,31,31,31,0||50|
+|hoothoot|Focus Band|Tinted Lens|hypervoice,attract,hurricane,protect|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|hoothoot|Throat Spray|Tinted Lens|hypervoice,hurricane,calmmind,screech|Bold|68,0,252,20,124,44||31,31,31,31,31,31||50|
+|hoothoot|King's Rock|Insomnia|sleeptalk,fly,hypervoice,workup|Careful|0,236,0,0,20,252||31,31,31,31,31,31||50|
+|hoothoot|Wise Glasses|Tinted Lens|hypervoice,growl,fly,sleeptalk|Sassy|92,0,0,252,164,0||31,31,31,31,31,0||50|
+|hoothoot|Wiki Berry|Insomnia|hypervoice,sleeptalk,whirlwind,roost|Gentle|252,4,0,0,0,252||31,31,31,31,31,31||50|
+|hoothoot|Wacan Berry|Insomnia|tackle,sleeptalk,fly,snore|Calm|76,0,116,28,252,36||31,0,31,31,31,31||50|
+|hoothoot|Wiki Berry|Insomnia|tackle,hurricane,hypervoice,supersonic|Careful|0,236,0,0,20,252||31,31,31,31,31,31||50|
+|hoothoot|Zoom Lens|Keen Eye|hypervoice,attract,hurricane,takedown|Bold|236,0,252,0,0,20||31,0,31,31,31,31||50|
+|hoothoot|King's Rock|Tinted Lens|tackle,sleeptalk,hypervoice,fly|Naughty|12,252,60,4,0,180||31,31,31,31,31,31||50|
+|hoothoot|Haban Berry|Tinted Lens|sleeptalk,fly,supersonic,reflect|Brave|252,252,0,0,0,4||31,31,31,31,31,0||50|
+|hoothoot|Iapapa Berry|Tinted Lens|hypervoice,swift,moonblast,imprison|Careful|0,236,0,0,20,252||31,31,31,31,31,31||50|
+|hoothoot|Wiki Berry|Tinted Lens|airslash,hypervoice,uproar,wingattack|Quiet|0,0,180,140,188,0||31,31,31,31,31,0||50|
+|darumaka|Kelpsy Berry|Hustle|hammerarm,firepunch,focuspunch,tackle|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|darumaka|Sea Incense|Inner Focus|bite,megakick,dig,encore|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|darumaka|Rowap Berry|Hustle|bite,hammerarm,bellydrum,megapunch|Calm|0,0,0,252,252,4||31,0,31,31,31,31||50|
+|darumaka|Bright Powder|Hustle|dig,endure,bite,firespin|Quiet|252,0,0,252,0,4||31,31,31,31,31,31||50|
+|darumaka|Pecha Berry|Inner Focus|megakick,firepunch,hammerarm,focusenergy|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|darumaka|Persim Berry|Hustle|bite,firepunch,focuspunch,grassknot|Hasty|244,12,0,0,0,252||31,31,31,31,31,31||50|
+|darumaka|Poison Barb|Inner Focus|endure,bite,zenheadbutt,ember|Quiet|252,0,20,236,0,0||31,31,31,31,31,0||50|
+|darumaka|Silver Powder|Hustle|hammerarm,dig,taunt,uproar|Timid|4,0,0,252,0,252||31,0,31,31,31,31||50|
+|darumaka|Luminous Moss|Hustle|bite,firepunch,hammerarm,yawn|Impish|44,84,60,0,252,68||31,31,31,31,31,31||50|
+|darumaka|Expert Belt|Inner Focus|dig,bite,endure,firespin|Serious|252,0,0,252,4,0||31,31,31,31,31,31||50|
+|darumaka|Binding Band|Hustle|solarbeam,bite,firepunch,yawn|Quiet|204,0,0,252,52,0||31,31,31,31,31,0||50|
+|darumaka|Utility Umbrella|Hustle|firepunch,bite,takedown,headbutt|Jolly|252,0,0,0,4,252||31,31,31,31,31,31||50|
+|darumaka|Life Orb|Hustle|focuspunch,firepunch,flareblitz,ember|Hasty|244,12,0,0,0,252||31,31,31,31,31,31||50|
+|darumaka|Luminous Moss|Hustle|takedown,bite,protect,firespin|Calm|0,0,4,0,252,252||31,0,31,31,31,31||50|
+|darumaka|Iapapa Berry|Inner Focus|flareblitz,zenheadbutt,bite,firepunch|Brave|188,252,68,0,0,0||31,31,31,31,31,0||50|
+|darumaka|Luminous Moss|Inner Focus|firepunch,bite,megakick,grassknot|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|
+|darumaka|Assault Vest|Hustle|bite,megakick,solarbeam,firepunch|Brave|252,252,0,0,0,4||31,31,31,31,31,31||50|
+|darumaka|Pecha Berry|Hustle|focuspunch,bite,taunt,protect|Quiet|252,0,0,252,0,4||31,31,31,31,31,0||50|
+|darumaka|Black Belt|Inner Focus|solarbeam,firepunch,bite,substitute|Hasty|244,12,0,0,0,252||31,31,31,31,31,31||50|
+|darumaka|Cheri Berry|Hustle|megakick,firepunch,solarbeam,endure|Impish|0,0,252,0,252,4||31,31,31,31,31,31||50|

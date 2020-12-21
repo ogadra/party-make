@@ -7,6 +7,12 @@ moves = json.load(open('./data/learnsets.json'))
 
 def selectMove(pokemon):
     ableMoves = [i for i, val in moves[pokemon]['learnset'].items() if [j for j in val if re.match('8\w*', j)]]
+    ignoreMoves = ['mistburst', 'selfdestruct', 'explosion']
+    for i in ignoreMoves:
+        try:
+            ableMoves.remove(ignoreMoves)
+        except ValueError:
+            pass
     try:
         selectedMoves = list(random.choice(ableMoves, 4, replace=False))
     except ValueError:

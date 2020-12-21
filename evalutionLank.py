@@ -1,7 +1,7 @@
-path = './train_data00/'
+path = './train_data01/'
 fileName = '/evaluation009.txt'
 pokes = []
-for i in range(37):
+for i in range(16):
     pokes.extend(open(path + str(i).zfill(3) + fileName).read().split('\n'))
 
 pokeScore = dict()
@@ -19,7 +19,7 @@ with open(path + 'ranking.txt', 'w') as f:
     for i in pokeScore:
         f.write(i[0])
         f.write('\n')
-    exit()
+
 
 
 pokeData = list()
@@ -31,3 +31,11 @@ for i in pokeScore:
 
 with open(path + 'result.txt', 'w') as f:
     f.write('\n'.join(pokeData))
+
+
+from others import pokemonTr
+with open(path + 'resultJP.txt', 'w') as f:
+    
+    for i in pokeScore:
+        f.write(pokemonTr.translate(i[0]))
+        f.write('\n')

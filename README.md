@@ -27,3 +27,8 @@ you must be comment out in ./bot/node_modules/nedb/lib/datastore.js on 76 - 78
 ```
 python ga-eval-somepoke.py
 ```
+
+Dymax setting -> in bot/.sim-dist/tools/random-player-ai.js 203
+```
+let canPlayerDynamax = false;
+```

@@ -200,7 +200,8 @@ var BattleRoom = new JS.Class ({
         var maxHealth = tokens4[1];
 
         var battleside = undefined;
-        let canPlayerDynamax = true;
+        let canPlayerDynamax = false;
+        // dynamax setting
 
         if (this.isPlayer(player)) {
             // // loggeinfo("Our pokemon has switched! " + tokens[2]);

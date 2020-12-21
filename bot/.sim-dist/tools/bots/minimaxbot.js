@@ -280,7 +280,8 @@ var GAME_END_REWARD = module.exports.GAME_END_REWARD = 1000000;
 var DISCOUNT = module.exports.DISCOUNT = 0.98;
 
 class Minimax {
-    constructor(useGameEndReward = true, repetition = 1, useDynamax = true, weights = null) {
+    constructor(useGameEndReward = true, repetition = 1, useDynamax = false, weights = null) {
+        // setting dynamax
         this.overallMinNode = {};
         this.lastMove = '';
         this.useGameEndReward = useGameEndReward;

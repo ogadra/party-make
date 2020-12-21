@@ -92,8 +92,10 @@ def generate():
             pokemon['EVs'][tmp] = 252
             if pokemon['EVs']['Spe'] == 0 and nature['minus'] == 'Spe':
                 pokemon['EVs']['Spe'] = 4
-            else:
+            elif pokemon['EVs']['HP'] == 0:
                 pokemon['EVs']['HP'] = 4
+            else:
+                pokemon['EVs']['SpD'] = 4
         else:
             points = choicePoint(nature, 3)
             for i in points[:2]:

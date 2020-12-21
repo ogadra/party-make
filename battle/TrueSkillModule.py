@@ -11,6 +11,12 @@ def battle(dataSet, evalData, p1, p2):
     print('\r%d' % len(evalData), end='')
     pt1 = dataSet[p1]
     pt2 = dataSet[p2]
+
+    if pt1.split('|')[1] == pt2.split('|')[1] and pt1.split('|')[1] == 'ditto':
+        evalData.append([p1,p2]) if pt1.split('|')[6].split(',')[0] > pt2.split('|')[6].split(',')[0] else evalData.append([p2,p1])
+        return 0
+
+
     proc = subprocess.run(['node', './bot/.sim-dist/examples/battle-stream-example',pt1, pt2], stdout=subprocess.PIPE, text=True)
     battleData = proc.stdout.split('\n')
     try:
@@ -23,6 +29,7 @@ def battle(dataSet, evalData, p1, p2):
         evalData.append([p1,p2])
     else:
         evalData.append([p2,p1])
+    return 0
     
 def wrapper(args):
     return battle(*args)

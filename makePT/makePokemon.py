@@ -8,12 +8,14 @@ from numpy import random
 import json
 import time
 
+pokemons = list(json.load(open('./data/pokedex.json')).keys())
+
+
 def makePokemon(specy):
     # format = "NICKNAME|SPECIES|ITEM|ABILITY|MOVES|NATURE|EVS|GENDER|IVS|SHINY|LEVEL|HAPPINESS,POKEBALL,HIDDENPOWERTYPE"
 
     pokemon = [''] * 9
     pokemon[1] = specy
-
     pokemon[2] = item.selectItem(specy)
     pokemon[3] = ability.selectability(specy)
     # pokemon[4] = stats.generate()
@@ -31,7 +33,9 @@ def makeDataset(pokemon, cnt):
         dataset.append(makePokemon(pokemon))
     return dataset
 
-
+def makeParties():
+    specy = random.choice(pokemons)
+    return makePokemon(specy)
 
 
 if __name__ == "__main__":

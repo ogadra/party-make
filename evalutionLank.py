@@ -6,6 +6,8 @@ for i in range(16):
 
 pokeScore = dict()
 pokeList = list()
+# pokeList is list of pokemonData
+
 for poke in pokes:
     data = poke.split('|')
     if data[1] in pokeScore:
@@ -28,6 +30,7 @@ for i in pokeScore:
     spe = sorted(spe, key=lambda x: float(x[0]), reverse=True)
     spe = ['|'.join(j) for j in spe]
     pokeData.extend(spe)
+# sort from species and mu
 
 with open(path + 'result.txt', 'w') as f:
     f.write('\n'.join(pokeData))

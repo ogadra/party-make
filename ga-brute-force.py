@@ -11,8 +11,7 @@ if __name__ == '__main__':
     opponent = [dataSet[i*20] for i in range(speciesCnt)]
 
 
-    # for i in range(500):
-    for i in range(1):
+    for i in range(500):
         gaData = open(path + 'generate' + str(i).zfill(3) + '.txt').read().split('\n')
         battleData = gaData[0:360]
         selected = []
@@ -60,7 +59,7 @@ if __name__ == '__main__':
 
         nextGeneration = list()
         for j in range(speciesCnt):
-            nextGeneration.extend(gaModule.ga(pokemons[pokeData[j*24:(j+1)*24]], 8))
+            nextGeneration.extend(gaModule.ga(pokeData[j*24:(j+1)*24], 8))
         
         nextGeneration.extend(gaData)
         with open(path + 'generate' + str(i+1).zfill(3) + '.txt', 'w') as f:

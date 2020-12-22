@@ -12,7 +12,8 @@ if __name__ == '__main__':
 
 
     for i in range(500):
-
+        s = time.time()
+        print(i,end='')
         gaData = open(path + 'generate' + str(i).zfill(3) + '.txt').read().split('\n')
         battleData = gaData[0:360]
         selected = []
@@ -46,9 +47,9 @@ if __name__ == '__main__':
 
         pokeData = list()
         for j in pokeScore:
-            spe = [k for k in pokeList if k[1] == i[0]]
+            spe = [k for k in pokeList if k[1] == j[0]]
             spe = sorted(spe, key=lambda x: float(x[0]), reverse=True)
-            spe = ['|'.join(j) for j in spe]
+            spe = ['|'.join(k) for k in spe]
             pokeData.extend(spe)
         # sort from species and mu
 
@@ -65,3 +66,4 @@ if __name__ == '__main__':
         nextGeneration.extend(gaData)
         with open(path + 'generate' + str(int(i)+1).zfill(3) + '.txt', 'w') as f:
             f.write('\n'.join(nextGeneration))
+        print(':', time.time()-s)

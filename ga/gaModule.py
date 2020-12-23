@@ -23,7 +23,10 @@ def heredity(dna1, dna2, elem, prob):
 def randomChoice(population, weights, ignore='False'):
     if ignore != 'False':
         weights[ignore] = 0
-    return random.choices(population, weights=weights)[0]
+    if sum(weights) > 0:
+        return random.choices(population, weights=weights)[0]
+    elif:
+        return False
 
 def heredityMove(dna1, dna2, species):
     moves = dna1.split(',')
@@ -37,8 +40,11 @@ def heredityMove(dna1, dna2, species):
     ignore = 'False'
     for i in range(3):
         selectmove = randomChoice(moves, weight, ignore)
-        childMoves.append(selectmove)
-        ignore = moves.index(selectmove)
+        if selectmove:
+            childMoves.append(selectmove)
+            ignore = moves.index(selectmove)
+        else:
+            return ','.join(childMoves)
         # print(weight)
     if pChoice(0.1):
         childMoves.append(randomChoice(moves, weight, ignore))

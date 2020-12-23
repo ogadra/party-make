@@ -25,7 +25,7 @@ def randomChoice(population, weights, ignore='False'):
         weights[ignore] = 0
     if sum(weights) > 0:
         return random.choices(population, weights=weights)[0]
-    elif:
+    else:
         return False
 
 def heredityMove(dna1, dna2, species):

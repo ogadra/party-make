@@ -1,16 +1,15 @@
 import trueskill
-# from time import time, sleep
+from time import time, sleep
 from multiprocessing import Process, Manager, Pool, cpu_count
 import sys
 import os
 import re
 import subprocess
 import random
+import datetime
 
-def battle(dataSet, evalData, p1, p2):
+def battle(evalData, p1, p2, pt1, pt2):
     print('\r%d' % len(evalData), end='')
-    pt1 = dataSet[p1]
-    pt2 = dataSet[p2]
 
     if pt1.split('|')[1] == pt2.split('|')[1] and pt1.split('|')[1] == 'ditto':
         evalData.append([p1,p2]) if pt1.split('|')[6].split(',')[0] > pt2.split('|')[6].split(',')[0] else evalData.append([p2,p1])
@@ -48,20 +47,23 @@ def evalBattle(path, matchCount=18):
         for j in range(matchCount//2):
             if i + j == cnt - 1:
                 break
-            que.append([dataSet, evalData, i, i+j+1])
+            que.append([evalData, i, i+j+1, dataSet[i], dataSet[i+j+1]])
 
         if i < matchCount//2:
             for j in range(matchCount//2 - i):
-                que.append([dataSet, evalData, i, cnt-j-1])
+                que.append([evalData, i, cnt-j-1, dataSet[i], dataSet[cnt-j-1]])
 
     # s = time()
     core = cpu_count()
 
 
     p = Pool(core)
+    s = time()
+    print('start time:', datetime.datetime.now())
+    print('length:', len(que))
     p.map(wrapper, que)
-    # print((time()-s)/(matchCount * cnt // 2))
-    # print(time()-s)
+    print('end time:', datetime.datetime.now())
+    print('took time:', time()-s)
 
     env = trueskill.TrueSkill(beta=5,draw_probability=0)
     players = [env.create_rating()] * cnt
@@ -71,13 +73,10 @@ def evalBattle(path, matchCount=18):
     mulist = [mu.mu for mu in players]
     dataSet = [str(mu) + poke for mu,poke in zip(mulist, dataSet)]
     dataSet = [i.split('|') for i in dataSet]
-    # for i in range(len(dataSet)):
-    #     dataSet[i][0] = float(dataSet[i][0])
+
 
     dataSet = sorted(dataSet, key = lambda x:(x[1], float(x[0])), reverse=True)
-
-    # for i in range(len(dataSet)):
-    #     dataSet[i][0] = str(dataSet[i][0])
+    # priority: pokemon's Name > rating
 
     dataSet = ['|'.join(i) for i in dataSet]
 

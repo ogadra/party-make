@@ -11,7 +11,7 @@ if __name__ == '__main__':
     opponent = [dataSet[i*20] for i in range(speciesCnt)]
 
 
-    for i in range(500):
+    for i in range(67,500):
         s = time.time()
         print(i,end='')
         gaData = open(path + 'generate' + str(i).zfill(3) + '.txt').read().split('\n')

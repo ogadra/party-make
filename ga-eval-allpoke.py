@@ -19,7 +19,7 @@ if __name__ == '__main__':
         tmp = open(directory + 'evalution' + str(num).zfill(3) + '.txt').read().split('\n')
         for i in range(len(tmp)//24):
             pokemons.extend(tmp[i*24:i*24+8])
-    matchCount = 144
+    matchCount = 384
 
     path = './train_data03/pokemons.txt'
     # with open(path, 'w')as f:

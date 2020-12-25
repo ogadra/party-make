@@ -34,8 +34,9 @@ if __name__ == '__main__':
     battleData = list()
 
     #battle count = 80 * 80 * 5 => 32000 (about 12800s, 3.5h)
+    s = time.time()
     for i in prop:
-        print('\r%d' % len(battleData), end='')
+        print('\r%d' % (time.time()-s), end='')
         tmp = list()
         que = [[i,opponent[j*5:j*5+5]] for j in range(speciesCnt)]
 

@@ -1,4 +1,4 @@
-__English__ / [Japanese](./README-ja.md)
+__English__ / [日本語](./README-ja.md)
 
 ## install and test
 

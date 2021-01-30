@@ -10,10 +10,9 @@ from makePT import makePokemon
 def battle(pt1, pt2):
     print(pt1)
     print(pt2)
-    # result = subprocess.run(['node', './bot/.sim-dist/examples/battle-stream-example', pt1, pt2], stdout=subprocess.PIPE, text=True)
+    
     proc = subprocess.run(['node', './bot/.sim-dist/examples/battle-stream-example', pt1, pt2], stdout=subprocess.PIPE, text=True)
     battleData = proc.stdout.split('\n')
-    flag = False
     for i in battleData:
         print(i)
 

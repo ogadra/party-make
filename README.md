@@ -1,6 +1,8 @@
 --English-- / [Japanese](./README-ja.md)
 
 ## install and test
+
+in ./party-make
 ```cd bot
 npm install
 python -m pip install trueskill

@@ -2,7 +2,7 @@
 import json
 from numpy import random
 
-with open('./data/pokedex.json') as f:
+with open('./data/pokedex.json', encoding='utf-8') as f:
     pokedex = json.load(f)
 
 def selectability(pokemon):

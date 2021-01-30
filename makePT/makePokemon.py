@@ -8,7 +8,7 @@ from numpy import random
 import json
 import time
 
-pokemons = list(json.load(open('./data/pokedex.json', encoding='utf-8')).keys())
+pokemons = open('./data/available-poke.txt', encoding='utf-8').read().split('\n')
 
 
 def makePokemon(specy):

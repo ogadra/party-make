@@ -1,3 +1,5 @@
+--English-- / [Japanese](./README-ja.md)
+
 ## install and test
 ```cd bot
 npm install
@@ -28,6 +30,7 @@ you must be comment out in ./bot/node_modules/nedb/lib/datastore.js on 76 - 78
 python ga-eval-somepoke.py
 ```
 
+## setting
 Dymax setting -> in bot/.sim-dist/tools/bots/minimaxbot.js 283
 ```
 useDynamax = false

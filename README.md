@@ -2,6 +2,8 @@ __English__ / [日本語](./README-ja.md)
 
 ## install and test
 
+You must use Python >= 3.8.
+
 in ./party-make
 ```cd bot
 npm install

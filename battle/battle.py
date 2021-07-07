@@ -5,7 +5,7 @@ import sys
 import os
 import re
 sys.path += [os.path.dirname(os.path.dirname(__file__))]
-from makePT import makePokemon
+from makePoke import makePokemon
 
 def battle(pt1, pt2):
     print(pt1)

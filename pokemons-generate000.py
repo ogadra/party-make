@@ -1,6 +1,6 @@
 from battle import TrueSkillModule
 from ga import gaModule
-from makePT import makePokemon
+from makePoke import makePokemon
 import time 
 import numpy as np
 

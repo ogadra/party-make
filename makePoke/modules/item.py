@@ -1,7 +1,7 @@
 import json
 from numpy import random
 
-itemlist = open('./data/delibird-item-eng.txt').read().split('\n')
+itemlist = open('./data/available-item.txt').read().split('\n')
 itemlist.remove('thickclub')
 with open('./data/items.json', 'r') as f:
     items = json.load(f)
